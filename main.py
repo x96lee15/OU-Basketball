@@ -1,10 +1,10 @@
 """CLI entry point for the Oakland University Men's Basketball 3-point stats pipeline.
 
 Usage:
-    python main.py run                      # Scrape missing/new games and regenerate CSV
-    python main.py scrape --seasons 2025-26 # Scrape specific season(s)
-    python main.py scrape --force           # Re-scrape all seasons into schema v2 cache
-    python main.py analyze                  # Regenerate CSV from cached JSON files in build/
+    python main.py run                      # Scrape missing/new games, regenerate CSV + reports
+    python main.py scrape --seasons 2026-27 # Scrape specific season(s)
+    python main.py analyze                  # Regenerate CSV + reports from cached JSONs in build/
+    python main.py report                   # Regenerate Markdown + HTML reports from existing CSV
 """
 
 from __future__ import annotations
@@ -14,7 +14,13 @@ import logging
 import sys
 
 from ou_bball.analyzer import analyze_build_dir
-from ou_bball.config import DEFAULT_BUILD_DIR, DEFAULT_OUTPUT_CSV, build_season_list
+from ou_bball.config import (
+    DEFAULT_BUILD_DIR,
+    DEFAULT_OUTPUT_CSV,
+    DEFAULT_REPORT_DIR,
+    build_season_list,
+)
+from ou_bball.report import generate_reports
 from ou_bball.scraper import scrape_all_seasons
 
 
@@ -58,6 +64,16 @@ def _add_analyze_args(parser: argparse.ArgumentParser) -> None:
         default=DEFAULT_OUTPUT_CSV,
         help=f"Output CSV file path (default: {DEFAULT_OUTPUT_CSV}).",
     )
+    parser.add_argument(
+        "--report-dir",
+        default=DEFAULT_REPORT_DIR,
+        help=f"Output directory for generated reports (default: {DEFAULT_REPORT_DIR}).",
+    )
+    parser.add_argument(
+        "--no-reports",
+        action="store_true",
+        help="Skip generating Markdown and HTML reports.",
+    )
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -81,7 +97,7 @@ def build_parser() -> argparse.ArgumentParser:
     p_scrape = subparsers.add_parser("scrape", help="Scrape schedules and game logs into build/.")
     _add_scrape_args(p_scrape)
 
-    p_analyze = subparsers.add_parser("analyze", help="Analyze cached game logs and generate CSV.")
+    p_analyze = subparsers.add_parser("analyze", help="Analyze cached game logs, export CSV, and generate reports.")
     _add_analyze_args(p_analyze)
     p_analyze.add_argument(
         "--include-exhibitions",
@@ -89,7 +105,19 @@ def build_parser() -> argparse.ArgumentParser:
         help="Include exhibition games in the output CSV.",
     )
 
-    p_run = subparsers.add_parser("run", help="Run full pipeline: scrape then analyze.")
+    p_report = subparsers.add_parser("report", help="Generate Markdown and HTML reports from an existing CSV.")
+    p_report.add_argument(
+        "--csv",
+        default=DEFAULT_OUTPUT_CSV,
+        help=f"Input CSV file path (default: {DEFAULT_OUTPUT_CSV}).",
+    )
+    p_report.add_argument(
+        "--report-dir",
+        default=DEFAULT_REPORT_DIR,
+        help=f"Output directory for generated reports (default: {DEFAULT_REPORT_DIR}).",
+    )
+
+    p_run = subparsers.add_parser("run", help="Run full pipeline: scrape, analyze, and generate reports.")
     _add_scrape_args(p_run)
     _add_analyze_args(p_run)
 
@@ -142,6 +170,22 @@ def main(argv: list[str] | None = None) -> int:
             print("  PBP vs Box Score mismatches (first 15):")
             for item in report.pbp_boxscore_mismatches[:15]:
                 print(f"    - {item}")
+
+        if not args.no_reports:
+            generated = generate_reports(csv_path=args.output, report_dir=args.report_dir)
+            print(
+                f"\nReports generated:\n"
+                f"  Markdown: {generated.markdown_path}\n"
+                f"  HTML:     {generated.html_path}"
+            )
+
+    if args.command == "report":
+        generated = generate_reports(csv_path=args.csv, report_dir=args.report_dir)
+        print(
+            f"\nReports generated ({generated.total_games} games, {generated.pbp_games} with PBP):\n"
+            f"  Markdown: {generated.markdown_path}\n"
+            f"  HTML:     {generated.html_path}"
+        )
 
     return 0
 

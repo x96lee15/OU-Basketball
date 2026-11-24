@@ -22,15 +22,23 @@ python main.py run --seasons 2026-27
 # Force a full refresh of all seasons
 python main.py run --force
 
-# Re-run CSV generation from cached JSON files in build/ (no network requests)
+# Re-run CSV and report generation from cached JSON files in build/ (no network requests)
 python main.py analyze
+
+# Regenerate only the Markdown + interactive HTML reports from the CSV
+python main.py report
 
 # Run unit tests
 python -m unittest discover -s tests -v
 ```
 
+## Outputs
+- `oakland_complete_3pt_stats.csv` — Full per-game dataset
+- `reports/oakland_3pt_report.md` — Summary records, 1-three games, minute distribution, and player leaderboard
+- `reports/oakland_3pt_report.html` — Standalone offline interactive dashboard with minute-by-minute histogram and searchable leaderboard
+
 ## Project Layout
-- `main.py` — Unified CLI entry point (`scrape`, `analyze`, `run`)
+- `main.py` — Unified CLI entry point (`scrape`, `analyze`, `report`, `run`)
 - `ou_bball/config.py` — Season list, URLs, and Oakland team aliases
 - `ou_bball/normalize.py` — Player/opponent name normalization, team resolution, and elapsed-time helpers
 - `ou_bball/parsers/schedule.py` — Sidearm schedule parser, exhibition detector, and recap box score finder
@@ -38,4 +46,5 @@ python -m unittest discover -s tests -v
 - `ou_bball/parsers/legacy.py` — Legacy StatCrew HTML (`<pre>` and table) box score + play-by-play parser
 - `ou_bball/scraper.py` — HTTP session with retries, legacy FTP fallbacks, and per-season JSON cache (`build/<season>/`)
 - `ou_bball/analyzer.py` — Cross-validated 3-point analytics and CSV export
+- `ou_bball/report.py` — Automated Markdown and interactive HTML report generator
 - `tests/test_pipeline.py` — Automated unit tests

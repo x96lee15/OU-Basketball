@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Oakland Men's Basketball — 3-Point Statistics Report</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #171a23;
+      --border: #2a2f3d;
+      --fg: #e8ecf4;
+      --muted: #9aa3b8;
+      --gold: #c8a951;
+      --blue: #5ca4f6;
+      --green: #3fb97a;
+      --red: #e05d5d;
+      --amber: #e6a23c;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f6f7fa;
+        --surface: #ffffff;
+        --border: #dfe3ec;
+        --fg: #181c24;
+        --muted: #5c667a;
+        --gold: #8c6d1f;
+        --blue: #2563eb;
+        --green: #16a34a;
+        --red: #dc2626;
+        --amber: #d97706;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .container { max-width: 1040px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+    h1 { margin: 0 0 4px; font-size: 22px; }
+    h2 { margin: 0 0 12px; font-size: 16px; }
+    .sub { color: var(--muted); font-size: 13px; margin: 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+    .k-label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; }
+    .k-val { font-size: 22px; font-weight: 700; margin: 4px 0; font-variant-numeric: tabular-nums; color: var(--gold); }
+    .k-note { color: var(--muted); font-size: 12px; }
+    .toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; }
+    .btn-group { display: inline-flex; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+    button {
+      border: none; background: transparent; color: var(--muted); padding: 5px 10px;
+      font-size: 12px; cursor: pointer; font-weight: 500;
+    }
+    button.active { background: var(--gold); color: #111; }
+    label.chk { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); cursor: pointer; }
+    #chart { width: 100%; height: auto; display: block; }
+    .detail {
+      margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border);
+      font-size: 12px; display: flex; flex-direction: column; gap: 4px;
+    }
+    .detail-top { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); }
+    th { color: var(--muted); font-weight: 600; font-size: 12px; }
+    td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .search {
+      padding: 6px 10px; border-radius: 6px; border: 1px solid var(--border);
+      background: var(--bg); color: var(--fg); font-size: 13px; width: 220px;
+    }
+    .table-scroll { max-height: 380px; overflow-y: auto; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div>
+      <h1>Oakland University Men's Basketball — 3-Point Statistics</h1>
+      <p class="sub">592 regular-season/postseason games (2008-09–2026-27) • 591 with play-by-play timing</p>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="k-label">Fastest 1st 3-Pointer</div>
+        <div class="k-val">6s</div>
+        <div class="k-note">Erik Kangas (2009-02-19 vs Western Illinois), Travis Bader (2013-01-03 vs Omaha)</div>
+      </div>
+      <div class="card">
+        <div class="k-label">Longest Wait for 1st 3PT</div>
+        <div class="k-val">27:06</div>
+        <div class="k-note">Martez Walker (2018-02-02 vs UIC)</div>
+      </div>
+      <div class="card">
+        <div class="k-label">Most 3s in a Game</div>
+        <div class="k-val">18</div>
+        <div class="k-note">18-34 vs Michigan State (2020-12-13), 18-38 vs Hartford (2018-12-16)</div>
+      </div>
+      <div class="card">
+        <div class="k-label">Typical 1st 3PT Timing</div>
+        <div class="k-val">3:21 med</div>
+        <div class="k-note">Mean 4:54 • 66.3% in first 5 min • 98.1% in 1H</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="toolbar">
+        <h2 style="margin:0">Minute of Oakland's First Made 3-Pointer</h2>
+        <div style="display:flex;align-items:center;gap:12px;">
+          <div class="btn-group">
+            <button id="btn-all" class="active">Total</button>
+            <button id="btn-wl">W / L</button>
+          </div>
+          <label class="chk"><input id="chk-cum" type="checkbox" checked /> Cumulative %</label>
+        </div>
+      </div>
+      <svg id="chart" viewBox="0 0 800 270"></svg>
+      <div class="detail">
+        <div class="detail-top">
+          <strong id="detail-title">Hover or click any bar</strong>
+          <span id="detail-stats" class="mono" style="color:var(--muted)"></span>
+        </div>
+        <div id="detail-samples" style="color:var(--muted)"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Games With Only 1 Made 3-Pointer (2)</h2>
+      <table>
+        <thead><tr><th>Date</th><th>Season</th><th>Loc</th><th>Opponent</th><th>Score</th><th>3PT</th><th>Made By</th></tr></thead>
+        <tbody><tr><td>2022-01-22</td><td>2021-22</td><td>Away</td><td>Green Bay</td><td>W 68-61</td><td>1-10</td><td>Blake Lampman (1st Half 07:15)</td></tr>
+<tr><td>2025-02-21</td><td>2024-25</td><td>Away</td><td>Purdue Fort Wayne</td><td>L 66-80</td><td>1-21</td><td>DQ Cole (1st Half 19:08)</td></tr></tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <div class="toolbar">
+        <h2 style="margin:0">First 3-Pointer Leaderboard (67 players)</h2>
+        <input id="player-filter" class="search" type="search" placeholder="Filter player..." />
+      </div>
+      <div class="table-scroll">
+        <table id="player-table">
+          <thead><tr><th class="num">#</th><th>Player</th><th class="num">First 3s</th></tr></thead>
+          <tbody><tr><td class='num'>1</td><td>Travis Bader</td><td class='num'><strong>60</strong></td></tr>
+<tr><td class='num'>2</td><td>Blake Lampman</td><td class='num'><strong>35</strong></td></tr>
+<tr><td class='num'>3</td><td>Reggie Hamilton</td><td class='num'><strong>24</strong></td></tr>
+<tr><td class='num'>4</td><td>Nick Daniels</td><td class='num'><strong>21</strong></td></tr>
+<tr><td class='num'>5</td><td>Rashad Williams</td><td class='num'><strong>20</strong></td></tr>
+<tr><td class='num'>6</td><td>Kay Felder</td><td class='num'><strong>19</strong></td></tr>
+<tr><td class='num'>7</td><td>Erik Kangas</td><td class='num'><strong>18</strong></td></tr>
+<tr><td class='num'>8</td><td>DQ Cole</td><td class='num'><strong>17</strong></td></tr>
+<tr><td class='num'>9</td><td>Larry Wright</td><td class='num'><strong>17</strong></td></tr>
+<tr><td class='num'>10</td><td>Martez Walker</td><td class='num'><strong>17</strong></td></tr>
+<tr><td class='num'>11</td><td>Tray Maddox Jr.</td><td class='num'><strong>17</strong></td></tr>
+<tr><td class='num'>12</td><td>Max Hooper</td><td class='num'><strong>16</strong></td></tr>
+<tr><td class='num'>13</td><td>S. Dorsey-Walker</td><td class='num'><strong>16</strong></td></tr>
+<tr><td class='num'>14</td><td>Dante Williams</td><td class='num'><strong>15</strong></td></tr>
+<tr><td class='num'>15</td><td>Brett White</td><td class='num'><strong>13</strong></td></tr>
+<tr><td class='num'>16</td><td>Jaevin Cumberland</td><td class='num'><strong>13</strong></td></tr>
+<tr><td class='num'>17</td><td>Jalen Moore</td><td class='num'><strong>13</strong></td></tr>
+<tr><td class='num'>18</td><td>Kendrick Nunn</td><td class='num'><strong>12</strong></td></tr>
+<tr><td class='num'>19</td><td>Micah Parrish</td><td class='num'><strong>12</strong></td></tr>
+<tr><td class='num'>20</td><td>Xavier Hill-Mais</td><td class='num'><strong>12</strong></td></tr>
+<tr><td class='num'>21</td><td>Jack Gohlke</td><td class='num'><strong>11</strong></td></tr>
+<tr><td class='num'>22</td><td>Nassim Mashhour</td><td class='num'><strong>11</strong></td></tr>
+<tr><td class='num'>23</td><td>Rocket Watts</td><td class='num'><strong>10</strong></td></tr>
+<tr><td class='num'>24</td><td>Osei Price</td><td class='num'><strong>9</strong></td></tr>
+<tr><td class='num'>25</td><td>Ryan Bass</td><td class='num'><strong>9</strong></td></tr>
+<tr><td class='num'>26</td><td>Blake Cushingberry</td><td class='num'><strong>8</strong></td></tr>
+<tr><td class='num'>27</td><td>Drew Maynard</td><td class='num'><strong>8</strong></td></tr>
+<tr><td class='num'>28</td><td>Drew Valentine</td><td class='num'><strong>8</strong></td></tr>
+<tr><td class='num'>29</td><td>Jayson Woodrich</td><td class='num'><strong>8</strong></td></tr>
+<tr><td class='num'>30</td><td>Brody Robinson</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>31</td><td>Derick Nelson</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>32</td><td>Duke Mondy</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>33</td><td>Johnathon Jones</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>34</td><td>Malcolm Christie</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>35</td><td>Zion Young</td><td class='num'><strong>7</strong></td></tr>
+<tr><td class='num'>36</td><td>Jamal Cain</td><td class='num'><strong>6</strong></td></tr>
+<tr><td class='num'>37</td><td>Keaton Hervey</td><td class='num'><strong>6</strong></td></tr>
+<tr><td class='num'>38</td><td>Braden Norris</td><td class='num'><strong>5</strong></td></tr>
+<tr><td class='num'>39</td><td>Jalen Hayes</td><td class='num'><strong>5</strong></td></tr>
+<tr><td class='num'>40</td><td>Tommie McCune</td><td class='num'><strong>5</strong></td></tr>
+<tr><td class='num'>41</td><td>Trey Townsend</td><td class='num'><strong>5</strong></td></tr>
+<tr><td class='num'>42</td><td>Dan Waterstradt</td><td class='num'><strong>4</strong></td></tr>
+<tr><td class='num'>43</td><td>Mitch Baenziger</td><td class='num'><strong>4</strong></td></tr>
+<tr><td class='num'>44</td><td>Ralph Hill</td><td class='num'><strong>4</strong></td></tr>
+<tr><td class='num'>45</td><td>Stevie Clark</td><td class='num'><strong>3</strong></td></tr>
+<tr><td class='num'>46</td><td>Tuburu Naivalurua</td><td class='num'><strong>3</strong></td></tr>
+<tr><td class='num'>47</td><td>Brailen Neely</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>48</td><td>Chris Palombizio</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>49</td><td>Isaiah Jones</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>50</td><td>Jaylen Jones</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>51</td><td>Karmari Newman</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>52</td><td>Kevin Kangu</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>53</td><td>Ledrick Eackles</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>54</td><td>Warren Marshall IV</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>55</td><td>Ziare Wells</td><td class='num'><strong>2</strong></td></tr>
+<tr><td class='num'>56</td><td>Brady Swartz</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>57</td><td>Chris Conway</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>58</td><td>Collin Weaver</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>59</td><td>Cooper Craggs</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>60</td><td>Jack Hoth</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>61</td><td>Jackie Harris</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>62</td><td>Jordan Nobles</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>63</td><td>Laval Lucas-Perry</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>64</td><td>Lorne Bowman II</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>65</td><td>Madison Monroe</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>66</td><td>Michael Houge</td><td class='num'><strong>1</strong></td></tr>
+<tr><td class='num'>67</td><td>RJ Taylor</td><td class='num'><strong>1</strong></td></tr></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const DATA = [{"min": 0, "count": 86, "w": 57, "l": 29, "pct": 14.6, "cum_pct": 14.6, "samples": ["2009-02-19 vs Western Illinois (Erik Kangas, 19:54)", "2013-01-03 vs Omaha (Travis Bader, 19:54)", "2009-02-21 vs IUPUI (Drew Maynard, 19:52)"]}, {"min": 1, "count": 106, "w": 63, "l": 43, "pct": 17.9, "cum_pct": 32.5, "samples": ["2024-02-08 vs Northern Kentucky (Blake Lampman, 18:59)", "2025-12-03 vs Purdue Fort Wayne (Nassim Mashhour, 18:59)", "2019-01-05 vs Wright State (Xavier Hill-Mais, 18:58)"]}, {"min": 2, "count": 80, "w": 50, "l": 30, "pct": 13.5, "cum_pct": 46.0, "samples": ["2020-11-25 vs Xavier (Blake Lampman, 18:00)", "2022-01-29 vs UIC (Micah Parrish, 18:00)", "2022-11-07 vs Defiance College (Rocket Watts, 18:00)"]}, {"min": 3, "count": 68, "w": 36, "l": 32, "pct": 11.5, "cum_pct": 57.5, "samples": ["2018-02-19 vs IUPUI (Jalen Hayes, 17:00)", "2010-11-12 vs West Virginia (Travis Bader, 16:59)", "2016-11-26 vs UC Davis (Martez Walker, 16:59)"]}, {"min": 4, "count": 52, "w": 18, "l": 34, "pct": 8.8, "cum_pct": 66.3, "samples": ["2013-11-26 vs Western Michigan (Travis Bader, 15:59)", "2016-01-23 vs Green Bay (S. Dorsey-Walker, 15:59)", "2026-02-28 vs Detroit Mercy (Tuburu Naivalurua, 15:55)"]}, {"min": 5, "count": 32, "w": 16, "l": 16, "pct": 5.4, "cum_pct": 71.7, "samples": ["2017-01-20 vs Northern Kentucky (Brailen Neely, 15:00)", "2013-12-21 vs Eastern Michigan (Travis Bader, 14:59)", "2015-02-22 vs UIC (Dante Williams, 14:59)"]}, {"min": 6, "count": 29, "w": 19, "l": 10, "pct": 4.9, "cum_pct": 76.6, "samples": ["2011-12-03 vs Kansas City (Travis Bader, 14:00)", "2013-11-30 vs Rochester Christian (Mitch Baenziger, 13:59)", "2015-12-22 vs Michigan State (Kay Felder, 13:58)"]}, {"min": 7, "count": 25, "w": 12, "l": 13, "pct": 4.2, "cum_pct": 80.9, "samples": ["2017-11-24 vs Kansas (Kendrick Nunn, 13:00)", "2023-11-14 vs Bowling Green (Jack Gohlke, 13:00)", "2010-03-09 vs IUPUI (Larry Wright, 12:58)"]}, {"min": 8, "count": 22, "w": 12, "l": 10, "pct": 3.7, "cum_pct": 84.6, "samples": ["2023-12-28 vs Cleveland State (Rocket Watts, 11:59)", "2016-02-06 vs Cleveland State (Max Hooper, 11:52)", "2012-11-11 vs Louisiana (Travis Bader, 11:49)"]}, {"min": 9, "count": 10, "w": 6, "l": 4, "pct": 1.7, "cum_pct": 86.3, "samples": ["2022-02-20 vs Northern Kentucky (Micah Parrish, 10:58)", "2021-11-23 vs Rice (Blake Lampman, 10:54)", "2022-11-13 vs Oklahoma State (Blake Lampman, 10:41)"]}, {"min": 10, "count": 16, "w": 6, "l": 10, "pct": 2.7, "cum_pct": 89.0, "samples": ["2013-11-12 vs UCLA (Travis Bader, 10:00)", "2009-12-10 vs Michigan State (Larry Wright, 09:55)", "2026-11-09 vs Alabama (Brady Swartz, 09:54)"]}, {"min": 11, "count": 8, "w": 5, "l": 3, "pct": 1.4, "cum_pct": 90.4, "samples": ["2017-11-18 vs Toledo (Chris Palombizio, 08:56)", "2016-11-14 vs Western Michigan (Martez Walker, 08:50)", "2020-12-27 vs Detroit Mercy (Kevin Kangu, 08:47)"]}, {"min": 12, "count": 14, "w": 6, "l": 8, "pct": 2.4, "cum_pct": 92.7, "samples": ["2014-12-20 vs Pittsburgh (Max Hooper, 07:56)", "2017-01-27 vs Green Bay (S. Dorsey-Walker, 07:47)", "2016-01-19 vs Northern Kentucky (Jalen Hayes, 07:44)"]}, {"min": 13, "count": 8, "w": 6, "l": 2, "pct": 1.4, "cum_pct": 94.1, "samples": ["2024-12-25 vs Hawaii (Malcolm Christie, 06:59)", "2025-11-24 vs Lamar (Nassim Mashhour, 06:56)", "2011-01-27 vs Oral Roberts (Travis Bader, 06:55)"]}, {"min": 14, "count": 6, "w": 2, "l": 4, "pct": 1.0, "cum_pct": 95.1, "samples": ["2021-01-08 vs Green Bay (Blake Lampman, 05:59)", "2016-12-20 vs Northeastern (Nick Daniels, 05:58)", "2012-11-26 vs Tennessee (Travis Bader, 05:54)"]}, {"min": 15, "count": 9, "w": 7, "l": 2, "pct": 1.5, "cum_pct": 96.6, "samples": ["2009-12-17 vs Seattle (Larry Wright, 04:41)", "2017-02-21 vs Youngstown State (S. Dorsey-Walker, 04:23)", "2021-01-01 vs Wright State (Zion Young, 04:19)"]}, {"min": 16, "count": 4, "w": 2, "l": 2, "pct": 0.7, "cum_pct": 97.3, "samples": ["2023-02-15 vs IUPUI (Keaton Hervey, 03:59)", "2009-11-18 vs Wisconsin (Blake Cushingberry, 03:25)", "2019-11-18 vs Hartford (Jackie Harris, 03:09)"]}, {"min": 17, "count": 1, "w": 1, "l": 0, "pct": 0.2, "cum_pct": 97.5, "samples": ["2011-02-26 vs Southern Utah (Drew Valentine, 02:33)"]}, {"min": 18, "count": 0, "w": 0, "l": 0, "pct": 0.0, "cum_pct": 97.5, "samples": []}, {"min": 19, "count": 4, "w": 0, "l": 4, "pct": 0.7, "cum_pct": 98.1, "samples": ["2021-11-09 vs West Virginia (Trey Townsend, 00:52)", "2023-12-02 vs Purdue Fort Wayne (Jack Gohlke, 00:52)", "2008-12-02 vs Southern Utah (Blake Cushingberry, 00:04)"]}, {"min": 20, "count": 4, "w": 0, "l": 4, "pct": 0.7, "cum_pct": 98.8, "samples": ["2011-12-28 vs North Dakota State (Reggie Hamilton, 19:53)", "2025-11-12 vs Houston (Nassim Mashhour, 19:45)", "2009-01-31 vs South Dakota State (Erik Kangas, 19:32)"]}, {"min": 21, "count": 2, "w": 1, "l": 1, "pct": 0.3, "cum_pct": 99.2, "samples": ["2019-12-21 vs Fairfield (Kevin Kangu, 18:38)", "2010-02-20 vs North Dakota State (Derick Nelson, 18:17)"]}, {"min": 22, "count": 2, "w": 0, "l": 2, "pct": 0.3, "cum_pct": 99.5, "samples": ["2012-11-23 vs Michigan State (Travis Bader, 17:39)", "2019-01-31 vs Youngstown State (Jaevin Cumberland, 17:06)"]}, {"min": 23, "count": 0, "w": 0, "l": 0, "pct": 0.0, "cum_pct": 99.5, "samples": []}, {"min": 24, "count": 1, "w": 1, "l": 0, "pct": 0.2, "cum_pct": 99.7, "samples": ["2016-01-10 vs UIC (Max Hooper, 15:54)"]}, {"min": 25, "count": 0, "w": 0, "l": 0, "pct": 0.0, "cum_pct": 99.7, "samples": []}, {"min": 26, "count": 1, "w": 0, "l": 1, "pct": 0.2, "cum_pct": 99.8, "samples": ["2013-01-05 vs Alabama (Duke Mondy, 14:00)"]}, {"min": 27, "count": 1, "w": 0, "l": 1, "pct": 0.2, "cum_pct": 100.0, "samples": ["2018-02-02 vs UIC (Martez Walker, 12:54)"]}];
+    const MAX_VAL = 110;
+    const MED_MIN = 3.35;
+    const MED_LABEL = "3:21";
+    let mode = "all";
+    let showCum = true;
+    let activeIdx = 1;
+
+    const svg = document.getElementById("chart");
+    const NS = "http://www.w3.org/2000/svg";
+
+    function el(tag, attrs = {}, text = null) {
+      const node = document.createElementNS(NS, tag);
+      for (const [k, v] of Object.entries(attrs)) node.setAttribute(k, v);
+      if (text !== null) node.textContent = text;
+      return node;
+    }
+
+    function clockRange(min) {
+      return min < 20 ? `1H ${20 - min}:00–${19 - min}:01` : `2H ${40 - min}:00–${39 - min}:01`;
+    }
+
+    function updateDetail(idx) {
+      const d = DATA[idx];
+      if (!d) return;
+      document.getElementById("detail-title").textContent = `Minute ${d.min}–${d.min + 1} (${clockRange(d.min)})`;
+      const wl = d.count > 0 ? ` • Record: ${d.w}-${d.l} (${Math.round((d.w / d.count) * 100)}% W)` : "";
+      document.getElementById("detail-stats").textContent =
+        `${d.count} game${d.count === 1 ? "" : "s"} (${d.pct.toFixed(1)}% • cum ${d.cum_pct.toFixed(1)}%)${wl}`;
+      document.getElementById("detail-samples").textContent =
+        d.samples.length ? `Examples: ${d.samples.join("  •  ")}` : "No games in this minute.";
+    }
+
+    function render() {
+      svg.innerHTML = "";
+      const W = 800, H = 270, padL = 40, padR = 44, padT = 20, padB = 36;
+      const plotW = W - padL - padR, plotH = H - padT - padB;
+      const barStep = plotW / DATA.length;
+      const barW = Math.max(8, barStep - 4);
+
+      const step = Math.max(10, Math.round(MAX_VAL / 4 / 5) * 5);
+      for (let tick = 0; tick <= MAX_VAL; tick += step) {
+        const y = padT + plotH - (tick / MAX_VAL) * plotH;
+        svg.appendChild(el("line", {
+          x1: padL, x2: W - padR, y1: y, y2: y,
+          stroke: "var(--border)", "stroke-width": 1, "stroke-dasharray": tick === 0 ? "" : "2,3"
+        }));
+        svg.appendChild(el("text", {
+          x: padL - 7, y: y + 4, "text-anchor": "end", fill: "var(--muted)", "font-size": 11
+        }, String(tick)));
+      }
+
+      if (showCum) {
+        [0, 50, 100].forEach(pct => {
+          const y = padT + plotH - (pct / 100) * plotH;
+          svg.appendChild(el("text", {
+            x: W - padR + 7, y: y + 4, "text-anchor": "start", fill: "var(--blue)", "font-size": 11
+          }, `${pct}%`));
+        });
+      }
+
+      if (DATA.length > 20) {
+        const halfX = padL + 20 * barStep;
+        svg.appendChild(el("line", {
+          x1: halfX, x2: halfX, y1: padT, y2: padT + plotH,
+          stroke: "var(--amber)", "stroke-width": 1.25, "stroke-dasharray": "4,3"
+        }));
+        svg.appendChild(el("text", {
+          x: halfX + 5, y: padT + 12, fill: "var(--amber)", "font-size": 11, "font-weight": 600
+        }, "2nd Half →"));
+      }
+
+      const medX = padL + MED_MIN * barStep;
+      svg.appendChild(el("line", {
+        x1: medX, x2: medX, y1: padT, y2: padT + plotH,
+        stroke: "var(--muted)", "stroke-width": 1, "stroke-dasharray": "2,2"
+      }));
+      svg.appendChild(el("text", {
+        x: medX + 5, y: padT + 12, fill: "var(--muted)", "font-size": 11
+      }, `Median (${MED_LABEL})`));
+
+      DATA.forEach((d, i) => {
+        const x = padL + i * barStep + (barStep - barW) / 2;
+        const totalH = (d.count / MAX_VAL) * plotH;
+        const y = padT + plotH - totalH;
+        const isActive = i === activeIdx;
+
+        if (isActive) {
+          svg.appendChild(el("rect", {
+            x: padL + i * barStep, y: padT, width: barStep, height: plotH,
+            fill: "var(--border)", opacity: 0.35, rx: 2
+          }));
+        }
+
+        if (mode === "all") {
+          svg.appendChild(el("rect", {
+            x, y, width: barW, height: Math.max(0, totalH), rx: 2,
+            fill: d.min >= 20 ? "var(--amber)" : "var(--gold)", opacity: isActive ? 1 : 0.85
+          }));
+        } else {
+          const wH = (d.w / MAX_VAL) * plotH;
+          const lH = (d.l / MAX_VAL) * plotH;
+          svg.appendChild(el("rect", {
+            x, y: padT + plotH - wH, width: barW, height: Math.max(0, wH), rx: 1,
+            fill: "var(--green)", opacity: isActive ? 1 : 0.85
+          }));
+          svg.appendChild(el("rect", {
+            x, y: padT + plotH - wH - lH, width: barW, height: Math.max(0, lH), rx: 1,
+            fill: "var(--red)", opacity: isActive ? 1 : 0.82
+          }));
+        }
+
+        if (d.count >= 16 || (isActive && d.count > 0)) {
+          svg.appendChild(el("text", {
+            x: x + barW / 2, y: y - 4, "text-anchor": "middle",
+            fill: isActive ? "var(--fg)" : "var(--muted)", "font-size": 10.5, "font-weight": isActive ? 700 : 400
+          }, String(d.count)));
+        }
+
+        if (i % 2 === 0 || i === DATA.length - 1) {
+          svg.appendChild(el("text", {
+            x: x + barW / 2, y: padT + plotH + 15, "text-anchor": "middle", fill: "var(--muted)", "font-size": 11
+          }, String(d.min)));
+        }
+
+        const hit = el("rect", {
+          x: padL + i * barStep, y: padT, width: barStep, height: plotH + 18,
+          fill: "transparent", style: "cursor:pointer"
+        });
+        hit.addEventListener("mouseenter", () => { activeIdx = i; render(); updateDetail(i); });
+        hit.addEventListener("click", () => { activeIdx = i; render(); updateDetail(i); });
+        svg.appendChild(hit);
+      });
+
+      if (showCum) {
+        const pts = DATA.map((d, i) => {
+          const cx = padL + i * barStep + barStep / 2;
+          const cy = padT + plotH - (d.cum_pct / 100) * plotH;
+          return `${cx.toFixed(1)},${cy.toFixed(1)}`;
+        }).join(" ");
+        svg.appendChild(el("polyline", {
+          points: pts, fill: "none", stroke: "var(--blue)",
+          "stroke-width": 2, "stroke-linejoin": "round", "pointer-events": "none"
+        }));
+        const ad = DATA[activeIdx];
+        if (ad) {
+          svg.appendChild(el("circle", {
+            cx: padL + activeIdx * barStep + barStep / 2,
+            cy: padT + plotH - (ad.cum_pct / 100) * plotH,
+            r: 3.5, fill: "var(--blue)", stroke: "var(--surface)", "stroke-width": 1.5, "pointer-events": "none"
+          }));
+        }
+      }
+
+      svg.appendChild(el("text", {
+        x: padL + plotW / 2, y: H - 4, "text-anchor": "middle", fill: "var(--muted)", "font-size": 11
+      }, "Elapsed Game Minute (0 = tip-off, 20 = start of 2nd half)"));
+    }
+
+    document.getElementById("btn-all").addEventListener("click", () => {
+      mode = "all";
+      document.getElementById("btn-all").classList.add("active");
+      document.getElementById("btn-wl").classList.remove("active");
+      render();
+    });
+    document.getElementById("btn-wl").addEventListener("click", () => {
+      mode = "wl";
+      document.getElementById("btn-wl").classList.add("active");
+      document.getElementById("btn-all").classList.remove("active");
+      render();
+    });
+    document.getElementById("chk-cum").addEventListener("change", (e) => {
+      showCum = e.target.checked;
+      render();
+    });
+
+    document.getElementById("player-filter").addEventListener("input", (e) => {
+      const q = e.target.value.trim().toLowerCase();
+      document.querySelectorAll("#player-table tbody tr").forEach(tr => {
+        const name = tr.children[1].textContent.toLowerCase();
+        tr.style.display = name.includes(q) ? "" : "none";
+      });
+    });
+
+    render();
+    updateDetail(activeIdx);
+  </script>
+</body>
+</html>

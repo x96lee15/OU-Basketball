@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import csv
 import os
+import tempfile
 import unittest
 
 from ou_bball.analyzer import analyze_game_record
+from ou_bball.report import generate_reports
 from ou_bball.normalize import (
     compute_elapsed_seconds,
     extract_opponent_rank,
@@ -304,6 +307,63 @@ class InlineParserTests(unittest.TestCase):
         self.assertEqual(len(fts), 1)
         # Period-0 header line ("5:05 p.m.") must not produce any plays
         self.assertTrue(all(p["period"] >= 1 for p in parsed.plays))
+
+
+class ReportGeneratorTests(unittest.TestCase):
+    def test_generate_markdown_and_html_reports(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            csv_path = os.path.join(tmp, "stats.csv")
+            report_dir = os.path.join(tmp, "reports")
+            fieldnames = [
+                "Season", "Game_Date", "Game_ID", "Location", "Opponent", "Opponent_Rank",
+                "Result", "Oakland_Score", "Opponent_Score", "Oakland_3PM", "Oakland_3PA",
+                "Oakland_3P_Pct", "Opponent_3PM", "Opponent_3PA", "First_3Pt_Player",
+                "First_3Pt_Period", "First_3Pt_Clock", "First_3Pt_Elapsed_Sec",
+                "Opponent_First_3Pt_Player", "Opponent_First_3Pt_Period", "Opponent_First_3Pt_Clock",
+                "PBP_Available", "Boxscore_URL",
+            ]
+            rows = [
+                {
+                    "Season": "2024-25", "Game_Date": "2025-02-21", "Game_ID": "12052",
+                    "Location": "Away", "Opponent": "Purdue Fort Wayne", "Opponent_Rank": "",
+                    "Result": "L", "Oakland_Score": "66", "Opponent_Score": "80",
+                    "Oakland_3PM": "1", "Oakland_3PA": "21", "Oakland_3P_Pct": "0.048",
+                    "Opponent_3PM": "10", "Opponent_3PA": "25", "First_3Pt_Player": "DQ Cole",
+                    "First_3Pt_Period": "1", "First_3Pt_Clock": "19:08", "First_3Pt_Elapsed_Sec": "52",
+                    "Opponent_First_3Pt_Player": "Opp", "Opponent_First_3Pt_Period": "1",
+                    "Opponent_First_3Pt_Clock": "18:00", "PBP_Available": "True", "Boxscore_URL": "",
+                },
+                {
+                    "Season": "2020-21", "Game_Date": "2020-12-13", "Game_ID": "7222",
+                    "Location": "Away", "Opponent": "Michigan State", "Opponent_Rank": "4",
+                    "Result": "L", "Oakland_Score": "91", "Opponent_Score": "109",
+                    "Oakland_3PM": "18", "Oakland_3PA": "34", "Oakland_3P_Pct": "0.529",
+                    "Opponent_3PM": "12", "Opponent_3PA": "28", "First_3Pt_Player": "Rashad Williams",
+                    "First_3Pt_Period": "2", "First_3Pt_Clock": "12:54", "First_3Pt_Elapsed_Sec": "1626",
+                    "Opponent_First_3Pt_Player": "Opp", "Opponent_First_3Pt_Period": "1",
+                    "Opponent_First_3Pt_Clock": "19:00", "PBP_Available": "True", "Boxscore_URL": "",
+                },
+            ]
+            with open(csv_path, "w", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=fieldnames)
+                w.writeheader()
+                w.writerows(rows)
+
+            res = generate_reports(csv_path=csv_path, report_dir=report_dir)
+            self.assertEqual(res.total_games, 2)
+            self.assertTrue(os.path.exists(res.markdown_path))
+            self.assertTrue(os.path.exists(res.html_path))
+
+            with open(res.markdown_path, encoding="utf-8") as f:
+                md = f.read()
+            self.assertIn("DQ Cole", md)
+            self.assertIn("18–34", md)
+            self.assertIn("Purdue Fort Wayne", md)
+
+            with open(res.html_path, encoding="utf-8") as f:
+                html_txt = f.read()
+            self.assertIn("Minute of Oakland's First Made 3-Pointer", html_txt)
+            self.assertIn("Rashad Williams", html_txt)
 
 
 if __name__ == "__main__":

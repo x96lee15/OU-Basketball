@@ -8,6 +8,7 @@ LEGACY_FTP_BASE = "http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-ba
 
 DEFAULT_BUILD_DIR = "build"
 DEFAULT_OUTPUT_CSV = "oakland_complete_3pt_stats.csv"
+DEFAULT_REPORT_DIR = "reports"
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
