@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+.netlify
 web/node_modules/
 web/dist/
 .DS_Store
