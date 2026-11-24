@@ -349,10 +349,12 @@ class ReportGeneratorTests(unittest.TestCase):
                 w.writeheader()
                 w.writerows(rows)
 
-            res = generate_reports(csv_path=csv_path, report_dir=report_dir)
+            web_json = os.path.join(tmp, "ou_3pt_data.json")
+            res = generate_reports(csv_path=csv_path, report_dir=report_dir, build_dir="", web_json_path=web_json)
             self.assertEqual(res.total_games, 2)
             self.assertTrue(os.path.exists(res.markdown_path))
             self.assertTrue(os.path.exists(res.html_path))
+            self.assertTrue(os.path.exists(web_json))
 
             with open(res.markdown_path, encoding="utf-8") as f:
                 md = f.read()

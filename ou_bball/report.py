@@ -4,20 +4,29 @@ from __future__ import annotations
 
 import collections
 import csv
+import datetime
+import glob
 import html as html_lib
 import json
 import math
 import os
 from dataclasses import dataclass
-from typing import Any
+from typing import Any, Optional
 
-from ou_bball.config import DEFAULT_OUTPUT_CSV, DEFAULT_REPORT_DIR
+from ou_bball.config import (
+    DEFAULT_BUILD_DIR,
+    DEFAULT_OUTPUT_CSV,
+    DEFAULT_REPORT_DIR,
+    DEFAULT_WEB_DATA_JSON,
+)
+from ou_bball.normalize import normalize_player_name
 
 
 @dataclass
 class GeneratedReports:
     markdown_path: str
     html_path: str
+    web_json_path: Optional[str]
     total_games: int
     pbp_games: int
 
@@ -634,11 +643,127 @@ def render_html_report(data: dict[str, Any]) -> str:
 """
 
 
+def _load_3pt_events_by_game(build_dir: str) -> dict[tuple[str, str, str], list[dict[str, Any]]]:
+    """Load chronological Oakland & Opponent 3-point shot logs from cached build JSONs."""
+    events_map: dict[tuple[str, str, str], list[dict[str, Any]]] = {}
+    if not build_dir or not os.path.isdir(build_dir):
+        return events_map
+
+    for filepath in glob.glob(os.path.join(build_dir, "**", "*.json"), recursive=True):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                game = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        if not isinstance(game, dict):
+            continue
+
+        key = (
+            str(game.get("season", "")),
+            str(game.get("game_date", "")),
+            str(game.get("game_id", "")),
+        )
+        shots: list[dict[str, Any]] = []
+        for p in game.get("plays") or []:
+            if p.get("shot_type") != "3pt":
+                continue
+            res = p.get("shot_result")
+            if res not in ("made", "missed"):
+                continue
+            period = p.get("period")
+            if isinstance(period, int) and period < 1:
+                continue
+            shots.append(
+                {
+                    "period": period,
+                    "clock": p.get("clock") or "",
+                    "side": p.get("team_side") or "opponent",
+                    "player": normalize_player_name(p.get("player")) or "Unknown",
+                    "made": res == "made",
+                }
+            )
+        events_map[key] = shots
+    return events_map
+
+
+def export_web_dataset(
+    csv_path: str = DEFAULT_OUTPUT_CSV,
+    build_dir: str = DEFAULT_BUILD_DIR,
+    web_json_path: str = DEFAULT_WEB_DATA_JSON,
+) -> str:
+    """Export a clean JSON bundle consumed by the GrizzThree React web dashboard."""
+    with open(csv_path, "r", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+
+    events_map = _load_3pt_events_by_game(build_dir)
+
+    def _to_int(val: str) -> Optional[int]:
+        return int(val) if val and val.lstrip("-").isdigit() else None
+
+    def _to_float(val: str) -> Optional[float]:
+        try:
+            return float(val) if val else None
+        except ValueError:
+            return None
+
+    games: list[dict[str, Any]] = []
+    for r in rows:
+        key = (r["Season"], r["Game_Date"], r["Game_ID"])
+        games.append(
+            {
+                "season": r["Season"],
+                "gameDate": r["Game_Date"],
+                "gameId": r["Game_ID"],
+                "location": r["Location"],
+                "opponent": r["Opponent"],
+                "opponentRank": _to_int(r["Opponent_Rank"]),
+                "result": r["Result"] or None,
+                "oaklandScore": _to_int(r["Oakland_Score"]),
+                "opponentScore": _to_int(r["Opponent_Score"]),
+                "oakland3pm": _to_int(r["Oakland_3PM"]),
+                "oakland3pa": _to_int(r["Oakland_3PA"]),
+                "oakland3pPct": _to_float(r["Oakland_3P_Pct"]),
+                "opponent3pm": _to_int(r["Opponent_3PM"]),
+                "opponent3pa": _to_int(r["Opponent_3PA"]),
+                "first3ptPlayer": r["First_3Pt_Player"] or None,
+                "first3ptPeriod": r["First_3Pt_Period"] or None,
+                "first3ptClock": r["First_3Pt_Clock"] or None,
+                "first3ptElapsedSec": _to_int(r["First_3Pt_Elapsed_Sec"]),
+                "opponentFirst3ptPlayer": r["Opponent_First_3Pt_Player"] or None,
+                "opponentFirst3ptPeriod": r["Opponent_First_3Pt_Period"] or None,
+                "opponentFirst3ptClock": r["Opponent_First_3Pt_Clock"] or None,
+                "pbpAvailable": r["PBP_Available"] == "True",
+                "boxscoreUrl": r["Boxscore_URL"] or None,
+                "threePtEvents": events_map.get(key, []),
+            }
+        )
+
+    seasons = sorted({g["season"] for g in games}, reverse=True)
+    payload = {
+        "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+        "asOfDate": max((g["gameDate"] for g in games), default=""),
+        "totalGames": len(games),
+        "pbpGames": sum(1 for g in games if g["pbpAvailable"]),
+        "seasons": seasons,
+        "games": games,
+    }
+
+    parent = os.path.dirname(web_json_path)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    with open(web_json_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, separators=(",", ":"))
+
+    return web_json_path
+
+
 def generate_reports(
     csv_path: str = DEFAULT_OUTPUT_CSV,
     report_dir: str = DEFAULT_REPORT_DIR,
+    build_dir: str = DEFAULT_BUILD_DIR,
+    web_json_path: Optional[str] = DEFAULT_WEB_DATA_JSON,
 ) -> GeneratedReports:
-    """Generate Markdown and standalone interactive HTML reports from the CSV."""
+    """Generate Markdown, standalone HTML, and web app JSON reports from the CSV."""
     data = compute_report_data(csv_path)
     os.makedirs(report_dir, exist_ok=True)
 
@@ -651,9 +776,18 @@ def generate_reports(
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(render_html_report(data))
 
+    exported_json: Optional[str] = None
+    if web_json_path:
+        exported_json = export_web_dataset(
+            csv_path=csv_path,
+            build_dir=build_dir,
+            web_json_path=web_json_path,
+        )
+
     return GeneratedReports(
         markdown_path=md_path,
         html_path=html_path,
+        web_json_path=exported_json,
         total_games=data["total_games"],
         pbp_games=data["pbp_games"],
     )

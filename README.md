@@ -32,10 +32,23 @@ python main.py report
 python -m unittest discover -s tests -v
 ```
 
+## Web Dashboard (`web/` — GrizzThree)
+
+An interactive React + TypeScript + Vite editorial sports-analytics web app styled for Oakland University (Black & Gold) with 4 views (`Game Log`, `Timing & Histogram`, `Players`, `Seasons & Trends`), slide-over Game and Player Dossier drawers, CSV/JSON export, and a live `Sync 2026-27` button:
+
+```bash
+cd web
+npm install
+npm run dev      # Express API (:3002) + Vite React UI (:5173)
+npm run build    # Type-check and build production bundle into web/dist/
+npm run start    # Serve built app + API on http://localhost:3002
+```
+
 ## Outputs
 - `oakland_complete_3pt_stats.csv` — Full per-game dataset
 - `reports/oakland_3pt_report.md` — Summary records, 1-three games, minute distribution, and player leaderboard
-- `reports/oakland_3pt_report.html` — Standalone offline interactive dashboard with minute-by-minute histogram and searchable leaderboard
+- `reports/oakland_3pt_report.html` — Standalone offline interactive HTML report
+- `web/public/data/ou_3pt_data.json` — Rich JSON dataset (including per-game 3-point shot logs) powering the web app
 
 ## Project Layout
 - `main.py` — Unified CLI entry point (`scrape`, `analyze`, `report`, `run`)

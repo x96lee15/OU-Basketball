@@ -172,19 +172,29 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"    - {item}")
 
         if not args.no_reports:
-            generated = generate_reports(csv_path=args.output, report_dir=args.report_dir)
+            generated = generate_reports(
+                csv_path=args.output,
+                report_dir=args.report_dir,
+                build_dir=args.build_dir,
+            )
             print(
                 f"\nReports generated:\n"
                 f"  Markdown: {generated.markdown_path}\n"
-                f"  HTML:     {generated.html_path}"
+                f"  HTML:     {generated.html_path}\n"
+                f"  Web JSON: {generated.web_json_path}"
             )
 
     if args.command == "report":
-        generated = generate_reports(csv_path=args.csv, report_dir=args.report_dir)
+        generated = generate_reports(
+            csv_path=args.csv,
+            report_dir=args.report_dir,
+            build_dir=args.build_dir,
+        )
         print(
             f"\nReports generated ({generated.total_games} games, {generated.pbp_games} with PBP):\n"
             f"  Markdown: {generated.markdown_path}\n"
-            f"  HTML:     {generated.html_path}"
+            f"  HTML:     {generated.html_path}\n"
+            f"  Web JSON: {generated.web_json_path}"
         )
 
     return 0
