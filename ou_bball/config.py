@@ -31,6 +31,16 @@ def build_season_list(
     return list(reversed(seasons))
 
 
+# Official Oakland University Athletic Communications Game Notes anchor:
+# Entering Game 8 vs. Purdue (through 2026-11-18 at Arizona State), Oakland had made
+# at least one 3-pointer in 1,206 consecutive games. Each subsequent game with >= 1 3PM
+# increments the live streak automatically; a 0-3PM game resets it to 0.
+STREAK_ANCHOR_DATE = "2026-11-18"
+STREAK_ANCHOR_COUNT = 1206
+STREAK_LAST_ZERO_DATE = "1988-01-30"
+STREAK_LAST_ZERO_OPPONENT = "Wayne State"
+STREAK_NCAA_RANK_NOTE = "4th among NCAA D-I (behind UNLV, Duke, and East Tennessee State)"
+
 # Exact / token-level team labels used for Oakland in modern and legacy game logs.
 # Note: 'M-514' is Oakland University's NCAA organization ID used in some Sidearm XML feeds.
 OAKLAND_TEAM_ALIASES = frozenset({

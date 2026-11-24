@@ -18,6 +18,11 @@ from ou_bball.config import (
     DEFAULT_OUTPUT_CSV,
     DEFAULT_REPORT_DIR,
     DEFAULT_WEB_DATA_JSON,
+    STREAK_ANCHOR_COUNT,
+    STREAK_ANCHOR_DATE,
+    STREAK_LAST_ZERO_DATE,
+    STREAK_LAST_ZERO_OPPONENT,
+    STREAK_NCAA_RANK_NOTE,
 )
 from ou_bball.normalize import normalize_player_name
 
@@ -42,6 +47,75 @@ def _fmt_period_label(period: str) -> str:
     if period == "2":
         return "2nd Half"
     return period or ""
+
+
+def compute_three_point_streak(rows: list[dict[str, str]]) -> dict[str, Any]:
+    """Compute Oakland's live consecutive-games-with-a-3-pointer streak.
+
+    Anchored to Oakland's official Athletic Communications game notes count
+    (1,206 through 2026-11-18 at Arizona State; last 0-3PM game Jan. 30, 1988 vs. Wayne State),
+    then automatically incremented for every subsequent game with >= 1 made 3-pointer
+    (or reset if a 0-3PM game ever occurs).
+    """
+    sorted_rows = sorted(rows, key=lambda r: (r.get("Game_Date", ""), r.get("Game_ID", "")))
+
+    streak_count = STREAK_ANCHOR_COUNT
+    active = True
+    games_since_anchor = 0
+    last_zero_date = STREAK_LAST_ZERO_DATE
+    last_zero_opponent = STREAK_LAST_ZERO_OPPONENT
+
+    for r in sorted_rows:
+        gdate = r.get("Game_Date", "")
+        if not gdate or gdate <= STREAK_ANCHOR_DATE:
+            continue
+        raw_3pm = str(r.get("Oakland_3PM", "")).strip()
+        if not raw_3pm.isdigit():
+            continue
+        made = int(raw_3pm)
+        games_since_anchor += 1
+        if made >= 1:
+            streak_count += 1
+            active = True
+        else:
+            streak_count = 0
+            active = False
+            last_zero_date = gdate
+            last_zero_opponent = r.get("Opponent", "Unknown")
+
+    latest = sorted_rows[-1] if sorted_rows else None
+    as_of_date = latest["Game_Date"] if latest else STREAK_ANCHOR_DATE
+
+    # Calculate approximate years elapsed since last 0-3PM game
+    years_active: Optional[float] = None
+    try:
+        d0 = datetime.date.fromisoformat(last_zero_date)
+        d1 = datetime.date.fromisoformat(as_of_date)
+        years_active = round((d1 - d0).days / 365.25, 1)
+    except ValueError:
+        pass
+
+    return {
+        "active": active,
+        "count": streak_count,
+        "asOfDate": as_of_date,
+        "latestGameId": latest.get("Game_ID") if latest else None,
+        "latestGameSeason": latest.get("Season") if latest else None,
+        "latestGameOpponent": latest.get("Opponent") if latest else None,
+        "latestGameLocation": latest.get("Location") if latest else None,
+        "latestGame3pm": int(latest["Oakland_3PM"]) if latest and str(latest.get("Oakland_3PM", "")).isdigit() else None,
+        "latestGame3pa": int(latest["Oakland_3PA"]) if latest and str(latest.get("Oakland_3PA", "")).isdigit() else None,
+        "latestGameFirst3Player": latest.get("First_3Pt_Player") or None if latest else None,
+        "latestGameFirst3Period": latest.get("First_3Pt_Period") or None if latest else None,
+        "latestGameFirst3Clock": latest.get("First_3Pt_Clock") or None if latest else None,
+        "lastZeroDate": last_zero_date,
+        "lastZeroOpponent": last_zero_opponent,
+        "yearsActive": years_active,
+        "anchorDate": STREAK_ANCHOR_DATE,
+        "anchorCount": STREAK_ANCHOR_COUNT,
+        "gamesSinceAnchor": games_since_anchor,
+        "ncaaRankNote": STREAK_NCAA_RANK_NOTE,
+    }
 
 
 def compute_report_data(csv_path: str = DEFAULT_OUTPUT_CSV) -> dict[str, Any]:
@@ -141,6 +215,7 @@ def compute_report_data(csv_path: str = DEFAULT_OUTPUT_CSV) -> dict[str, Any]:
         "total_games": len(rows),
         "pbp_games": n_pbp,
         "season_span": season_span,
+        "streak": compute_three_point_streak(rows),
         "fastest_sec": min_sec,
         "fastest_tied": fastest_tied,
         "fastest_top5": fastest_sorted[:5],
@@ -169,11 +244,36 @@ def compute_report_data(csv_path: str = DEFAULT_OUTPUT_CSV) -> dict[str, Any]:
 
 def render_markdown_report(data: dict[str, Any]) -> str:
     """Render a clean Markdown report from computed statistics."""
+    streak = data["streak"]
+    latest_ext = ""
+    if streak.get("latestGameOpponent"):
+        prep = "at" if streak.get("latestGameLocation") == "Away" else "vs."
+        first_note = (
+            f" (1st 3PT: {streak['latestGameFirst3Player']}, {_fmt_period_label(streak.get('latestGameFirst3Period') or '')} `{streak['latestGameFirst3Clock']}`)"
+            if streak.get("latestGameFirst3Player")
+            else ""
+        )
+        latest_ext = (
+            f"- **Latest Game Extension:** `{streak['asOfDate']}` {prep} {streak['latestGameOpponent']} — "
+            f"`{streak['latestGame3pm']}–{streak['latestGame3pa']}` from 3{first_note}"
+        )
+
     lines: list[str] = [
         "# Oakland University Men's Basketball — 3-Point Statistics Report",
         "",
         f"Generated from `oakland_complete_3pt_stats.csv` covering **{data['total_games']}** regular-season/postseason games "
         f"(`{data['season_span']}`, **{data['pbp_games']}** with play-by-play timing).",
+        "",
+        "## Active 3-Pointer Streak",
+        f"- **Consecutive Games With a Made 3-Pointer:** **{streak['count']:,}** ({streak['ncaaRankNote']})",
+        f"- **Last Game Without a 3-Pointer:** `{streak['lastZeroDate']}` vs. {streak['lastZeroOpponent']}"
+        + (f" ({streak['yearsActive']} years ago)" if streak.get("yearsActive") is not None else ""),
+        "- **Historical Note:** UNLV is the only school to make a 3-pointer in every game since the 3-point line was introduced in 1986–87.",
+    ]
+    if latest_ext:
+        lines.append(latest_ext)
+    lines.extend([
+        f"- **Verification Anchor:** Official OU Game Notes (`{streak['anchorCount']:,}` through `{streak['anchorDate']}`) + `{streak['gamesSinceAnchor']}` subsequent game(s).",
         "",
         "## Key Timing Summary",
         f"- **Fastest 1st 3-Pointer:** `{data['fastest_sec']}s` elapsed ({_fmt_elapsed(data['fastest_sec']) if data['fastest_sec'] is not None else 'N/A'})",
@@ -187,7 +287,7 @@ def render_markdown_report(data: dict[str, Any]) -> str:
         "## Fastest 1st 3-Pointer Made (Top 5)",
         "| Elapsed | Half & Clock | Date | Season | Opponent | Player | Score (3PT) |",
         "| ---: | :--- | :--- | :--- | :--- | :--- | :--- |",
-    ]
+    ])
 
     for r in data["fastest_top5"]:
         lines.append(
@@ -299,6 +399,23 @@ def render_html_report(data: dict[str, Any]) -> str:
         for idx, (name, cnt) in enumerate(data["player_leaderboard"], 1)
     )
 
+    streak = data["streak"]
+    streak_count_fmt = f"{streak['count']:,}"
+    streak_latest_html = ""
+    if streak.get("latestGameOpponent"):
+        prep = "at" if streak.get("latestGameLocation") == "Away" else "vs."
+        p_note = (
+            f" · 1st 3PT by <strong>{html_lib.escape(streak['latestGameFirst3Player'])}</strong> "
+            f"({_fmt_period_label(streak.get('latestGameFirst3Period') or '')} {html_lib.escape(streak['latestGameFirst3Clock'] or '')})"
+            if streak.get("latestGameFirst3Player")
+            else ""
+        )
+        streak_latest_html = (
+            f"Extended on <strong>{html_lib.escape(streak['asOfDate'])}</strong> {prep} "
+            f"<strong>{html_lib.escape(streak['latestGameOpponent'])}</strong> "
+            f"({streak['latestGame3pm']}-{streak['latestGame3pa']} from 3){p_note}"
+        )
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -382,6 +499,14 @@ def render_html_report(data: dict[str, Any]) -> str:
     <div>
       <h1>Oakland University Men's Basketball — 3-Point Statistics</h1>
       <p class="sub">{data['total_games']} regular-season/postseason games ({html_lib.escape(data['season_span'])}) • {total_pbp} with play-by-play timing</p>
+    </div>
+
+    <div class="card" style="border-left: 4px solid var(--gold); display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px;">
+      <div>
+        <div class="k-label" style="color: var(--gold);">Active 3-Pointer Streak • {html_lib.escape(streak['ncaaRankNote'])}</div>
+        <div style="font-size: 32px; font-weight: 800; color: var(--gold); line-height: 1.1; margin: 4px 0;" class="mono">{streak_count_fmt} <span style="font-size: 14px; font-weight: 600; color: var(--fg);">consecutive games with a made 3-pointer</span></div>
+        <div class="k-note">Last 0-3PT game: <strong>Jan. 30, 1988 vs. {html_lib.escape(streak['lastZeroOpponent'])}</strong>{f" ({streak['yearsActive']} yrs)" if streak.get('yearsActive') else ""} • {streak_latest_html}</div>
+      </div>
     </div>
 
     <div class="grid">
@@ -739,12 +864,14 @@ def export_web_dataset(
         )
 
     seasons = sorted({g["season"] for g in games}, reverse=True)
+    streak = compute_three_point_streak(rows)
     payload = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "asOfDate": max((g["gameDate"] for g in games), default=""),
         "totalGames": len(games),
         "pbpGames": sum(1 for g in games if g["pbpAvailable"]),
         "seasons": seasons,
+        "streak": streak,
         "games": games,
     }
 

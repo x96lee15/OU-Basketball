@@ -1,13 +1,14 @@
 import {
   BarChart3,
   CheckCircle2,
+  Flame,
   RefreshCw,
   Table2,
   TrendingUp,
   Users,
 } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
-import { computeHeadlineStats, formatElapsed } from './analytics';
+import { computeHeadlineStats, formatElapsed, formatPeriodShort } from './analytics';
 import { loadDataset, syncCurrentSeason } from './api';
 import { GameDossierDrawer } from './components/GameDossierDrawer';
 import { GameLogTable } from './components/GameLogTable';
@@ -125,18 +126,20 @@ export default function App() {
             </button>
           </nav>
 
-          <div className="topbar-actions">
-            <button
-              type="button"
-              className="sync-btn"
-              onClick={handleSync}
-              disabled={syncing}
-              title="Scrape latest 2026-27 games from goldengrizzlies.com (requires local API server)"
-            >
-              <RefreshCw size={13} className={syncing ? 'spin' : ''} />
-              {syncing ? 'Syncing...' : `Sync ${payload?.seasons[0] ?? '2026-27'}`}
-            </button>
-          </div>
+          {dataMode === 'api' && (
+            <div className="topbar-actions">
+              <button
+                type="button"
+                className="sync-btn"
+                onClick={handleSync}
+                disabled={syncing}
+                title="Scrape latest games from goldengrizzlies.com via local API server"
+              >
+                <RefreshCw size={13} className={syncing ? 'spin' : ''} />
+                {syncing ? 'Syncing...' : `Sync ${payload?.seasons[0] ?? '2026-27'}`}
+              </button>
+            </div>
+          )}
         </div>
       </header>
 
@@ -164,9 +167,7 @@ export default function App() {
                 </span>{' '}
                 Play-by-Play Verified
               </span>
-              <span className="meta-chip gold">
-                {dataMode === 'api' ? 'Live API Connected' : 'Static Bundle'}
-              </span>
+              {dataMode === 'api' && <span className="meta-chip gold">Live API Connected</span>}
             </div>
           )}
         </div>
@@ -184,6 +185,60 @@ export default function App() {
           <div className="notice-banner warning">
             <span>{error}</span>
           </div>
+        )}
+
+        {payload?.streak && (
+          <section className="streak-banner" aria-label="Oakland consecutive games with a made 3-pointer streak">
+            <div className="streak-left">
+              <div className="streak-eyebrow">
+                <span className="streak-dot" aria-hidden="true" />
+                <Flame size={13} />
+                {payload.streak.active ? 'Active 3-Pointer Streak' : '3-Pointer Streak Ended'}
+                {payload.streak.yearsActive !== null && ` · ${payload.streak.yearsActive} Years`}
+              </div>
+              <div className="streak-figure">
+                <span className="streak-number">{payload.streak.count.toLocaleString()}</span>
+                <span className="streak-caption">Consecutive Games With a Made 3-Pointer</span>
+              </div>
+              <div className="streak-context">
+                Last 0-3PT game: <strong>Jan. 30, 1988 vs. {payload.streak.lastZeroOpponent}</strong> ·{' '}
+                {payload.streak.ncaaRankNote}
+              </div>
+            </div>
+
+            {payload.streak.latestGameOpponent && (
+              <div className="streak-right">
+                <button
+                  type="button"
+                  className="streak-latest-btn"
+                  onClick={() => {
+                    const latest = payload.games.find(
+                      (g) => g.gameDate === payload.streak!.asOfDate && g.gameId === payload.streak!.latestGameId,
+                    );
+                    if (latest) setSelectedGame(latest);
+                  }}
+                >
+                  <div style={{ fontSize: 11, textTransform: 'uppercase', letterSpacing: '0.06em', color: '#f2d57e', fontWeight: 700 }}>
+                    Latest Extension · Game #{payload.streak.count.toLocaleString()}
+                  </div>
+                  <div style={{ fontSize: 13.5, fontWeight: 700, marginTop: 2 }}>
+                    <span className="mono">{payload.streak.asOfDate}</span>{' '}
+                    {payload.streak.latestGameLocation === 'Away' ? 'at' : 'vs.'}{' '}
+                    {payload.streak.latestGameOpponent} ({payload.streak.latestGame3pm}–{payload.streak.latestGame3pa} 3PT)
+                  </div>
+                  {payload.streak.latestGameFirst3Player && (
+                    <div style={{ fontSize: 12, color: '#cbd5e1', marginTop: 2 }}>
+                      1st 3PT: <strong>{payload.streak.latestGameFirst3Player}</strong> ·{' '}
+                      <span className="mono">
+                        {formatPeriodShort(payload.streak.latestGameFirst3Period)}{' '}
+                        {payload.streak.latestGameFirst3Clock}
+                      </span>
+                    </div>
+                  )}
+                </button>
+              </div>
+            )}
+          </section>
         )}
 
         {stats && payload && (

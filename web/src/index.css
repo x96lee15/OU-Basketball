@@ -279,6 +279,100 @@ select {
   color: var(--accent-gold);
 }
 
+/* 3-Pointer Streak Banner (inspired by OU official game notes) */
+.streak-banner {
+  background: linear-gradient(135deg, #13161c 0%, #1c2029 62%, #2b2312 100%);
+  color: #f8fafc;
+  border: 1px solid rgba(197, 163, 73, 0.45);
+  border-left: 5px solid var(--accent-gold-bright);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  padding: 16px 22px;
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.streak-left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.streak-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-gold-bright);
+}
+
+.streak-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #3fb97a;
+  box-shadow: 0 0 0 3px rgba(63, 185, 122, 0.22);
+}
+
+.streak-figure {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.streak-number {
+  font-family: var(--font-mono);
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: #f2d57e;
+}
+
+.streak-caption {
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #e2e8f0;
+}
+
+.streak-context {
+  font-size: 12px;
+  color: #a8b2c4;
+}
+
+.streak-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  text-align: right;
+}
+
+.streak-latest-btn {
+  appearance: none;
+  border: 1px solid rgba(197, 163, 73, 0.35);
+  background: rgba(255, 255, 255, 0.06);
+  color: #f8fafc;
+  padding: 9px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: right;
+  transition: background 140ms ease, border-color 140ms ease;
+}
+
+.streak-latest-btn:hover {
+  background: rgba(197, 163, 73, 0.16);
+  border-color: var(--accent-gold-bright);
+}
+
 /* Headline Summary Strip */
 .summary-strip {
   display: grid;

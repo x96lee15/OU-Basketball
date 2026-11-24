@@ -2,6 +2,13 @@
 
 Generated from `oakland_complete_3pt_stats.csv` covering **592** regular-season/postseason games (`2008-09–2026-27`, **591** with play-by-play timing).
 
+## Active 3-Pointer Streak
+- **Consecutive Games With a Made 3-Pointer:** **1,207** (4th among NCAA D-I (behind UNLV, Duke, and East Tennessee State))
+- **Last Game Without a 3-Pointer:** `1988-01-30` vs. Wayne State (38.8 years ago)
+- **Historical Note:** UNLV is the only school to make a 3-pointer in every game since the 3-point line was introduced in 1986–87.
+- **Latest Game Extension:** `2026-11-20` at Purdue — `4–19` from 3 (1st 3PT: Warren Marshall IV, 1st Half `09:24`)
+- **Verification Anchor:** Official OU Game Notes (`1,206` through `2026-11-18`) + `1` subsequent game(s).
+
 ## Key Timing Summary
 - **Fastest 1st 3-Pointer:** `6s` elapsed (0:06)
 - **Longest Wait for 1st 3-Pointer:** `1626s` elapsed (27:06)

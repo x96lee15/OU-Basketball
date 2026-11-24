@@ -33,12 +33,35 @@ export interface GameRecord {
   threePtEvents: ThreePtShotEvent[];
 }
 
+export interface ThreePointStreak {
+  active: boolean;
+  count: number;
+  asOfDate: string;
+  latestGameId: string | null;
+  latestGameSeason: string | null;
+  latestGameOpponent: string | null;
+  latestGameLocation: string | null;
+  latestGame3pm: number | null;
+  latestGame3pa: number | null;
+  latestGameFirst3Player: string | null;
+  latestGameFirst3Period: string | null;
+  latestGameFirst3Clock: string | null;
+  lastZeroDate: string;
+  lastZeroOpponent: string;
+  yearsActive: number | null;
+  anchorDate: string;
+  anchorCount: number;
+  gamesSinceAnchor: number;
+  ncaaRankNote: string;
+}
+
 export interface DatasetPayload {
   generatedAt: string;
   asOfDate: string;
   totalGames: number;
   pbpGames: number;
   seasons: string[];
+  streak?: ThreePointStreak;
   games: GameRecord[];
 }
 

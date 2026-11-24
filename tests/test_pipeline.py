@@ -8,7 +8,7 @@ import tempfile
 import unittest
 
 from ou_bball.analyzer import analyze_game_record
-from ou_bball.report import generate_reports
+from ou_bball.report import compute_three_point_streak, generate_reports
 from ou_bball.normalize import (
     compute_elapsed_seconds,
     extract_opponent_rank,
@@ -366,6 +366,24 @@ class ReportGeneratorTests(unittest.TestCase):
                 html_txt = f.read()
             self.assertIn("Minute of Oakland's First Made 3-Pointer", html_txt)
             self.assertIn("Rashad Williams", html_txt)
+
+    def test_three_point_streak_increments_and_resets(self) -> None:
+        rows = [
+            {"Season": "2026-27", "Game_Date": "2026-11-18", "Game_ID": "1", "Opponent": "Arizona State", "Location": "Away", "Oakland_3PM": "7", "Oakland_3PA": "23"},
+            {"Season": "2026-27", "Game_Date": "2026-11-20", "Game_ID": "2", "Opponent": "Purdue", "Location": "Away", "Oakland_3PM": "4", "Oakland_3PA": "19"},
+            {"Season": "2026-27", "Game_Date": "2026-11-27", "Game_ID": "3", "Opponent": "Houston", "Location": "Away", "Oakland_3PM": "6", "Oakland_3PA": "20"},
+        ]
+        s = compute_three_point_streak(rows)
+        self.assertTrue(s["active"])
+        self.assertEqual(s["count"], 1208)
+        self.assertEqual(s["gamesSinceAnchor"], 2)
+
+        # If a future game has 0 made 3-pointers, streak resets cleanly
+        rows.append({"Season": "2026-27", "Game_Date": "2026-12-02", "Game_ID": "4", "Opponent": "NKU", "Location": "Home", "Oakland_3PM": "0", "Oakland_3PA": "15"})
+        s2 = compute_three_point_streak(rows)
+        self.assertFalse(s2["active"])
+        self.assertEqual(s2["count"], 0)
+        self.assertEqual(s2["lastZeroDate"], "2026-12-02")
 
 
 if __name__ == "__main__":
