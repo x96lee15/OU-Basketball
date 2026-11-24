@@ -12,6 +12,12 @@ _SUFFIXES = {"JR": "Jr.", "JR.": "Jr.", "SR": "Sr.", "SR.": "Sr.", "II": "II", "
 # Keep known uppercase initials/acronyms uppercase when title-casing player names.
 _UPPER_FIRST_TOKENS = {"DQ", "DJ", "AJ", "CJ", "EJ", "JJ", "JP", "JR", "KJ", "LJ", "MJ", "PJ", "RJ", "TJ"}
 
+# Canonical player name aliases for players listed under different names across seasons.
+_PLAYER_ALIAS_MAP = {
+    "kahlil felder": "Kay Felder",
+    "tray maddox": "Tray Maddox Jr.",
+}
+
 # Common opponent name canonicalization rules applied after stripping rankings/notes.
 _OPPONENT_EXACT_MAP = {
     "uic": "UIC",
@@ -219,7 +225,9 @@ def normalize_player_name(raw_name: Optional[str]) -> Optional[str]:
         ] + suffixes
 
     result = " ".join(t for t in tokens if t).strip()
-    return result or None
+    if not result:
+        return None
+    return _PLAYER_ALIAS_MAP.get(result.lower(), result)
 
 
 def match_player_to_roster(player_name: Optional[str], roster: Iterable[str]) -> Optional[str]:
