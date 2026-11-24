@@ -1,542 +1,593 @@
-Season,GameDate,GameID,Opponent,Total_3PM,First_3Pt_Player,First_3Pt_Time,First_3Pt_Period,First_3Pt_Team
-2008-09,2008-11-17,ore1117,Oregon,4,"Kangas, Erik",14:44,1,Oakland University
-2008-09,2008-11-23,iowa1123,Iowa,7,"Kangas, Erik",14:09,1,Oakland University
-2008-09,2008-12-02,suu1202,Southern_Utah,3,"Cushingberry, Blake",00:04,1,Oakland University
-2008-09,2008-12-04,umkc1204,UMKC,8,"HAMILTON, Reggie",10:15,1,UMKC
-2008-09,2008-12-07,tol1207,Toledo,7,"Kangas, Erik",16:06,1,Oakland University
-2008-09,2008-12-14,roc1214,Rochester_College,13,"Waterstradt, Dan",19:48,1,Oakland University
-2008-09,2008-12-18,gb1218,Green_Bay,12,"Kangas, Erik",17:16,1,Oakland University
-2008-09,2008-12-20,mich1220,Michigan,8,"Kangas, Erik",18:06,1,Oakland University
-2008-09,2008-12-22,emu122,Eastern_Michigan,8,"Kangas, Erik",19:37,1,Oakland University
-2008-09,2008-12-27,msu1227,#1118_Michigan_State,7,"Maynard, Drew",15:49,1,OU
-2008-09,2008-12-31,sdsu1231,South_Dakota_St.,8,"Kangas, Erik",18:50,1,Oakland University
-2008-09,2009-01-02,ndsu0102,North_Dakota_State,7,"Cushingberry, Blake",18:48,1,Oakland University
-2008-09,2009-01-08,cc0108,Centenary_College,2,"Kangas, Erik",14:38,1,OU
-2008-09,2009-01-10,oru0110,Oral_Roberts,5,"Waterstradt, Dan",15:14,1,OU
-2008-09,2009-01-17,ipfw0117,IPFW,15,"Kangas, Erik",19:12,1,OU
-2008-09,2009-01-22,iupui122,IUPUI,12,"Kangas, Erik",16:31,1,OU
-2008-09,2009-01-24,wiu0124,Western_Illinois,10,"Maynard, Drew",17:45,1,OU
-2008-09,2009-01-29,ndsu0129,North_Dakota_State,8,"Jones, Johnathon",13:02,1,OU
-2008-09,2009-01-31,sdsu0131,South_Dakota_St.,4,"KANGAS, Erik",19:32,2,Oakland University
-2008-09,2009-02-05,oru0205,Oral_Roberts,12,"KANGAS, Erik",18:41,1,Oakland University
-2008-09,2009-02-07,cc0207,Centenary_College,7,"Kangas, Erik",14:18,1,OU
-2008-09,2009-02-14,ipfw0214,IPFW,9,"Maynard, Drew",18:26,1,OU
-2008-09,2009-02-19,wiu0219,Western_Illinois,13,"KANGAS, Erik",19:54,1,Oakland University
-2008-09,2009-02-21,iupu0221,IUPUI,9,"Maynard, Drew",19:52,1,OU
-2008-09,2009-02-26,suu0226,Southern_Utah,6,"Kangas, Erik",18:29,1,OU
-2008-09,2009-02-28,umkc0228,UMKC,7,"Kangas, Erik",18:55,1,OU
-2008-09,2009-03-08,ipfw0308,IPFW,6,"Waterstradt, Dan",10:05,1,OU
-2008-09,2009-03-09,sdsu0309,South_Dakota_St.,8,"Kangas, Erik",17:28,1,OU
-2008-09,2009-03-10,ndsu0310,North_Dakota_State,4,"KANGAS, Erik",16:14,1,Oakland University
-2008-09,2009-03-17,ksu0317,Kent_State,10,"Waterstradt, Dan",11:08,1,OU
-2008-09,2009-03-23,brad0323,Bradley,5,"Jones, Johnathon",15:25,1,OU
-2009-10,2009-11-10,exh-02,Hope_College,4,"WRIGHT, Larry",17:32,1,OU
-2009-10,2009-11-14,emu1114,Eastern_Michigan,4,"Nelson, Derick",00:04,1,OU
-2009-10,2009-11-21,roch1121,Rochester_College,3,"WRIGHT, Larry",18:44,1,Oakland University
-2009-10,2009-11-23,ttu1123,Tennessee_Tech,8,"NELSON, Derick",07:19,1,Oakland University
-2009-10,2009-11-25,ku1125,No._11_Kansas,7,"WRIGHT, Larry",09:12,1,Oakland University
-2009-10,2009-11-28,uca1128,Central_Arkansas,8,"WRIGHT, Larry",18:55,1,Oakland University
-2009-10,2009-11-30,mem1130,Memphis,3,"NELSON, Derick",04:08,1,Oakland University
-2009-10,2009-12-05,ipfw1205,IPFW,3,"WRIGHT, Larry",05:07,1,Oakland University
-2009-10,2009-12-10,msu1210,No._1214_Michigan_State,5,"WRIGHT, Larry",09:55,1,Oakland University
-2009-10,2009-12-13,gb1213,Green_Bay,5,"WRIGHT, Larry",19:48,1,Oakland University
-2009-10,2009-12-17,sea1217,Seattle_University,2,"WRIGHT, Larry",04:41,1,Oakland University
-2009-10,2009-12-19,ore1219,Oregon,5,"MAYNARD, Drew",16:36,1,Oakland University
-2009-10,2009-12-22,syr1222,No._55_Syracuse,2,"MAYNARD, Drew",13:24,1,Oakland University
-2009-10,2009-12-28,alma1228,Alma,13,"WRIGHT, Larry",16:46,1,Oakland University
-2009-10,2009-12-31,wiu1231,Western_Illinois,5,"Jones, Johnathon",13:16,1,OU
-2009-10,2010-01-02,iupu0102,IUPUI,6,"NELSON, Derick",19:15,1,Oakland University
-2009-10,2010-01-07,oru0107,Oral_Roberts,5,"NELSON, Derick",15:10,1,Oakland University
-2009-10,2010-01-09,cent0109,Centenary_College,4,"CUSHINGBERRY, Blake",09:13,1,Oakland University
-2009-10,2010-01-14,umkc0114,UMKC,7,"MAYNARD, Drew",11:07,1,Oakland University
-2009-10,2010-01-16,suu0116,Southern_Utah,10,"WRIGHT, Larry",19:05,1,Oakland University
-2009-10,2010-01-23,sdsu0123,South_Dakota_St.,2,"EACKLES, Ledrick",12:11,1,Oakland University
-2009-10,2010-01-28,iupu0128,IUPUI,5,"NELSON, Derick",14:29,1,Oakland University
-2009-10,2010-02-04,cc020410,Centenary_College,9,"JONES, Johnathon",15:52,1,Oakland University
-2009-10,2010-02-11,suu0211,Southern_Utah,6,"MAYNARD, Drew",17:12,1,Oakland University
-2009-10,2010-02-13,umkc0213,UMKC,9,"Jones, Johnathon",18:45,1,OU
-2009-10,2010-02-18,sdsu0218,South_Dakota_State,8,"Wright, Larry",18:23,1,OU
-2009-10,2010-02-20,ndsu0220,North_Dakota_State,3,"NELSON, Derick",18:17,2,Oakland University
-2009-10,2010-02-27,ipfw0227,IPFW,7,"Jones, Johnathon",17:36,1,OU
-2009-10,2010-03-06,umkc0306,UMKC,8,"Cushingberry, Blake",18:42,1,OU
-2009-10,2010-03-08,ipfw0308,No._5_seed_IPFW_(Semifinals),10,"Cushingberry, Blake",14:44,1,OU
-2009-10,2010-03-09,iupu0309,No._2_seed_IUPUI_(Finals),6,"WRIGHT, Larry",12:58,1,Oakland University
-2009-10,2010-03-19,pitt0319,Pittsburgh,4,"Wright, Larry",15:38,1,OU
-2010-11,2010-11-09,mary1109,Marygrove,11,"VALENTINE, Drew",15:05,1,OU
-2010-11,2010-11-12,wvu1112,West_Virginia,4,"Bader, Travis",16:59,1,OU
-2010-11,2010-11-15,ohio1115,Ohio,5,"EACKLES, Ledrick",11:37,1,Oakland University
-2010-11,2010-11-21,purd1121,#149_Purdue,7,"BADER, Travis",19:35,1,Oakland University
-2010-11,2010-11-23,wsu1123,Wright_State,7,"HAMILTON, Reggie",16:47,1,Oakland University
-2010-11,2010-11-26,su1126,Southern,10,"HAMILTON, Reggie",16:54,1,Oakland University
-2010-11,2010-11-27,apsu1127,Austin_Peay,5,"HAMILTON, Reggie",18:45,1,Oakland University
-2010-11,2010-12-02,suu1202,Southern_Utah,7,"BADER, Travis",11:07,1,Oakland University
-2010-11,2010-12-04,umkc1204,UMKC,5,"HAMILTON, Reggie",19:24,1,Oakland University
-2010-11,2010-12-11,msu1211,#78_Michigan_State,9,"BADER, Travis",19:07,1,Oakland University
-2010-11,2010-12-21,val1221,Valparaiso,10,"BADER, Travis",13:36,1,Oakland University
-2010-11,2010-12-23,osu1223,#22_Ohio_State,9,"HAMILTON, Reggie",16:20,1,Oakland University
-2010-11,2010-12-28,cc1228,Centenary_College,10,"VALENTINE, Drew",17:43,1,Oakland University
-2010-11,2010-12-30,oru1230,Oral_Roberts,5,"BADER, Travis",18:49,1,Oakland University
-2010-11,2011-01-08,wiu0108,Western_Illinois,9,"BADER, Travis",17:36,1,Oakland University
-2010-11,2011-01-15,ipfw0115,IPFW,7,"BADER, Travis",15:30,1,Oakland University
-2010-11,2011-01-29,cc0129,Centenary_College_(Homecoming),7,"BADER, Travis",17:20,1,Oakland University
-2010-11,2011-02-03,wiu0203,Western_Illinois,12,"WRIGHT, Larry",17:06,1,Oakland University
-2010-11,2011-02-05,iupu0205,IUPUI,14,"HAMILTON, Reggie",15:04,1,Oakland University
-2010-11,2011-02-17,ndsu0217,North_Dakota_State,5,"HAMILTON, Reggie",19:43,1,Oakland University
-2010-11,2011-02-19,sdsu0219,South_Dakota_St.,10,"WRIGHT, Larry",19:31,1,Oakland University
-2010-11,2011-02-24,umkc0224,UMKC,11,"BADER, Travis",18:49,1,Oakland University
-2010-11,2011-02-26,suu0226,Southern_Utah,6,"VALENTINE, Drew",02:33,1,Oakland University
-2010-11,2011-03-05,suu0305,#8_seed_Southern_Utah,8,"BADER, Travis",19:45,1,Oakland University
-2010-11,2011-03-07,sdsu0307,#5_seed_South_Dakota_St.,12,"HAMILTON, Reggie",15:42,1,Oakland University
-2010-11,2011-03-18,tex0318,#4_seed_Texas,7,"Bader, Travis",17:05,1,OU
-2011-12,2011-11-02,sau1102,Spring_Arbor,10,"CUSHINGBERRY, Blake",18:50,1,Oakland University
-2011-12,2011-11-08,uw110811,Windsor,8,"BADER, Travis",19:36,1,Oakland University
-2011-12,2011-11-14,bama1114,#1615_Alabama,4,"BADER, Travis",15:05,1,Oakland
-2011-12,2011-11-16,ar1116,Arkansas,12,"BADER, Travis",12:03,1,Oakland
-2011-12,2011-11-19,gsu1119,Grambling_St.,6,"Cushingberry, Blake",18:49,1,OU
-2011-12,2011-11-22,hou1122,Houston,6,"HAMILTON, Reggie",18:23,1,Oakland
-2011-12,2012-01-05,wiu0105,Western_Illinois,7,"VALENTINE, Drew",18:32,1,Oakland
-2011-12,2012-01-07,iupu0107,IUPUI,5,"Valentine, Drew",19:22,1,OU
-2011-12,2012-01-21,oru0121,Oral_Roberts,15,"HAMILTON, Reggie",18:28,1,Oakland
-2011-12,2012-01-26,sdsu0126,South_Dakota_St.,14,"BADER, Travis",13:39,1,Oakland
-2011-12,2012-02-04,wiu0204,Western_Illinois,14,"HAMILTON, Reggie",18:47,1,Oakland
-2011-12,2012-02-18,isu0218,Illinois_State,11,"HAMILTON, Reggie",17:34,1,Oakland
-2011-12,2012-02-23,umkc0223,UMKC,10,"HAMILTON, Reggie",19:29,1,Oakland
-2011-12,2012-02-25,usd0225,South_Dakota,14,"HAMILTON, Reggie",19:45,1,Oakland
-2011-12,2012-03-04,suu0304,Southern_Utah,15,"Bader, Travis",18:02,1,OU
-2011-12,2012-03-14,bgsu0314,Bowling_Green,12,"HAMILTON, Reggie",16:11,1,Oakland
-2011-12,2012-03-20,rice0320,Rice,4,"BADER, Travis",17:16,1,Oakland
-2011-12,2012-03-25,usu0325,Utah_State,13,"Bader, Travis",18:56,1,OU
-2012-13,2012-10-30,dav1030,Davenport,8,Travis Bader,18:43,1,Home
-2012-13,2012-11-09,alb1109,Albion,9,"WILLIAMS, Dante",19:16,1,Oakland
-2012-13,2012-11-11,ul1,Louisiana,6,Travis Bader,11:49,1,Visitor
-2012-13,2012-11-13,bsu1113,Boise_State,6,"MONDY, Duke",12:10,1,Oakland
-2012-13,2012-11-20,txso1120,Texas_Southern,8,"BADER, Travis",16:53,1,Oakland
-2012-13,2012-11-23,msu1123,Michigan_State,3,"BADER, Travis",17:39,2,Oakland
-2012-13,2012-12-06,rc1206,Rochester_College,7,"Bader, Travis",14:08,1,Home
-2012-13,2012-12-17,valp1217,Valparaiso,5,Ryan Bass,13:22,1,Home
-2012-13,2012-12-19,wvu1219,West_Virginia,10,"Bader, Travis",17:22,1,Visitor
-2012-13,2012-12-22,emu1222,Eastern_Michigan,7,"BASS, Ryan",19:42,1,Oakland
-2012-13,2012-12-29,iupu1229,IUPUI,7,"BADER, Travis",19:03,1,Oakland
-2012-13,2013-01-03,uno0103,Omaha,11,"BADER, Travis",19:54,1,Oakland
-2012-13,2013-01-05,bama0105,Alabama,2,"MONDY, Duke",14:00,2,Oakland
-2012-13,2013-01-10,sdsu0110,South_Dakota_St.,6,"BADER, Travis",11:42,1,Oakland
-2012-13,2013-01-17,umkc0117,Kansas_City,8,"BADER, Travis",17:08,1,Oakland
-2012-13,2013-01-19,usd0119,South_Dakota,11,"BADER, Travis",19:06,1,Oakland
-2012-13,2013-01-24,iupu0124,IUPUI,14,"BADER, Travis",19:31,1,Oakland
-2012-13,2013-01-26,wiu0126,Western_Illinois,7,"BADER, Travis",12:08,1,Oakland
-2012-13,2013-02-02,unom0202,Omaha,4,"BASS, Ryan",11:03,1,Oakland
-2012-13,2013-02-07,ndsu0207,North_Dakota_State,8,"BASS, Ryan",19:18,1,Oakland
-2012-13,2013-02-09,sdsu0209,South_Dakota_St.,16,"BADER, Travis",19:23,1,Oakland
-2012-13,2013-02-14,usd0214,South_Dakota,9,"BADER, Travis",18:39,1,Oakland
-2012-13,2013-02-16,umkc0216,Kansas_City,10,"WILLIAMS, Dante",19:12,1,Oakland
-2012-13,2013-02-20,ipfw0220,Fort_Wayne,5,"BADER, Travis",14:37,1,Oakland
-2012-13,2013-02-23,more0223,Morehead_State,7,"BADER, Travis",17:20,1,Oakland
-2012-13,2013-03-02,ipfw0302,Fort_Wayne,4,"WILLIAMS, Dante",19:08,1,Oakland
-2012-13,2013-03-19,ysu0319,Youngstown_State,7,"Bass, Ryan",15:01,1,Visitor
-2013-14,2013-10-29,tiff1029,Tiffin,9,"Bader, Travis",17:47,1,Home
-2013-14,2013-11-08,unc1108,#1211_North_Carolina,8,"MONDY, Duke",18:53,1,Oakland
-2013-14,2013-11-12,ucla1112,#2424_UCLA,6,"BADER, Travis",10:00,1,Oakland
-2013-14,2013-11-15,cal1115,California,7,"McCUNE, Tommie",15:48,1,Oakland
-2013-14,2013-11-17,zags1117,#1515_Gonzaga,11,"Felder, Kahlil",15:48,1,Oakland
-2013-14,2013-11-23,ull1123,Louisiana-Lafayette,8,"Baenziger, Mitch",17:18,1,Oakland
-2013-14,2013-11-24,stb1124,St._Francis_Brooklyn,7,"Bader, Travis",16:43,1,Oakland
-2013-14,2013-11-26,wmu1126,Western_Michigan,10,"Bader, Travis",15:59,1,Oakland
-2013-14,2013-11-30,rc1130,Rochester_College,6,"Baenziger, Mitch",13:59,1,Oakland
-2013-14,2013-12-07,ohio1207,Ohio,7,"BAENZIGER, Mitch",04:05,1,Oakland
-2013-14,2013-12-10,iu1210,Indiana,4,"BAENZIGER, Mitch",14:52,1,Oakland
-2013-14,2013-12-14,msu1214,#55_Michigan_State,8,"MONDY, Duke",18:28,1,Oakland
-2013-14,2013-12-21,emu1221,Eastern_Michigan,14,"BADER, Travis",14:59,1,Oakland
-2013-14,2013-12-22,rmu1222,Robert_Morris,11,"BADER, Travis",18:51,1,Oakland
-2013-14,2013-12-27,dc1227,Defiance_College,9,"BADER, Travis",10:15,1,Oakland
-2013-14,2014-01-02,wsu0307,Wright_State,7,"Bader, Travis",11:39,1,Oakland
-2013-14,2014-01-04,valp0104,Valparaiso,10,"BADER, Travis",17:08,1,Oakland
-2013-14,2014-01-08,0104uwm,Milwaukee,3,"FELDER, Kahlil",19:33,1,Oakland
-2013-14,2014-01-11,udm0111,Detroit,9,"BADER, Travis",19:19,1,Oakland
-2013-14,2014-01-16,csu0116,Cleveland_State,8,"WILLIAMS, Dante",15:35,1,Oakland
-2013-14,2014-01-22,gb0122,Green_Bay,5,"BADER, Travis",16:45,1,Oakland
-2013-14,2014-01-25,uic0125,UIC,7,"BADER, Travis",14:38,1,Oakland
-2013-14,2014-01-31,ysu0131,Youngstown_State,10,"FELDER, Kahlil",15:40,1,Oakland
-2013-14,2014-02-02,uwm0202,Milwaukee,10,"FELDER, Kahlil",19:24,1,Oakland
-2013-14,2014-02-06,csu0206,Cleveland_State,15,"BADER, Travis",18:31,1,Oakland
-2013-14,2014-02-09,vu0209,Valparaiso,8,"BADER, Travis",15:39,1,Oakland
-2013-14,2014-02-14,udm0214,Detroit,12,"BADER, Travis",16:44,1,Oakland
-2013-14,2014-02-16,wsu0216,Wright_State,6,"HILL, Ralph",18:56,1,Oakland
-2013-14,2014-02-21,uic0221,UIC,9,"BADER, Travis",18:40,1,Oakland
-2013-14,2014-02-27,gb0227,Green_Bay,6,"MONDY, Duke",18:36,1,Oakland
-2013-14,2014-03-01,ysu0301,Youngstown_State,10,"HILL, Ralph",16:24,1,Oakland
-2013-14,2014-03-04,ysu0304,#7_seed_Youngstown_State_(Round_1),13,"HILL, Ralph",17:30,1,Oakland
-2014-15,2014-11-01,fs1101,Ferris_State,5,"Hooper, Max",05:34,1,Oakland
-2014-15,2014-11-07,sxu1107,St._Xavier,6,"Felder, Kahlil",16:40,1,Oakland
-2014-15,2014-11-14,isu1114,#1414_Iowa_State,9,"Felder, Kahlil",19:24,1,Oakland
-2014-15,2014-11-17,emu1117,Eastern_Michigan,9,"Williams, Dante",09:41,1,Oakland
-2014-15,2014-11-19,wmu1119,Western_Michigan,7,"McCune, Tommie",14:22,1,Oakland
-2014-15,2014-11-24,wcu1124,Western_Carolina,10,"McCune, Tommie",17:44,1,Oakland
-2014-15,2014-11-25,csu1125,Chicago_State,6,"McCune, Tommie",12:46,1,Home
-2014-15,2014-11-26,gsu1126,Georgia_State,13,"Hooper, Max",15:27,1,Home
-2014-15,2014-11-29,ut1129,Toledo,10,"Williams, Dante",17:20,1,Oakland
-2014-15,2014-12-03,rc1203,Rochester_College,11,"Daniels, Nick",17:16,1,Oakland
-2014-15,2014-12-06,game-11,Morehead_State,3,"Daniels, Nick",16:49,1,Visitor
-2014-15,2014-12-14,gm10-oak,#RV23_Michigan_State,10,"Williams, Dante",14:35,1,Oakland
-2014-15,2014-12-20,game-12,Pittsburgh,7,Max Hooper,07:56,1,Oakland
-2014-15,2014-12-22,cu1222,Clemson,4,"Weaver, Collin",15:37,1,Oakland
-2014-15,2014-12-27,oak14,#1515_Maryland,6,"Williams, Dante",09:38,1,Oakland
-2014-15,2015-01-02,vu0102,Valparaiso,9,"Williams, Dante",16:44,1,Oakland
-2014-15,2015-01-08,csu0108,Cleveland_State,7,"Hooper, Max",08:38,1,Oakland
-2014-15,2015-01-15,gb0115,Green_Bay,8,"Williams, Dante",18:34,1,Oakland
-2014-15,2015-01-18,alb0118,Albion,9,"McCune, Tommie",18:30,1,Oakland
-2014-15,2015-01-22,uwm0122,Milwaukee,4,"McCune, Tommie",13:04,1,Oakland
-2014-15,2015-01-26,csu0126,Cleveland_State,4,"Hooper, Max",11:33,1,Oakland
-2014-15,2015-01-28,wsu0128,Wright_State,7,"Williams, Dante",18:42,1,Oakland
-2014-15,2015-02-01,ysu0201,Youngstown_State,11,"Felder, Kahlil",17:06,1,Oakland
-2014-15,2015-02-04,uic0204,UIC,6,"Williams, Dante",17:57,1,Oakland
-2014-15,2015-02-08,mb26-oak,Valparaiso,9,"Daniels, Nick",11:33,1,Oakland
-2014-15,2015-02-10,mbb25,Milwaukee,9,"Daniels, Nick",15:32,1,Oakland
-2014-15,2015-02-15,udm0215,Detroit,6,"Hooper, Max",18:15,1,Oakland
-2014-15,2015-02-18,wsu0218,Wright_State,7,"Hooper, Max",18:01,1,Oakland
-2014-15,2015-02-22,uic0222,UIC,15,"Williams, Dante",14:59,1,Oakland
-2014-15,2015-02-25,ysu0225,Youngstown_State,7,"Felder, Kahlil",17:44,1,Oakland
-2014-15,2015-02-28,m022815,Green_Bay,4,"Felder, Kahlil",15:10,1,Oakland
-2014-15,2015-03-06,uic-oak,#6_seed_UIC_(Quarterfinals),12,"Hooper, Max",17:49,1,Oakland
-2014-15,2015-03-17,eiu0317,Eastern_Illinois_(Opening_Round),10,"Williams, Dante",17:44,1,Oakland
-2015-16,2015-10-31,ac1031,Adrian,14,"Daniels, Nick",19:26,1,Oakland
-2015-16,2015-11-11,heid1111,Heidelberg,10,"Hooper, Max",16:25,1,Oakland
-2015-16,2015-11-18,emu1118,Eastern_Michigan,12,"Hooper, Max",17:17,1,Oakland
-2015-16,2015-11-22,cost1122,Colorado_State,8,"Hooper, Max",15:26,1,Oakland
-2015-16,2015-11-24,siu1124,Southern_Illinois,9,"DORSEY-WALKER, S.",16:12,1,Oakland
-2015-16,2015-11-27,asu1127,Alcorn_State,8,"DORSEY-WALKER, S.",18:23,1,Oakland
-2015-16,2015-11-28,acu1128,Abilene_Christian,10,"Hooper, Max",15:20,1,Oakland
-2015-16,2015-12-01,uga1201,Georgia,11,"Hayes, Jalen",19:16,1,Oakland
-2015-16,2015-12-05,rmu1205,Robert_Morris,11,"Felder, Kay",16:39,1,Oakland
-2015-16,2015-12-07,bing1207,Binghamton,7,"Hooper, Max",16:10,1,Oakland
-2015-16,2015-12-12,ut1212,Toledo,7,"Felder, Kay",17:44,1,Oakland
-2015-16,2015-12-19,wash1219,Washington,7,"Walker, Martez",17:08,1,Oakland
-2015-16,2015-12-22,msu1222,No._11_Michigan_State,8,"Felder, Kay",13:58,1,Oakland
-2015-16,2015-12-28,chst1228,Chicago_State,12,"Hooper, Max",17:07,1,Oakland
-2015-16,2015-12-30,uva1230,No._55_Virginia,8,"DORSEY-WALKER, S.",19:23,1,Oakland
-2015-16,2016-01-02,csu0102,Cleveland_State,9,"Hooper, Max",16:20,1,Oakland
-2015-16,2016-01-04,ysu0104,Youngstown_State,13,"Felder, Kay",11:42,1,Oakland
-2015-16,2016-01-10,uic0110,UIC,4,"Hooper, Max",15:54,2,Oakland
-2015-16,2016-01-16,udm0116,Detroit,6,"Felder, Kay",13:01,1,Oakland
-2015-16,2016-01-19,nku0119,Northern_Kentucky,7,"Hayes, Jalen",07:44,1,Oakland
-2015-16,2016-01-23,gb0123,Green_Bay,13,"DORSEY-WALKER, S.",15:59,1,Oakland
-2015-16,2016-01-25,uwm0125,Milwaukee,11,"Felder, Kay",19:38,1,Oakland
-2015-16,2016-01-29,wsu0129,Wright_State,8,"Felder, Kay",14:24,1,Oakland
-2015-16,2016-02-01,nku0201,Northern_Kentucky,8,"Felder, Kay",18:41,1,Oakland
-2015-16,2016-02-04,ysu0204,Youngstown_State,10,"Hooper, Max",17:46,1,Oakland
-2015-16,2016-02-06,csu0206,Cleveland_State,4,"Hooper, Max",11:52,1,Oakland
-2015-16,2016-02-11,uwm0211,Milwaukee,10,"DORSEY-WALKER, S.",18:54,1,Oakland
-2015-16,2016-02-13,gb0213,Green_Bay,12,"DORSEY-WALKER, S.",19:03,1,Oakland
-2015-16,2016-02-15,wsu0215,Wright_State,11,"Daniels, Nick",18:40,1,Oakland
-2015-16,2016-02-19,valp0219,Valparaiso,8,"Felder, Kay",18:39,1,Oakland
-2015-16,2016-02-21,uic0221,UIC,7,"Daniels, Nick",16:41,1,Oakland
-2015-16,2016-02-26,udm0226,Detroit,11,"DORSEY-WALKER, S.",18:51,1,Oakland
-2015-16,2016-03-07,hl-08,Wright_State,6,"Daniels, Nick",17:55,1,Oakland
-2015-16,2016-03-28,tow0328,Towson,7,"Felder, Kay",17:43,1,Oakland
-2015-16,2016-03-29,etsu0329,ETSU,15,"Felder, Kay",13:20,1,Oakland
-2015-16,2016-03-30,odu0330,Old_Dominion,10,"Daniels, Nick",18:46,1,Oakland
-2016-17,2016-11-18,gosh1118,Goshen_College,11,"Walker, Martez",17:35,1,Oakland
-2016-17,2016-11-24,1123,nev_Nevada,5,"Daniels, Nick",12:32,1,Oakland
-2016-17,2016-11-25,1126,uaa_Alaska_Anchorage,8,"DORSEY-WALKER, S.",15:08,1,Oakland
-2016-17,2016-11-26,1126,ucd_UC_Davis,10,"Walker, Martez",16:59,1,Oakland
-2016-17,2016-12-10,1210,rmu_Robert_Morris,3,"Daniels, Nick",14:06,1,Oakland
-2016-17,2017-01-06,gm16valp,Valparaiso,8,"CLARK,Stevie",19:45,1,Oakland
-2016-17,2017-01-08,gm17uic,UIC,4,"Daniels, Nick",11:17,1,Oakland
-2016-17,2017-01-20,gm20nku,Northern_Kentucky,3,"NEELY,Brailen",15:00,1,Oakland
-2016-17,2017-01-22,gm21wsu,Wright_State,5,"WALKER,Martez",16:46,1,Oakland
-2016-17,2017-02-02,gm24ysu,Youngstown_State,8,"DORSEY-WALKER,S",13:49,1,Oakland
-2016-17,2017-02-10,gm26udm,Detroit_Mercy,6,"WALKER,Martez",18:16,1,Oakland
-2016-17,2017-02-17,gm27valp,Valparaiso,8,"DANIELS,Nick",12:02,1,Oakland
-2016-17,2017-02-19,gm28uic,UIC,11,"DANIELS,Nick",13:19,1,Oakland
-2017-18,2017-10-29,1029cmu,Central_Michigan,14,"WALKER,Martez",18:10,1,OAK
-2017-18,2017-11-02,1102rc,Rochester_College,7,"WALKER,Martez",16:50,1,OAK
-2017-18,2017-11-06,1106dav,Davenport,17,"DANIELS,Nick",19:46,1,OAKLAND
-2017-18,2017-11-10,1110fw,Fort_Wayne,9,"WALKER,Martez",17:20,1,Oakland
-2017-18,2017-11-13,1113no,New_Orleans,14,"WALKER,Martez",19:09,1,Oakland
-2017-18,2017-11-18,1118ut,Toledo,7,"PALOMBIZIO,Chris",08:56,1,Oakland
-2017-18,2017-11-20,1120su,Syracuse,6,"WALKER,Martez",19:05,1,Oakland
-2017-18,2017-11-24,1124ku,No._3_Kansas,6,"NUNN,Kendrick",13:00,1,Oakland
-2017-18,2017-11-27,1127oru,Oral_Roberts,10,"DANIELS,Nick",19:11,1,Oakland
-2017-18,2017-11-30,1130tsu,Texas_Southern,7,"NEELY,Brailen",17:11,1,Oakland
-2017-18,2017-12-02,1202wmu,Western_Michigan,14,"DANIELS,Nick",17:20,1,Oakland
-2017-18,2017-12-06,1206emu,Eastern_Michigan,11,"WALKER,Martez",14:45,1,Oakland
-2017-18,2017-12-09,1209csu,Chicago_State,4,"WALKER,Martez",18:02,1,Oakland
-2017-18,2017-12-16,1216msu,No._2_Michigan_State,10,"DANIELS,Nick",19:15,1,Oakland
-2017-18,2017-12-20,1220tow,Towson,11,"DANIELS,Nick",15:03,1,Oakland
-2017-18,2017-12-22,1222emu,Eastern_Michigan,9,"NUNN,Kendrick",11:22,1,Oakland
-2017-18,2017-12-28,1228uwm,Milwaukee,5,"NUNN,Kendrick",12:13,1,Oakland
-2017-18,2018-01-05,0105nku,Northern_Kentucky,8,"PALOMBIZIO,Chris",11:35,1,Oakland
-2017-18,2018-01-07,0107wsu,Wright_State,10,"WALKER,Martez",15:41,1,Oakland
-2017-18,2018-01-10,0110ysu,Youngstown_State,12,"NUNN,Kendrick",18:06,1,Oakland
-2017-18,2018-01-12,0112csu,Cleveland_State,8,"DANIELS,Nick",14:56,1,Oakland
-2017-18,2018-01-15,0115uic,UIC,11,"NUNN,Kendrick",17:55,1,Oakland
-2017-18,2018-01-20,0120udm,Detroit_Mercy,11,"NUNN,Kendrick",18:49,1,Oakland
-2017-18,2018-01-26,0126nku,Northern_Kentucky,9,"NUNN,Kendrick",19:32,1,Oakland
-2017-18,2018-01-28,0128wsu,Wright_State,4,"NUNN,Kendrick",15:22,1,Oakland
-2017-18,2018-02-02,0202uic,UIC,3,"WALKER,Martez",12:54,2,Oakland
-2017-18,2018-02-04,0204iup,IUPUI,3,"WALKER,Martez",06:39,1,Oakland
-2017-18,2018-02-09,0209det,Detroit_Mercy,8,"NUNN,Kendrick",15:23,1,Oakland
-2017-18,2018-02-14,0214ysu,Youngstown_State,7,"NUNN,Kendrick",18:36,1,Oakland
-2017-18,2018-02-16,0216csu,Cleveland_State,6,"DANIELS,Nick",19:36,1,Oakland
-2017-18,2018-02-19,0219iup,IUPUI,8,"HAYES,Jalen",17:00,1,Oakland
-2017-18,2018-02-22,0222gb,Green_Bay,11,"HAYES,Jalen",16:33,1,Oakland
-2017-18,2018-02-24,0224uwm,Milwaukee,11,"NUNN,Kendrick",15:38,1,Oakland
-2017-18,2018-03-04,0304iupu,#5_IUPUI,5,"DANIELS,Nick",17:10,1,Oakland
-2017-18,2018-03-05,0305mg1,#8_Cleveland_State,5,"Nunn, Kendrick",18:11,1,OAK
-2018-19,2018-10-24,6332,Hillsdale,8,"BECK,JAMES",17:55,1,OAK
-2018-19,2018-11-06,2066,Kalamazoo,14,"HILL-MAIS,XAVIER",17:33,1,OAK
-2018-19,2018-11-09,6333,Toledo,9,"CUMBERLAND,JAEVIN",17:55,1,OAK
-2018-19,2018-11-13,6334,Western_Michigan,10,"NOBLES,JORDAN",16:02,1,OAK
-2018-19,2018-11-16,6335,UNLV,4,"HILL-MAIS,XAVIER",18:36,1,OAK
-2018-19,2018-11-19,6336,Defiance,15,"HILL-MAIS,XAVIER",18:19,1,OAK
-2018-19,2018-11-23,6368,James_Madison,10,"CUMBERLAND,JAEVIN",17:42,1,OAK
-2018-19,2018-11-24,6338,Oral_Roberts,9,"NORRIS,BRADEN",19:26,1,OAK
-2018-19,2018-11-25,6339,Northern_Illinois,12,"NORRIS,BRADEN",15:07,1,OAK
-2018-19,2018-12-01,6340,Xavier,11,"HILL-MAIS,XAVIER",19:13,1,OAK
-2018-19,2018-12-06,6341,Fairfield,10,"NEWMAN,KARMARI",17:23,1,OAK
-2018-19,2018-12-08,6342,Northeastern,13,"NEWMAN,KARMARI",15:25,1,OAK
-2018-19,2018-12-16,6343,Hartford,18,"CUMBERLAND,JAEVIN",17:48,1,OAK
-2018-19,2018-12-18,6344,Georgia,10,"MADDOX,TRAY",16:40,1,OAK
-2018-19,2018-12-21,6345,#8Michigan_State,13,"CUMBERLAND,JAEVIN",16:25,1,M-514
-2018-19,2018-12-28,6462,Cleveland_State,10,"HILL-MAIS,XAVIER",19:17,1,OAK
-2018-19,2018-12-30,6445,Youngstown_State,8,"HILL-MAIS,XAVIER",19:32,1,OAK
-2018-19,2019-01-03,6446,Northern_Kentucky,11,"HILL-MAIS,XAVIER",16:04,1,OAK
-2018-19,2019-01-05,6447,Wright_State,10,"HILL-MAIS,XAVIER",18:58,1,OAK
-2018-19,2019-01-10,6448,Milwaukee,11,"CUMBERLAND,JAEVIN",16:24,1,OAK
-2018-19,2019-01-12,6449,Green_Bay,10,"CUMBERLAND,JAEVIN",13:10,1,OAK
-2018-19,2019-01-19,6450,Detroit_Mercy,9,"CUMBERLAND,JAEVIN",16:26,1,OAK
-2018-19,2019-01-24,6451,IUPUI,12,"HILL-MAIS,XAVIER",18:37,1,OAK
-2018-19,2019-01-26,6452,UIC,7,"CUMBERLAND,JAEVIN",13:39,1,OAK
-2018-19,2019-01-31,6453,Youngstown_State,3,"CUMBERLAND,JAEVIN",17:06,2,OAK
-2018-19,2019-02-02,6454,Cleveland_State,7,"NORRIS,BRADEN",16:53,1,OAK
-2018-19,2019-02-07,6455,Wright_State,6,"CUMBERLAND,JAEVIN",16:16,1,OAK
-2018-19,2019-02-09,6456,Northern_Kentucky,5,"CUMBERLAND,JAEVIN",18:10,1,OAK
-2018-19,2019-02-14,6457,Green_Bay,5,"HILL-MAIS,XAVIER",16:21,1,OAK
-2018-19,2019-02-16,6458,Milwaukee,9,"CUMBERLAND,JAEVIN",16:25,1,OAK
-2018-19,2019-02-23,6459,Detroit_Mercy,12,"NORRIS,BRADEN",16:22,1,OAK
-2018-19,2019-02-28,6460,UIC,6,"CUMBERLAND,JAEVIN",18:50,1,OAK
-2018-19,2019-03-02,6461,IUPUI,10,"MADDOX,TRAY",11:39,1,OAK
-2018-19,2019-03-06,6492,No._6_Youngstown_State,8,"MADDOX,TRAY",19:32,1,OAK
-2018-19,2019-03-11,6493,No._2_Northern_Kentucky,12,"NORRIS,BRADEN",18:37,1,OAK
-2019-20,2019-10-24,6800,Rochester_University,3,"HILL-MAIS,XAVIER",05:22,1,Oak
-2019-20,2019-10-30,6801,Saginaw_Valley_State,5,"MONROE,MADISON",14:20,1,Oak
-2019-20,2019-11-05,6802,Goshen_College_(Ind.),7,"LAMPMAN,BLAKE",06:05,1,Oak
-2019-20,2019-11-08,6803,Delaware,3,"MADDOX JR.,TRAY",07:06,1,Oak
-2019-20,2019-11-09,6804,UTSA,8,"HILL-MAIS,XAVIER",18:47,1,Oak
-2019-20,2019-11-10,6805,Southern_Illinois,4,"BENSON,BARRET",19:42,1,SIU
-2019-20,2019-11-16,6806,#7Maryland,6,"MADDOX JR.,TRAY",12:04,1,Oak
-2019-20,2019-11-18,6807,Hartford,3,"HARRIS,JACKIE",03:09,1,Oak
-2019-20,2019-11-25,6808,Northern_Illinois,3,"HILL-MAIS,XAVIER",17:33,1,Oak
-2019-20,2019-11-30,6809,Toledo,7,"LAMPMAN,BLAKE",12:37,1,Oak
-2019-20,2019-12-03,6810,Western_Michigan,4,"MADDOX JR.,TRAY",06:52,1,Oak
-2019-20,2019-12-07,6811,Bowling_Green,6,"MADDOX JR.,TRAY",18:05,1,Oak
-2019-20,2019-12-14,6812,#16Michigan_State,7,"MADDOX JR.,TRAY",12:22,1,Oak
-2019-20,2019-12-18,6813,Syracuse,4,"MADDOX JR.,TRAY",07:41,1,Oak
-2019-20,2019-12-21,6814,Fairfield,3,"KANGU,KEVIN",18:38,2,OAK
-2019-20,2019-12-28,6945,Detroit_Mercy,9,"MADDOX JR.,TRAY",18:06,1,Oak
-2019-20,2020-01-03,6946,Wright_State,3,"MADDOX JR.,TRAY",15:12,1,Oak
-2019-20,2020-01-05,6947,Northern_Kentucky,7,"MADDOX JR.,TRAY",19:51,1,Oak
-2019-20,2020-01-09,6948,Youngstown_State,9,"MONROE,MADISON",19:05,1,Oak
-2019-20,2020-01-11,6949,Cleveland_State,8,"GOODLINE,ZACH",17:52,1,OAK
-2019-20,2020-01-16,6950,Green_Bay,7,"MADDOX JR.,TRAY",16:15,1,Oak
-2019-20,2020-01-18,6951,Milwaukee,8,"MADDOX JR.,TRAY",18:14,1,Oak
-2019-20,2020-01-23,6952,UIC,6,"WILLIAMS,RASHAD",15:06,1,Oak
-2019-20,2020-01-25,6953,IUPUI,11,"LAMPMAN,BLAKE",17:37,1,Oak
-2019-20,2020-01-31,6954,Detroit_Mercy,8,"LAMPMAN,BLAKE",17:58,1,Oak
-2019-20,2020-02-06,6955,Northern_Kentucky,8,"WILLIAMS,RASHAD",19:01,1,Oak
-2019-20,2020-02-08,6956,Wright_State,3,"WILLIAMS,RASHAD",12:20,1,OAK
-2019-20,2020-02-13,6957,Cleveland_State,8,"HILL-MAIS,XAVIER",13:07,1,Oak
-2019-20,2020-02-15,6958,Youngstown_State,10,"MADDOX JR.,TRAY",18:02,1,Oak
-2019-20,2020-02-21,6959,Milwaukee,6,"WILLIAMS,RASHAD",12:01,1,Oak
-2019-20,2020-02-23,6960,Green_Bay,7,"WILLIAMS,RASHAD",08:46,1,Oak
-2019-20,2020-02-27,6961,IUPUI,6,"WILLIAMS,RASHAD",11:38,1,Oak
-2019-20,2020-02-29,6962,UIC,5,"WILLIAMS,RASHAD",10:12,1,Oak
-2019-20,2020-03-03,6963,#7Cleveland_State_University,8,"MADDOX JR.,TRAY",17:58,1,Oak
-2019-20,2020-03-05,6964,#3Green_Bay,5,"WILLIAMS,RASHAD",18:02,1,Oak
-2020-21,2020-11-26,7217,University_of_Toledo,2,"WILLIAMS,RASHAD",18:11,1,Oak
-2020-21,2020-11-27,7218,Bradley_University,12,"YOUNG,ZION",17:11,1,Oak
-2020-21,2020-11-29,7219,#25University_of_Michigan,8,"YOUNG,ZION",17:02,1,Oak
-2020-21,2020-12-01,7220,Purdue_University,3,"YOUNG,ZION",10:20,1,Oak
-2020-21,2020-12-05,7221,Oklahoma_State_University,17,"WILLIAMS,RASHAD",17:43,1,Oak
-2020-21,2020-12-13,7222,#4Michigan_State_University,18,"WILLIAMS,RASHAD",18:13,1,Oak
-2020-21,2020-12-19,7191,University_of_Illinois_-_Chicago,2,"MOORE,JALEN",16:34,1,Oak
-2020-21,2020-12-20,7192,University_of_Illinois_-_Chicago,6,"WILLIAMS,RASHAD",15:30,1,Oak
-2020-21,2020-12-26,7223,Detroit_Mercy,6,"WILLIAMS,RASHAD",07:25,1,Oak
-2020-21,2020-12-27,7224,Detroit_Mercy,14,"KANGU,KEVIN",08:47,1,Oak
-2020-21,2021-01-01,7195,Wright_State_University,5,"YOUNG,ZION",04:19,1,Oak
-2020-21,2021-01-02,7196,Wright_State_University,9,"WILLIAMS,RASHAD",18:10,1,Oak
-2020-21,2021-01-08,7197,Green_Bay,8,"LAMPMAN,BLAKE",05:59,1,Oak
-2020-21,2021-01-09,7198,Green_Bay,7,"WILLIAMS,RASHAD",07:10,1,Oak
-2020-21,2021-01-15,7199,Youngstown_State_University,10,"WILLIAMS,RASHAD",18:49,1,Oak
-2020-21,2021-01-16,7200,Youngstown_State_University,7,"MOORE,JALEN",13:42,1,Oak
-2020-21,2021-01-22,7201,Detroit_Mercy,15,"MOORE,JALEN",18:11,1,Oak
-2020-21,2021-01-23,7202,Detroit_Mercy,10,"MOORE,JALEN",17:37,1,Oak
-2020-21,2021-01-29,7203,Purdue_Fort_Wayne,11,"YOUNG,ZION",12:48,1,Oak
-2020-21,2021-01-30,7204,Purdue_Fort_Wayne,6,"MOORE,JALEN",15:34,1,Oak
-2020-21,2021-02-05,7205,Cleveland_State_University,0,,,,
-2020-21,2021-02-06,7206,Cleveland_State_University,6,"YOUNG,ZION",14:52,1,Oak
-2020-21,2021-02-12,7207,Robert_Morris_University,8,"WILLIAMS,RASHAD",09:15,1,Oak
-2020-21,2021-02-13,7208,Robert_Morris_University,11,"WILLIAMS,RASHAD",19:43,1,Oak
-2020-21,2021-02-19,7209,Milwaukee,10,"TOWNSEND,TREY",18:18,1,Oak
-2020-21,2021-02-20,7210,Milwaukee,7,"YOUNG,ZION",12:29,1,Oak
-2020-21,2021-03-02,7464,Youngstown_State_University,9,"WILLIAMS,RASHAD",16:22,1,Oak
-2020-21,2021-03-08,7465,Northern_Kentucky_University,7,"WILLIAMS,RASHAD",17:33,1,Oak
-2020-21,2021-03-09,7466,Cleveland_State_University,11,"PARRISH,MICAH",17:45,1,Oak
-2021-22,2021-10-28,8789,Eastern_Michigan_University,9,"PRICE,OSEI",19:25,1,Oak
-2021-22,2021-11-05,8790,Lake_Superior_State_University,6,"PRICE,OSEI",07:59,1,Oak
-2021-22,2021-11-09,8562,West_Virginia_University,3,"TOWNSEND,TREY",00:52,1,Oak
-2021-22,2021-11-12,8563,Oklahoma_State_University,6,"TOWNSEND,TREY",09:04,1,Oak
-2021-22,2021-11-17,8564,University_of_Toledo,7,"LAMPMAN,BLAKE",12:13,1,Oak
-2021-22,2021-11-19,8638,University_of_Alabama,4,"CAIN,JAMAL",13:09,1,Oak
-2021-22,2021-11-22,8588,University_of_Vermont,7,"CAIN,JAMAL",18:58,1,Oak
-2021-22,2021-11-23,8731,Rice_University,7,"LAMPMAN,BLAKE",10:54,1,Oak
-2021-22,2021-11-24,8732,University_of_Delaware,8,"MOORE,JALEN",19:34,1,Oak
-2021-22,2021-12-02,8740,University_of_Illinois_-_Chicago,6,"PARRISH,MICAH",16:06,1,Oak
-2021-22,2021-12-04,8741,IUPUI,6,"PARRISH,MICAH",14:52,1,Oak
-2021-22,2021-12-07,8565,Bowling_Green,9,"CAIN,JAMAL",15:42,1,Oak
-2021-22,2021-12-21,8566,Michigan_State_University,10,"MOORE,JALEN",17:17,1,Oak
-2021-22,2021-12-30,8742,Robert_Morris_University,8,"PRICE,OSEI",19:32,1,Oak
-2021-22,2022-01-01,8743,Youngstown_State_University,13,"CAIN,JAMAL",19:08,1,Oak
-2021-22,2022-01-07,8930,Ohio_Christian_University,6,"PRICE,OSEI",14:23,1,Oak
-2021-22,2022-01-09,8746,Milwaukee,9,"PARRISH,MICAH",18:38,1,Oak
-2021-22,2022-01-13,8747,Cleveland_State_University,7,"PARRISH,MICAH",17:40,1,Oak
-2021-22,2022-01-15,8748,Purdue_Fort_Wayne,7,"MOORE,JALEN",14:46,1,Oak
-2021-22,2022-01-20,8749,Milwaukee,7,"PRICE,OSEI",17:09,1,Oak
-2021-22,2022-01-22,8750,Green_Bay,1,"LAMPMAN,BLAKE",07:15,1,Oak
-2021-22,2022-01-24,8961,University_of_Michigan-Dearborn,13,"PRICE,OSEI",19:46,1,Oak
-2021-22,2022-01-29,8752,University_of_Illinois_-_Chicago,7,"PARRISH,MICAH",18:00,1,Oak
-2021-22,2022-02-04,8753,Northern_Kentucky_University,14,"CAIN,JAMAL",18:46,1,Oak
-2021-22,2022-02-05,8754,Wright_State_University,7,"LAMPMAN,BLAKE",09:17,1,Oak
-2021-22,2022-02-09,8755,Youngstown_State_University,5,"PARRISH,MICAH",16:28,1,Oak
-2021-22,2022-02-11,8756,Robert_Morris_University,5,"CAIN,JAMAL",17:35,1,Oak
-2021-22,2022-02-13,8757,Detroit_Mercy,5,"PARRISH,MICAH",17:51,1,Oak
-2021-22,2022-02-18,8758,Wright_State_University,15,"MOORE,JALEN",19:22,1,Oak
-2021-22,2022-02-20,8759,Northern_Kentucky_University,8,"PARRISH,MICAH",10:58,1,Oak
-2021-22,2022-02-24,8760,Purdue_Fort_Wayne,7,"PARRISH,MICAH",18:41,1,Oak
-2021-22,2022-02-26,8762,Cleveland_State_University,6,"PARRISH,MICAH",16:22,1,Oak
-2021-22,2022-03-01,8931,#12IUPUI_(First_Round),9,"LAMPMAN,BLAKE",17:34,1,Oak
-2021-22,2022-03-03,8932,#4Wright_State_(Quarterfinal),3,"PARRISH,MICAH",17:17,1,Oak
-2022-23,2022-10-20,9883,Grand_Valley_State_University,6,"LAMPMAN,BLAKE",18:54,1,Oak
-2022-23,2022-11-01,9745,Rochester_University,4,"LAMPMAN,BLAKE",19:42,1,OAKLAND
-2022-23,2022-11-07,9746,Defiance_College,10,"WATTS,ROCKET",18:00,1,Oak
-2022-23,2022-11-11,9366,Bowling_Green,7,"HERVEY,KEATON",18:29,1,Oak
-2022-23,2022-11-13,9367,Oklahoma_State,4,"LAMPMAN,BLAKE",10:41,1,Oak
-2022-23,2022-11-16,9368,Toledo,13,"HERVEY,KEATON",18:27,1,Oak
-2022-23,2022-11-19,9373,Eastern_Michigan,15,"WATTS,ROCKET",19:35,1,Oak
-2022-23,2022-11-25,9370,Long_Beach_State,12,"PRICE,OSEI",11:42,1,Oak
-2022-23,2022-11-26,9371,San_Jose_State,5,"BOWMAN II,LORNE",10:13,1,Oak
-2022-23,2022-11-27,9372,Missouri_State,10,"PRICE,OSEI",14:03,1,Oak
-2022-23,2022-12-01,9843,Cleveland_State,4,"HERVEY,KEATON",17:06,1,Oak
-2022-23,2022-12-03,9844,Purdue_Fort_Wayne,9,"WATTS,ROCKET",16:07,1,Oak
-2022-23,2022-12-06,9365,Syracuse,5,"WATTS,ROCKET",13:06,1,Oak
-2022-23,2022-12-18,9708,Boise_State,5,"TOWNSEND,TREY",18:32,1,Oak
-2022-23,2022-12-21,9369,Michigan_State,7,"LAMPMAN,BLAKE",14:26,1,Oak
-2022-23,2022-12-29,9845,Milwaukee,8,"LAMPMAN,BLAKE",19:02,1,Oak
-2022-23,2022-12-31,9846,Green_Bay,5,"WATTS,ROCKET",18:40,1,Oak
-2022-23,2023-01-06,9847,Northern_Kentucky,7,"WATTS,ROCKET",16:07,1,Oak
-2022-23,2023-01-08,9848,Wright_State,8,"WATTS,ROCKET",19:32,1,Oak
-2022-23,2023-01-12,9849,Robert_Morris,8,"LAMPMAN,BLAKE",19:46,1,Oak
-2022-23,2023-01-14,9850,Youngstown_State,8,"MOORE,JALEN",13:58,1,Oak
-2022-23,2023-01-19,9851,IUPUI,6,"WATTS,ROCKET",19:13,1,Oak
-2022-23,2023-01-23,9852,Detroit_Mercy,8,"PRICE,OSEI",10:01,1,Oak
-2022-23,2023-01-27,9853,Youngstown_State,12,"HERVEY,KEATON",19:18,1,Oak
-2022-23,2023-01-29,9854,Robert_Morris,5,"MOORE,JALEN",07:32,1,Oak
-2022-23,2023-02-02,9855,Purdue_Fort_Wayne,4,"PRICE,OSEI",12:49,1,Oak
-2022-23,2023-02-04,9856,Cleveland_State,6,"LAMPMAN,BLAKE",17:10,1,Oak
-2022-23,2023-02-09,9857,Green_Bay,5,"HERVEY,KEATON",09:04,1,Oak
-2022-23,2023-02-11,9858,Milwaukee,10,"LAMPMAN,BLAKE",15:16,1,Oak
-2022-23,2023-02-15,9859,IUPUI,2,"HERVEY,KEATON",03:59,1,Oak
-2022-23,2023-02-17,9860,Detroit_Mercy,5,"LAMPMAN,BLAKE",19:27,1,Oak
-2022-23,2023-02-23,9861,Wright_State,6,"MOORE,JALEN",18:33,1,Oak
-2022-23,2023-02-25,9862,Northern_Kentucky,5,"MOORE,JALEN",13:03,1,Oak
-2022-23,2023-03-02,10101,#4Northern_Kentucky,8,"LAMPMAN,BLAKE",16:08,1,Oak
-2023-24,2023-10-19,11551,Walsh_University,8,"WATTS,ROCKET",08:21,1,Oak
-2023-24,2023-10-30,11552,Wayne_State_University,10,"LAMPMAN,BLAKE",19:40,1,Oak
-2023-24,2023-11-06,11328,Ohio_State,14,"GOHLKE,JACK",18:39,1,Oak
-2023-24,2023-11-10,11382,#25Illinois,5,"GOHLKE,JACK",18:58,1,Oak
-2023-24,2023-11-14,11380,Bowling_Green,7,"GOHLKE,JACK",13:00,1,Oak
-2023-24,2023-11-19,11329,Drake,7,"GOHLKE,JACK",18:17,1,Oak
-2023-24,2023-11-20,11330,Loyola_Marymount,10,"TOWNSEND,TREY",19:27,1,Oak
-2023-24,2023-11-21,11331,Marshall_University,7,"WATTS,ROCKET",15:06,1,Oak
-2023-24,2023-11-27,11353,Xavier,6,"JONES,ISAIAH",19:09,1,Oak
-2023-24,2023-11-29,11332,Detroit_Mercy,6,"GOHLKE,JACK",06:51,1,Oak
-2023-24,2023-12-02,11333,Purdue_Fort_Wayne,5,"GOHLKE,JACK",00:52,1,Oak
-2023-24,2023-12-06,11379,Toledo,9,"LAMPMAN,BLAKE",16:01,1,Oak
-2023-24,2023-12-08,11381,Eastern_Michigan,7,"GOHLKE,JACK",16:42,1,Oak
-2023-24,2023-12-18,11352,Michigan_State_University,9,"LAMPMAN,BLAKE",16:27,1,Oak
-2023-24,2023-12-20,11491,Dayton,8,"LAMPMAN,BLAKE",19:18,1,Oak
-2023-24,2023-12-28,11334,Cleveland_State,5,"WATTS,ROCKET",11:59,1,Oak
-2023-24,2023-12-31,11335,Youngstown_State,13,"LAMPMAN,BLAKE",18:01,1,Oak
-2023-24,2024-01-04,11336,Milwaukee,8,"LAMPMAN,BLAKE",17:35,1,Oak
-2023-24,2024-01-06,11337,Green_Bay,5,"LAMPMAN,BLAKE",19:36,1,Oak
-2023-24,2024-01-10,11338,Northern_Kentucky,6,"LAMPMAN,BLAKE",04:15,1,Oak
-2023-24,2024-01-13,11339,IUPUI,9,"COLE,DQ",18:31,1,Oak
-2023-24,2024-01-17,11340,Youngstown_State,8,"LAMPMAN,BLAKE",04:05,1,Oak
-2023-24,2024-01-25,11341,Green_Bay,7,"LAMPMAN,BLAKE",17:34,1,Oak
-2023-24,2024-01-27,11342,Milwaukee,15,"LAMPMAN,BLAKE",19:11,1,Oak
-2023-24,2024-02-01,11343,Robert_Morris,15,"LAMPMAN,BLAKE",18:45,1,Oak
-2023-24,2024-02-03,11344,Cleveland_State,6,"LAMPMAN,BLAKE",13:11,1,Oak
-2023-24,2024-02-08,11345,Northern_Kentucky,14,"LAMPMAN,BLAKE",18:59,1,Oak
-2023-24,2024-02-10,11346,Wright_State,8,"GOHLKE,JACK",04:06,1,Oak
-2023-24,2024-02-14,11347,Purdue_Fort_Wayne,11,"COLE,DQ",16:56,1,Oak
-2023-24,2024-02-17,11348,IUPUI,15,"GOHLKE,JACK",14:12,1,Oak
-2023-24,2024-02-22,11349,Robert_Morris,5,"COLE,DQ",09:36,1,Oak
-2023-24,2024-02-25,11350,Wright_State,9,"LAMPMAN,BLAKE",17:10,1,Oak
-2023-24,2024-03-02,11351,Detroit_Mercy,8,"LAMPMAN,BLAKE",18:39,1,Oak
-2023-24,2024-03-07,11772,#8Purdue_Fort_Wayne_(QF),6,"CONWAY,CHRIS",16:44,1,Oak
-2023-24,2024-03-11,11773,#7Cleveland_State_University_(SF),10,"GOHLKE,JACK",15:05,1,Oak
-2023-24,2024-03-12,11774,#6Milwaukee_(Championship),8,"PRICE,OSEI",18:50,1,Oak
-2023-24,2024-03-21,11739,#3University_of_Kentucky_(Round_of_64),15,"COLE,DQ",16:45,1,Oak
-2023-24,2024-03-23,11837,#11NC_State_University_(Round_of_32),12,"GOHLKE,JACK",14:27,1,Oak
-2024-25,2024-10-20,11992,University_of_Michigan,2,"WOODRICH,JAYSON",15:21,1,Oak
-2024-25,2024-10-25,11993,Rochester_Christian_University,8,"WOODRICH,JAYSON",18:18,1,OAKLAND
-2024-25,2024-11-04,11994,Defiance_College,9,"COLE,DQ",10:16,1,M-514
-2024-25,2024-11-06,11995,#RVBoise_State,3,"WOODRICH,JAYSON",09:22,1,Oak
-2024-25,2024-11-13,11997,#RVUniversity_of_Illinois,4,"WOODRICH,JAYSON",17:49,1,Oak
-2024-25,2024-11-16,11998,#1University_of_Kansas,6,"COLE,DQ",15:29,1,Oak
-2024-25,2024-11-21,11999,Eastern_Michigan_University,3,"MASHHOUR,NASSIM",13:36,1,Oak
-2024-25,2024-11-30,12000,University_of_Toledo,11,"COLE,DQ",16:18,1,Oak
-2024-25,2024-12-05,12029,Wright_State_University,9,"WOODRICH,JAYSON",18:35,1,Oak
-2024-25,2024-12-07,12031,Youngstown_State_University,2,"CRAGGS,COOPER",17:01,1,Oak
-2024-25,2024-12-17,12001,#20Michigan_State_University,11,"COLE,DQ",16:25,1,Oak
-2024-25,2024-12-19,12035,Cleveland_State_University,13,"JONES,JAYLEN",15:34,1,Oak
-2024-25,2024-12-22,12002,Loyola_University_Chicago_(QF),9,"COLE,DQ",18:03,1,Oak
-2024-25,2024-12-23,12003,Oregon_State_University_(SF),5,"COLE,DQ",16:18,1,Oak
-2024-25,2024-12-25,12004,University_of_Hawaii_(3rd_Place_Game),9,"CHRISTIE,MALCOLM",06:59,1,Oak
-2024-25,2024-12-30,12005,#23Arkansas,2,"CHRISTIE,MALCOLM",14:58,1,Oak
-2024-25,2025-01-02,12039,Milwaukee,3,"JONES,JAYLEN",07:17,1,Oak
-2024-25,2025-01-04,12043,Robert_Morris_University,8,"CHRISTIE,MALCOLM",18:50,1,Oak
-2024-25,2025-01-09,12030,Wright_State_University,5,"CHRISTIE,MALCOLM",15:38,1,Oak
-2024-25,2025-01-11,12045,Northern_Kentucky_University,9,"HOTH,JACK",18:14,1,Oak
-2024-25,2025-01-15,12047,IU_Indy,8,"COLE,DQ",17:37,1,Oak
-2024-25,2025-01-18,12049,Detroit_Mercy,10,"WOODRICH,JAYSON",14:49,1,Oak
-2024-25,2025-01-22,12051,Purdue_Fort_Wayne,6,"CHRISTIE,MALCOLM",13:18,1,Oak
-2024-25,2025-01-25,12044,Robert_Morris_University,12,"WOODRICH,JAYSON",14:19,1,Oak
-2024-25,2025-01-30,12053,Green_Bay,8,"CHRISTIE,MALCOLM",13:07,1,Oak
-2024-25,2025-02-01,12046,Northern_Kentucky_University,11,"COLE,DQ",19:41,1,Oak
-2024-25,2025-02-06,12034,Youngstown_State_University,7,"WOODRICH,JAYSON",16:46,1,Oak
-2024-25,2025-02-12,12048,IU_Indy,12,"WOODRICH,JAYSON",18:50,1,Oak
-2024-25,2025-02-16,12050,Detroit_Mercy,6,"CHRISTIE,MALCOLM",09:32,1,Oak
-2024-25,2025-02-21,12052,Purdue_Fort_Wayne,1,"COLE,DQ",19:08,1,Oak
-2024-25,2025-02-23,12037,Cleveland_State_University,8,"COLE,DQ",15:28,1,Oak
-2024-25,2025-02-27,12041,Milwaukee,9,"WOODRICH,JAYSON",17:45,1,Oak
-2024-25,2025-03-01,12054,Green_Bay,9,"COLE,DQ",12:39,1,Oak
-2024-25,2025-03-04,12161,#11Green_Bay_(1st_Rd.),12,"JONES,ISAIAH",17:53,1,Oak
-2024-25,2025-03-06,12162,#3Milwaukee_(QF),7,"COLE,DQ",17:40,1,Oak
-2024-25,2025-03-10,12163,#1Robert_Morris_University_(SF),8,"COLE,DQ",19:08,1,Oak
-2025-26,2025-10-22,13041,Alma_College_(Exh.),12,"MASHHOUR,NASSIM",18:51,1,Oak
-2025-26,2025-10-30,13042,Rochester_Christian_(Exh.),9,"MASHHOUR,NASSIM",15:33,1,Oak
-2025-26,2025-11-03,13043,#7Michigan,11,"NAIVALURUA,TUBURU",19:01,1,Oak
-2025-26,2025-11-07,13044,#1Purdue,8,"MASHHOUR,NASSIM",18:28,1,Oak
-2025-26,2025-11-12,13045,#1Houston,3,"MASHHOUR,NASSIM",19:45,2,Oak
-2025-26,2025-11-15,13054,Defiance_College,8,"MASHHOUR,NASSIM",15:49,1,M-514
-2025-26,2025-11-17,13046,UCF,9,"WHITE,BRETT",12:52,1,Oak
-2025-26,2025-11-21,13047,Eastern_Michigan,9,"MASHHOUR,NASSIM",19:18,1,Oak
-2025-26,2025-11-24,13049,Lamar,3,"MASHHOUR,NASSIM",06:56,1,Oak
-2025-26,2025-11-25,13050,Montana,6,"HOUGE,MICHAEL",19:20,1,Oak
-2025-26,2025-12-03,13053,Purdue_Fort_Wayne,13,"MASHHOUR,NASSIM",18:59,1,Oak
-2025-26,2025-12-06,13051,Toledo,6,"ROBINSON,BRODY",17:13,1,Oak
-2025-26,2025-12-13,13124,Northern_Iowa,5,"WHITE,BRETT",15:02,1,Oak
-2025-26,2025-12-17,13055,Northern_Kentucky,6,"WHITE,BRETT",16:24,1,Oak
-2025-26,2025-12-20,13077,#9Michigan_State,10,"WELLS,ZIARE",18:53,1,Oak
-2025-26,2025-12-29,13057,Wright_State,5,"ROBINSON,BRODY",18:48,1,Oak
-2025-26,2026-01-01,13058,Youngstown_State,8,"ROBINSON,BRODY",07:09,1,Oak
+Season,Game_Date,Game_ID,Location,Opponent,Opponent_Rank,Result,Oakland_Score,Opponent_Score,Oakland_3PM,Oakland_3PA,Oakland_3P_Pct,Opponent_3PM,Opponent_3PA,First_3Pt_Player,First_3Pt_Period,First_3Pt_Clock,First_3Pt_Elapsed_Sec,Opponent_First_3Pt_Player,Opponent_First_3Pt_Period,Opponent_First_3Pt_Clock,PBP_Available,Boxscore_URL
+2008-09,2008-11-17,1705,Away,Oregon,,W,82,79,4,20,0.200,11,29,Erik Kangas,1,14:44,316,Tajuan Porter,1,11:59,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ore1117.html
+2008-09,2008-11-23,1707,Away,Iowa,,L,57,66,7,19,0.368,10,25,Erik Kangas,1,14:09,351,Anthony Tucker,1,17:05,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/iowa1123.html
+2008-09,2008-12-02,1711,Away,Southern Utah,,L,60,82,3,16,0.188,6,12,Blake Cushingberry,1,00:04,1196,Davis Baker,1,17:36,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/suu1202.html
+2008-09,2008-12-04,1712,Away,Kansas City,,W,84,78,5,23,0.217,14,39,Johnathon Jones,1,08:26,694,Spencer Johnson,1,18:34,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/umkc1204.html
+2008-09,2008-12-07,1713,Home,Toledo,,W,67,58,7,17,0.412,6,19,Erik Kangas,1,16:06,234,Anthony Byrd,1,04:26,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/tol1207.html
+2008-09,2008-12-14,1714,Home,Rochester Christian,,W,88,54,13,31,0.419,5,19,Dan Waterstradt,1,19:48,12,John Djurovski,1,07:02,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/roc1214.html
+2008-09,2008-12-18,1715,Away,Green Bay,,W,79,76,12,25,0.480,9,29,Erik Kangas,1,17:16,164,Ryan Tillema,1,11:57,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/gb1218.html
+2008-09,2008-12-20,1716,Home,Michigan,,L,76,89,8,24,0.333,13,29,Erik Kangas,1,18:06,114,Stu Douglass,1,19:39,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/mich1220.html
+2008-09,2008-12-22,1717,Away,Eastern Michigan,,W,66,53,8,23,0.348,2,11,Erik Kangas,1,19:37,23,L.J. Frazier,1,05:27,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/emu122.html
+2008-09,2008-12-27,1718,Home,Michigan State,11,L,66,82,7,19,0.368,11,20,Drew Maynard,1,15:49,251,Kalin Lucas,1,17:52,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/msu1227.html
+2008-09,2008-12-31,1719,Home,South Dakota State,,W,86,81,8,18,0.444,15,30,Erik Kangas,1,18:50,70,Kai Williams,1,19:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/sdsu1231.html
+2008-09,2009-01-02,1720,Home,North Dakota State,,W,77,76,7,14,0.500,9,22,Blake Cushingberry,1,18:48,72,Brett Winkelman,1,19:12,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ndsu0102.html
+2008-09,2009-01-08,1721,Away,Centenary College,,L,60,80,2,19,0.105,11,19,Erik Kangas,1,14:38,322,Nick Stallings,1,15:01,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/cc0108.html
+2008-09,2009-01-10,1722,Away,Oral Roberts,,L,65,68,5,18,0.278,2,14,Dan Waterstradt,1,15:14,286,Kyron Stokes,2,14:37,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/oru0110.html
+2008-09,2009-01-17,1723,Away,Purdue Fort Wayne,,W,93,88,12,23,0.522,14,26,Erik Kangas,1,19:12,48,Nick Daniels,1,17:34,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ipfw0117.html
+2008-09,2009-01-22,1724,Home,IUPUI,,W,75,57,12,23,0.522,7,19,Erik Kangas,1,16:31,209,Alex Young,1,18:06,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/iupui122.html
+2008-09,2009-01-24,1725,Home,Western Illinois,,W,86,46,10,24,0.417,4,12,Drew Maynard,1,17:45,135,David Nurse,1,16:27,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/wiu0124.html
+2008-09,2009-01-29,1726,Away,North Dakota State,,L,71,81,8,22,0.364,6,15,Johnathon Jones,1,13:02,418,Mike Nelson,1,09:49,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ndsu0129.html
+2008-09,2009-01-31,1727,Away,South Dakota State,,L,68,74,4,23,0.174,8,25,Erik Kangas,2,19:32,1228,Kai Williams,1,19:40,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2008-2009/sdsu0131.html
+2008-09,2009-02-05,1728,Home,Oral Roberts,,W,81,69,12,24,0.500,4,16,Erik Kangas,1,18:41,79,Robert Jarvis,1,14:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2008-2009/oru0205.html
+2008-09,2009-02-07,1729,Home,Centenary College,,W,78,65,7,18,0.389,10,31,Erik Kangas,1,14:18,342,Nick Stallings,1,19:38,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/cc0207.html
+2008-09,2009-02-14,1730,Home,Purdue Fort Wayne,,W,83,72,8,16,0.500,7,16,Drew Maynard,1,18:26,94,Jakari Johnson,1,13:22,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ipfw0214.html
+2008-09,2009-02-19,1731,Away,Western Illinois,,W,77,52,13,23,0.565,3,9,Erik Kangas,1,19:54,6,Ceola Clark,1,14:24,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2008-2009/wiu0219.html
+2008-09,2009-02-21,1732,Away,IUPUI,,W,81,76,9,18,0.500,9,20,Drew Maynard,1,19:52,8,Leroy Nobles,1,18:32,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/iupu0221.html
+2008-09,2009-02-26,1733,Home,Southern Utah,,W,78,62,6,23,0.261,6,11,Erik Kangas,1,18:29,91,Davis Baker,1,09:35,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/suu0226.html
+2008-09,2009-02-28,1734,Home,Kansas City,,W,100,88,7,17,0.412,5,18,Erik Kangas,1,18:55,65,Spencer Johnson,1,06:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/umkc0228.html
+2008-09,2009-03-08,1735,Neutral,Purdue Fort Wayne,,W,75,62,6,13,0.462,4,12,Dan Waterstradt,1,10:05,595,David Carson,1,13:09,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ipfw0308.html
+2008-09,2009-03-09,1736,Neutral,South Dakota State,,W,74,56,8,20,0.400,2,11,Erik Kangas,1,17:28,152,Clint Sargent,2,07:24,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/sdsu0309.html
+2008-09,2009-03-10,1737,Neutral,North Dakota State,,L,64,66,4,16,0.250,6,15,Erik Kangas,1,16:14,226,Michael Tveidt,1,10:50,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2008-2009/ndsu0310.html
+2008-09,2009-03-17,1738,Home,Kent State,,W,80,74,10,27,0.370,7,18,Dan Waterstradt,1,11:08,532,Al Fisher,1,10:33,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/ksu0317.html
+2008-09,2009-03-23,1739,Away,Bradley,,L,75,76,5,19,0.263,8,15,Johnathon Jones,1,15:25,275,Sam Maniscalco,1,07:54,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2008-2009/brad0323.html
+2009-10,2009-11-14,1741,Home,Eastern Michigan,,L,77,81,4,22,0.182,6,15,Derick Nelson,1,00:04,1196,Carlos Medlock,1,11:29,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/emu1114.html
+2009-10,2009-11-18,1742,Away,Wisconsin,,L,42,58,3,19,0.158,3,14,Blake Cushingberry,1,03:25,995,Trevon Hughes,1,17:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/11-18-09.html
+2009-10,2009-11-21,1743,Home,Rochester Christian,,W,97,63,3,14,0.214,7,15,Larry Wright,1,18:44,76,Torey Throop,1,17:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/roch1121.html
+2009-10,2009-11-23,1744,Away,Tennessee Tech,,W,77,56,8,21,0.381,2,12,Derick Nelson,1,07:19,761,Jud Dillard,1,04:52,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ttu1123.html
+2009-10,2009-11-25,1745,Away,Kansas,1,L,59,89,7,18,0.389,10,21,Larry Wright,1,09:12,648,Xavier Henry,1,12:43,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ku1125.html
+2009-10,2009-11-28,1746,Home,Central Arkansas,,W,83,75,8,21,0.381,5,17,Larry Wright,1,18:55,65,Jared Rehmel,1,13:08,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/uca1128.html
+2009-10,2009-11-30,1747,Away,Memphis,,L,46,77,3,6,0.500,7,16,Derick Nelson,1,04:08,952,Elliot Williams,1,08:59,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/mem1130.html
+2009-10,2009-12-05,1748,Away,Purdue Fort Wayne,,W,84,76,3,13,0.231,8,22,Larry Wright,1,05:07,893,Zach Plackemeier,1,17:12,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ipfw1205.html
+2009-10,2009-12-10,1749,Away,Michigan State,12,L,57,88,5,20,0.250,4,13,Larry Wright,1,09:55,605,Kalin Lucas,1,11:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/msu1210.html
+2009-10,2009-12-13,1750,Home,Green Bay,,W,72,56,5,13,0.385,5,20,Larry Wright,1,19:48,12,Bryquis Perine,1,18:28,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/gb1213.html
+2009-10,2009-12-17,1751,Away,Seattle,,W,77,68,2,13,0.154,3,18,Larry Wright,1,04:41,919,Chris Gweth,1,00:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/sea1217.html
+2009-10,2009-12-19,1752,Away,Oregon,,L,60,72,5,20,0.250,4,11,Drew Maynard,1,16:36,204,Jamil Wilson,1,12:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ore1219.html
+2009-10,2009-12-22,1753,Away,Syracuse,5,L,60,92,2,22,0.091,10,22,Drew Maynard,1,13:24,396,Brandon Triche,1,17:11,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/syr1222.html
+2009-10,2009-12-28,1754,Home,Alma,,W,106,57,13,24,0.542,10,31,Larry Wright,1,16:46,194,Cory Schneider,1,10:09,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/alma1228.html
+2009-10,2009-12-31,1755,Home,Western Illinois,,W,75,63,5,18,0.278,5,13,Johnathon Jones,1,13:16,404,David Nurse,1,14:54,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/wiu1231.html
+2009-10,2010-01-02,1756,Home,IUPUI,,W,85,82,6,19,0.316,6,14,Derick Nelson,1,19:15,45,Alex Young,1,10:54,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/iupu0102.html
+2009-10,2010-01-07,1757,Away,Oral Roberts,,W,67,64,5,15,0.333,5,16,Derick Nelson,1,15:10,290,Kyron Stokes,1,08:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/oru0107.html
+2009-10,2010-01-09,1758,Away,Centenary College,,W,88,50,4,14,0.286,3,20,Blake Cushingberry,1,09:13,647,David Perez,1,18:12,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/cent0109.html
+2009-10,2010-01-14,1759,Home,Kansas City,,W,87,73,7,20,0.350,10,23,Drew Maynard,1,11:07,533,Kirk Korver,1,13:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/umkc0114.html
+2009-10,2010-01-16,1760,Home,Southern Utah,,W,99,53,10,27,0.370,2,10,Larry Wright,1,19:05,55,Matt Massey,1,12:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/suu0116.html
+2009-10,2010-01-21,1761,Away,North Dakota State,,W,85,79,9,23,0.391,3,10,Larry Wright,1,19:51,9,Josh Vaughan,1,03:28,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ndsu17.html
+2009-10,2010-01-23,1762,Away,South Dakota State,,W,85,82,2,14,0.143,5,13,Ledrick Eackles,1,12:11,469,Michael Palarca,1,16:48,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/sdsu0123.html
+2009-10,2010-01-28,1763,Away,IUPUI,,L,54,78,5,19,0.263,1,7,Derick Nelson,1,14:29,331,Leroy Nobles,1,04:48,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/iupu0128.html
+2009-10,2010-02-04,1765,Home,Centenary College,,W,75,64,9,25,0.360,6,17,Johnathon Jones,1,15:52,248,Maxx Nakwaasah,1,18:06,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/cc020410.html
+2009-10,2010-02-11,1767,Away,Southern Utah,,W,85,72,6,18,0.333,2,4,Drew Maynard,1,17:12,168,Scott Friel,1,08:50,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/suu0211.html
+2009-10,2010-02-13,1768,Away,Kansas City,,W,83,71,9,17,0.529,5,15,Johnathon Jones,1,18:45,75,Trey McKinney-Jones,1,06:45,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/umkc0213.html
+2009-10,2010-02-18,1769,Home,South Dakota State,,W,88,83,8,22,0.364,9,23,Larry Wright,1,18:23,97,Garrett Callahan,1,19:04,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/sdsu0218.html
+2009-10,2010-02-20,1770,Home,North Dakota State,,W,88,81,3,16,0.188,7,19,Derick Nelson,2,18:17,1303,Nate Zastrow,1,13:09,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/ndsu0220.html
+2009-10,2010-02-27,1771,Home,Purdue Fort Wayne,,W,86,83,6,16,0.375,5,11,Johnathon Jones,1,17:36,144,Deilvez Yearby,1,15:35,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/ipfw0227.html
+2009-10,2010-03-06,1772,Neutral,Kansas City,,W,85,70,8,19,0.421,8,25,Blake Cushingberry,1,18:42,78,Spencer Johnson,1,18:25,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/umkc0306.html
+2009-10,2010-03-08,1773,Neutral,Purdue Fort Wayne,,W,71,58,6,19,0.316,9,23,Blake Cushingberry,1,14:44,316,Ben Botts,1,17:51,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/ipfw0308.html
+2009-10,2010-03-09,1774,Neutral,IUPUI,,W,76,64,6,23,0.261,6,19,Larry Wright,1,12:58,422,Leroy Nobles,1,12:42,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2009-2010/iupu0309.html
+2009-10,2010-03-19,1775,Neutral,Pittsburgh,,L,66,89,4,21,0.190,4,12,Larry Wright,1,15:38,262,Gilbert Brown,1,14:09,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2009-2010/pitt0319.html
+2010-11,2010-11-12,1777,Away,West Virginia,,L,71,95,4,15,0.267,12,29,Travis Bader,1,16:59,181,Darryl Bryant,1,17:59,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2010-2011/wvu1112.html
+2010-11,2010-11-15,1778,Away,Ohio,,W,78,66,5,18,0.278,10,28,Ledrick Eackles,1,11:37,503,Nick Kellogg,1,17:44,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/ohio1115.html
+2010-11,2010-11-21,1779,Away,Purdue,14,L,67,82,7,17,0.412,11,25,Travis Bader,1,19:35,25,Jajuan Johnson,1,18:02,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/purd1121.html
+2010-11,2010-11-23,1780,Away,Wright State,,L,79,82,7,18,0.389,11,23,Reggie Hamilton,1,16:47,193,Troy Tabler,1,19:02,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/wsu1123.html
+2010-11,2010-11-26,1781,Neutral,Southern,,W,105,53,10,28,0.357,4,16,Reggie Hamilton,1,16:54,186,Blake Sanford,1,05:23,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/su1126.html
+2010-11,2010-11-27,1782,Neutral,Austin Peay,,W,78,70,5,20,0.250,5,18,Reggie Hamilton,1,18:45,75,Anthony Campbell,1,12:49,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/apsu1127.html
+2010-11,2010-12-02,1783,Home,Southern Utah,,W,81,65,7,21,0.333,5,7,Travis Bader,1,11:07,533,Jordan Weirick,1,19:07,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/suu1202.html
+2010-11,2010-12-04,1784,Home,Kansas City,,W,99,62,5,16,0.312,6,25,Reggie Hamilton,1,19:24,36,Bakari Lewis,1,17:23,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/umkc1204.html
+2010-11,2010-12-08,1785,Away,Illinois,16,L,63,74,5,26,0.192,8,18,Travis Bader,1,14:31,329,D.J. Richardson,1,05:23,True,https://goldengrizzlies.com/sports/2018/6/1/_m_baskbl_stats_2010_2011_ill1208_html.aspx
+2010-11,2010-12-11,1786,Neutral,Michigan State,7,L,76,77,9,19,0.474,6,15,Travis Bader,1,19:07,53,Kalin Lucas,1,18:45,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/msu1211.html
+2010-11,2010-12-14,1787,Away,Tennessee,7,W,89,82,7,18,0.389,4,18,Larry Wright,1,18:28,92,Melvin Goins,1,17:16,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/tenn1214.html
+2010-11,2010-12-18,1788,Away,Michigan,,L,51,69,6,31,0.194,6,19,Reggie Hamilton,1,18:21,99,Zack Novak,1,19:28,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/mich1218.html
+2010-11,2010-12-20,1789,Home,Rochester Christian,,W,103,79,16,38,0.421,10,26,Larry Wright,1,16:29,211,Marques Ewell,1,15:54,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/rc1220.html
+2010-11,2010-12-21,1790,Home,Valparaiso,,L,102,103,10,22,0.455,10,19,Travis Bader,1,13:36,384,Brandon Wood,1,16:41,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/val1221.html
+2010-11,2010-12-23,1791,Away,Ohio State,2,L,63,92,9,24,0.375,10,18,Reggie Hamilton,1,16:20,220,Jon Diebler,1,08:19,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/osu1223.html
+2010-11,2010-12-28,1792,Away,Centenary College,,W,98,71,10,23,0.435,4,14,Drew Valentine,1,17:43,137,Quin Cooper,1,16:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/cc1228.html
+2010-11,2010-12-30,1793,Away,Oral Roberts,,W,85,77,5,12,0.417,6,17,Travis Bader,1,18:49,71,Dominique Morrison,1,19:36,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/oru1230.html
+2010-11,2011-01-08,1795,Home,Western Illinois,,W,79,50,9,23,0.391,3,11,Travis Bader,1,17:36,144,Brandon Smith,2,12:33,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/wiu0108.html
+2010-11,2011-01-15,1796,Away,Purdue Fort Wayne,,W,86,68,7,15,0.467,7,25,Travis Bader,1,15:30,270,Antwaun Boyd,1,08:13,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/ipfw0115.html
+2010-11,2011-01-20,1797,Away,South Dakota State,,W,97,88,12,26,0.462,11,27,Reggie Hamilton,1,18:50,70,Jordan Dykstra,1,14:34,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/sdsu0120.html
+2010-11,2011-01-22,1798,Away,North Dakota State,,W,83,76,7,16,0.438,1,14,Ryan Bass,1,07:04,776,Mike Felt,1,11:29,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/ndsu0122.html
+2010-11,2011-01-27,1799,Home,Oral Roberts,,W,88,85,7,15,0.467,5,14,Travis Bader,1,06:55,785,Damen Bell-Holter,1,05:59,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/oru0127.html
+2010-11,2011-01-29,1800,Home,Centenary College,,W,100,70,7,23,0.304,5,12,Travis Bader,1,17:20,160,Maxx Nakwaasah,1,08:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/cc0129.html
+2010-11,2011-02-03,1801,Away,Western Illinois,,W,88,65,12,25,0.480,5,15,Larry Wright,1,17:06,174,Matt Lander,1,12:11,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/wiu0203.html
+2010-11,2011-02-05,1802,Away,IUPUI,,L,88,100,14,36,0.389,1,7,Reggie Hamilton,1,15:04,296,Leroy Nobles,1,19:32,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/iupu0205.html
+2010-11,2011-02-17,1804,Home,North Dakota State,,W,71,69,5,21,0.238,6,13,Reggie Hamilton,1,19:43,17,Taylor Braun,1,18:21,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/ndsu0217.html
+2010-11,2011-02-19,1805,Home,South Dakota State,,W,105,96,10,27,0.370,10,28,Larry Wright,1,19:31,29,Griffan Callahan,1,19:06,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/sdsu0219.html
+2010-11,2011-02-24,1806,Away,Kansas City,,W,103,90,11,24,0.458,11,30,Travis Bader,1,18:49,71,Spencer Johnson,1,19:11,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/umkc0224.html
+2010-11,2011-02-26,1807,Away,Southern Utah,,W,82,68,6,25,0.240,3,9,Drew Valentine,1,02:33,1047,Ryan Brimley,1,17:05,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/suu0226.html
+2010-11,2011-03-05,1808,Neutral,Southern Utah,,W,82,66,8,18,0.444,2,7,Travis Bader,1,19:45,15,Ray Jones,2,13:08,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/suu0305.html
+2010-11,2011-03-07,1809,Neutral,South Dakota State,,W,110,90,12,21,0.571,9,25,Reggie Hamilton,1,15:42,258,Nate Wolters,1,17:24,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2010-2011/sdsu0307.html
+2010-11,2011-03-18,1811,Neutral,Texas,,L,81,85,7,29,0.241,4,9,Travis Bader,1,17:05,175,J'Covan Brown,1,12:22,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2010-2011/tex0318.html
+2011-12,2011-11-14,1814,Away,Alabama,16,L,57,74,4,18,0.222,3,8,Travis Bader,1,15:05,295,Levi Randolph,1,15:18,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/bama1114.html
+2011-12,2011-11-16,1815,Away,Arkansas,,L,68,91,12,36,0.333,8,20,Travis Bader,1,12:03,477,Marvell Waithe,1,13:03,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ar1116.html
+2011-12,2011-11-19,1816,Away,Grambling State,,W,75,45,6,27,0.222,2,9,Blake Cushingberry,1,18:49,71,Roman Higgins,1,05:38,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2011-2012/gsu1119.html
+2011-12,2011-11-22,1817,Away,Houston,,W,76,74,6,24,0.250,3,18,Reggie Hamilton,1,18:23,97,Darian Thibodeaux,1,06:42,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/hou1122.html
+2011-12,2011-11-25,1818,Home,Utah Valley,,W,89,83,6,27,0.222,8,24,Blake Cushingberry,1,04:08,952,Holton Hunsaker,1,15:54,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/uvu1125.html
+2011-12,2011-11-28,1819,Home,Tennessee,,W,89,81,7,21,0.333,9,22,Travis Bader,1,19:40,20,Jordan McRae,1,16:13,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/tenn1128.html
+2011-12,2011-12-01,1820,Home,South Dakota,,W,101,83,10,24,0.417,6,26,Travis Bader,1,19:48,12,Louie Krogman,1,07:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/usd1201.html
+2011-12,2011-12-03,1821,Home,Kansas City,,W,86,73,6,15,0.400,3,20,Travis Bader,1,14:00,360,Reggie Chamberlain,1,16:57,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/umkc1203.html
+2011-12,2011-12-07,1822,Home,Ohio,,L,82,84,7,23,0.304,12,27,Reggie Hamilton,1,17:47,133,Nick Kellogg,1,17:30,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2011-2012/ohio1207.html
+2011-12,2011-12-10,1823,Home,Michigan,20,L,80,90,8,21,0.381,15,28,Drew Valentine,1,12:37,443,Evan Smotrycz,1,17:18,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/mich1210.html
+2011-12,2011-12-13,1824,Home,Rochester Christian,,W,77,62,5,23,0.217,8,26,Reggie Hamilton,1,15:29,271,Brad Norman,1,18:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/rc1213.html
+2011-12,2011-12-17,1825,Away,Valparaiso,,W,82,80,11,27,0.407,11,25,Drew Valentine,1,16:41,199,Will Bogan,1,18:24,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/val1217.html
+2011-12,2011-12-20,1826,Away,Arizona,,L,73,85,9,32,0.281,8,18,Drew Valentine,1,15:19,281,Solomon Hill,1,17:21,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ariz1220.html
+2011-12,2011-12-23,1827,Home,Western Michigan,,L,76,91,12,35,0.343,10,22,Travis Bader,1,17:06,174,Nate Hutcheson,1,19:32,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/wmu1223.html
+2011-12,2011-12-28,1828,Away,North Dakota State,,L,69,96,4,21,0.190,12,20,Reggie Hamilton,2,19:53,1207,Dylan Hale,1,15:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ndsu1228.html
+2011-12,2011-12-30,1829,Away,South Dakota State,,L,64,76,5,19,0.263,9,19,Reggie Hamilton,1,16:40,200,Griffan Callahan,1,18:50,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/sdsu1230.html
+2011-12,2012-01-03,1830,Home,Oral Roberts,,L,80,89,7,21,0.333,11,16,Travis Bader,1,08:06,714,Dominique Morrison,1,13:03,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/oru0103.html
+2011-12,2012-01-05,1831,Home,Western Illinois,,L,61,71,7,20,0.350,6,14,Drew Valentine,1,18:32,88,Tommie Tyler,1,17:06,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/wiu0105.html
+2011-12,2012-01-07,1832,Home,IUPUI,,W,93,81,5,16,0.312,7,21,Drew Valentine,1,19:22,38,Stephen Thomas,1,15:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2011-2012/iupu0107.html
+2011-12,2012-01-14,1833,Away,Purdue Fort Wayne,,W,96,86,14,29,0.483,7,20,Reggie Hamilton,1,18:18,102,Justin Jordan,1,16:04,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ipfw0114.html
+2011-12,2012-01-19,1834,Away,Southern Utah,,W,72,63,6,16,0.375,5,11,Reggie Hamilton,1,09:50,610,Ray Jones Jr.,1,16:51,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/suu0119.html
+2011-12,2012-01-21,1835,Away,Oral Roberts,,L,86,93,15,28,0.536,10,20,Reggie Hamilton,1,18:28,92,Warren Niles,1,16:19,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/oru0121.html
+2011-12,2012-01-26,1836,Home,South Dakota State,,W,92,87,14,28,0.500,14,33,Travis Bader,1,13:39,381,Jordan Dykstra,1,18:28,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/sdsu0126.html
+2011-12,2012-01-28,1837,Home,North Dakota State,,L,75,78,13,29,0.448,10,16,Drew Valentine,1,18:31,89,Lawrence Alexander,1,18:06,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ndsu0128.html
+2011-12,2012-02-01,1838,Away,IUPUI,,L,75,79,11,28,0.393,9,20,Laval Lucas-Perry,1,17:08,172,Stephen Thomas,1,19:08,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/iupu0201.html
+2011-12,2012-02-04,1839,Away,Western Illinois,,W,74,70,14,30,0.467,7,18,Reggie Hamilton,1,18:47,73,Ceola Clark,1,11:34,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/wiu0204.html
+2011-12,2012-02-11,1840,Home,Purdue Fort Wayne,,W,93,82,12,25,0.480,10,24,Reggie Hamilton,1,18:14,106,Jonny Marlin,1,19:30,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/ipfw0211.html
+2011-12,2012-02-15,1841,Home,Southern Utah,,W,76,68,8,20,0.400,2,11,Travis Bader,1,16:13,227,Wade Collie,1,19:21,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/suu0215.html
+2011-12,2012-02-18,1842,Away,Illinois State,,L,75,79,11,30,0.367,7,21,Reggie Hamilton,1,17:34,146,Tyler Brown,1,18:16,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/isu0218.html
+2011-12,2012-02-23,1843,Away,Kansas City,,W,89,56,10,22,0.455,5,28,Reggie Hamilton,1,19:29,31,Reggie Chamberlain,1,10:50,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/umkc0223.html
+2011-12,2012-02-25,1844,Away,South Dakota,,W,84,77,14,29,0.483,12,28,Reggie Hamilton,1,19:45,15,Louie Krogman,1,18:58,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/usd0225.html
+2011-12,2012-03-04,1845,Neutral,Southern Utah,,L,82,84,15,27,0.556,5,9,Travis Bader,1,18:02,118,Damon Heuir,1,17:11,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2011-2012/suu0304.html
+2011-12,2012-03-14,1846,Home,Bowling Green,,W,86,69,12,24,0.500,3,20,Reggie Hamilton,1,16:11,229,Dee Brown,1,13:05,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/bgsu0314.html
+2011-12,2012-03-17,1847,Home,Buffalo,,W,84,76,12,27,0.444,12,27,Ryan Bass,1,14:28,332,Zach Filzen,1,16:35,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/buff0317.html
+2011-12,2012-03-20,1848,Home,Rice,,W,77,70,4,18,0.222,7,25,Travis Bader,1,17:16,164,Dylan Ennis,1,10:30,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2011-2012/rice0320.html
+2011-12,2012-03-25,1849,Away,Utah State,,L,81,105,13,35,0.371,12,16,Travis Bader,1,18:56,64,Brockeith Pane,1,17:41,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2011-2012/usu0325.html
+2012-13,2012-11-09,1852,Home,Albion,,W,96,62,9,18,0.500,7,18,Dante Williams,1,19:16,44,Alex Harville,1,12:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/alb1109.html
+2012-13,2012-11-11,1853,Away,Louisiana,,L,79,90,6,17,0.353,8,20,Travis Bader,1,11:49,491,Steven Wronkoski,1,11:29,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2012-2013/ul1.html
+2012-13,2012-11-13,1854,Away,Boise State,,L,80,88,6,19,0.316,11,34,Duke Mondy,1,12:10,470,Anthony Drmic,1,17:51,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/bsu1113.html
+2012-13,2012-11-17,1855,Away,Pittsburgh,,L,62,72,5,18,0.278,7,24,Duke Mondy,1,16:02,238,James Robinson,1,19:12,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/pitt1117.html
+2012-13,2012-11-20,1856,Away,Texas Southern,,W,71,69,8,19,0.421,12,31,Travis Bader,1,16:53,187,Raymond Penn,1,15:57,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/txso1120.html
+2012-13,2012-11-23,1857,Away,Michigan State,,L,52,70,3,21,0.143,3,11,Travis Bader,2,17:39,1341,Russell Byrd,1,04:56,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/msu1123.html
+2012-13,2012-11-26,1858,Away,Tennessee,,L,50,77,2,16,0.125,6,22,Travis Bader,1,05:54,846,Skylar McBee,1,17:44,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/tenn1126.html
+2012-13,2012-12-01,1859,Away,Western Michigan,,L,72,76,6,20,0.300,4,13,Duke Mondy,1,15:46,254,Brandon Pokley,1,18:16,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/wmu1201.html
+2012-13,2012-12-06,1860,Home,Rochester Christian,,W,88,77,7,12,0.583,8,25,Travis Bader,1,14:08,352,Brad Norman,1,09:45,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2012-2013/rc1206.html
+2012-13,2012-12-08,1861,Away,Ohio,,L,61,78,7,16,0.438,8,28,Travis Bader,1,16:26,214,D.J. Cooper,1,14:04,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/ohio1208.html
+2012-13,2012-12-17,1862,Home,Valparaiso,,W,70,68,5,15,0.333,7,23,Ryan Bass,1,13:22,398,Ryan Broekhoff,1,14:16,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2012-2013/valp1217.html
+2012-13,2012-12-19,1863,Away,West Virginia,,L,71,76,10,19,0.526,8,19,Travis Bader,1,17:22,158,Terry Henderson,1,18:10,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2012-2013/wvu1219.html
+2012-13,2012-12-22,1864,Away,Eastern Michigan,,W,59,57,7,23,0.304,5,17,Ryan Bass,1,19:42,18,Jalen Ross,1,08:07,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/emu1222.html
+2012-13,2012-12-27,1865,Away,Western Illinois,,L,63,73,5,18,0.278,2,7,Ryan Bass,1,18:49,71,Jack Houpt,1,17:30,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/wiu1227.html
+2012-13,2012-12-29,1866,Away,IUPUI,,W,84,62,7,17,0.412,6,21,Travis Bader,1,19:03,57,Jordan Shanklin,1,12:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/iupu1229.html
+2012-13,2013-01-03,1867,Home,Omaha,,W,91,79,11,29,0.379,11,22,Travis Bader,1,19:54,6,Justin Simmons,1,19:24,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/uno0103.html
+2012-13,2013-01-05,1868,Away,Alabama,,L,45,65,2,10,0.200,6,16,Duke Mondy,2,14:00,1560,Trevor Releford,1,15:59,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/bama0105.html
+2012-13,2013-01-10,1869,Away,South Dakota State,,L,74,81,6,24,0.250,5,16,Travis Bader,1,11:42,498,Jordan Dykstra,1,10:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/sdsu0110.html
+2012-13,2013-01-12,1870,Away,North Dakota State,,L,65,73,9,22,0.409,11,20,Ryan Bass,1,05:12,888,Trayvonn Wright,1,17:41,True,https://goldengrizzlies.com/sports/2018/6/1/_m_baskbl_stats_2012_2013_ndsu0112_html.aspx
+2012-13,2013-01-17,1871,Home,Kansas City,,W,81,68,8,18,0.444,9,22,Travis Bader,1,17:08,172,Thomas Staton,1,17:16,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/umkc0117.html
+2012-13,2013-01-19,1872,Home,South Dakota,,L,78,97,11,28,0.393,10,19,Travis Bader,1,19:06,54,Jordan Boots,1,12:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/usd0119.html
+2012-13,2013-01-24,1873,Home,IUPUI,,W,89,71,14,30,0.467,10,24,Travis Bader,1,19:31,29,Sean Esposito,1,17:53,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/iupu0124.html
+2012-13,2013-01-26,1874,Home,Western Illinois,,W,67,60,7,21,0.333,9,21,Travis Bader,1,12:08,472,Jack Houpt,1,19:40,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/wiu0126.html
+2012-13,2013-02-02,1875,Away,Omaha,,W,96,81,4,21,0.190,6,19,Ryan Bass,1,11:03,537,Justin Simmons,1,17:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/unom0202.html
+2012-13,2013-02-07,1876,Home,North Dakota State,,W,66,63,8,27,0.296,8,23,Ryan Bass,1,19:18,42,Trayvonn Wright,1,13:21,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/ndsu0207.html
+2012-13,2013-02-09,1877,Home,South Dakota State,,W,88,83,16,30,0.533,10,27,Travis Bader,1,19:23,37,Chad White,1,19:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/sdsu0209.html
+2012-13,2013-02-14,1878,Away,South Dakota,,W,76,75,9,24,0.375,8,18,Travis Bader,1,18:39,81,Brandon Bos,1,15:18,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/usd0214.html
+2012-13,2013-02-16,1879,Away,Kansas City,,W,86,74,10,21,0.476,7,24,Dante Williams,1,19:12,48,Nelson Kirksey,1,18:17,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/umkc0216.html
+2012-13,2013-02-20,1880,Away,Purdue Fort Wayne,,L,71,77,5,20,0.250,8,23,Travis Bader,1,14:37,323,Michael Kibiloski,1,18:04,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/ipfw0220.html
+2012-13,2013-02-23,1881,Home,Morehead State,,W,82,79,7,13,0.538,4,31,Travis Bader,1,17:20,160,Bruce Reed,1,06:15,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/more0223.html
+2012-13,2013-03-02,1882,Home,Purdue Fort Wayne,,L,72,74,4,20,0.200,8,26,Dante Williams,1,19:08,52,Frank Gaines,1,18:48,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/ipfw0302.html
+2012-13,2013-03-10,1883,Neutral,Purdue Fort Wayne,,L,72,91,8,32,0.250,12,20,Dante Williams,1,18:32,88,Frank Gaines,1,19:08,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2012-2013/ipfw0310.html
+2012-13,2013-03-19,1884,Away,Youngstown State,,L,87,99,7,15,0.467,18,35,Ryan Bass,1,15:01,299,Blake Allen,1,17:40,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2012-2013/ysu0319.html
+2013-14,2013-11-08,1887,Away,North Carolina,12,L,61,84,8,25,0.320,5,13,Duke Mondy,1,18:53,67,Marcus Paige,1,15:01,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/unc1108.html
+2013-14,2013-11-12,1888,Away,UCLA,24,L,60,91,6,25,0.240,5,21,Travis Bader,1,10:00,600,Jordan Adams,1,02:06,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/ucla1112.html
+2013-14,2013-11-15,1889,Away,California,,L,60,64,7,19,0.368,7,18,Tommie McCune,1,15:48,252,Sam Singer,1,08:44,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/cal1115.html
+2013-14,2013-11-17,1890,Away,Gonzaga,15,L,67,82,11,20,0.550,11,20,Kahlil Felder,1,15:48,252,Kevin Pangos,1,16:21,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/zags1117.html
+2013-14,2013-11-23,1891,Neutral,Louisiana-Lafayette,,L,75,84,8,23,0.348,9,20,Mitch Baenziger,1,17:18,162,Steven Wronkoski,1,17:39,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/ull1123.html
+2013-14,2013-11-24,1892,Neutral,St. Francis Brooklyn,,L,62,68,7,21,0.333,5,15,Travis Bader,1,16:43,197,Ben Mockford,1,17:47,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/stb1124.html
+2013-14,2013-11-26,1893,Away,Western Michigan,,L,88,99,10,26,0.385,9,21,Travis Bader,1,15:59,241,David Brown,1,19:35,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/wmu1126.html
+2013-14,2013-11-30,1894,Home,Rochester Christian,,W,86,51,6,12,0.500,9,25,Mitch Baenziger,1,13:59,361,AJ Burton,1,12:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/rc1130.html
+2013-14,2013-12-07,1895,Home,Ohio,,W,73,56,7,22,0.318,3,24,Mitch Baenziger,1,04:05,955,Nick Kellogg,1,19:41,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/ohio1207.html
+2013-14,2013-12-10,1896,Away,Indiana,,L,54,81,4,20,0.200,9,21,Mitch Baenziger,1,14:52,308,Troy Williams,1,19:04,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/iu1210.html
+2013-14,2013-12-14,1897,Neutral,Michigan State,5,L,63,67,8,27,0.296,6,16,Duke Mondy,1,18:28,92,Adreian Payne,1,17:31,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/msu1214.html
+2013-14,2013-12-21,1899,Home,Eastern Michigan,,L,79,81,14,31,0.452,8,28,Travis Bader,1,14:59,301,Darell Combs,1,03:50,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/emu1221.html
+2013-14,2013-12-22,1900,Home,Robert Morris,,W,100,94,11,24,0.458,10,24,Travis Bader,1,18:51,69,Lucky Jones,1,18:01,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/rmu1222.html
+2013-14,2013-12-27,1901,Home,Defiance College,,W,87,66,9,20,0.450,6,23,Travis Bader,1,10:15,585,Mason Roth,1,18:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/dc1227.html
+2013-14,2014-01-02,1902,Away,Wright State,,L,57,73,7,24,0.292,9,19,Travis Bader,1,11:39,501,Miles Dixon,1,19:39,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2013-2014/wsu0307.html
+2013-14,2014-01-04,1903,Home,Valparaiso,,W,75,70,10,21,0.476,10,23,Travis Bader,1,17:08,172,Lavonte Dority,1,17:55,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/valp0104.html
+2013-14,2014-01-08,1904,Home,Milwaukee,,L,75,84,3,25,0.120,9,24,Kahlil Felder,1,19:33,27,Steve McWhorter,1,16:01,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/0104uwm.html
+2013-14,2014-01-11,1905,Away,Detroit Mercy,,W,77,69,9,25,0.360,4,15,Travis Bader,1,19:19,41,Juwan Howard Jr.,1,18:47,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/udm0111.html
+2013-14,2014-01-16,1906,Away,Cleveland State,,L,76,86,8,27,0.296,10,20,Dante Williams,1,15:35,265,Trey Lewis,1,15:51,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/csu0116.html
+2013-14,2014-01-22,1907,Away,Green Bay,,L,69,83,5,21,0.238,8,15,Travis Bader,1,16:45,195,Vince Garrett,1,16:30,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/gb0122.html
+2013-14,2014-01-25,1908,Home,UIC,,W,76,75,7,23,0.304,8,16,Travis Bader,1,14:38,322,Jake Wiegand,1,19:13,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/uic0125.html
+2013-14,2014-01-31,1909,Home,Youngstown State,,W,86,85,10,27,0.370,12,30,Kahlil Felder,1,15:40,260,DJ Cole,1,17:16,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/ysu0131.html
+2013-14,2014-02-02,1910,Away,Milwaukee,,L,64,86,10,21,0.476,13,25,Kahlil Felder,1,19:24,36,Austin Arians,1,15:35,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/uwm0202.html
+2013-14,2014-02-06,1911,Home,Cleveland State,,L,85,92,15,29,0.517,14,23,Travis Bader,1,18:31,89,Charlie Lee,1,19:40,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/csu0206.html
+2013-14,2014-02-09,1912,Away,Valparaiso,,L,60,63,8,22,0.364,7,25,Travis Bader,1,15:39,261,Bobby Capobianco,1,15:20,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/vu0209.html
+2013-14,2014-02-14,1913,Home,Detroit Mercy,,W,83,82,12,21,0.571,9,28,Travis Bader,1,16:44,196,Evan Bruinsma,1,19:22,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/udm0214.html
+2013-14,2014-02-16,1914,Home,Wright State,,L,71,72,6,18,0.333,9,21,Ralph Hill,1,18:56,64,Cole Darling,1,18:25,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/wsu0216.html
+2013-14,2014-02-21,1915,Away,UIC,,W,86,71,9,18,0.500,10,30,Travis Bader,1,18:40,80,Pat Birt,1,16:41,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/uic0221.html
+2013-14,2014-02-27,1916,Home,Green Bay,,L,63,71,6,21,0.286,6,15,Duke Mondy,1,18:36,84,Alec Brown,1,13:43,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/gb0227.html
+2013-14,2014-03-01,1917,Away,Youngstown State,,W,87,81,10,22,0.455,8,17,Ralph Hill,1,16:24,216,DJ Cole,1,19:27,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/ysu0301.html
+2013-14,2014-03-04,1918,Home,Youngstown State,,W,96,92,13,34,0.382,8,25,Ralph Hill,1,17:30,150,Kamren Belin,1,08:30,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/ysu0304.html
+2013-14,2014-03-07,1919,Neutral,Wright State,,L,57,73,7,24,0.292,9,19,Travis Bader,1,11:39,501,Miles Dixon,1,19:39,True,http://www.ougrizzlies.com/sports/m-baskbl/stats/2013-2014/wsu0307.html
+2014-15,2014-11-14,1922,Away,Iowa State,14,L,82,93,9,24,0.375,7,16,Kahlil Felder,1,19:24,36,Montï¿½ Morris,1,19:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/isu1114.html
+2014-15,2014-11-17,1923,Away,Eastern Michigan,,L,77,89,9,24,0.375,7,20,Dante Williams,1,09:41,619,Anali Okoloji,1,18:23,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/emu1117.html
+2014-15,2014-11-19,1924,Home,Western Michigan,,L,71,82,7,19,0.368,9,18,Tommie McCune,1,14:22,338,David Brown,1,17:06,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/wmu1119.html
+2014-15,2014-11-24,1925,Home,Western Carolina,,L,79,88,10,32,0.312,10,29,Tommie McCune,1,17:44,136,Mike Brown,1,15:06,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/wcu1124.html
+2014-15,2014-11-25,1926,Home,Chicago State,,W,70,57,7,17,0.412,8,25,Ralph Hill,1,18:08,112,Anthony Glover,1,15:50,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/csu1125.html
+2014-15,2014-11-26,1927,Home,Georgia State,,L,78,83,13,34,0.382,11,17,Max Hooper,1,15:27,273,R.J. Hunter,1,19:16,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/gsu1126.html
+2014-15,2014-11-29,1928,Home,Toledo,,W,81,79,10,20,0.500,5,21,Dante Williams,1,17:20,160,Jonathan Williams,1,18:13,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/ut1129.html
+2014-15,2014-12-03,1929,Home,Rochester Christian,,W,84,52,11,22,0.500,7,22,Nick Daniels,1,17:16,164,Nick Tatu,1,17:28,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/rc1203.html
+2014-15,2014-12-06,1930,Away,Morehead State,,W,70,68,3,12,0.250,7,24,Nick Daniels,1,16:49,191,Kareem Storey,1,18:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/game-11.html
+2014-15,2014-12-14,1931,Away,/23 Michigan State,,L,61,87,5,20,0.250,10,17,Dante Williams,1,14:35,325,Travis Trice,1,19:20,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/gm10-oak.html
+2014-15,2014-12-20,1933,Away,Pittsburgh,,L,77,81,7,20,0.350,5,14,Max Hooper,1,07:56,724,Cameron Wright,1,18:53,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/game-12.html
+2014-15,2014-12-22,1934,Away,Clemson,,L,60,70,4,15,0.267,8,23,Collin Weaver,1,15:37,263,Jaron Blossomgame,1,18:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/cu1222.html
+2014-15,2014-12-27,1935,Away,Maryland,15,L,56,72,6,19,0.316,8,20,Dante Williams,1,09:38,622,Jake Layman,1,16:25,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/oak14.html
+2014-15,2015-01-02,1936,Home,Valparaiso,,W,89,75,9,22,0.409,7,27,Dante Williams,1,16:44,196,Alec Peters,1,10:24,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/vu0102.html
+2014-15,2015-01-08,1937,Away,Cleveland State,,L,61,65,7,19,0.368,8,21,Max Hooper,1,08:38,682,Charlie Lee,1,17:12,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/csu0108.html
+2014-15,2015-01-15,1939,Home,Green Bay,,W,69,66,8,19,0.421,2,14,Dante Williams,1,18:34,86,Turner Botz,1,02:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/gb0115.html
+2014-15,2015-01-18,1940,Home,Albion,,W,83,68,9,21,0.429,14,28,Tommie McCune,1,18:30,90,Vince Hill,1,18:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/alb0118.html
+2014-15,2015-01-22,1941,Home,Milwaukee,,W,66,53,4,14,0.286,3,23,Tommie McCune,1,13:04,416,Matt Tiby,1,01:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/uwm0122.html
+2014-15,2015-01-26,1942,Home,Cleveland State,,W,59,56,4,11,0.364,4,14,Max Hooper,1,11:33,507,Kaza Keane,1,12:47,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/csu0126.html
+2014-15,2015-01-28,1943,Home,Wright State,,W,84,76,7,26,0.269,13,28,Dante Williams,1,18:42,78,Kendall Griffin,1,17:34,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/wsu0128.html
+2014-15,2015-02-01,1944,Away,Youngstown State,,W,96,80,11,28,0.393,5,19,Kahlil Felder,1,17:06,174,Osandai Vaughn,1,19:30,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/ysu0201.html
+2014-15,2015-02-04,1945,Away,UIC,,W,91,77,6,12,0.500,11,19,Dante Williams,1,17:57,123,Ahman Fells,1,18:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/uic0204.html
+2014-15,2015-02-08,1946,Away,Valparaiso,,L,76,82,9,22,0.409,6,15,Nick Daniels,1,11:33,507,Darien Walker,1,18:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/mb26-oak.html
+2014-15,2015-02-10,1947,Away,Milwaukee,,L,67,84,9,20,0.450,13,23,Nick Daniels,1,15:32,268,Justin Jordan,1,18:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/mbb25.html
+2014-15,2015-02-15,1948,Home,Detroit Mercy,,W,83,78,6,19,0.316,7,17,Max Hooper,1,18:15,105,Anton Wilson,1,10:30,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/udm0215.html
+2014-15,2015-02-18,1949,Away,Wright State,,W,76,67,7,20,0.350,3,14,Max Hooper,1,18:01,119,Reggie Arceneaux,1,05:02,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/wsu0218.html
+2014-15,2015-02-22,1950,Home,UIC,,W,81,56,15,28,0.536,5,23,Dante Williams,1,14:59,301,Ahman Fells,1,17:46,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/uic0222.html
+2014-15,2015-02-25,1951,Home,Youngstown State,,W,82,71,7,24,0.292,7,22,Kahlil Felder,1,17:44,136,DJ Cole,1,19:13,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/ysu0225.html
+2014-15,2015-02-28,1952,Away,Green Bay,,L,63,83,4,16,0.250,3,13,Kahlil Felder,1,15:10,290,Greg Mays,2,17:22,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/m022815.html
+2014-15,2015-03-06,1953,Neutral,UIC,,L,69,72,12,28,0.429,6,19,Max Hooper,1,17:49,131,Jay Harris,1,18:58,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/uic-oak.html
+2014-15,2015-03-17,1954,Home,Eastern Illinois,,L,91,97,10,36,0.278,15,31,Dante Williams,1,17:44,136,Dylan Chatman,1,18:16,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2014-2015/eiu0317.html
+2015-16,2015-11-18,1960,Home,Eastern Michigan,,W,91,81,12,31,0.387,7,30,Max Hooper,1,17:17,163,Willie Mangum,1,18:47,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/emu1118.html
+2015-16,2015-11-22,1961,Away,Colorado State,,L,89,95,8,23,0.348,12,32,Max Hooper,1,15:26,274,John Gillon,1,17:41,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/cost1122.html
+2015-16,2015-11-24,1962,Away,Southern Illinois,,L,88,97,9,24,0.375,12,25,S. Dorsey-Walker,1,16:12,228,Anthony Beane,1,19:24,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/siu1124.html
+2015-16,2015-11-27,1963,Neutral,Alcorn State,,W,84,51,8,18,0.444,6,20,S. Dorsey-Walker,1,18:23,97,Tamarcio Wilson,1,18:45,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/asu1127.html
+2015-16,2015-11-28,1964,Neutral,Abilene Christian,,W,85,57,10,17,0.588,3,21,Max Hooper,1,15:20,280,Jovan Crnic,1,16:52,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/acu1128.html
+2015-16,2015-12-01,1965,Away,Georgia,,L,82,86,11,29,0.379,7,22,Jalen Hayes,1,19:16,44,Houston Kessler,1,19:31,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uga1201.html
+2015-16,2015-12-05,1966,Away,Robert Morris,,W,92,74,11,29,0.379,6,26,Kay Felder,1,16:39,201,Matty McConnell,1,18:00,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/rmu1205.html
+2015-16,2015-12-07,1967,Home,Binghamton,,W,83,72,7,16,0.438,14,35,Max Hooper,1,16:10,230,Marlon Beck II,1,14:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/bing1207.html
+2015-16,2015-12-12,1968,Away,Toledo,,W,76,64,7,17,0.412,8,30,Kay Felder,1,17:44,136,Jonathan Williams,1,16:17,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/ut1212.html
+2015-16,2015-12-19,1969,Away,Washington,,W,97,83,7,25,0.280,11,37,Martez Walker,1,17:08,172,Andrew Andrews,1,18:03,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/wash1219.html
+2015-16,2015-12-22,1970,Home,Michigan State,1,L,93,99,8,22,0.364,10,17,Kay Felder,1,13:58,362,Bryn Forbes,1,19:24,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/msu1222.html
+2015-16,2015-12-28,1971,Home,Chicago State,,W,101,93,12,29,0.414,12,33,Max Hooper,1,17:07,173,Montana Byrd,1,17:42,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/chst1228.html
+2015-16,2015-12-30,1972,Away,Virginia,5,L,58,71,8,21,0.381,6,16,S. Dorsey-Walker,1,19:23,37,Malcolm Brogdon,1,06:14,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uva1230.html
+2015-16,2016-01-02,1973,Home,Cleveland State,,W,86,68,9,21,0.429,4,26,Max Hooper,1,16:20,220,Myles Hamilton,1,06:37,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/csu0102.html
+2015-16,2016-01-04,1974,Home,Youngstown State,,L,98,100,13,27,0.481,16,32,Kay Felder,1,11:42,498,Matt Donlan,1,18:06,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/ysu0104.html
+2015-16,2016-01-10,1976,Home,UIC,,W,86,61,4,16,0.250,5,16,Max Hooper,2,15:54,1446,Dikembe Dixson,2,18:20,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uic0110.html
+2015-16,2016-01-16,1977,Away,Detroit Mercy,,W,86,82,6,23,0.261,3,9,Kay Felder,1,13:01,419,Anton Wilson,1,16:19,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/udm0116.html
+2015-16,2016-01-19,1978,Home,Northern Kentucky,,L,73,90,7,25,0.280,11,25,Jalen Hayes,1,07:44,736,Tyler White,1,17:51,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/nku0119.html
+2015-16,2016-01-23,1979,Away,Green Bay,,W,111,95,13,22,0.591,10,26,S. Dorsey-Walker,1,15:59,241,Jordan Fouse,1,18:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/gb0123.html
+2015-16,2016-01-25,1980,Away,Milwaukee,,W,82,79,11,17,0.647,10,34,Kay Felder,1,19:38,22,Jordan Johnson,1,16:58,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uwm0125.html
+2015-16,2016-01-29,1981,Home,Wright State,,W,89,63,8,21,0.381,9,22,Kay Felder,1,14:24,336,Joe Thomasson,1,06:21,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/wsu0129.html
+2015-16,2016-02-01,1982,Away,Northern Kentucky,,W,85,74,8,18,0.444,8,14,Kay Felder,1,18:41,79,Tyler White,1,15:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/nku0201.html
+2015-16,2016-02-04,1983,Away,Youngstown State,,W,107,85,10,26,0.385,5,10,Max Hooper,1,17:46,134,Cameron Morse,2,12:52,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/ysu0204.html
+2015-16,2016-02-06,1984,Away,Cleveland State,,W,67,57,4,16,0.250,5,15,Max Hooper,1,11:52,488,Demonte Flannigan,1,15:19,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/csu0206.html
+2015-16,2016-02-11,1985,Home,Milwaukee,,L,85,93,10,29,0.345,10,26,S. Dorsey-Walker,1,18:54,66,J.J. Panoske,1,16:20,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uwm0211.html
+2015-16,2016-02-13,1986,Home,Green Bay,,W,111,93,12,30,0.400,10,28,S. Dorsey-Walker,1,19:03,57,Carrington Love,1,15:48,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/gb0213.html
+2015-16,2016-02-15,1987,Away,Wright State,,W,89,73,11,19,0.579,6,16,Nick Daniels,1,18:40,80,Jt Yoho,1,17:51,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/wsu0215.html
+2015-16,2016-02-19,1988,Away,Valparaiso,,L,84,86,8,20,0.400,6,20,Kay Felder,1,18:39,81,Keith Carter,1,18:56,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/valp0219.html
+2015-16,2016-02-21,1989,Away,UIC,,W,74,63,7,18,0.389,3,10,Nick Daniels,1,16:41,199,Markese McGuire,1,05:16,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/uic0221.html
+2015-16,2016-02-26,1990,Home,Detroit Mercy,,W,108,97,11,25,0.440,7,26,S. Dorsey-Walker,1,18:51,69,Jarod Williams,1,09:04,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/udm0226.html
+2015-16,2016-03-07,1991,Neutral,Wright State,,L,55,59,6,19,0.316,6,13,Nick Daniels,1,17:55,125,Daniel Mortensen,1,08:51,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/hl-08.html
+2015-16,2016-03-28,1992,Neutral,Towson,,W,90,72,7,19,0.368,4,21,Kay Felder,1,17:43,137,Mike Morsell,1,14:27,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/tow0328.html
+2015-16,2016-03-29,1993,Neutral,ETSU,,W,104,81,15,34,0.441,13,32,Kay Felder,1,13:20,400,Deuce Bello,1,17:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/etsu0329.html
+2015-16,2016-03-30,1994,Neutral,Old Dominion,,L,67,68,10,23,0.435,3,8,Nick Daniels,1,18:46,74,Aaron Bacote,2,19:43,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2015-2016/odu0330.html
+2016-17,2016-11-11,1996,Home,Bowling Green,,W,78,70,7,19,0.368,9,20,Stevie Clark,1,12:32,448,Wes Alcegaire,1,16:39,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_gm1bgsu_html.aspx
+2016-17,2016-11-14,1997,Home,Western Michigan,,W,77,60,8,23,0.348,3,15,Martez Walker,1,08:50,670,Jarrin Randall,2,11:57,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1114wmu_html.aspx
+2016-17,2016-11-18,1998,Home,Goshen College,,W,102,59,11,33,0.333,8,27,Martez Walker,1,17:35,145,Billy Geschke,1,15:46,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gosh1118.html
+2016-17,2016-11-19,1999,Home,Chicago State,,W,107,79,10,31,0.323,8,22,Stevie Clark,1,15:42,258,Fred Sims Jr.,1,18:17,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1119csu_html.aspx
+2016-17,2016-11-24,2000,Neutral,Nevada,,L,78,82,5,20,0.250,11,20,Nick Daniels,1,12:32,448,Marcus Marshall,1,14:08,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/1123_nev.html
+2016-17,2016-11-25,2001,Away,Alaska Anchorage,,W,71,65,8,21,0.381,6,20,S. Dorsey-Walker,1,15:08,292,Diante Mitchell,1,16:01,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/1126_uaa.html
+2016-17,2016-11-26,2002,Neutral,UC Davis,,W,79,66,10,24,0.417,4,18,Martez Walker,1,16:59,181,Mikey Henn,1,12:34,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/1126_ucd.html
+2016-17,2016-12-01,2003,Home,Oral Roberts,,W,92,64,11,26,0.423,5,13,S. Dorsey-Walker,1,08:36,684,Jalen Bradley,1,09:04,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_121oral_html.aspx
+2016-17,2016-12-03,2004,Home,Southern Utah,,W,78,68,8,23,0.348,12,34,Martez Walker,1,13:46,374,Randy Onwuasor,1,17:40,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1203suu_html.aspx
+2016-17,2016-12-10,2005,Away,Robert Morris,,W,74,53,3,13,0.231,4,13,Nick Daniels,1,14:06,354,Clive Allen,1,12:45,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/1210_rmu.html
+2016-17,2016-12-20,2006,Home,Northeastern,,L,59,61,6,26,0.231,3,17,Nick Daniels,1,05:58,842,Jeremy Miller,1,18:42,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1220nu_html.aspx
+2016-17,2016-12-21,2007,Away,Michigan State,,L,65,77,8,24,0.333,7,16,Jalen Hayes,1,18:21,99,Alvin Ellis III,1,10:40,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1221msu_html.aspx
+2016-17,2016-12-23,2008,Home,Georgia,,W,86,79,10,17,0.588,7,20,S. Dorsey-Walker,1,19:13,47,J.J. Frazier,1,19:27,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1223uga_html.aspx
+2016-17,2016-12-29,2009,Home,Wright State,,W,81,62,9,23,0.391,4,26,S. Dorsey-Walker,1,19:25,35,Mark Alstork,1,17:41,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1229wsu_html.aspx
+2016-17,2016-12-31,2010,Home,Northern Kentucky,,W,76,65,6,23,0.261,6,19,S. Dorsey-Walker,1,18:22,98,Mason Faulkner,1,14:40,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_1231nku_html.aspx
+2016-17,2017-01-06,2011,Away,Valparaiso,,W,78,66,8,24,0.333,3,14,Stevie Clark,1,19:45,15,Lexus Williams,1,05:29,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm16valp.html
+2016-17,2017-01-08,2012,Away,UIC,,W,58,57,4,17,0.235,7,19,Nick Daniels,1,11:17,523,K.J. Santos,1,10:09,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm17uic.html
+2016-17,2017-01-13,2013,Home,Detroit Mercy,,L,88,93,6,26,0.231,3,20,S. Dorsey-Walker,1,19:41,19,Corey Allen,1,19:18,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_gm18udm_html.aspx
+2016-17,2017-01-16,2014,Home,Cleveland State,,L,65,76,2,18,0.111,6,16,Martez Walker,2,19:22,1238,Kasheem Thomas,1,19:23,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_gm19csu_html.aspx
+2016-17,2017-01-20,2015,Away,Northern Kentucky,,W,79,70,3,14,0.214,8,28,Brailen Neely,1,15:00,300,Mason Faulkner,1,11:40,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm20nku.html
+2016-17,2017-01-22,2016,Away,Wright State,,L,67,88,5,20,0.250,11,25,Martez Walker,1,16:46,194,Steven Davis,1,19:12,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm21wsu.html
+2016-17,2017-01-27,2017,Home,Green Bay,,L,72,80,4,21,0.190,2,10,S. Dorsey-Walker,1,07:47,733,Khalil Small,1,19:09,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_gm22gb_html.aspx
+2016-17,2017-01-29,2018,Home,Milwaukee,,W,79,70,6,22,0.273,8,31,Martez Walker,1,19:21,39,Jeremy Johnson,1,19:44,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_gm23uwm_html.aspx
+2016-17,2017-02-02,2019,Away,Youngstown State,,W,90,76,8,22,0.364,6,16,S. Dorsey-Walker,1,13:49,371,Francisco Santiago,1,16:36,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm24ysu.html
+2016-17,2017-02-10,2021,Away,Detroit Mercy,,W,89,80,6,15,0.400,10,27,Martez Walker,1,18:16,104,Corey Allen,1,11:36,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm26udm.html
+2016-17,2017-02-17,2022,Home,Valparaiso,,W,82,71,8,20,0.400,6,21,Nick Daniels,1,12:02,478,Shane Hammink,1,18:13,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm27valp.html
+2016-17,2017-02-19,2023,Home,UIC,,W,87,75,11,24,0.458,12,26,Nick Daniels,1,13:19,401,K.J. Santos,1,16:41,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2016-2017/gm28uic.html
+2016-17,2017-02-21,2024,Home,Youngstown State,,W,101,72,7,22,0.318,6,19,S. Dorsey-Walker,1,04:23,937,Braun Hartfield,1,05:55,True,https://goldengrizzlies.com/sports/2018/5/31/_m_baskbl_stats_2016_2017_0221ysu_html.aspx
+2017-18,2017-11-10,2033,Home,Purdue Fort Wayne,,W,85,71,9,25,0.360,5,17,Martez Walker,1,17:20,160,Bryson Scott,1,11:21,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1110fw.html
+2017-18,2017-11-13,2034,Home,New Orleans,,W,87,68,14,25,0.560,3,8,Martez Walker,1,19:09,51,Troy Green,1,04:23,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1113no.html
+2017-18,2017-11-18,2035,Away,Toledo,,L,74,87,7,25,0.280,4,21,Chris Palombizio,1,08:56,664,Tre'Shaun Fletcher,1,01:55,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1118ut.html
+2017-18,2017-11-20,2036,Away,Syracuse,,L,50,74,6,22,0.273,3,8,Martez Walker,1,19:05,55,Tyus Battle,1,07:54,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1120su.html
+2017-18,2017-11-24,2037,Away,Kansas,3,L,59,102,6,30,0.200,6,16,Kendrick Nunn,1,13:00,420,Svi Mykhailiuk,1,14:56,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1124ku.html
+2017-18,2017-11-27,2038,Away,Oral Roberts,,W,93,86,10,24,0.417,10,22,Nick Daniels,1,19:11,49,Sam Kearns,1,19:24,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1127oru.html
+2017-18,2017-11-30,2039,Home,Texas Southern,,W,97,87,7,20,0.350,7,22,Brailen Neely,1,17:11,169,Kevin Scott,1,17:25,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1130tsu.html
+2017-18,2017-12-02,2040,Away,Western Michigan,,W,78,73,14,24,0.583,6,16,Nick Daniels,1,17:20,160,Thomas Wilder,1,18:49,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1202wmu.html
+2017-18,2017-12-06,2041,Away,Eastern Michigan,,L,89,95,11,30,0.367,6,19,Martez Walker,1,14:45,315,Paul Jackson,1,18:30,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1206emu.html
+2017-18,2017-12-09,2042,Home,Chicago State,,W,82,50,4,23,0.174,4,17,Martez Walker,1,18:02,118,Fred Sims Jr.,1,17:05,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1209csu.html
+2017-18,2017-12-16,2043,Neutral,Michigan State,2,L,73,86,10,27,0.370,9,23,Nick Daniels,1,19:15,45,Matt McQuaid,1,06:22,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1216msu.html
+2017-18,2017-12-20,2044,Home,Towson,,W,97,86,11,24,0.458,9,17,Nick Daniels,1,15:03,297,Jordan McNeil,1,14:23,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1220tow.html
+2017-18,2017-12-22,2045,Home,Eastern Michigan,,W,86,81,9,25,0.360,5,16,Kendrick Nunn,1,11:22,518,Jordan Nobles,1,08:14,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1222emu.html
+2017-18,2017-12-28,2046,Away,Milwaukee,,W,76,68,5,18,0.278,6,19,Kendrick Nunn,1,12:13,467,Brock Stull,1,14:56,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/1228uwm.html
+2017-18,2018-01-05,2048,Home,Northern Kentucky,,L,83,87,8,20,0.400,7,19,Chris Palombizio,1,11:35,505,Carson Williams,1,18:46,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0105nku.html
+2017-18,2018-01-07,2049,Home,Wright State,,L,81,86,10,27,0.370,7,18,Martez Walker,1,15:41,259,Parker Ernsthausen,1,17:51,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0107wsu.html
+2017-18,2018-01-10,2050,Home,Youngstown State,,W,95,82,12,24,0.500,12,18,Kendrick Nunn,1,18:06,114,Cameron Morse,1,16:36,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0110ysu.html
+2017-18,2018-01-12,2051,Home,Cleveland State,,W,81,68,8,19,0.421,8,27,Nick Daniels,1,14:56,304,Jamarcus Hairston,1,17:25,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0112csu.html
+2017-18,2018-01-15,2052,Away,UIC,,W,78,68,11,27,0.407,5,18,Kendrick Nunn,1,17:55,125,Dikembe Dixson,1,15:36,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0115uic.html
+2017-18,2018-01-20,2053,Away,Detroit Mercy,,W,92,86,11,26,0.423,11,28,Kendrick Nunn,1,18:49,71,Corey Allen,1,19:29,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0120udm.html
+2017-18,2018-01-26,2054,Away,Northern Kentucky,,W,83,70,9,21,0.429,6,25,Kendrick Nunn,1,19:32,28,Lavone Holland II,1,17:21,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0126nku.html
+2017-18,2018-01-28,2055,Away,Wright State,,L,51,64,4,24,0.167,5,18,Kendrick Nunn,1,15:22,278,Jaylon Hall,1,12:54,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0128wsu.html
+2017-18,2018-02-02,2056,Home,UIC,,L,73,79,3,22,0.136,6,15,Martez Walker,2,12:54,1626,Dominique Matthews,1,07:59,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0202uic.html
+2017-18,2018-02-04,2057,Home,IUPUI,,W,82,74,3,15,0.200,8,22,Martez Walker,1,06:39,801,Nick Rogers,1,17:57,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0204iup.html
+2017-18,2018-02-09,2058,Home,Detroit Mercy,,W,87,78,8,21,0.381,10,22,Kendrick Nunn,1,15:23,277,Corey Allen,1,14:09,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0209det.html
+2017-18,2018-02-14,2059,Away,Youngstown State,,L,73,75,7,13,0.538,7,20,Kendrick Nunn,1,18:36,84,Cameron Morse,1,14:38,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0214ysu.html
+2017-18,2018-02-16,2060,Away,Cleveland State,,W,82,66,6,17,0.353,10,26,Nick Daniels,1,19:36,24,Anthony Wright,1,18:25,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0216csu.html
+2017-18,2018-02-19,2061,Away,IUPUI,,L,67,74,8,31,0.258,6,12,Jalen Hayes,1,17:00,180,Aaron Brennan,1,16:40,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0219iup.html
+2017-18,2018-02-22,2062,Home,Green Bay,,L,90,96,11,32,0.344,15,26,Jalen Hayes,1,16:33,207,David Jesperson,1,17:28,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0222gb.html
+2017-18,2018-02-24,2063,Home,Milwaukee,,W,72,70,11,25,0.440,10,24,Kendrick Nunn,1,15:38,262,Bryce Barnes,1,15:52,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0224uwm.html
+2017-18,2018-03-04,2064,Neutral,IUPUI,5,W,62,55,5,19,0.263,5,14,Nick Daniels,1,17:10,170,Nick Rogers,1,16:04,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0304iupu.html
+2017-18,2018-03-05,2065,Neutral,Cleveland State,8,L,43,44,5,24,0.208,5,20,Kendrick Nunn,1,18:11,109,Anthony Wright,1,17:48,True,http://oaklandu_ftp.sidearmsports.com/custompages/sports/m-baskbl/stats/2017-2018/0305mg1.html
+2018-19,2018-11-09,6333,Home,Toledo,,L,86,87,9,27,0.333,6,12,Jaevin Cumberland,1,17:55,125,Willie Jackson,1,15:48,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/toledo/boxscore/6333
+2018-19,2018-11-13,6334,Home,Western Michigan,,L,77,85,10,28,0.357,4,19,Jordan Nobles,1,16:02,238,Kawanise Wilkins,1,19:17,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/western-michigan/boxscore/6334
+2018-19,2018-11-16,6335,Away,UNLV,,L,61,74,4,16,0.250,4,15,Xavier Hill-Mais,1,18:36,84,Amauri Hardy,1,14:05,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/unlv/boxscore/6335
+2018-19,2018-11-19,6336,Home,Defiance,,W,91,47,15,27,0.556,6,23,Xavier Hill-Mais,1,18:19,101,Tyler Andrew,1,18:43,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/defiance/boxscore/6336
+2018-19,2018-11-23,6368,Home,James Madison,,W,77,69,10,26,0.385,7,15,Jaevin Cumberland,1,17:42,138,Stuckey Mosley,1,12:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/james-madison/boxscore/6368
+2018-19,2018-11-24,6338,Home,Oral Roberts,,W,87,76,9,22,0.409,7,20,Braden Norris,1,19:26,34,Kaelen Malone,1,18:52,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/oral-roberts/boxscore/6338
+2018-19,2018-11-25,6339,Home,Northern Illinois,,L,72,92,12,26,0.462,11,18,Braden Norris,1,15:07,293,Levi Bradley,1,14:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/northern-illinois/boxscore/6339
+2018-19,2018-12-01,6340,Away,Xavier,,L,63,73,11,28,0.393,4,15,Xavier Hill-Mais,1,19:13,47,Ryan Welage,1,14:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/xavier/boxscore/6340
+2018-19,2018-12-06,6341,Away,Fairfield,,W,87,86,10,21,0.476,9,22,Karmari Newman,1,17:23,157,Jonathan Kasibabu,1,19:28,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/fairfield/boxscore/6341
+2018-19,2018-12-08,6342,Away,Northeastern,,L,83,92,13,27,0.481,9,18,Karmari Newman,1,15:25,275,Donnell Gresham,1,15:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/northeastern/boxscore/6342
+2018-19,2018-12-16,6343,Away,Hartford,,L,82,87,18,38,0.474,8,20,Jaevin Cumberland,1,17:48,132,Travis Weatherington,1,02:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/hartford/boxscore/6343
+2018-19,2018-12-18,6344,Away,Georgia,,L,69,81,10,27,0.370,10,28,Tray Maddox,1,16:40,200,William Jackson II,1,18:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/georgia/boxscore/6344
+2018-19,2018-12-21,6345,Away,Michigan State,8,L,69,99,13,23,0.565,13,30,Jaevin Cumberland,1,16:25,215,Matt McQuaid,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/michigan-state/boxscore/6345
+2018-19,2018-12-28,6462,Away,Cleveland State,,W,89,77,10,26,0.385,11,24,Xavier Hill-Mais,1,19:17,43,Tyree Appleby,1,18:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/cleveland-state/boxscore/6462
+2018-19,2018-12-30,6445,Away,Youngstown State,,W,76,74,8,16,0.500,9,21,Xavier Hill-Mais,1,19:32,28,Jelani Simmons,1,18:29,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/youngstown-state/boxscore/6445
+2018-19,2019-01-03,6446,Home,Northern Kentucky,,W,76,74,11,26,0.423,7,24,Xavier Hill-Mais,1,16:04,236,Tyler Sharpe,1,15:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/northern-kentucky/boxscore/6446
+2018-19,2019-01-05,6447,Home,Wright State,,L,73,89,10,30,0.333,11,24,Xavier Hill-Mais,1,18:58,62,Cole Gentry,1,16:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/wright-state/boxscore/6447
+2018-19,2019-01-10,6448,Home,Milwaukee,,L,64,67,11,32,0.344,9,24,Jaevin Cumberland,1,16:24,216,Deandre Abram,1,17:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/milwaukee/boxscore/6448
+2018-19,2019-01-12,6449,Home,Green Bay,,W,90,78,10,22,0.455,8,25,Jaevin Cumberland,1,13:10,410,Sandy Cohen III,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/green-bay/boxscore/6449
+2018-19,2019-01-19,6450,Away,Detroit Mercy,,W,79,73,9,23,0.391,6,26,Jaevin Cumberland,1,16:26,214,Willy Isiani,1,11:59,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/detroit-mercy/boxscore/6450
+2018-19,2019-01-24,6451,Away,IUPUI,,L,71,73,12,36,0.333,6,21,Xavier Hill-Mais,1,18:37,83,Camron Justice,1,16:17,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/iupui/boxscore/6451
+2018-19,2019-01-26,6452,Away,UIC,,W,80,67,7,20,0.350,2,18,Jaevin Cumberland,1,13:39,381,Godwin Boahen,2,10:10,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/uic/boxscore/6452
+2018-19,2019-01-31,6453,Home,Youngstown State,,L,74,75,3,28,0.107,11,30,Jaevin Cumberland,2,17:06,1374,Jelani Simmons,1,17:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/youngstown-state/boxscore/6453
+2018-19,2019-02-02,6454,Home,Cleveland State,,W,83,68,7,17,0.412,13,31,Braden Norris,1,16:53,187,Rashad Williams,1,14:14,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/cleveland-state/boxscore/6454
+2018-19,2019-02-07,6455,Away,Wright State,,L,62,76,6,14,0.429,5,21,Jaevin Cumberland,1,16:16,224,Parker Ernsthausen,1,08:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/wright-state/boxscore/6455
+2018-19,2019-02-09,6456,Away,Northern Kentucky,,L,64,79,4,20,0.200,6,23,Jaevin Cumberland,1,18:10,110,Drew McDonald,1,17:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/northern-kentucky/boxscore/6456
+2018-19,2019-02-14,6457,Away,Green Bay,,L,54,66,5,27,0.185,5,22,Xavier Hill-Mais,1,16:21,219,Cody Schwartz,1,17:18,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/green-bay/boxscore/6457
+2018-19,2019-02-16,6458,Away,Milwaukee,,W,89,73,9,27,0.333,7,23,Jaevin Cumberland,1,16:25,215,Jake Wright,1,10:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/milwaukee/boxscore/6458
+2018-19,2019-02-23,6459,Home,Detroit Mercy,,W,95,75,12,24,0.500,8,23,Braden Norris,1,16:22,218,Jacob Holland,1,15:45,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/detroit-mercy/boxscore/6459
+2018-19,2019-02-28,6460,Home,UIC,,W,86,72,6,20,0.300,9,26,Jaevin Cumberland,1,18:50,70,Michael Diggins,1,17:01,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/uic/boxscore/6460
+2018-19,2019-03-02,6461,Home,IUPUI,,W,72,63,10,23,0.435,7,22,Tray Maddox,1,11:39,501,Ahmed Ismail,1,17:19,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/iupui/boxscore/6461
+2018-19,2019-03-06,6492,Home,Youngstown State,6,W,88,84,8,21,0.381,14,33,Tray Maddox,1,19:32,28,Devin Morgan,1,14:59,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/no-6-youngstown-state/boxscore/6492
+2018-19,2019-03-11,6493,Neutral,Northern Kentucky,2,L,63,64,12,28,0.429,6,23,Braden Norris,1,18:37,83,Dantez Walton,1,15:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2018-19/no-2-northern-kentucky/boxscore/6493
+2019-20,2019-11-05,6802,Home,Goshen College,,W,94,66,7,19,0.368,14,41,Blake Lampman,1,06:05,835,Landon Newnum,1,06:22,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/goshen-college-ind-/boxscore/6802
+2019-20,2019-11-08,6803,Neutral,Delaware,,L,53,56,3,12,0.250,10,27,Tray Maddox Jr.,1,07:06,774,Nate Darling,1,19:14,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/delaware/boxscore/6803
+2019-20,2019-11-09,6804,Neutral,UTSA,,W,75,62,8,19,0.421,8,30,Xavier Hill-Mais,1,18:47,73,Luka Barisic,1,14:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/utsa/boxscore/6804
+2019-20,2019-11-10,6805,Neutral,Southern Illinois,,W,61,52,3,13,0.231,7,30,Tray Maddox Jr.,1,05:13,887,Barret Benson,1,19:42,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/southern-illinois/boxscore/6805
+2019-20,2019-11-16,6806,Away,Maryland,7,L,50,80,6,21,0.286,8,26,Tray Maddox Jr.,1,12:04,476,Aaron Wiggins,1,19:26,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/maryland/boxscore/6806
+2019-20,2019-11-18,6807,Home,Hartford,,W,60,50,3,16,0.188,8,24,Jackie Harris,1,03:09,1011,Moses Flowers,1,06:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/hartford/boxscore/6807
+2019-20,2019-11-25,6808,Away,Northern Illinois,,L,50,74,3,21,0.143,13,24,Xavier Hill-Mais,1,17:33,147,Gairges Daow,1,18:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/northern-illinois/boxscore/6808
+2019-20,2019-11-30,6809,Away,Toledo,,L,63,65,7,23,0.304,11,32,Blake Lampman,1,12:37,443,Spencer Littleson,1,18:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/toledo/boxscore/6809
+2019-20,2019-12-03,6810,Away,Western Michigan,,W,72,62,4,13,0.308,8,35,Tray Maddox Jr.,1,06:52,788,B. Artis White,1,18:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/western-michigan/boxscore/6810
+2019-20,2019-12-07,6811,Away,Bowling Green,,L,65,68,6,20,0.300,8,24,Tray Maddox Jr.,1,18:05,115,Caleb Fields,1,18:24,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/bowling-green/boxscore/6811
+2019-20,2019-12-14,6812,Neutral,Michigan State,16,L,49,72,7,22,0.318,7,33,Tray Maddox Jr.,1,12:22,458,Cassius Winston,1,15:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/michigan-state/boxscore/6812
+2019-20,2019-12-18,6813,Away,Syracuse,,L,62,74,4,18,0.222,11,34,Tray Maddox Jr.,1,07:41,739,Joseph Girard III,1,16:28,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/syracuse/boxscore/6813
+2019-20,2019-12-21,6814,Home,Fairfield,,L,59,61,3,21,0.143,4,16,Kevin Kangu,2,18:38,1282,Taj Benning,1,15:23,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/fairfield/boxscore/6814
+2019-20,2019-12-28,6945,Home,Detroit Mercy,,W,78,69,9,25,0.360,12,46,Tray Maddox Jr.,1,18:06,114,Antoine Davis,1,13:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/detroit-mercy/boxscore/6945
+2019-20,2020-01-03,6946,Home,Wright State,,L,69,96,3,18,0.167,9,19,Tray Maddox Jr.,1,15:12,288,Cole Gentry,1,18:21,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/wright-state/boxscore/6946
+2019-20,2020-01-05,6947,Home,Northern Kentucky,,L,64,75,7,23,0.304,8,21,Tray Maddox Jr.,1,19:51,9,Adham Eleeda,1,15:03,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/northern-kentucky/boxscore/6947
+2019-20,2020-01-09,6948,Away,Youngstown State,,L,60,61,9,23,0.391,9,27,Madison Monroe,1,19:05,55,Devin Morgan,1,11:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/youngstown-state/boxscore/6948
+2019-20,2020-01-11,6949,Away,Cleveland State,,W,68,55,6,14,0.429,2,11,Blake Lampman,1,17:46,134,Torrey Patton,1,05:25,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/cleveland-state/boxscore/6949
+2019-20,2020-01-16,6950,Away,Green Bay,,L,69,73,7,29,0.241,8,25,Tray Maddox Jr.,1,16:15,225,Kameron Hankerson,1,12:20,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/green-bay/boxscore/6950
+2019-20,2020-01-18,6951,Away,Milwaukee,,L,68,73,8,23,0.348,7,29,Tray Maddox Jr.,1,18:14,106,Te'Jon Lucas,1,13:47,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/milwaukee/boxscore/6951
+2019-20,2020-01-23,6952,Home,UIC,,L,50,80,6,21,0.286,12,21,Rashad Williams,1,15:06,294,Tarkus Ferguson,1,14:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/uic/boxscore/6952
+2019-20,2020-01-25,6953,Home,IUPUI,,L,85,89,11,30,0.367,15,34,Blake Lampman,1,17:37,143,Jaylen Minnett,1,18:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/iupui/boxscore/6953
+2019-20,2020-01-31,6954,Away,Detroit Mercy,,W,77,64,8,26,0.308,7,24,Blake Lampman,1,17:58,122,Antoine Davis,1,05:01,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/detroit-mercy/boxscore/6954
+2019-20,2020-02-06,6955,Away,Northern Kentucky,,L,70,73,8,20,0.400,9,35,Rashad Williams,1,19:01,59,Trevon Faulkner,1,15:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/northern-kentucky/boxscore/6955
+2019-20,2020-02-08,6956,Away,Wright State,,L,71,83,3,15,0.200,11,20,Rashad Williams,1,12:20,460,Cole Gentry,1,14:00,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/wright-state/boxscore/6956
+2019-20,2020-02-13,6957,Home,Cleveland State,,W,79,74,8,26,0.308,6,13,Xavier Hill-Mais,1,13:07,413,Kasheem Thomas,1,11:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/cleveland-state/boxscore/6957
+2019-20,2020-02-15,6958,Home,Youngstown State,,W,72,64,10,22,0.455,11,30,Tray Maddox Jr.,1,18:02,118,Donel Cathcart,1,17:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/youngstown-state/boxscore/6958
+2019-20,2020-02-21,6959,Home,Milwaukee,,W,75,68,6,17,0.353,10,32,Rashad Williams,1,12:01,479,C.J. Wilbourn,1,17:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/milwaukee/boxscore/6959
+2019-20,2020-02-23,6960,Home,Green Bay,,W,92,88,7,25,0.280,10,29,Rashad Williams,1,08:46,674,PJ Pipes,1,13:06,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/green-bay/boxscore/6960
+2019-20,2020-02-27,6961,Away,IUPUI,,L,68,71,6,27,0.222,9,23,Rashad Williams,1,11:38,502,Jaylen Minnett,1,14:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/iupui/boxscore/6961
+2019-20,2020-02-29,6962,Away,UIC,,W,68,66,5,15,0.333,6,23,Rashad Williams,1,10:12,588,Tarkus Ferguson,1,17:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/uic/boxscore/6962
+2019-20,2020-03-03,6963,Home,Cleveland State,7,W,80,59,8,24,0.333,2,11,Tray Maddox Jr.,1,17:58,122,Tre Gomillion,2,11:15,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/cleveland-state-university/boxscore/6963
+2019-20,2020-03-05,6964,Neutral,Green Bay,3,L,63,78,5,29,0.172,3,12,Rashad Williams,1,18:02,118,Jayquan McCloud,1,19:18,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2019-20/green-bay/boxscore/6964
+2020-21,2020-11-25,7216,Away,Xavier,,L,49,101,7,31,0.226,13,33,Blake Lampman,1,18:00,120,Nate Johnson,1,15:34,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/xavier-university/boxscore/7216
+2020-21,2020-11-26,7217,Neutral,Toledo,,L,53,80,2,23,0.087,16,34,Rashad Williams,1,18:11,109,Marreon Jackson,1,19:05,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/university-of-toledo/boxscore/7217
+2020-21,2020-11-27,7218,Neutral,Bradley,,L,60,74,12,34,0.353,10,21,Zion Young,1,17:11,169,Terry Nolan Jr.,1,14:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/bradley-university/boxscore/7218
+2020-21,2020-11-29,7219,Away,Michigan,25,L,71,81,8,34,0.235,8,27,Zion Young,1,17:02,178,Isaiah Livers,1,14:45,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/university-of-michigan/boxscore/7219
+2020-21,2020-12-01,7220,Away,Purdue,,L,50,93,3,21,0.143,17,32,Zion Young,1,10:20,580,Brandon Newman,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/purdue-university/boxscore/7220
+2020-21,2020-12-05,7221,Away,Oklahoma State,,L,71,84,17,37,0.459,10,26,Rashad Williams,1,17:43,137,Keylan Boone,1,18:22,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/oklahoma-state-university/boxscore/7221
+2020-21,2020-12-13,7222,Away,Michigan State,4,L,91,109,18,34,0.529,15,37,Rashad Williams,1,18:13,107,Aaron Henry,1,19:10,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/michigan-state-university/boxscore/7222
+2020-21,2020-12-19,7191,Away,UIC,,L,72,74,2,16,0.125,14,36,Jalen Moore,1,16:34,206,Jamie Ahale,1,11:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/university-of-illinois-chicago/boxscore/7191
+2020-21,2020-12-20,7192,Away,UIC,,L,73,90,6,29,0.207,13,30,Rashad Williams,1,15:30,270,Teyvion Kirk,1,18:37,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/university-of-illinois-chicago/boxscore/7192
+2020-21,2020-12-26,7223,Away,Detroit Mercy,,W,77,75,6,29,0.207,10,27,Rashad Williams,1,07:25,755,Antoine Davis,1,18:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/detroit-mercy/boxscore/7223
+2020-21,2020-12-27,7224,Away,Detroit Mercy,,W,83,80,14,31,0.452,9,24,Kevin Kangu,1,08:47,673,Noah Waterman,1,13:48,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/detroit-mercy/boxscore/7224
+2020-21,2021-01-01,7195,Home,Wright State,,L,51,90,5,29,0.172,10,34,Zion Young,1,04:19,941,Tim Finke,1,17:28,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/wright-state-university/boxscore/7195
+2020-21,2021-01-02,7196,Home,Wright State,,W,81,71,9,22,0.409,7,25,Rashad Williams,1,18:10,110,Jaylon Hall,1,19:10,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/wright-state-university/boxscore/7196
+2020-21,2021-01-08,7197,Away,Green Bay,,L,81,84,8,24,0.333,10,23,Blake Lampman,1,05:59,841,Lucas Stieber,1,15:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/green-bay/boxscore/7197
+2020-21,2021-01-09,7198,Away,Green Bay,,L,78,87,7,19,0.368,7,20,Rashad Williams,1,07:10,770,Lucas Stieber,1,08:43,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/green-bay/boxscore/7198
+2020-21,2021-01-15,7199,Home,Youngstown State,,W,82,65,10,20,0.500,7,29,Rashad Williams,1,18:49,71,Myles Hunter,1,18:07,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/youngstown-state-university/boxscore/7199
+2020-21,2021-01-16,7200,Home,Youngstown State,,W,81,74,7,24,0.292,7,31,Jalen Moore,1,13:42,378,Geoff Hamperian,1,12:31,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/youngstown-state-university/boxscore/7200
+2020-21,2021-01-22,7201,Home,Detroit Mercy,,W,86,81,15,28,0.536,12,32,Jalen Moore,1,18:11,109,Antoine Davis,1,13:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/detroit-mercy/boxscore/7201
+2020-21,2021-01-23,7202,Home,Detroit Mercy,,L,72,82,10,25,0.400,13,31,Jalen Moore,1,17:37,143,Antoine Davis,1,17:55,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/detroit-mercy/boxscore/7202
+2020-21,2021-01-29,7203,Away,Purdue Fort Wayne,,W,81,66,11,26,0.423,10,24,Zion Young,1,12:48,432,Bobby Planutis,1,12:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/purdue-fort-wayne/boxscore/7203
+2020-21,2021-01-30,7204,Away,Purdue Fort Wayne,,W,82,75,6,18,0.333,11,32,Jalen Moore,1,15:34,266,Bobby Planutis,1,19:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/purdue-fort-wayne/boxscore/7204
+2020-21,2021-02-05,7205,Home,Cleveland State,,L,72,80,7,24,0.292,8,22,,,,,,,,False,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/cleveland-state-university/boxscore/7205
+2020-21,2021-02-06,7206,Home,Cleveland State,,L,78,80,6,20,0.300,7,23,Zion Young,1,14:52,308,D'Moi Hodge,1,18:01,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/cleveland-state-university/boxscore/7206
+2020-21,2021-02-12,7207,Away,Robert Morris,,L,82,88,8,27,0.296,12,25,Rashad Williams,1,09:15,645,Kam Farris,1,19:24,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/robert-morris-university/boxscore/7207
+2020-21,2021-02-13,7208,Away,Robert Morris,,W,86,81,11,23,0.478,11,20,Rashad Williams,1,19:43,17,Jon Williams,1,13:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/robert-morris-university/boxscore/7208
+2020-21,2021-02-19,7209,Away,Milwaukee,,W,85,81,10,27,0.370,9,24,Trey Townsend,1,18:18,102,Courtney Brown Jr.,1,14:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/milwaukee/boxscore/7209
+2020-21,2021-02-20,7210,Away,Milwaukee,,L,87,89,7,25,0.280,10,27,Zion Young,1,12:29,451,Josh Thomas,1,13:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/milwaukee/boxscore/7210
+2020-21,2021-03-02,7464,Home,Youngstown State,,W,87,83,9,21,0.429,13,34,Rashad Williams,1,16:22,218,Shemar Rathan-Mayes,1,18:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/youngstown-state-university/boxscore/7464
+2020-21,2021-03-08,7465,Neutral,Northern Kentucky,,W,69,58,7,19,0.368,7,30,Rashad Williams,1,17:33,147,Trevon Faulkner,1,17:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/northern-kentucky-university/boxscore/7465
+2020-21,2021-03-09,7466,Neutral,Cleveland State,,L,69,80,11,38,0.289,3,15,Micah Parrish,1,17:45,135,Torrey Patton,1,19:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2020-21/cleveland-state-university/boxscore/7466
+2021-22,2021-11-09,8562,Away,West Virginia,,L,53,60,3,23,0.130,4,21,Trey Townsend,1,00:52,1148,Taz Sherman,1,05:32,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/west-virginia-university/boxscore/8562
+2021-22,2021-11-12,8563,Away,Oklahoma State,,W,56,55,6,20,0.300,3,17,Trey Townsend,1,09:04,656,Woody Newton,1,10:17,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/oklahoma-state-university/boxscore/8563
+2021-22,2021-11-17,8564,Home,Toledo,,W,80,59,7,31,0.226,6,22,Blake Lampman,1,12:13,467,Ryan Rollins,1,19:03,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-toledo/boxscore/8564
+2021-22,2021-11-19,8638,Away,Alabama,,L,59,86,4,23,0.174,10,36,Jamal Cain,1,13:09,411,Jahvon Quinerly,1,19:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-alabama/boxscore/8638
+2021-22,2021-11-22,8588,Neutral,Vermont,,W,63,61,7,26,0.269,8,29,Jamal Cain,1,18:58,62,Kam Gibson,1,18:37,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-vermont/boxscore/8588
+2021-22,2021-11-23,8731,Neutral,Rice,,W,76,73,7,25,0.280,10,31,Blake Lampman,1,10:54,546,Carl Pierre,1,18:25,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/rice-university/boxscore/8731
+2021-22,2021-11-24,8732,Neutral,Delaware,,W,81,73,8,24,0.333,9,28,Jalen Moore,1,19:34,26,Ryan Allen,1,19:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-delaware/boxscore/8732
+2021-22,2021-12-02,8740,Away,UIC,,W,81,77,6,13,0.462,9,35,Micah Parrish,1,16:06,234,Zion Griffin,1,12:19,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-illinois-chicago/boxscore/8740
+2021-22,2021-12-04,8741,Away,IUPUI,,W,78,45,6,27,0.222,2,16,Micah Parrish,1,14:52,308,Mike Depersia,2,05:28,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/iupui/boxscore/8741
+2021-22,2021-12-07,8565,Away,Bowling Green,,L,72,73,9,32,0.281,9,24,Jamal Cain,1,15:42,258,Daeqwon Plowden,1,14:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/bowling-green/boxscore/8565
+2021-22,2021-12-21,8566,Neutral,Michigan State,,L,78,90,10,27,0.370,11,28,Jalen Moore,1,17:17,163,Max Christie,1,19:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/michigan-state-university/boxscore/8566
+2021-22,2021-12-30,8742,Home,Robert Morris,,W,79,61,8,23,0.348,6,26,Osei Price,1,19:32,28,Kam Farris,1,18:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/robert-morris-university/boxscore/8742
+2021-22,2022-01-01,8743,Home,Youngstown State,,W,87,72,13,28,0.464,8,28,Jamal Cain,1,19:08,52,Shemar Rathan-Mayes,1,16:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/youngstown-state-university/boxscore/8743
+2021-22,2022-01-07,8930,Home,Ohio Christian,,W,108,40,6,20,0.300,3,21,Osei Price,1,14:23,337,Jimmy Salamon,1,14:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/ohio-christian-university/boxscore/8930
+2021-22,2022-01-09,8746,Home,Milwaukee,,W,86,65,9,29,0.310,4,14,Micah Parrish,1,18:38,82,Deandre Gholston,1,17:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/milwaukee/boxscore/8746
+2021-22,2022-01-13,8747,Away,Cleveland State,,W,70,65,7,23,0.304,5,26,Micah Parrish,1,17:40,140,D'Moi Hodge,1,18:52,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/cleveland-state-university/boxscore/8747
+2021-22,2022-01-15,8748,Away,Purdue Fort Wayne,,W,76,68,7,23,0.304,11,38,Jalen Moore,1,14:46,314,Damian Chong Qui,1,17:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/purdue-fort-wayne/boxscore/8748
+2021-22,2022-01-20,8749,Away,Milwaukee,,L,78,88,7,28,0.250,7,17,Osei Price,1,17:09,171,Donovan Newby,1,04:04,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/milwaukee/boxscore/8749
+2021-22,2022-01-22,8750,Away,Green Bay,,W,68,61,1,10,0.100,6,19,Blake Lampman,1,07:15,765,Donovan Ivory,1,14:32,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/green-bay/boxscore/8750
+2021-22,2022-01-24,8961,Home,Michigan-Dearborn,,W,104,61,13,32,0.406,6,21,Osei Price,1,19:46,14,Elwood Tomlinson,1,13:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-michigan-dearborn/boxscore/8961
+2021-22,2022-01-29,8752,Home,UIC,,W,81,74,7,21,0.333,11,33,Micah Parrish,1,18:00,120,Kevin Johnson,1,02:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/university-of-illinois-chicago/boxscore/8752
+2021-22,2022-02-04,8753,Away,Northern Kentucky,,L,78,87,14,29,0.483,8,25,Jamal Cain,1,18:46,74,Sam Vinson,1,19:07,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/northern-kentucky-university/boxscore/8753
+2021-22,2022-02-05,8754,Away,Wright State,,L,64,75,7,24,0.292,9,21,Blake Lampman,1,09:17,643,Trey Calvin,1,17:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/wright-state-university/boxscore/8754
+2021-22,2022-02-09,8755,Away,Youngstown State,,L,71,78,5,23,0.217,9,33,Micah Parrish,1,16:28,212,Michael Akuchie,1,19:08,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/youngstown-state-university/boxscore/8755
+2021-22,2022-02-11,8756,Away,Robert Morris,,W,71,68,5,17,0.294,6,18,Jamal Cain,1,17:35,145,Brandon Stone,1,12:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/robert-morris-university/boxscore/8756
+2021-22,2022-02-13,8757,Home,Detroit Mercy,,W,75,59,5,20,0.250,13,39,Micah Parrish,1,17:51,129,D.J. Harvey,1,19:10,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/detroit-mercy/boxscore/8757
+2021-22,2022-02-18,8758,Home,Wright State,,L,74,78,15,30,0.500,10,27,Jalen Moore,1,19:22,38,Grant Basile,1,19:47,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/wright-state-university/boxscore/8758
+2021-22,2022-02-20,8759,Home,Northern Kentucky,,L,66,71,8,27,0.296,9,29,Micah Parrish,1,10:58,542,Trevon Faulkner,1,14:52,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/northern-kentucky-university/boxscore/8759
+2021-22,2022-02-24,8760,Home,Purdue Fort Wayne,,L,70,81,7,25,0.280,16,34,Micah Parrish,1,18:41,79,Damian Chong Qui,1,19:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/purdue-fort-wayne/boxscore/8760
+2021-22,2022-02-26,8762,Home,Cleveland State,,W,65,57,6,27,0.222,4,18,Micah Parrish,1,16:22,218,Nathanael Jack,1,12:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/cleveland-state-university/boxscore/8762
+2021-22,2022-03-01,8931,Home,IUPUI,12,W,70,58,9,28,0.321,9,15,Blake Lampman,1,17:34,146,Nathan McClure,1,11:08,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/iupui-first-round-/boxscore/8931
+2021-22,2022-03-03,8932,Away,Wright State,4,L,63,75,3,20,0.150,6,21,Micah Parrish,1,17:17,163,Tim Finke,1,15:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2021-22/wright-state-quarterfinal-/boxscore/8932
+2022-23,2022-11-07,9746,Home,Defiance College,,W,92,27,10,26,0.385,3,21,Rocket Watts,1,18:00,120,Jakob Trevino,1,08:29,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/defiance-college/boxscore/9746
+2022-23,2022-11-11,9366,Home,Bowling Green,,L,82,87,7,24,0.292,12,26,Keaton Hervey,1,18:29,91,Leon Ayers III,1,18:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/bowling-green/boxscore/9366
+2022-23,2022-11-13,9367,Home,Oklahoma State,,L,62,91,4,22,0.182,12,23,Blake Lampman,1,10:41,559,John-Michael Wright,1,12:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/oklahoma-state/boxscore/9367
+2022-23,2022-11-16,9368,Away,Toledo,,L,90,112,13,35,0.371,14,26,Keaton Hervey,1,18:27,93,Setric Millner Jr.,1,19:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/toledo/boxscore/9368
+2022-23,2022-11-19,9373,Home,Eastern Michigan,,W,92,90,15,31,0.484,11,24,Rocket Watts,1,19:35,25,Emoni Bates,1,10:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/eastern-michigan/boxscore/9373
+2022-23,2022-11-25,9370,Neutral,Long Beach State,,L,70,78,12,37,0.324,4,16,Osei Price,1,11:42,498,Jadon Jones,1,12:10,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/long-beach-state/boxscore/9370
+2022-23,2022-11-26,9371,Neutral,San Jose State,,L,67,80,5,18,0.278,9,26,Lorne Bowman II,1,10:13,587,Sage Tolbert,1,17:57,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/san-jose-state/boxscore/9371
+2022-23,2022-11-27,9372,Neutral,Missouri State,,L,64,76,10,25,0.400,12,29,Osei Price,1,14:03,357,Kendle Moore,1,19:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/missouri-state/boxscore/9372
+2022-23,2022-12-01,9843,Away,Cleveland State,,L,64,80,4,22,0.182,5,22,Keaton Hervey,1,17:06,174,Drew Lowder,1,15:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/cleveland-state/boxscore/9843
+2022-23,2022-12-03,9844,Away,Purdue Fort Wayne,,L,73,79,9,31,0.290,11,40,Rocket Watts,1,16:07,233,Bobby Planutis,1,07:24,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/purdue-fort-wayne/boxscore/9844
+2022-23,2022-12-06,9365,Away,Syracuse,,L,66,95,5,25,0.200,8,20,Rocket Watts,1,13:06,414,Justin Taylor,1,16:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/syracuse/boxscore/9365
+2022-23,2022-12-18,9708,Away,Boise State,,L,57,77,5,27,0.185,9,29,Trey Townsend,1,18:32,88,Max Rice,1,19:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/boise-state/boxscore/9708
+2022-23,2022-12-21,9369,Away,Michigan State,,L,54,67,7,25,0.280,10,22,Blake Lampman,1,14:26,334,Joey Hauser,1,18:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/michigan-state/boxscore/9369
+2022-23,2022-12-29,9845,Home,Milwaukee,,W,83,61,8,18,0.444,7,23,Blake Lampman,1,19:02,58,Ahmad Rand,1,14:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/milwaukee/boxscore/9845
+2022-23,2022-12-31,9846,Home,Green Bay,,W,81,65,5,17,0.294,9,30,Rocket Watts,1,18:40,80,Clarenc Cummings III,1,18:18,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/green-bay/boxscore/9846
+2022-23,2023-01-06,9847,Away,Northern Kentucky,,W,64,63,7,23,0.304,5,19,Rocket Watts,1,16:07,233,Marques Warrick,1,15:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/northern-kentucky/boxscore/9847
+2022-23,2023-01-08,9848,Away,Wright State,,W,75,73,8,19,0.421,7,18,Rocket Watts,1,19:32,28,Tim Finke,1,19:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/wright-state/boxscore/9848
+2022-23,2023-01-12,9849,Home,Robert Morris,,W,69,65,8,20,0.400,9,31,Blake Lampman,1,19:46,14,Enoch Cheeks,1,14:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/robert-morris/boxscore/9849
+2022-23,2023-01-14,9850,Home,Youngstown State,,L,69,85,8,24,0.333,14,26,Jalen Moore,1,13:58,362,Bryce McBride,1,16:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/youngstown-state/boxscore/9850
+2022-23,2023-01-19,9851,Away,IUPUI,,W,83,77,6,16,0.375,7,22,Rocket Watts,1,19:13,47,Cooper Dewitt,1,17:43,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/iupui/boxscore/9851
+2022-23,2023-01-23,9852,Away,Detroit Mercy,,W,76,67,8,22,0.364,8,26,Osei Price,1,10:01,599,Antoine Davis,1,02:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/detroit-mercy/boxscore/9852
+2022-23,2023-01-27,9853,Away,Youngstown State,,L,73,77,12,24,0.500,9,22,Keaton Hervey,1,19:18,42,Brandon Rush,1,11:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/youngstown-state/boxscore/9853
+2022-23,2023-01-29,9854,Away,Robert Morris,,L,63,68,5,19,0.263,7,25,Jalen Moore,1,07:32,748,Kahliel Spear,1,18:29,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/robert-morris/boxscore/9854
+2022-23,2023-02-02,9855,Home,Purdue Fort Wayne,,L,73,82,4,29,0.138,9,21,Osei Price,1,12:49,431,Jarred Godfrey,1,19:08,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/purdue-fort-wayne/boxscore/9855
+2022-23,2023-02-04,9856,Home,Cleveland State,,W,92,89,6,17,0.353,8,20,Blake Lampman,1,17:10,170,Jayson Woodrich,1,05:18,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/cleveland-state/boxscore/9856
+2022-23,2023-02-09,9857,Away,Green Bay,,W,59,47,5,26,0.192,6,25,Keaton Hervey,1,09:04,656,Davin Zeigler,1,15:11,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/green-bay/boxscore/9857
+2022-23,2023-02-11,9858,Away,Milwaukee,,L,77,80,10,30,0.333,7,22,Blake Lampman,1,15:16,284,Angelo Stuart,1,15:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/milwaukee/boxscore/9858
+2022-23,2023-02-15,9859,Home,IUPUI,,W,85,81,2,18,0.111,5,13,Keaton Hervey,1,03:59,961,Vincent Brady II,1,16:59,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/iupui/boxscore/9859
+2022-23,2023-02-17,9860,Home,Detroit Mercy,,L,74,96,5,23,0.217,13,26,Blake Lampman,1,19:27,33,Damezi Anderson,1,17:21,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/detroit-mercy/boxscore/9860
+2022-23,2023-02-23,9861,Home,Wright State,,W,75,68,6,24,0.250,5,21,Jalen Moore,1,18:33,87,Alex Huibregtse,1,13:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/wright-state/boxscore/9861
+2022-23,2023-02-25,9862,Home,Northern Kentucky,,L,69,78,5,16,0.312,15,26,Jalen Moore,1,13:03,417,Sam Vinson,1,18:12,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/northern-kentucky/boxscore/9862
+2022-23,2023-03-02,10101,Away,Northern Kentucky,4,L,74,81,8,19,0.421,13,29,Blake Lampman,1,16:08,232,Marques Warrick,1,17:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2022-23/northern-kentucky/boxscore/10101
+2023-24,2023-11-06,11328,Away,Ohio State,,L,73,79,14,35,0.400,7,25,Jack Gohlke,1,18:39,81,Jamison Battle,1,16:34,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/ohio-state/boxscore/11328
+2023-24,2023-11-10,11382,Away,Illinois,25,L,53,64,5,20,0.250,4,16,Jack Gohlke,1,18:58,62,Quincy Guerrier,2,17:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/illinois/boxscore/11382
+2023-24,2023-11-14,11380,Home,Bowling Green,,W,81,62,7,18,0.389,5,20,Jack Gohlke,1,13:00,420,PJ Edwards,1,14:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/bowling-green/boxscore/11380
+2023-24,2023-11-19,11329,Neutral,Drake,,L,77,85,7,23,0.304,12,32,Jack Gohlke,1,18:17,103,Tucker Devries,1,18:08,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/drake/boxscore/11329
+2023-24,2023-11-20,11330,Neutral,Loyola Marymount,,W,74,69,10,22,0.455,9,29,Trey Townsend,1,19:27,33,Justin Wright,1,14:21,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/loyola-marymount/boxscore/11330
+2023-24,2023-11-21,11331,Neutral,Marshall,,W,78,71,7,25,0.280,7,35,Rocket Watts,1,15:06,294,Jacob Conner,1,18:22,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/marshall-university/boxscore/11331
+2023-24,2023-11-27,11353,Away,Xavier,,W,78,76,6,22,0.273,7,23,Isaiah Jones,1,19:09,51,Gytis Nemeiksa,1,17:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/xavier/boxscore/11353
+2023-24,2023-11-29,11332,Away,Detroit Mercy,,W,65,50,6,15,0.400,4,17,Jack Gohlke,1,06:51,789,Marcus Tankersley,1,15:17,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/detroit-mercy/boxscore/11332
+2023-24,2023-12-02,11333,Home,Purdue Fort Wayne,,L,77,98,5,22,0.227,17,26,Jack Gohlke,1,00:52,1148,Rasheed Bello,1,19:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/purdue-fort-wayne/boxscore/11333
+2023-24,2023-12-06,11379,Home,Toledo,,L,68,69,9,26,0.346,6,19,Blake Lampman,1,16:01,239,Dante Maddox Jr.,1,18:00,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/toledo/boxscore/11379
+2023-24,2023-12-08,11381,Away,Eastern Michigan,,W,77,63,7,23,0.304,6,20,Jack Gohlke,1,16:42,198,Arne Osojnik,1,19:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/eastern-michigan/boxscore/11381
+2023-24,2023-12-18,11352,Away,Michigan State,,L,62,79,9,29,0.310,9,21,Blake Lampman,1,16:27,213,Jaden Akins,1,17:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/michigan-state-university/boxscore/11352
+2023-24,2023-12-20,11491,Away,Dayton,,L,67,91,8,25,0.320,18,34,Blake Lampman,1,19:18,42,Nate Santos,1,19:00,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/dayton/boxscore/11491
+2023-24,2023-12-28,11334,Away,Cleveland State,,L,67,75,5,25,0.200,12,24,Rocket Watts,1,11:59,481,Chase Robinson,1,13:23,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/cleveland-state/boxscore/11334
+2023-24,2023-12-31,11335,Away,Youngstown State,,W,88,81,13,25,0.520,12,28,Blake Lampman,1,18:01,119,Brandon Rush,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/youngstown-state/boxscore/11335
+2023-24,2024-01-04,11336,Home,Milwaukee,,W,100,95,8,21,0.381,7,22,Blake Lampman,1,17:35,145,Kentrell Pullian,2,17:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/milwaukee/boxscore/11336
+2023-24,2024-01-06,11337,Home,Green Bay,,W,79,73,5,17,0.294,15,36,Blake Lampman,1,19:36,24,Preston Ruedinger,1,17:14,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/green-bay/boxscore/11337
+2023-24,2024-01-10,11338,Home,Northern Kentucky,,W,70,65,6,26,0.231,5,28,Blake Lampman,1,04:15,945,Trey Robinson,1,18:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/northern-kentucky/boxscore/11338
+2023-24,2024-01-13,11339,Away,IUPUI,,W,88,66,9,21,0.429,6,14,DQ Cole,1,18:31,89,Jlynn Counter,1,02:15,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/iupui/boxscore/11339
+2023-24,2024-01-17,11340,Home,Youngstown State,,W,70,67,8,21,0.381,8,31,Blake Lampman,1,04:05,955,DJ Burns,1,16:07,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/youngstown-state/boxscore/11340
+2023-24,2024-01-25,11341,Away,Green Bay,,L,59,69,7,24,0.292,12,31,Blake Lampman,1,17:34,146,Clarenc Cummings III,1,18:31,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/green-bay/boxscore/11341
+2023-24,2024-01-27,11342,Away,Milwaukee,,W,91,87,15,41,0.366,9,23,Blake Lampman,1,19:11,49,Kentrell Pullian,1,17:33,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/milwaukee/boxscore/11342
+2023-24,2024-02-01,11343,Home,Robert Morris,,W,87,72,15,27,0.556,8,30,Blake Lampman,1,18:45,75,Justice Williams,1,17:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/robert-morris/boxscore/11343
+2023-24,2024-02-03,11344,Home,Cleveland State,,W,83,71,6,18,0.333,7,25,Blake Lampman,1,13:11,409,Tevin Smith,1,19:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/cleveland-state/boxscore/11344
+2023-24,2024-02-08,11345,Away,Northern Kentucky,,L,89,99,14,49,0.286,8,21,Blake Lampman,1,18:59,61,Michael Bradley,1,17:12,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/northern-kentucky/boxscore/11345
+2023-24,2024-02-10,11346,Away,Wright State,,W,74,60,8,19,0.421,5,28,Jack Gohlke,1,04:06,954,Tanner Holden,1,16:13,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/wright-state/boxscore/11346
+2023-24,2024-02-14,11347,Away,Purdue Fort Wayne,,W,71,63,11,24,0.458,9,28,DQ Cole,1,16:56,184,Rasheed Bello,1,17:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/purdue-fort-wayne/boxscore/11347
+2023-24,2024-02-17,11348,Home,IUPUI,,W,107,59,15,27,0.556,5,18,Jack Gohlke,1,14:12,348,Bryce Monroe,1,18:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/iupui/boxscore/11348
+2023-24,2024-02-22,11349,Away,Robert Morris,,W,63,43,5,20,0.250,7,26,DQ Cole,1,09:36,624,Markeese Hastings,1,16:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/robert-morris/boxscore/11349
+2023-24,2024-02-25,11350,Home,Wright State,,L,75,96,9,29,0.310,9,19,Blake Lampman,1,17:10,170,Alex Huibregtse,1,18:23,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/wright-state/boxscore/11350
+2023-24,2024-03-02,11351,Home,Detroit Mercy,,W,75,70,8,19,0.421,9,19,Blake Lampman,1,18:39,81,Emmanuel Kuac,1,18:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/detroit-mercy/boxscore/11351
+2023-24,2024-03-07,11772,Home,Purdue Fort Wayne,8,W,75,65,6,18,0.333,12,32,Chris Conway,1,16:44,196,Rasheed Bello,1,17:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/purdue-fort-wayne-qf-/boxscore/11772
+2023-24,2024-03-11,11773,Neutral,Cleveland State,7,W,74,71,10,31,0.323,3,16,Jack Gohlke,1,15:05,295,Drew Lowder,1,17:57,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/cleveland-state-university-sf-/boxscore/11773
+2023-24,2024-03-12,11774,Neutral,Milwaukee,6,W,83,76,8,22,0.364,4,19,Osei Price,1,18:50,70,Kentrell Pullian,1,15:12,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/milwaukee-championship-/boxscore/11774
+2023-24,2024-03-21,11739,Neutral,Kentucky,3,W,80,76,15,31,0.484,9,28,DQ Cole,1,16:45,195,Antonio Reeves,1,05:13,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/university-of-kentucky-round-of-64-/boxscore/11739
+2023-24,2024-03-23,11837,Neutral,NC State,11,L,73,79,12,35,0.343,9,26,Jack Gohlke,1,14:27,333,DJ Horne,1,17:16,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2023-24/nc-state-university-round-of-32-/boxscore/11837
+2024-25,2024-11-04,11994,Home,Defiance College,,W,75,52,9,32,0.281,8,31,DQ Cole,1,10:16,584,Connor Bush,1,15:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/defiance-college/boxscore/11994
+2024-25,2024-11-06,11995,Away,Boise State,,L,43,87,3,26,0.115,9,20,Jayson Woodrich,1,09:22,638,Dylan Anderson,1,19:05,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/boise-state/boxscore/11995
+2024-25,2024-11-13,11997,Away,Illinois,,L,54,66,4,25,0.160,7,25,Jayson Woodrich,1,17:49,131,Ben Humrichous,1,16:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/university-of-illinois/boxscore/11997
+2024-25,2024-11-16,11998,Away,Kansas,1,L,57,78,6,22,0.273,8,20,DQ Cole,1,15:29,271,Rylan Griffen,1,14:28,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/university-of-kansas/boxscore/11998
+2024-25,2024-11-21,11999,Home,Eastern Michigan,,L,64,68,3,18,0.167,9,24,Nassim Mashhour,1,13:36,384,Arne Osojnik,1,15:01,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/eastern-michigan-university/boxscore/11999
+2024-25,2024-11-30,12000,Away,Toledo,,W,85,52,11,22,0.500,3,16,DQ Cole,1,16:18,222,Sam Lewis,1,13:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/university-of-toledo/boxscore/12000
+2024-25,2024-12-05,12029,Home,Wright State,,W,66,64,9,25,0.360,16,31,Jayson Woodrich,1,18:35,85,Brandon Noel,1,15:00,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/wright-state-university/boxscore/12029
+2024-25,2024-12-07,12031,Away,Youngstown State,,L,50,66,2,16,0.125,8,27,Cooper Craggs,1,17:01,179,EJ Farmer,1,18:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/youngstown-state-university/boxscore/12031
+2024-25,2024-12-17,12001,Neutral,Michigan State,20,L,58,77,11,31,0.355,6,17,DQ Cole,1,16:25,215,Jaden Akins,1,15:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/michigan-state-university/boxscore/12001
+2024-25,2024-12-19,12035,Away,Cleveland State,,L,75,92,13,31,0.419,11,23,Jaylen Jones,1,15:34,266,Tahj Staveskie,1,16:25,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/cleveland-state-university/boxscore/12035
+2024-25,2024-12-22,12002,Neutral,Loyola University Chicago,,W,72,71,9,27,0.333,7,22,DQ Cole,1,18:03,117,Daniil Glazkov,1,10:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/loyola-university-chicago-qf-/boxscore/12002
+2024-25,2024-12-23,12003,Neutral,Oregon State,,L,74,80,5,26,0.192,11,24,DQ Cole,1,16:18,222,Michael Rataj,1,13:56,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/oregon-state-university-sf-/boxscore/12003
+2024-25,2024-12-25,12004,Neutral,Hawaii,,L,70,73,9,29,0.310,5,22,Malcolm Christie,1,06:59,781,Gytis Nemeiksa,1,12:58,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/university-of-hawaii-3rd-place-game-/boxscore/12004
+2024-25,2024-12-30,12005,Away,Arkansas,23,L,62,92,2,17,0.118,10,22,Malcolm Christie,1,14:58,302,D.J. Wagner,1,16:24,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/arkansas/boxscore/12005
+2024-25,2025-01-02,12039,Home,Milwaukee,,W,65,49,3,17,0.176,5,18,Jaylen Jones,1,07:17,763,AJ McKee,1,16:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/milwaukee/boxscore/12039
+2024-25,2025-01-04,12043,Home,Robert Morris,,L,71,79,8,33,0.242,7,15,Malcolm Christie,1,18:50,70,Kam Woods,1,19:11,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/robert-morris-university/boxscore/12043
+2024-25,2025-01-09,12030,Away,Wright State,,L,62,66,5,22,0.227,7,23,Malcolm Christie,1,15:38,262,Keaton Norris,1,16:02,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/wright-state-university/boxscore/12030
+2024-25,2025-01-11,12045,Away,Northern Kentucky,,W,68,53,9,29,0.310,7,29,Jack Hoth,1,18:14,106,Randall Pettus II,1,17:45,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/northern-kentucky-university/boxscore/12045
+2024-25,2025-01-15,12047,Home,IU Indy,,W,72,59,8,25,0.320,6,23,DQ Cole,1,17:37,143,Caleb Hannah,1,09:31,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/iu-indy/boxscore/12047
+2024-25,2025-01-18,12049,Away,Detroit Mercy,,W,65,59,10,31,0.323,7,17,Jayson Woodrich,1,14:49,311,Nate Johnson,1,18:12,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/detroit-mercy/boxscore/12049
+2024-25,2025-01-22,12051,Home,Purdue Fort Wayne,,W,76,72,6,20,0.300,10,15,Malcolm Christie,1,13:18,402,Jalen Jackson,1,17:24,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/purdue-fort-wayne/boxscore/12051
+2024-25,2025-01-25,12044,Away,Robert Morris,,L,71,73,12,28,0.429,10,20,Jayson Woodrich,1,14:19,341,Ryan Prather Jr.,1,10:47,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/robert-morris-university/boxscore/12044
+2024-25,2025-01-30,12053,Home,Green Bay,,W,68,54,8,29,0.276,8,25,Malcolm Christie,1,13:07,413,Ryan Wade,1,16:01,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/green-bay/boxscore/12053
+2024-25,2025-02-01,12046,Home,Northern Kentucky,,L,75,84,11,25,0.440,12,32,DQ Cole,1,19:41,19,Josh Dilling,1,16:56,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/northern-kentucky-university/boxscore/12046
+2024-25,2025-02-06,12034,Home,Youngstown State,,L,75,84,7,25,0.280,10,34,Jayson Woodrich,1,16:46,194,Juwan Maxey,1,17:57,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/youngstown-state-university/boxscore/12034
+2024-25,2025-02-12,12048,Away,IU Indy,,W,82,67,12,27,0.444,12,34,Jayson Woodrich,1,18:50,70,Jarvis Walker,1,19:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/iu-indy/boxscore/12048
+2024-25,2025-02-16,12050,Home,Detroit Mercy,,W,93,83,6,20,0.300,10,24,Malcolm Christie,1,09:32,628,Mak Manciel,1,14:57,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/detroit-mercy/boxscore/12050
+2024-25,2025-02-21,12052,Away,Purdue Fort Wayne,,L,66,80,1,21,0.048,17,38,DQ Cole,1,19:08,52,Maximus Nelson,1,16:34,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/purdue-fort-wayne/boxscore/12052
+2024-25,2025-02-23,12037,Home,Cleveland State,,W,91,86,8,23,0.348,11,32,DQ Cole,1,15:28,272,Chase Robinson,1,13:55,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/cleveland-state-university/boxscore/12037
+2024-25,2025-02-27,12041,Away,Milwaukee,,L,66,71,9,24,0.375,3,20,Jayson Woodrich,1,17:45,135,Kentrell Pullian,1,19:30,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/milwaukee/boxscore/12041
+2024-25,2025-03-01,12054,Away,Green Bay,,W,87,84,9,22,0.409,11,32,DQ Cole,1,12:39,441,Ryan Wade,1,18:56,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/green-bay/boxscore/12054
+2024-25,2025-03-04,12161,Home,Green Bay,11,W,96,72,12,27,0.444,7,26,Isaiah Jones,1,17:53,127,Mac Wrecke,1,18:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/green-bay-1st-rd-/boxscore/12161
+2024-25,2025-03-06,12162,Away,Milwaukee,3,W,72,64,7,18,0.389,5,18,DQ Cole,1,17:40,140,Kentrell Pullian,1,14:47,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/milwaukee-qf-/boxscore/12162
+2024-25,2025-03-10,12163,Neutral,Robert Morris,1,L,76,79,8,23,0.348,10,25,DQ Cole,1,19:08,52,Josh Omojafo,1,18:50,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2024-25/robert-morris-university-sf-/boxscore/12163
+2025-26,2025-11-03,13043,Away,Michigan,7,L,78,121,11,26,0.423,19,35,Tuburu Naivalurua,1,19:01,59,Nimari Burnett,1,15:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/michigan/boxscore/13043
+2025-26,2025-11-07,13044,Away,Purdue,1,L,77,87,8,26,0.308,13,35,Nassim Mashhour,1,18:28,92,Jack Benter,1,18:03,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/purdue/boxscore/13044
+2025-26,2025-11-12,13045,Away,Houston,1,L,45,78,3,13,0.231,9,31,Nassim Mashhour,2,19:45,1215,Milos Uzan,1,19:08,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/houston/boxscore/13045
+2025-26,2025-11-15,13054,Home,Defiance College,,W,113,47,8,22,0.364,4,20,Nassim Mashhour,1,15:49,251,Connor Bush,1,07:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/defiance-college/boxscore/13054
+2025-26,2025-11-17,13046,Away,UCF,,L,83,87,9,23,0.391,7,23,Brett White,1,12:52,428,Jamichael Stillwell,1,09:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/ucf/boxscore/13046
+2025-26,2025-11-21,13047,Away,Eastern Michigan,,L,91,97,9,22,0.409,10,22,Nassim Mashhour,1,19:18,42,Carlos Hart,1,18:47,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/eastern-michigan/boxscore/13047
+2025-26,2025-11-24,13049,Neutral,Lamar,,W,83,68,3,17,0.176,7,25,Nassim Mashhour,1,06:56,784,Rob Lee Jr.,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/lamar/boxscore/13049
+2025-26,2025-11-25,13050,Away,Montana,,W,95,87,6,17,0.353,10,23,Michael Houge,1,19:20,40,Tyler Thompson,1,16:54,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/montana/boxscore/13050
+2025-26,2025-12-03,13053,Home,Purdue Fort Wayne,,W,101,92,13,29,0.448,15,37,Nassim Mashhour,1,18:59,61,Maximus Nelson,1,18:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/purdue-fort-wayne/boxscore/13053
+2025-26,2025-12-06,13051,Home,Toledo,,W,98,97,6,18,0.333,4,21,Brody Robinson,1,17:13,167,Phoenix Glassnor,1,10:41,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/toledo/boxscore/13051
+2025-26,2025-12-13,13124,Away,Northern Iowa,,L,63,75,5,18,0.278,7,21,Brett White,1,15:02,298,Trey Campbell,1,14:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/northern-iowa/boxscore/13124
+2025-26,2025-12-17,13055,Away,Northern Kentucky,,W,82,77,6,18,0.333,6,26,Brett White,1,16:24,216,Donovan Oday,1,15:11,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/northern-kentucky/boxscore/13055
+2025-26,2025-12-20,13077,Neutral,Michigan State,9,L,70,79,10,22,0.455,6,22,Ziare Wells,1,18:53,67,Jaxon Kohler,1,14:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/michigan-state/boxscore/13077
+2025-26,2025-12-29,13057,Away,Wright State,,L,73,88,5,21,0.238,9,16,Brody Robinson,1,18:48,72,Dominic Pangonis,1,16:46,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/wright-state/boxscore/13057
+2025-26,2026-01-01,13058,Away,Youngstown State,,W,85,83,8,15,0.533,10,35,Brody Robinson,1,07:09,771,Cris Carroll,1,19:43,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/youngstown-state/boxscore/13058
+2025-26,2026-01-04,13059,Home,Robert Morris,,W,96,73,3,16,0.188,5,22,Brett White,1,12:08,472,Desean Goode,1,14:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/robert-morris/boxscore/13059
+2025-26,2026-01-09,13060,Home,Cleveland State,,W,97,74,9,33,0.273,4,27,Brett White,1,11:29,511,Tre Beard,1,18:40,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/cleveland-state/boxscore/13060
+2025-26,2026-01-11,13061,Home,Wright State,,L,84,94,7,19,0.368,9,18,Brett White,1,03:05,1015,Solomon Callaghan,1,15:55,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/wright-state/boxscore/13061
+2025-26,2026-01-15,13062,Away,Milwaukee,,W,73,60,4,16,0.250,2,20,Brett White,1,13:36,384,Stevie Elam,1,15:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/milwaukee/boxscore/13062
+2025-26,2026-01-18,13063,Away,Green Bay,,W,88,63,6,15,0.400,5,24,Tuburu Naivalurua,1,11:47,493,Preston Ruedinger,1,17:55,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/green-bay/boxscore/13063
+2025-26,2026-01-21,13064,Home,IU Indy,,L,85,103,10,22,0.455,11,22,Brody Robinson,1,19:27,33,Kyler D'Augustino,1,18:44,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/iu-indy/boxscore/13064
+2025-26,2026-01-24,13065,Away,Detroit Mercy,,W,95,87,7,21,0.333,11,29,Ziare Wells,1,16:27,213,TJ Nadeau,1,17:48,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/detroit-mercy/boxscore/13065
+2025-26,2026-01-28,13067,Away,Purdue Fort Wayne,,W,74,65,8,21,0.381,13,40,Brett White,1,16:29,211,Maximus Nelson,1,17:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/purdue-fort-wayne/boxscore/13067
+2025-26,2026-02-01,13068,Home,Northern Kentucky,,W,76,65,5,18,0.278,9,40,Brett White,1,17:26,154,Tae Dozier,1,19:26,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/northern-kentucky/boxscore/13068
+2025-26,2026-02-04,13069,Away,Cleveland State,,L,78,91,5,21,0.238,17,40,Brett White,1,16:36,204,Tre Beard,1,14:51,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/cleveland-state/boxscore/13069
+2025-26,2026-02-12,13070,Home,Youngstown State,,L,82,86,10,25,0.400,12,35,Brody Robinson,1,15:32,268,Cam Polak,1,18:39,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/youngstown-state/boxscore/13070
+2025-26,2026-02-15,13071,Away,Robert Morris,,L,69,93,5,16,0.312,13,30,Brett White,1,12:55,425,Darius Livingston,1,17:53,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/robert-morris/boxscore/13071
+2025-26,2026-02-20,13072,Home,Green Bay,,L,68,73,5,25,0.200,10,22,Brett White,1,06:39,801,Justin Allen,1,18:14,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/green-bay/boxscore/13072
+2025-26,2026-02-22,13073,Home,Milwaukee,,W,81,70,10,20,0.500,9,29,Brett White,1,16:01,239,Stevie Elam,1,18:36,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/milwaukee/boxscore/13073
+2025-26,2026-02-25,13074,Away,IU Indy,,W,86,74,4,11,0.364,12,28,Brody Robinson,1,19:16,44,Maguire Mitchell,1,17:52,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/iu-indy/boxscore/13074
+2025-26,2026-02-28,13076,Home,Detroit Mercy,,L,89,95,10,24,0.417,6,16,Tuburu Naivalurua,1,15:55,245,TJ Nadeau,1,17:55,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/detroit-mercy/boxscore/13076
+2025-26,2026-03-04,13127,Home,Northern Kentucky,,L,84,85,13,34,0.382,9,28,Brody Robinson,1,16:11,229,Donovan Oday,1,17:09,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2025-26/northern-kentucky/boxscore/13127
+2026-27,2026-11-02,13433,Away,Michigan,16,L,68,84,6,26,0.231,7,34,Nassim Mashhour,1,19:19,41,Quinn Costello,1,14:20,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/michigan/boxscore/13433
+2026-27,2026-11-06,13434,Away,Stanford,,L,63,81,3,17,0.176,9,27,RJ Taylor,1,07:08,772,Aziz Olajuwon,1,18:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/stanford/boxscore/13434
+2026-27,2026-11-07,13530,Away,UC Santa Barbara,,L,67,90,10,22,0.455,18,29,Nassim Mashhour,1,19:27,33,Aidan Mahaney,1,13:35,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/uc-santa-barbara/boxscore/13530
+2026-27,2026-11-09,13513,Away,Alabama,18,L,68,109,3,18,0.167,24,46,Brady Swartz,1,09:54,606,Amari Allen,1,19:27,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/alabama/boxscore/13513
+2026-27,2026-11-11,13531,Away,Boise State,,L,79,111,9,27,0.333,14,37,Warren Marshall IV,1,19:44,16,Damar Wheeler-Thomas,1,18:45,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/boise-state/boxscore/13531
+2026-27,2026-11-14,13526,Home,Northern Iowa,,W,80,76,6,22,0.273,12,30,Nassim Mashhour,1,18:24,96,Carson Vis,1,18:49,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/northern-iowa/boxscore/13526
+2026-27,2026-11-18,13523,Away,Arizona State,,L,65,68,7,23,0.304,8,32,Nassim Mashhour,1,13:19,401,Joel Foxwell,1,17:38,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/arizona-state/boxscore/13523
+2026-27,2026-11-20,13435,Away,Purdue,,L,49,95,4,19,0.211,21,42,Warren Marshall IV,1,09:24,636,Antione West,1,19:00,True,https://goldengrizzlies.com/sports/mens-basketball/stats/2026-27/purdue/boxscore/13435
