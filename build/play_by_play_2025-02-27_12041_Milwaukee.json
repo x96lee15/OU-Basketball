@@ -1,0 +1,8162 @@
+[
+  {
+    "period": 1,
+    "clock": "19:44",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 0,
+      "MKE": 0
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "19:30",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PULLIAN,KENTRELL(fastbreak)",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "GOOD 3PTR by PULLIAN,KENTRELL(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FULKS,THEMUS",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "ASSIST  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "19:12",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FULKS,THEMUS",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "REBOUND DEF by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "18:56",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 0,
+      "MKE": 3
+    },
+    "raw_text": "REBOUND OFF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "18:48",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 0,
+      "MKE": 6
+    },
+    "raw_text": "GOOD 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FULKS,THEMUS",
+    "score": {
+      "Oak": 0,
+      "MKE": 6
+    },
+    "raw_text": "ASSIST  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "18:26",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 2,
+      "MKE": 6
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:26",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 2,
+      "MKE": 6
+    },
+    "raw_text": "FOUL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "18:25",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 2,
+      "MKE": 6
+    },
+    "raw_text": "MISS FT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 2,
+      "MKE": 6
+    },
+    "raw_text": "REBOUND DEF by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "18:12",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 2,
+      "MKE": 8
+    },
+    "raw_text": "GOOD LAYUP by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 2,
+      "MKE": 8
+    },
+    "raw_text": "ASSIST  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "18:02",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 2,
+      "MKE": 8
+    },
+    "raw_text": "FOUL  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "17:45",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "17:24",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "MISS JUMPER by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "REBOUND OFF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "17:10",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB OUT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB OUT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FRANKLIN,AARON",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB IN by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUFFY,DARIUS",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "SUB IN by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "17:02",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "17:02",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MCKEE,AJ",
+    "score": {
+      "Oak": 5,
+      "MKE": 8
+    },
+    "raw_text": "STEAL  by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "16:57",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:42",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "MISS 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FULKS,THEMUS",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "REBOUND DEF by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "16:31",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FRANKLIN,AARON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "MISS 3PTR by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FRANKLIN,AARON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "FOUL  by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCKEE,AJ",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB OUT by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "16:19",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FRANKLIN,AARON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "REBOUND DEF by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "16:13",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FULKS,THEMUS(in the paint)",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "MISS LAYUP by FULKS,THEMUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "REBOUND DEF by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "16:11",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "FOUL  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "15:43",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FULKS,THEMUS",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "REBOUND DEF by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "FOUL  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "MKE": 10
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "15:16",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FRANKLIN,AARON(in the paint)",
+    "score": {
+      "Oak": 5,
+      "MKE": 12
+    },
+    "raw_text": "GOOD LAYUP by FRANKLIN,AARON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FULKS,THEMUS",
+    "score": {
+      "Oak": 5,
+      "MKE": 12
+    },
+    "raw_text": "ASSIST  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DUFFY,DARIUS",
+    "score": {
+      "Oak": 5,
+      "MKE": 12
+    },
+    "raw_text": "FOUL  by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "15:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 7,
+      "MKE": 12
+    },
+    "raw_text": "GOOD JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "14:40",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by PRATT,ERIK",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "GOOD JUMPER by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FULKS,THEMUS",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "ASSIST  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "14:24",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "REBOUND OFF by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRATT,ERIK",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "REBOUND DEF by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "14:10",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "MISS 3PTR by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 7,
+      "MKE": 14
+    },
+    "raw_text": "REBOUND DEF by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "14:00",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)",
+    "score": {
+      "Oak": 10,
+      "MKE": 14
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 10,
+      "MKE": 14
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:33",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 10,
+      "MKE": 14
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 10,
+      "MKE": 14
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "13:10",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 13,
+      "MKE": 14
+    },
+    "raw_text": "GOOD 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 13,
+      "MKE": 14
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "13:02",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FULKS,THEMUS",
+    "score": {
+      "Oak": 13,
+      "MKE": 14
+    },
+    "raw_text": "TURNOVER  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "13:02",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 13,
+      "MKE": 14
+    },
+    "raw_text": "STEAL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLE,DQ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "GOOD LAYUP by COLE,DQ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "ASSIST  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FRANKLIN,AARON",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB OUT by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUFFY,DARIUS",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB OUT by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB IN by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB IN by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCKEE,AJ",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB IN by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FIELDS,FAIZON",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB IN by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "MISS JUMPER by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 15,
+      "MKE": 14
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "12:27",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Oak": 17,
+      "MKE": 14
+    },
+    "raw_text": "GOOD LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:20",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "ASSIST  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "STEAL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:01",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FULKS,THEMUS",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "MISS JUMPER by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 17,
+      "MKE": 16
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "GOOD LAYUP by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:40",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "MISS DUNK by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "11:35",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:35",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "11:35",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:26",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCKEE,AJ",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "TURNOVER  by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "11:26",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 17,
+      "MKE": 18
+    },
+    "raw_text": "REBOUND OFF by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "10:57",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 20,
+      "MKE": 18
+    },
+    "raw_text": "GOOD 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 20,
+      "MKE": 18
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "10:36",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 20,
+      "MKE": 18
+    },
+    "raw_text": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 20,
+      "MKE": 18
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:16",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CRAGGS,COOPER(in the paint)",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "GOOD LAYUP by CRAGGS,COOPER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "09:59",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB OUT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "09:41",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "09:41",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "STEAL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STILLWELL,JAMICHAEL(fastbreak)",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "MISS FT by STILLWELL,JAMICHAEL(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 22,
+      "MKE": 18
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by STILLWELL,JAMICHAEL(fastbreak)",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "GOOD FT by STILLWELL,JAMICHAEL(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "09:07",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:07",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "STEAL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "FOUL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "SUB OUT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FRANKLIN,AARON",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "SUB IN by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "08:34",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "FOUL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 22,
+      "MKE": 19
+    },
+    "raw_text": "FOUL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 22,
+      "MKE": 20
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 22,
+      "MKE": 20
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 22,
+      "MKE": 20
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 22,
+      "MKE": 20
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUFFY,DARIUS",
+    "score": {
+      "Oak": 22,
+      "MKE": 20
+    },
+    "raw_text": "SUB IN by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "08:29",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 22,
+      "MKE": 21
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "08:08",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 22,
+      "MKE": 21
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "08:08",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PRATT,ERIK",
+    "score": {
+      "Oak": 22,
+      "MKE": 21
+    },
+    "raw_text": "STEAL  by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "08:03",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by PRATT,ERIK(in the paint)",
+    "score": {
+      "Oak": 22,
+      "MKE": 21
+    },
+    "raw_text": "MISS DUNK by PRATT,ERIK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MCKEE,AJ",
+    "score": {
+      "Oak": 22,
+      "MKE": 21
+    },
+    "raw_text": "REBOUND OFF by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "07:56",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 22,
+      "MKE": 23
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:32",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 24,
+      "MKE": 23
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FRANKLIN,AARON",
+    "score": {
+      "Oak": 24,
+      "MKE": 23
+    },
+    "raw_text": "TURNOVER  by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COLE,DQ",
+    "score": {
+      "Oak": 24,
+      "MKE": 23
+    },
+    "raw_text": "STEAL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "07:14",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "06:57",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DUFFY,DARIUS",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "REBOUND OFF by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "06:52",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by DUFFY,DARIUS(in the paint)",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "MISS TIPIN by DUFFY,DARIUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PRATT,ERIK",
+    "score": {
+      "Oak": 26,
+      "MKE": 23
+    },
+    "raw_text": "REBOUND OFF by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "06:50",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by PRATT,ERIK(in the paint)",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "GOOD LAYUP by PRATT,ERIK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FRANKLIN,AARON",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FRANKLIN,AARON",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by FRANKLIN,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUFFY,DARIUS",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FIELDS,FAIZON",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "06:22",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "06:22",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "06:22",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "06:22",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "06:03",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "MISS JUMPER by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 26,
+      "MKE": 25
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "05:39",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FULKS,THEMUS",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "TURNOVER  by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "05:39",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCKEE,AJ",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "05:39",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRATT,ERIK",
+    "score": {
+      "Oak": 29,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 30,
+      "MKE": 25
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 30,
+      "MKE": 25
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 30,
+      "MKE": 25
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 30,
+      "MKE": 25
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 30,
+      "MKE": 25
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:24",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 32,
+      "MKE": 25
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 32,
+      "MKE": 25
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "05:24",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 32,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "05:24",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "MISS FT by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "STEAL  by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by FIELDS,FAIZON(fastbreak)",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "MISS FT by FIELDS,FAIZON(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 25
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FIELDS,FAIZON(fastbreak)",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "GOOD FT by FIELDS,FAIZON(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FULKS,THEMUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "SUB OUT by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 33,
+      "MKE": 26
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "GOOD FT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "MISS FT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "04:22",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:22",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "STEAL  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "04:22",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:22",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "MISS FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 27
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:22",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "04:20",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:20",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:08",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "04:08",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "STEAL  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "03:55",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "MISS LAYUP by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:54",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "03:54",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUFFY,DARIUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 28
+    },
+    "raw_text": "SUB IN by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by DUFFY,DARIUS(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 30
+    },
+    "raw_text": "GOOD DUNK by DUFFY,DARIUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 30
+    },
+    "raw_text": "ASSIST  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "03:15",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DUFFY,DARIUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 30
+    },
+    "raw_text": "FOUL  by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "03:15",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 30
+    },
+    "raw_text": "MISS FT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 30
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "03:01",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LOVELACE, JR.,JOHN(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "GOOD LAYUP by LOVELACE, JR.,JOHN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRATT,ERIK",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "ASSIST  by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "REBOUND DEF by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "02:37",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by DUFFY,DARIUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "STEAL  by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 33,
+      "MKE": 32
+    },
+    "raw_text": "FOUL  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL(fastbreak)",
+    "score": {
+      "Oak": 33,
+      "MKE": 33
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUFFY,DARIUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 33
+    },
+    "raw_text": "SUB OUT by DUFFY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 33
+    },
+    "raw_text": "SUB IN by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 33,
+      "MKE": 33
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 33,
+      "MKE": 33
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "02:26",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL(fastbreak)",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "02:01",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "01:54",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "01:54",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "SUB OUT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 1,
+    "clock": "01:54",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FULKS,THEMUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "SUB IN by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "01:54",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCKEE,AJ",
+    "score": {
+      "Oak": 33,
+      "MKE": 34
+    },
+    "raw_text": "SUB IN by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "01:50",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "GOOD JUMPER by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "ASSIST  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "01:25",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "MISS LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "REBOUND DEF by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "01:16",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 33,
+      "MKE": 36
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 1,
+    "clock": "01:12",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 38
+    },
+    "raw_text": "GOOD LAYUP by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:50",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 33,
+      "MKE": 38
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:50",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 33,
+      "MKE": 38
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Oak": 33,
+      "MKE": 38
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:30",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 39
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "00:30",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 33,
+      "MKE": 39
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 1,
+    "clock": "00:30",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 39
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "00:30",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 33,
+      "MKE": 40
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 1,
+    "clock": "00:22",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 40
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:15",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 33,
+      "MKE": 40
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:15",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 40
+    },
+    "raw_text": "STEAL  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "00:10",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 33,
+      "MKE": 42
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 33,
+      "MKE": 42
+    },
+    "raw_text": "ASSIST  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 33,
+      "MKE": 42
+    },
+    "raw_text": "FOUL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 33,
+      "MKE": 42
+    },
+    "raw_text": "MISS FT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 33,
+      "MKE": 42
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "GOOD FT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "SUB IN by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "19:43",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FULKS,THEMUS",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "MISS 3PTR by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "19:35",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "19:35",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 34,
+      "MKE": 42
+    },
+    "raw_text": "STEAL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "19:30",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 34,
+      "MKE": 44
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:13",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "MKE": 44
+    },
+    "raw_text": "MISS 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 34,
+      "MKE": 44
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "MKE": 44
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS(fastbreak)",
+    "score": {
+      "Oak": 34,
+      "MKE": 45
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "MKE": 45
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "MKE": 45
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 34,
+      "MKE": 45
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 34,
+      "MKE": 45
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS(fastbreak)",
+    "score": {
+      "Oak": 34,
+      "MKE": 46
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 34,
+      "MKE": 46
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 34,
+      "MKE": 46
+    },
+    "raw_text": "BLOCK  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCKEE,AJ",
+    "score": {
+      "Oak": 34,
+      "MKE": 46
+    },
+    "raw_text": "REBOUND DEF by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "18:41",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 34,
+      "MKE": 46
+    },
+    "raw_text": "FOUL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "18:41",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL(fastbreak)",
+    "score": {
+      "Oak": 34,
+      "MKE": 47
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "18:41",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL(fastbreak)",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "18:32",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "18:32",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by FULKS,THEMUS",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "STEAL  by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "18:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "FOUL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "18:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "18:29",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "18:16",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "REBOUND OFF by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "18:13",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "18:01",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MCKEE,AJ(in the paint)",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "MISS JUMPER by MCKEE,AJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "17:57",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "MISS 3PTR by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 34,
+      "MKE": 48
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "17:54",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FIELDS,FAIZON(in the paint)",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "GOOD LAYUP by FIELDS,FAIZON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "17:38",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "17:38",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by FULKS,THEMUS",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "STEAL  by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "17:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "17:23",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "MISS FT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:23",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "MISS FT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 34,
+      "MKE": 50
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by JONES,ISAIAH(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "GOOD DUNK by JONES,ISAIAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "TURNOVER  by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "16:44",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COLE,DQ",
+    "score": {
+      "Oak": 36,
+      "MKE": 50
+    },
+    "raw_text": "REBOUND OFF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:10",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PULLIAN,KENTRELL(in the paint)",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "MISS LAYUP by PULLIAN,KENTRELL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "REBOUND OFF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:06",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "TURNOVER  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCKEE,AJ",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FRANKLIN,AARON",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUFFY,DARIUS",
+    "score": {
+      "Oak": 39,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 42,
+      "MKE": 50
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 42,
+      "MKE": 50
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FULKS,THEMUS",
+    "score": {
+      "Oak": 42,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 42,
+      "MKE": 50
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 42,
+      "MKE": 50
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 43,
+      "MKE": 50
+    },
+    "raw_text": "GOOD FT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 43,
+      "MKE": 50
+    },
+    "raw_text": "FOUL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 43,
+      "MKE": 50
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 43,
+      "MKE": 51
+    },
+    "raw_text": "GOOD FT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 43,
+      "MKE": 52
+    },
+    "raw_text": "GOOD FT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 43,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 43,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "15:32",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON(fastbreak)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "15:04",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "14:43",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "14:43",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DUFFY,DARIUS",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "BLOCK  by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND DEF by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "14:06",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "14:06",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FRANKLIN,AARON(in the paint)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS LAYUP by FRANKLIN,AARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND DEF by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DUFFY,DARIUS",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "FOUL  by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FULKS,THEMUS",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FRANKLIN,AARON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUFFY,DARIUS",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCKEE,AJ",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FIELDS,FAIZON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:59",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND DEF by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "13:40",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCKEE,AJ",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "TURNOVER  by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "13:40",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:34",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WOODRICH,JAYSON(in the paint)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS LAYUP by WOODRICH,JAYSON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:30",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:26",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRATT,ERIK",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "FOUL  by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "13:07",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "MISS LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 46,
+      "MKE": 52
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 46,
+      "MKE": 55
+    },
+    "raw_text": "GOOD 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 46,
+      "MKE": 55
+    },
+    "raw_text": "ASSIST  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MCKEE,AJ",
+    "score": {
+      "Oak": 46,
+      "MKE": 55
+    },
+    "raw_text": "FOUL  by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 47,
+      "MKE": 55
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 47,
+      "MKE": 55
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 47,
+      "MKE": 55
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 47,
+      "MKE": 55
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 47,
+      "MKE": 55
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "12:16",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 48,
+      "MKE": 55
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "12:00",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by PRATT,ERIK(in the paint)",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "GOOD JUMPER by PRATT,ERIK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "11:25",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:08",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "TURNOVER  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 48,
+      "MKE": 57
+    },
+    "raw_text": "STEAL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "11:01",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 48,
+      "MKE": 59
+    },
+    "raw_text": "GOOD LAYUP by MCKEE,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRATT,ERIK",
+    "score": {
+      "Oak": 48,
+      "MKE": 59
+    },
+    "raw_text": "ASSIST  by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 48,
+      "MKE": 59
+    },
+    "raw_text": "FOUL  by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "GOOD FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "MISS FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "MISS LAYUP by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "REBOUND OFF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "10:32",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 49,
+      "MKE": 59
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:32",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 49,
+      "MKE": 60
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "10:32",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "10:11",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "09:54",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "FOUL  by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "SUB OUT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FRANKLIN,AARON",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "SUB IN by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 49,
+      "MKE": 61
+    },
+    "raw_text": "FOUL  by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ",
+    "score": {
+      "Oak": 50,
+      "MKE": 61
+    },
+    "raw_text": "GOOD FT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "09:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "GOOD FT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "09:32",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FIELDS,FAIZON",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "REBOUND OFF by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "09:31",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "FOUL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:31",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "09:31",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FULKS,THEMUS",
+    "score": {
+      "Oak": 51,
+      "MKE": 61
+    },
+    "raw_text": "SUB IN by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:31",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 51,
+      "MKE": 62
+    },
+    "raw_text": "GOOD FT by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "09:31",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 51,
+      "MKE": 62
+    },
+    "raw_text": "MISS FT by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 51,
+      "MKE": 62
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 51,
+      "MKE": 62
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Oak": 51,
+      "MKE": 62
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "08:59",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "08:58",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:58",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:58",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCKEE,AJ",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "SUB OUT by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "08:58",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "08:43",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FRANKLIN,AARON",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "FOUL  by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "08:43",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FRANKLIN,AARON",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "TURNOVER  by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "08:27",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FULKS,THEMUS",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "FOUL  by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "08:27",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "MISS FT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 54,
+      "MKE": 62
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:27",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 55,
+      "MKE": 62
+    },
+    "raw_text": "GOOD FT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "08:00",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FULKS,THEMUS(in the paint)",
+    "score": {
+      "Oak": 55,
+      "MKE": 62
+    },
+    "raw_text": "MISS JUMPER by FULKS,THEMUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FULKS,THEMUS",
+    "score": {
+      "Oak": 55,
+      "MKE": 62
+    },
+    "raw_text": "REBOUND OFF by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "07:56",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FULKS,THEMUS",
+    "score": {
+      "Oak": 55,
+      "MKE": 62
+    },
+    "raw_text": "MISS JUMPER by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 55,
+      "MKE": 62
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "07:32",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 57,
+      "MKE": 62
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 57,
+      "MKE": 62
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "07:07",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FRANKLIN,AARON(in the paint)",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "GOOD LAYUP by FRANKLIN,AARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FULKS,THEMUS",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "ASSIST  by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "06:39",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "REBOUND DEF by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUFFY,DARIUS",
+    "score": {
+      "Oak": 57,
+      "MKE": 64
+    },
+    "raw_text": "SUB IN by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 57,
+      "MKE": 65
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "06:24",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 57,
+      "MKE": 66
+    },
+    "raw_text": "GOOD FT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "05:59",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:35",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LOVELACE, JR.,JOHN(in the paint)",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "MISS JUMPER by LOVELACE, JR.,JOHN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "05:10",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "FOUL  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB OUT by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "FRANKLIN,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FRANKLIN,AARON",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB OUT by FRANKLIN,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB IN by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCKEE,AJ",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB IN by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "MISS FT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 59,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:09",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 60,
+      "MKE": 66
+    },
+    "raw_text": "GOOD FT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 62,
+      "MKE": 66
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 62,
+      "MKE": 66
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "04:26",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FULKS,THEMUS(in the paint)",
+    "score": {
+      "Oak": 62,
+      "MKE": 66
+    },
+    "raw_text": "MISS LAYUP by FULKS,THEMUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 62,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "04:19",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "MKE",
+    "player": "DUFFY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUFFY,DARIUS",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "SUB OUT by DUFFY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FIELDS,FAIZON",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "SUB IN by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "03:58",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FIELDS,FAIZON",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "TURNOVER  by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "03:58",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "03:38",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "03:33",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "MISS TIPIN by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "03:28",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 64,
+      "MKE": 66
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "03:28",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS(fastbreak)",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "03:28",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by FULKS,THEMUS(fastbreak)",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "MISS FT by FULKS,THEMUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:59",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,ISAIAH",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "MISS 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "REBOUND DEF by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "02:30",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCKEE,AJ",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "MISS 3PTR by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "02:11",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 64,
+      "MKE": 67
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:45",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by STILLWELL,JAMICHAEL(in the paint)",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "GOOD LAYUP by STILLWELL,JAMICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRATT,ERIK",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "ASSIST  by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FULKS,THEMUS",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "REBOUND DEF by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "01:05",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:53",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRATT,ERIK",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "MISS 3PTR by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "MKE",
+    "player": "PULLIAN,KENTRELL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PULLIAN,KENTRELL",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by PULLIAN,KENTRELL"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 64,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCKEE,AJ",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FULKS,THEMUS(in the paint)",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "MISS JUMPER by FULKS,THEMUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRATT,ERIK",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "MKE",
+    "player": "MCKEE,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCKEE,AJ",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by MCKEE,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:02",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "STILLWELL,JAMICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STILLWELL,JAMICHAEL",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by STILLWELL,JAMICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "FIELDS,FAIZON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FIELDS,FAIZON",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by FIELDS,FAIZON"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "PRATT,ERIK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRATT,ERIK",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by PRATT,ERIK"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOTH,JACK",
+    "score": {
+      "Oak": 66,
+      "MKE": 69
+    },
+    "raw_text": "FOUL  by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 66,
+      "MKE": 70
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "MKE",
+    "player": "FULKS,THEMUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FULKS,THEMUS",
+    "score": {
+      "Oak": 66,
+      "MKE": 71
+    },
+    "raw_text": "GOOD FT by FULKS,THEMUS"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 66,
+      "MKE": 71
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "MKE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 66,
+      "MKE": 71
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  }
+]

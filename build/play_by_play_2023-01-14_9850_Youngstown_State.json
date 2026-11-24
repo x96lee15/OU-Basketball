@@ -1,0 +1,5732 @@
+[
+  {
+    "period": 1,
+    "clock": "19:40",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET(in the paint)",
+    "score": {
+      "YSU": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "19:30",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "YSU": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "19:15",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN",
+    "score": {
+      "YSU": 0,
+      "Oak": 2
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "18:54",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "GOOD LAYUP by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:27",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HERVEY,KEATON",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "MISS 3PTR by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "18:21",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "MISS LAYUP by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "18:20",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "TURNOVER  by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "18:00",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:00",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by GREEN,MALEK",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "BLOCK  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUSH,BRANDON",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND DEF by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "17:29",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GREEN,MALEK",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "TURNOVER  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "17:29",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WATTS,ROCKET",
+    "score": {
+      "YSU": 2,
+      "Oak": 2
+    },
+    "raw_text": "STEAL  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "17:25",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WATTS,ROCKET(fastbreak)",
+    "score": {
+      "YSU": 2,
+      "Oak": 4
+    },
+    "raw_text": "GOOD JUMPER by WATTS,ROCKET(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "17:02",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NELSON,ADRIAN",
+    "score": {
+      "YSU": 2,
+      "Oak": 4
+    },
+    "raw_text": "MISS 3PTR by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "YSU": 2,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "16:51",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 2,
+      "Oak": 4
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "16:51",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 2,
+      "Oak": 4
+    },
+    "raw_text": "STEAL  by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "16:44",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCBRIDE,BRYCE(fastbreak)",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "GOOD 3PTR by MCBRIDE,BRYCE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "16:26",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND DEF by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "16:15",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "TURNOVER  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "16:15",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND DEF by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "16:00",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HERVEY,KEATON",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "FOUL  by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "16:00",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 5,
+      "Oak": 4
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:58",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 7,
+      "Oak": 4
+    },
+    "raw_text": "GOOD LAYUP by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 7,
+      "Oak": 4
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "15:44",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "YSU": 7,
+      "Oak": 6
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:27",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 9,
+      "Oak": 6
+    },
+    "raw_text": "GOOD JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 9,
+      "Oak": 6
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "15:04",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "YSU": 9,
+      "Oak": 6
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 9,
+      "Oak": 6
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "14:31",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by RUSH,BRANDON",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "TURNOVER  by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 12,
+      "Oak": 6
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:58",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "YSU": 12,
+      "Oak": 9
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HERVEY,KEATON",
+    "score": {
+      "YSU": 12,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "13:36",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 15,
+      "Oak": 9
+    },
+    "raw_text": "GOOD 3PTR by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 15,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 15,
+      "Oak": 9
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:20",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GREEN,MALEK",
+    "score": {
+      "YSU": 15,
+      "Oak": 9
+    },
+    "raw_text": "STEAL  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUSH,BRANDON(fastbreak)(in the paint)",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by RUSH,BRANDON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET(in the paint)",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "FOUL  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUSH,BRANDON",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "YSU",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOVELACE, JR.,JOHN",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "12:59",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:49",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 17,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "12:28",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MCBRIDE,BRYCE(in the paint)",
+    "score": {
+      "YSU": 19,
+      "Oak": 9
+    },
+    "raw_text": "GOOD JUMPER by MCBRIDE,BRYCE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 19,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 19,
+      "Oak": 9
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 19,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "11:48",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NELSON,ADRIAN",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "GOOD 3PTR by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "11:26",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LOVELACE, JR.,JOHN",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "TURNOVER  by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,JALEN",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,ADRIAN",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COHILL,DWAYNE",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "DUNN,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUNN,WILL",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by DUNN,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 22,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PRICE,OSEI",
+    "score": {
+      "YSU": 22,
+      "Oak": 12
+    },
+    "raw_text": "GOOD 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CONWAY,CHRIS",
+    "score": {
+      "YSU": 22,
+      "Oak": 12
+    },
+    "raw_text": "ASSIST  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:25",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 24,
+      "Oak": 12
+    },
+    "raw_text": "GOOD JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:25",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "YSU": 24,
+      "Oak": 12
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:25",
+    "team": "YSU",
+    "player": "LOVELACE, JR.,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOVELACE, JR.,JOHN",
+    "score": {
+      "YSU": 24,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by LOVELACE, JR.,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "10:25",
+    "team": "YSU",
+    "player": "HUNTER,MYLES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,MYLES",
+    "score": {
+      "YSU": 24,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by HUNTER,MYLES"
+  },
+  {
+    "period": 1,
+    "clock": "10:25",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GREEN,MALEK",
+    "score": {
+      "YSU": 25,
+      "Oak": 12
+    },
+    "raw_text": "GOOD FT by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "10:14",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "YSU": 25,
+      "Oak": 14
+    },
+    "raw_text": "GOOD DUNK by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 25,
+      "Oak": 14
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MCBRIDE,BRYCE(in the paint)",
+    "score": {
+      "YSU": 25,
+      "Oak": 14
+    },
+    "raw_text": "MISS JUMPER by MCBRIDE,BRYCE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "YSU": 25,
+      "Oak": 14
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:47",
+    "team": "YSU",
+    "player": "DUNN,WILL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DUNN,WILL",
+    "score": {
+      "YSU": 25,
+      "Oak": 14
+    },
+    "raw_text": "FOUL  by DUNN,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "09:47",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "YSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "09:47",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "YSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "09:30",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 28,
+      "Oak": 16
+    },
+    "raw_text": "GOOD 3PTR by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 28,
+      "Oak": 16
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "09:11",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "YSU": 28,
+      "Oak": 18
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 28,
+      "Oak": 18
+    },
+    "raw_text": "TURNOVER  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "YSU": 28,
+      "Oak": 18
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "YSU",
+    "player": "HUNTER,MYLES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HUNTER,MYLES",
+    "score": {
+      "YSU": 28,
+      "Oak": 18
+    },
+    "raw_text": "FOUL  by HUNTER,MYLES"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "YSU": 28,
+      "Oak": 19
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 28,
+      "Oak": 19
+    },
+    "raw_text": "SUB OUT by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "YSU",
+    "player": "DUNN,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUNN,WILL",
+    "score": {
+      "YSU": 28,
+      "Oak": 19
+    },
+    "raw_text": "SUB OUT by DUNN,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,ADRIAN",
+    "score": {
+      "YSU": 28,
+      "Oak": 19
+    },
+    "raw_text": "SUB IN by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 19
+    },
+    "raw_text": "SUB IN by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "STEAL  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:35",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "MISS JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "REBOUND OFF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:35",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUSH,BRANDON",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "08:00",
+    "team": "YSU",
+    "player": "HUNTER,MYLES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HUNTER,MYLES",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "MISS JUMPER by HUNTER,MYLES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "YSU": 28,
+      "Oak": 20
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "07:50",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HERVEY,KEATON",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "GOOD 3PTR by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RUSH,BRANDON",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "FOUL  by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by RUSH,BRANDON",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:15",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "HUNTER,MYLES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HUNTER,MYLES",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by HUNTER,MYLES"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "YSU",
+    "player": "HUNTER,MYLES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,MYLES",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by HUNTER,MYLES"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "06:47",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HERVEY,KEATON",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "06:34",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by RUSH,BRANDON",
+    "score": {
+      "YSU": 28,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND OFF by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "06:28",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "GOOD 3PTR by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "06:13",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "05:46",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COHILL,DWAYNE",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "MISS 3PTR by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "05:37",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 31,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "05:16",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "05:04",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:04",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by RUSH,BRANDON",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "STEAL  by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "04:59",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "04:59",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "04:59",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:35",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 33,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:16",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GREEN,MALEK",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MOORE,JALEN",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND OFF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:27",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COHILL,DWAYNE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "MISS 3PTR by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "03:02",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "03:02",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:52",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "02:44",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "FOUL  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "02:44",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "TURNOVER  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "02:32",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PARKER,BRODY(in the paint)",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by PARKER,BRODY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 36,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "02:11",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 39,
+      "Oak": 23
+    },
+    "raw_text": "GOOD 3PTR by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 39,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:39",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by RUSH,BRANDON(in the paint)",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "MISS JUMPER by RUSH,BRANDON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:33",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARKER,BRODY",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "TURNOVER  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "01:33",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "01:33",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,JALEN",
+    "score": {
+      "YSU": 39,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:24",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GREEN,MALEK",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "FOUL  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "YSU": 42,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "YSU": 42,
+      "Oak": 26
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "YSU": 42,
+      "Oak": 27
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HERVEY,KEATON",
+    "score": {
+      "YSU": 42,
+      "Oak": 27
+    },
+    "raw_text": "FOUL  by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GREEN,MALEK",
+    "score": {
+      "YSU": 43,
+      "Oak": 27
+    },
+    "raw_text": "GOOD FT by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GREEN,MALEK",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "GOOD FT by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "00:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:38",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GREEN,MALEK",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "STEAL  by GREEN,MALEK"
+  },
+  {
+    "period": 1,
+    "clock": "00:16",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COHILL,DWAYNE(in the paint)",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "MISS JUMPER by COHILL,DWAYNE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND OFF by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "00:11",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COHILL,DWAYNE",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "MISS 3PTR by COHILL,DWAYNE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MCBRIDE,BRYCE(in the paint)",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "MISS LAYUP by MCBRIDE,BRYCE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GREEN,MALEK",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND OFF by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "19:46",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "MISS JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "YSU": 44,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "YSU": 44,
+      "Oak": 29
+    },
+    "raw_text": "GOOD DUNK by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 44,
+      "Oak": 29
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "19:08",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by RUSH,BRANDON",
+    "score": {
+      "YSU": 44,
+      "Oak": 29
+    },
+    "raw_text": "TURNOVER  by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "19:08",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "YSU": 44,
+      "Oak": 29
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "19:08",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by MOORE,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "YSU": 44,
+      "Oak": 31
+    },
+    "raw_text": "GOOD DUNK by MOORE,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:08",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 44,
+      "Oak": 31
+    },
+    "raw_text": "FOUL  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "19:08",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "YSU": 44,
+      "Oak": 32
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "18:58",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 47,
+      "Oak": 32
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GREEN,MALEK",
+    "score": {
+      "YSU": 47,
+      "Oak": 32
+    },
+    "raw_text": "ASSIST  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "18:48",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 47,
+      "Oak": 35
+    },
+    "raw_text": "GOOD 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 47,
+      "Oak": 35
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "18:25",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 50,
+      "Oak": 35
+    },
+    "raw_text": "GOOD 3PTR by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 50,
+      "Oak": 35
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "18:06",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 50,
+      "Oak": 37
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 50,
+      "Oak": 37
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GREEN,MALEK",
+    "score": {
+      "YSU": 50,
+      "Oak": 37
+    },
+    "raw_text": "TURNOVER  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 50,
+      "Oak": 37
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "17:38",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:35",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:35",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:26",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "TURNOVER  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COHILL,DWAYNE",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "SUB OUT by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 50,
+      "Oak": 40
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "GOOD 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:36",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "MISS 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "16:30",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GREEN,MALEK",
+    "score": {
+      "YSU": 50,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEF by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "16:09",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUSH,BRANDON(in the paint)",
+    "score": {
+      "YSU": 52,
+      "Oak": 43
+    },
+    "raw_text": "GOOD LAYUP by RUSH,BRANDON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GREEN,MALEK",
+    "score": {
+      "YSU": 52,
+      "Oak": 43
+    },
+    "raw_text": "ASSIST  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "16:09",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 52,
+      "Oak": 43
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "16:09",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by RUSH,BRANDON",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "GOOD FT by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "STEAL  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "TURNOVER  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:36",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by GREEN,MALEK",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "BLOCK  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:36",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:26",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GREEN,MALEK",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "TURNOVER  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "15:26",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:26",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GREEN,MALEK",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "FOUL  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "15:12",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:46",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "MISS JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "14:39",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "MISS LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MOORE,JALEN",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND OFF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RUSH,BRANDON",
+    "score": {
+      "YSU": 53,
+      "Oak": 43
+    },
+    "raw_text": "FOUL  by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "YSU": 53,
+      "Oak": 44
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUSH,BRANDON",
+    "score": {
+      "YSU": 53,
+      "Oak": 44
+    },
+    "raw_text": "SUB OUT by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COHILL,DWAYNE",
+    "score": {
+      "YSU": 53,
+      "Oak": 44
+    },
+    "raw_text": "SUB IN by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "14:01",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "MISS 3PTR by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "13:40",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HERVEY,KEATON",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "TURNOVER  by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "MISS 3PTR by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:17",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 53,
+      "Oak": 45
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "13:17",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NELSON,ADRIAN",
+    "score": {
+      "YSU": 54,
+      "Oak": 45
+    },
+    "raw_text": "GOOD FT by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:17",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NELSON,ADRIAN",
+    "score": {
+      "YSU": 55,
+      "Oak": 45
+    },
+    "raw_text": "GOOD FT by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:55",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "YSU": 55,
+      "Oak": 47
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:29",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCBRIDE,BRYCE(in the paint)",
+    "score": {
+      "YSU": 57,
+      "Oak": 47
+    },
+    "raw_text": "GOOD LAYUP by MCBRIDE,BRYCE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 57,
+      "Oak": 47
+    },
+    "raw_text": "FOUL  by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "YSU": 57,
+      "Oak": 48
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "YSU": 57,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "YSU": 57,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "YSU": 57,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "YSU": 57,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "12:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "YSU": 57,
+      "Oak": 49
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:50",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "YSU": 57,
+      "Oak": 49
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:50",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 57,
+      "Oak": 49
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:44",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GREEN,MALEK",
+    "score": {
+      "YSU": 57,
+      "Oak": 49
+    },
+    "raw_text": "MISS 3PTR by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 57,
+      "Oak": 49
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "11:21",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 57,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:00",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 57,
+      "Oak": 51
+    },
+    "raw_text": "MISS 3PTR by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GREEN,MALEK",
+    "score": {
+      "YSU": 57,
+      "Oak": 51
+    },
+    "raw_text": "REBOUND OFF by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "10:54",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 59,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:36",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "YSU": 59,
+      "Oak": 53
+    },
+    "raw_text": "GOOD LAYUP by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRICE,OSEI",
+    "score": {
+      "YSU": 59,
+      "Oak": 53
+    },
+    "raw_text": "ASSIST  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "10:13",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 59,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "10:13",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CONWAY,CHRIS",
+    "score": {
+      "YSU": 59,
+      "Oak": 53
+    },
+    "raw_text": "STEAL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 59,
+      "Oak": 55
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:34",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "GOOD JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "ASSIST  by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:33",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:33",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "09:33",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUSH,BRANDON",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "SUB IN by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "09:23",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 61,
+      "Oak": 55
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:08",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 63,
+      "Oak": 55
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 63,
+      "Oak": 55
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "08:43",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 63,
+      "Oak": 55
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 63,
+      "Oak": 55
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:23",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "GOOD JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GREEN,MALEK",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "FOUL  by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "YSU": 65,
+      "Oak": 55
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:11",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 68,
+      "Oak": 55
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 68,
+      "Oak": 55
+    },
+    "raw_text": "ASSIST  by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:53",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "YSU": 68,
+      "Oak": 57
+    },
+    "raw_text": "GOOD DUNK by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:36",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUSH,BRANDON(in the paint)",
+    "score": {
+      "YSU": 70,
+      "Oak": 57
+    },
+    "raw_text": "GOOD LAYUP by RUSH,BRANDON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 70,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "06:26",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "YSU": 70,
+      "Oak": 57
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "06:26",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "YSU": 70,
+      "Oak": 57
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "06:26",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "YSU": 70,
+      "Oak": 57
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "06:10",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 73,
+      "Oak": 57
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 73,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "05:59",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "YSU": 73,
+      "Oak": 57
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 73,
+      "Oak": 57
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "05:45",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GREEN,MALEK(in the paint)",
+    "score": {
+      "YSU": 75,
+      "Oak": 57
+    },
+    "raw_text": "GOOD JUMPER by GREEN,MALEK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 75,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "YSU": 75,
+      "Oak": 57
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 75,
+      "Oak": 57
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "05:26",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by RUSH,BRANDON(fastbreak)",
+    "score": {
+      "YSU": 78,
+      "Oak": 57
+    },
+    "raw_text": "GOOD 3PTR by RUSH,BRANDON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 78,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "05:24",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "YSU": 78,
+      "Oak": 57
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:17",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "YSU": 78,
+      "Oak": 59
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:53",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by RUSH,BRANDON",
+    "score": {
+      "YSU": 78,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 78,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:49",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 80,
+      "Oak": 59
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:40",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 80,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COHILL,DWAYNE",
+    "score": {
+      "YSU": 80,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 80,
+      "Oak": 59
+    },
+    "raw_text": "TURNOVER  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 80,
+      "Oak": 59
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "YSU": 80,
+      "Oak": 62
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 80,
+      "Oak": 62
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:07",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUSH,BRANDON(in the paint)",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "GOOD LAYUP by RUSH,BRANDON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:57",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COHILL,DWAYNE",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "FOUL  by COHILL,DWAYNE"
+  },
+  {
+    "period": 2,
+    "clock": "03:57",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:28",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "MISS JUMPER by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 82,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "03:13",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "YSU": 82,
+      "Oak": 64
+    },
+    "raw_text": "GOOD JUMPER by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "YSU": 82,
+      "Oak": 64
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:57",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MCBRIDE,BRYCE(in the paint)",
+    "score": {
+      "YSU": 82,
+      "Oak": 64
+    },
+    "raw_text": "MISS JUMPER by MCBRIDE,BRYCE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "YSU": 82,
+      "Oak": 64
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "GOOD 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "02:29",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "MISS LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:29",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:17",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MCBRIDE,BRYCE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCBRIDE,BRYCE",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "REBOUND DEF by MCBRIDE,BRYCE"
+  },
+  {
+    "period": 2,
+    "clock": "02:01",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "YSU": 82,
+      "Oak": 67
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "01:40",
+    "team": "YSU",
+    "player": "COHILL,DWAYNE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COHILL,DWAYNE(in the paint)",
+    "score": {
+      "YSU": 84,
+      "Oak": 67
+    },
+    "raw_text": "GOOD JUMPER by COHILL,DWAYNE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:30",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "YSU": 84,
+      "Oak": 69
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:19",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATTS,ROCKET",
+    "score": {
+      "YSU": 84,
+      "Oak": 69
+    },
+    "raw_text": "FOUL  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "01:09",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "YSU": 84,
+      "Oak": 69
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "01:09",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "YSU": 84,
+      "Oak": 69
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "01:09",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "YSU": 84,
+      "Oak": 69
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "01:09",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GREEN,MALEK",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "GOOD FT by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "01:08",
+    "team": "YSU",
+    "player": "GREEN,MALEK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by GREEN,MALEK",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS FT by GREEN,MALEK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "01:03",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUSH,BRANDON",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by RUSH,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "00:50",
+    "team": "YSU",
+    "player": "RUSH,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by RUSH,BRANDON(in the paint)",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS LAYUP by RUSH,BRANDON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:47",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:47",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NELSON,ADRIAN",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "STEAL  by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:22",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NELSON,ADRIAN",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:15",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,ADRIAN",
+    "score": {
+      "YSU": 85,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by NELSON,ADRIAN"
+  }
+]

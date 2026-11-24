@@ -1,0 +1,7097 @@
+[
+  {
+    "period": 1,
+    "clock": "19:47",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "19:47",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "STEAL  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "19:40",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LANGDON,BRYSON(in the paint)",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "MISS JUMPER by LANGDON,BRYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "19:15",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 0,
+      "NKU": 0
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "19:07",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by VINSON,SAM(fastbreak)",
+    "score": {
+      "Oak": 0,
+      "NKU": 3
+    },
+    "raw_text": "GOOD 3PTR by VINSON,SAM(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 0,
+      "NKU": 3
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CAIN,JAMAL",
+    "score": {
+      "Oak": 3,
+      "NKU": 3
+    },
+    "raw_text": "GOOD 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 3,
+      "NKU": 3
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "18:28",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "GOOD 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "18:00",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "17:30",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LANGDON,BRYSON",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "MISS 3PTR by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "17:03",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by VINSON,SAM",
+    "score": {
+      "Oak": 3,
+      "NKU": 6
+    },
+    "raw_text": "STEAL  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "16:56",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "16:41",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "REBOUND DEF by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "16:32",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "TURNOVER  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "16:32",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "STEAL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "16:30",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 3,
+      "NKU": 8
+    },
+    "raw_text": "FOUL  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "16:16",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 5,
+      "NKU": 8
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:09",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 5,
+      "NKU": 8
+    },
+    "raw_text": "TURNOVER  by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "16:09",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 5,
+      "NKU": 8
+    },
+    "raw_text": "STEAL  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:04",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 5,
+      "NKU": 8
+    },
+    "raw_text": "MISS DUNK by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 5,
+      "NKU": 8
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:55",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LANGDON,BRYSON",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "SUB OUT by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRANDON,CHRIS",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "SUB OUT by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBINSON,TREY",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "SUB IN by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,ADRIAN",
+    "score": {
+      "Oak": 8,
+      "NKU": 8
+    },
+    "raw_text": "SUB IN by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 8,
+      "NKU": 9
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ROBINSON,TREY",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "REBOUND DEF by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:00",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by VINSON,SAM",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "TURNOVER  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:00",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:55",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:55",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by ROBINSON,TREY",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "STEAL  by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WARRICK,MARQUES",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "TURNOVER  by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 8,
+      "NKU": 10
+    },
+    "raw_text": "STEAL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "14:21",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARRISH,MICAH",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "ASSIST  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:10",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "MISS LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "13:57",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "MISS 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "13:38",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:32",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by VINSON,SAM",
+    "score": {
+      "Oak": 11,
+      "NKU": 10
+    },
+    "raw_text": "FOUL  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:18",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by PARRISH,MICAH",
+    "score": {
+      "Oak": 13,
+      "NKU": 10
+    },
+    "raw_text": "GOOD JUMPER by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 13,
+      "NKU": 12
+    },
+    "raw_text": "GOOD JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRICE,OSEI",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "ASSIST  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "SUB IN by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 1,
+    "clock": "11:59",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "MISS 3PTR by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "11:55",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "MISS LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 16,
+      "NKU": 12
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:35",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "GOOD 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "TURNOVER  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "11:03",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "STEAL  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "10:56",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,ADRIAN",
+    "score": {
+      "Oak": 19,
+      "NKU": 12
+    },
+    "raw_text": "FOUL  by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:56",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY(fastbreak)",
+    "score": {
+      "Oak": 20,
+      "NKU": 12
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "10:56",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY(fastbreak)",
+    "score": {
+      "Oak": 21,
+      "NKU": 12
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "10:36",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ROBINSON,TREY",
+    "score": {
+      "Oak": 21,
+      "NKU": 12
+    },
+    "raw_text": "MISS 3PTR by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 21,
+      "NKU": 12
+    },
+    "raw_text": "REBOUND OFF by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 21,
+      "NKU": 12
+    },
+    "raw_text": "MISS 3PTR by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "Oak": 21,
+      "NKU": 12
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:24",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 21,
+      "NKU": 14
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:54",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,ADRIAN",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB OUT by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB OUT by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB OUT by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LANGDON,BRYSON",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB IN by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "09:39",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRANDON,CHRIS",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB IN by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "MISS FT by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 23,
+      "NKU": 14
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "GOOD FT by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:07",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CAIN,JAMAL",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:51",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:51",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "STEAL  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:37",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "08:21",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ROBINSON,TREY",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "FOUL  by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBINSON,TREY",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB OUT by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by VINSON,SAM",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB OUT by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FAULKNER,TREVON",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB IN by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "Oak": 23,
+      "NKU": 15
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 24,
+      "NKU": 15
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:32",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:27",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FAULKNER,TREVON",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "06:50",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:43",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "MISS 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:24",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "06:24",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 25,
+      "NKU": 15
+    },
+    "raw_text": "STEAL  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FAULKNER,TREVON",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "GOOD JUMPER by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "05:36",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "STEAL  by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by VINSON,SAM",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "SUB IN by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:12",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "TURNOVER  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "05:12",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 25,
+      "NKU": 17
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "05:09",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by TOWNSEND,TREY(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NKU": 17
+    },
+    "raw_text": "GOOD DUNK by TOWNSEND,TREY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NKU": 19
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WARRICK,MARQUES",
+    "score": {
+      "Oak": 27,
+      "NKU": 19
+    },
+    "raw_text": "ASSIST  by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "Oak": 27,
+      "NKU": 19
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 27,
+      "NKU": 19
+    },
+    "raw_text": "SUB OUT by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBINSON,TREY",
+    "score": {
+      "Oak": 27,
+      "NKU": 19
+    },
+    "raw_text": "SUB IN by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRANDON,CHRIS",
+    "score": {
+      "Oak": 27,
+      "NKU": 20
+    },
+    "raw_text": "GOOD FT by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRANDON,CHRIS",
+    "score": {
+      "Oak": 27,
+      "NKU": 20
+    },
+    "raw_text": "SUB OUT by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:41",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,ADRIAN",
+    "score": {
+      "Oak": 27,
+      "NKU": 20
+    },
+    "raw_text": "SUB IN by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:20",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 29,
+      "NKU": 20
+    },
+    "raw_text": "GOOD LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARRISH,MICAH",
+    "score": {
+      "Oak": 29,
+      "NKU": 20
+    },
+    "raw_text": "ASSIST  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:55",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by VINSON,SAM",
+    "score": {
+      "Oak": 29,
+      "NKU": 20
+    },
+    "raw_text": "MISS JUMPER by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 29,
+      "NKU": 20
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "GOOD LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBINSON,TREY",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "SUB OUT by ROBINSON,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FAULKNER,TREVON",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "SUB IN by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "03:32",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "MISS JUMPER by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 31,
+      "NKU": 20
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "02:51",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NKU": 22
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 31,
+      "NKU": 22
+    },
+    "raw_text": "ASSIST  by FAULKNER,TREVON"
+  },
+  {
+    "period": 1,
+    "clock": "02:34",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:24",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "02:24",
+    "team": "Oak",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SHEPHERD,WILL",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "SUB IN by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "02:12",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "01:50",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "REBOUND DEF by LANGDON,BRYSON"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "MISS LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 33,
+      "NKU": 22
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "01:26",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CAIN,JAMAL",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "GOOD JUMPER by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:17",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "MISS 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:11",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by VINSON,SAM",
+    "score": {
+      "Oak": 35,
+      "NKU": 22
+    },
+    "raw_text": "REBOUND OFF by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 35,
+      "NKU": 24
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 35,
+      "NKU": 24
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:31",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 35,
+      "NKU": 24
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "Oak": 35,
+      "NKU": 24
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 37,
+      "NKU": 24
+    },
+    "raw_text": "GOOD LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,ADRIAN",
+    "score": {
+      "Oak": 37,
+      "NKU": 24
+    },
+    "raw_text": "FOUL  by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,ADRIAN",
+    "score": {
+      "Oak": 37,
+      "NKU": 24
+    },
+    "raw_text": "SUB OUT by NELSON,ADRIAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRANDON,CHRIS",
+    "score": {
+      "Oak": 37,
+      "NKU": 24
+    },
+    "raw_text": "SUB IN by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CAIN,JAMAL",
+    "score": {
+      "Oak": 38,
+      "NKU": 24
+    },
+    "raw_text": "GOOD FT by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "00:02",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 38,
+      "NKU": 24
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 38,
+      "NKU": 24
+    },
+    "raw_text": "REBOUND OFF by BRANDON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:01",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(in the paint)",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SHEPHERD,WILL",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "SUB OUT by SHEPHERD,WILL"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BRANDON,CHRIS(in the paint)",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "MISS LAYUP by BRANDON,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by PARRISH,MICAH",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "BLOCK  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 38,
+      "NKU": 26
+    },
+    "raw_text": "REBOUND OFF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "19:11",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by FAULKNER,TREVON",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "GOOD 3PTR by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "MISS LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by VINSON,SAM",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "REBOUND DEF by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:15",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:15",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "18:15",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "18:04",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "MISS LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:04",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "BLOCK  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PARRISH,MICAH",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "REBOUND OFF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "18:01",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:55",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 38,
+      "NKU": 29
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "17:55",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 38,
+      "NKU": 30
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "17:55",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 38,
+      "NKU": 31
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "17:50",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EVANS,JAKE",
+    "score": {
+      "Oak": 38,
+      "NKU": 31
+    },
+    "raw_text": "FOUL  by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "17:22",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL",
+    "score": {
+      "Oak": 38,
+      "NKU": 31
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 38,
+      "NKU": 31
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "17:13",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by VINSON,SAM",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "GOOD JUMPER by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "ASSIST  by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "16:58",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EVANS,JAKE",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "FOUL  by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "16:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "MISS FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "16:58",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "16:58",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 38,
+      "NKU": 33
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "16:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:45",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND OFF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "16:41",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "MISS 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MOORE,JALEN",
+    "score": {
+      "Oak": 39,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND OFF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:13",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "GOOD 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:58",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:38",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:07",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MOORE,JALEN",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND OFF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:00",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "15:00",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "STEAL  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:48",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LANGDON,BRYSON(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "MISS JUMPER by LANGDON,BRYSON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 42,
+      "NKU": 33
+    },
+    "raw_text": "STEAL  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:19",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by VINSON,SAM(fastbreak)",
+    "score": {
+      "Oak": 42,
+      "NKU": 36
+    },
+    "raw_text": "GOOD 3PTR by VINSON,SAM(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 42,
+      "NKU": 36
+    },
+    "raw_text": "ASSIST  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:56",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NKU": 36
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:56",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by VINSON,SAM",
+    "score": {
+      "Oak": 42,
+      "NKU": 36
+    },
+    "raw_text": "BLOCK  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 42,
+      "NKU": 36
+    },
+    "raw_text": "REBOUND DEF by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:51",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NKU": 38
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 42,
+      "NKU": 38
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NKU": 38
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 42,
+      "NKU": 38
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by VINSON,SAM(fastbreak)",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "GOOD 3PTR by VINSON,SAM(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WARRICK,MARQUES",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "ASSIST  by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LANGDON,BRYSON",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "SUB OUT by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "SUB OUT by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBINSON,TREY",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "SUB IN by ROBINSON,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:15",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 42,
+      "NKU": 41
+    },
+    "raw_text": "SUB IN by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 2,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRICE,OSEI",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "ASSIST  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "MISS 3PTR by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "FOUL  by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "MISS FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 45,
+      "NKU": 41
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 46,
+      "NKU": 41
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "NKU",
+    "player": "PIVORIUS,HUBERTAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PIVORIUS,HUBERTAS",
+    "score": {
+      "Oak": 46,
+      "NKU": 41
+    },
+    "raw_text": "SUB OUT by PIVORIUS,HUBERTAS"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 46,
+      "NKU": 41
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "12:20",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 46,
+      "NKU": 41
+    },
+    "raw_text": "MISS FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 46,
+      "NKU": 41
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:58",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by EVANS,JAKE(in the paint)",
+    "score": {
+      "Oak": 46,
+      "NKU": 43
+    },
+    "raw_text": "GOOD JUMPER by EVANS,JAKE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 46,
+      "NKU": 43
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by ROBINSON,TREY",
+    "score": {
+      "Oak": 46,
+      "NKU": 43
+    },
+    "raw_text": "STEAL  by ROBINSON,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:09",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by VINSON,SAM(in the paint)",
+    "score": {
+      "Oak": 46,
+      "NKU": 45
+    },
+    "raw_text": "GOOD JUMPER by VINSON,SAM(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:52",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 46,
+      "NKU": 45
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:52",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by VINSON,SAM",
+    "score": {
+      "Oak": 46,
+      "NKU": 45
+    },
+    "raw_text": "STEAL  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "10:46",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WARRICK,MARQUES(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "GOOD LAYUP by WARRICK,MARQUES(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by EVANS,JAKE",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "ASSIST  by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "10:20",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:20",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by EVANS,JAKE",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "STEAL  by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 46,
+      "NKU": 47
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:48",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 49,
+      "NKU": 47
+    },
+    "raw_text": "GOOD 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 49,
+      "NKU": 47
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:11",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by VINSON,SAM(in the paint)",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "GOOD JUMPER by VINSON,SAM(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:50",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by VINSON,SAM",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "FOUL  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "ROBINSON,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBINSON,TREY",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB OUT by ROBINSON,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRANDON,CHRIS",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB OUT by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,ADRIAN",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB IN by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LANGDON,BRYSON",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB IN by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FAULKNER,TREVON",
+    "score": {
+      "Oak": 49,
+      "NKU": 49
+    },
+    "raw_text": "SUB IN by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "08:33",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 51,
+      "NKU": 49
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:16",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 51,
+      "NKU": 49
+    },
+    "raw_text": "MISS LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NELSON,ADRIAN",
+    "score": {
+      "Oak": 51,
+      "NKU": 49
+    },
+    "raw_text": "REBOUND OFF by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NELSON,ADRIAN(in the paint)",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "GOOD LAYUP by NELSON,ADRIAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FAULKNER,TREVON",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "ASSIST  by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "07:35",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EVANS,JAKE",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "FOUL  by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "NKU",
+    "player": "NELSON,ADRIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,ADRIAN",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "SUB OUT by NELSON,ADRIAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRANDON,CHRIS",
+    "score": {
+      "Oak": 51,
+      "NKU": 51
+    },
+    "raw_text": "SUB IN by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 52,
+      "NKU": 51
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 53,
+      "NKU": 51
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "07:02",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 53,
+      "NKU": 51
+    },
+    "raw_text": "MISS 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "Oak": 53,
+      "NKU": 51
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Oak": 53,
+      "NKU": 51
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by VINSON,SAM",
+    "score": {
+      "Oak": 53,
+      "NKU": 51
+    },
+    "raw_text": "STEAL  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:41",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WARRICK,MARQUES(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "GOOD LAYUP by WARRICK,MARQUES(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:16",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "MISS LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "06:13",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "MISS LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WARRICK,MARQUES",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "REBOUND DEF by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "06:07",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "MISS 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "REBOUND OFF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "06:03",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 53,
+      "NKU": 53
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "06:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 53,
+      "NKU": 54
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "06:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "05:28",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:28",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "MISS FT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 53,
+      "NKU": 55
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:28",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "GOOD FT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "05:12",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "FOUL  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "05:12",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "05:12",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:58",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "MISS LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "04:55",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "MISS LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 53,
+      "NKU": 56
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "04:50",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 53,
+      "NKU": 58
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 53,
+      "NKU": 58
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "04:29",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 56,
+      "NKU": 58
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 56,
+      "NKU": 58
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 56,
+      "NKU": 58
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 56,
+      "NKU": 58
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 56,
+      "NKU": 58
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "04:09",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WARRICK,MARQUES",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "GOOD 3PTR by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:45",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "03:41",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CAIN,JAMAL",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "TURNOVER  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "03:41",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 56,
+      "NKU": 61
+    },
+    "raw_text": "STEAL  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "03:20",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FAULKNER,TREVON",
+    "score": {
+      "Oak": 56,
+      "NKU": 63
+    },
+    "raw_text": "GOOD JUMPER by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 56,
+      "NKU": 63
+    },
+    "raw_text": "ASSIST  by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "03:06",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 59,
+      "NKU": 63
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:46",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FAULKNER,TREVON",
+    "score": {
+      "Oak": 59,
+      "NKU": 65
+    },
+    "raw_text": "GOOD JUMPER by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 59,
+      "NKU": 65
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:21",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 59,
+      "NKU": 65
+    },
+    "raw_text": "FOUL  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "02:21",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CAIN,JAMAL",
+    "score": {
+      "Oak": 60,
+      "NKU": 65
+    },
+    "raw_text": "GOOD FT by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "02:21",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CAIN,JAMAL",
+    "score": {
+      "Oak": 61,
+      "NKU": 65
+    },
+    "raw_text": "GOOD FT by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "01:59",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 61,
+      "NKU": 65
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:52",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 61,
+      "NKU": 65
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "01:52",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by VINSON,SAM",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "GOOD FT by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:52",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "01:52",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:51",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by VINSON,SAM",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "MISS FT by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:51",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "01:51",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:51",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "01:48",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 61,
+      "NKU": 66
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "01:38",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by LANGDON,BRYSON",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "GOOD JUMPER by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WARRICK,MARQUES",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "ASSIST  by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "01:24",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "MISS LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "01:20",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRANDON,CHRIS",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "TURNOVER  by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "01:20",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:20",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "01:20",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 61,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:14",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:12",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:12",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:12",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "00:45",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:45",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CAIN,JAMAL",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "BLOCK  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by VINSON,SAM",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "REBOUND OFF by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by VINSON,SAM",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "MISS JUMPER by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "REBOUND OFF by LANGDON,BRYSON"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BRANDON,CHRIS",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "MISS FT by BRANDON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by VINSON,SAM",
+    "score": {
+      "Oak": 64,
+      "NKU": 68
+    },
+    "raw_text": "FOUL  by VINSON,SAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 65,
+      "NKU": 68
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 66,
+      "NKU": 68
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 66,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 66,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CAIN,JAMAL",
+    "score": {
+      "Oak": 66,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "Oak": 66,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARKER,BRODY",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "FOUL  by PARKER,BRODY"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WARRICK,MARQUES",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by WARRICK,MARQUES"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVANS,JAKE",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by EVANS,JAKE"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CAIN,JAMAL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:16",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by LANGDON,BRYSON(fastbreak)",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "MISS FT by LANGDON,BRYSON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:06",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PRICE,OSEI",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "MISS JUMPER by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CAIN,JAMAL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB OUT by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "Oak",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SHEPHERD,WILL",
+    "score": {
+      "Oak": 67,
+      "NKU": 68
+    },
+    "raw_text": "SUB IN by SHEPHERD,WILL"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 67,
+      "NKU": 69
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 67,
+      "NKU": 70
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 67,
+      "NKU": 70
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 70,
+      "NKU": 70
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 3,
+    "clock": "05:00",
+    "team": "NKU",
+    "player": "EVANS,JAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EVANS,JAKE",
+    "score": {
+      "Oak": 70,
+      "NKU": 70
+    },
+    "raw_text": "SUB OUT by EVANS,JAKE"
+  },
+  {
+    "period": 3,
+    "clock": "05:00",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WARRICK,MARQUES",
+    "score": {
+      "Oak": 70,
+      "NKU": 70
+    },
+    "raw_text": "SUB IN by WARRICK,MARQUES"
+  },
+  {
+    "period": 3,
+    "clock": "05:00",
+    "team": "Oak",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SHEPHERD,WILL",
+    "score": {
+      "Oak": 70,
+      "NKU": 70
+    },
+    "raw_text": "SUB OUT by SHEPHERD,WILL"
+  },
+  {
+    "period": 3,
+    "clock": "05:00",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 70,
+      "NKU": 70
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "04:33",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by FAULKNER,TREVON",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "GOOD 3PTR by FAULKNER,TREVON"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by VINSON,SAM",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "ASSIST  by VINSON,SAM"
+  },
+  {
+    "period": 3,
+    "clock": "04:09",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "REBOUND DEF by BRANDON,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "04:00",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by VINSON,SAM(in the paint)",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "MISS LAYUP by VINSON,SAM(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 70,
+      "NKU": 73
+    },
+    "raw_text": "REBOUND OFF by BRANDON,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "03:57",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(in the paint)",
+    "score": {
+      "Oak": 70,
+      "NKU": 75
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "03:50",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 70,
+      "NKU": 75
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 70,
+      "NKU": 75
+    },
+    "raw_text": "REBOUND DEF by LANGDON,BRYSON"
+  },
+  {
+    "period": 3,
+    "clock": "03:40",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WARRICK,MARQUES(in the paint)",
+    "score": {
+      "Oak": 70,
+      "NKU": 75
+    },
+    "raw_text": "MISS JUMPER by WARRICK,MARQUES(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 70,
+      "NKU": 75
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "03:15",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "ASSIST  by CONWAY,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "02:48",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by VINSON,SAM(in the paint)",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "MISS JUMPER by VINSON,SAM(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 3,
+    "clock": "02:18",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FAULKNER,TREVON",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "REBOUND DEF by FAULKNER,TREVON"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LANGDON,BRYSON(in the paint)",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "MISS JUMPER by LANGDON,BRYSON(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by LANGDON,BRYSON",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "REBOUND OFF by LANGDON,BRYSON"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "Oak": 73,
+      "NKU": 75
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LANGDON,BRYSON",
+    "score": {
+      "Oak": 73,
+      "NKU": 76
+    },
+    "raw_text": "GOOD FT by LANGDON,BRYSON"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LANGDON,BRYSON",
+    "score": {
+      "Oak": 73,
+      "NKU": 77
+    },
+    "raw_text": "GOOD FT by LANGDON,BRYSON"
+  },
+  {
+    "period": 3,
+    "clock": "01:47",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 73,
+      "NKU": 77
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 3,
+    "clock": "01:40",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 73,
+      "NKU": 77
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 73,
+      "NKU": 77
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "01:36",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 75,
+      "NKU": 77
+    },
+    "raw_text": "GOOD LAYUP by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "01:07",
+    "team": "NKU",
+    "player": "VINSON,SAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by VINSON,SAM",
+    "score": {
+      "Oak": 75,
+      "NKU": 80
+    },
+    "raw_text": "GOOD 3PTR by VINSON,SAM"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WARRICK,MARQUES",
+    "score": {
+      "Oak": 75,
+      "NKU": 80
+    },
+    "raw_text": "ASSIST  by WARRICK,MARQUES"
+  },
+  {
+    "period": 3,
+    "clock": "00:53",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 75,
+      "NKU": 80
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 75,
+      "NKU": 80
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "00:48",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 78,
+      "NKU": 80
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 3,
+    "clock": "00:47",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 78,
+      "NKU": 80
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 3,
+    "clock": "00:16",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FAULKNER,TREVON(in the paint)",
+    "score": {
+      "Oak": 78,
+      "NKU": 80
+    },
+    "raw_text": "MISS JUMPER by FAULKNER,TREVON(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRANDON,CHRIS",
+    "score": {
+      "Oak": 78,
+      "NKU": 80
+    },
+    "raw_text": "REBOUND OFF by BRANDON,CHRIS"
+  },
+  {
+    "period": 3,
+    "clock": "00:13",
+    "team": "NKU",
+    "player": "BRANDON,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRANDON,CHRIS(in the paint)",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "GOOD LAYUP by BRANDON,CHRIS(in the paint)"
+  },
+  {
+    "period": 3,
+    "clock": "00:11",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 3,
+    "clock": "00:11",
+    "team": "NKU",
+    "player": "LANGDON,BRYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LANGDON,BRYSON",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "STEAL  by LANGDON,BRYSON"
+  },
+  {
+    "period": 3,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 3,
+    "clock": "00:08",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "MISS FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 3,
+    "clock": "--",
+    "team": "NKU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 78,
+      "NKU": 82
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 3,
+    "clock": "00:08",
+    "team": "NKU",
+    "player": "WARRICK,MARQUES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WARRICK,MARQUES(fastbreak)",
+    "score": {
+      "Oak": 78,
+      "NKU": 83
+    },
+    "raw_text": "GOOD FT by WARRICK,MARQUES(fastbreak)"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 78,
+      "NKU": 83
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by TEAM",
+    "score": {
+      "Oak": 78,
+      "NKU": 83
+    },
+    "raw_text": "FOUL TECH by TEAM"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 78,
+      "NKU": 84
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON",
+    "score": {
+      "Oak": 78,
+      "NKU": 85
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by TEAM",
+    "score": {
+      "Oak": 78,
+      "NKU": 85
+    },
+    "raw_text": "FOUL TECH by TEAM"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 78,
+      "NKU": 86
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  },
+  {
+    "period": 3,
+    "clock": "00:03",
+    "team": "NKU",
+    "player": "FAULKNER,TREVON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by FAULKNER,TREVON(fastbreak)",
+    "score": {
+      "Oak": 78,
+      "NKU": 87
+    },
+    "raw_text": "GOOD FT by FAULKNER,TREVON(fastbreak)"
+  }
+]

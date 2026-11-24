@@ -1,0 +1,6437 @@
+[
+  {
+    "period": 1,
+    "clock": "19:43",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by ADAMS, JR.,KJ(in the paint)",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "MISS DUNK by ADAMS, JR.,KJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "19:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "19:13",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "BLOCK  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "19:01",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 0,
+      "KU": 0
+    },
+    "raw_text": "TURNOVER  by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "18:38",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:32",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "FOUL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "18:22",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "MISS JUMPER by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "18:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "17:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:36",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "BLOCK  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 2,
+      "KU": 0
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:30",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MAYO,ZEKE(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "GOOD JUMPER by MAYO,ZEKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:01",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "17:01",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "16:54",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "REBOUND DEF by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "16:48",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HARRIS JR.,DAJUAN(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "MISS LAYUP by HARRIS JR.,DAJUAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "16:27",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAYO,ZEKE",
+    "score": {
+      "Oak": 2,
+      "KU": 2
+    },
+    "raw_text": "REBOUND DEF by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "16:19",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ADAMS, JR.,KJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "GOOD LAYUP by ADAMS, JR.,KJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "16:04",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "MISS DUNK by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAYO,ZEKE",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "REBOUND DEF by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "15:59",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MAYO,ZEKE",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "MISS 3PTR by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 2,
+      "KU": 4
+    },
+    "raw_text": "REBOUND OFF by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "15:51",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ADAMS, JR.,KJ(in the paint)",
+    "score": {
+      "Oak": 2,
+      "KU": 6
+    },
+    "raw_text": "GOOD DUNK by ADAMS, JR.,KJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 2,
+      "KU": 6
+    },
+    "raw_text": "ASSIST  by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "KU": 6
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "15:12",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 6
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "15:12",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 6
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:12",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 7
+    },
+    "raw_text": "GOOD FT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "15:11",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 7
+    },
+    "raw_text": "MISS FT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 7
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "14:49",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,JAYLEN",
+    "score": {
+      "Oak": 5,
+      "KU": 7
+    },
+    "raw_text": "MISS 3PTR by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 7
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:28",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "GOOD 3PTR by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "ASSIST  by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "14:18",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "FOUL  by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:18",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "14:18",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "BLOCK  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAYO,ZEKE",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "REBOUND DEF by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "14:04",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "MISS 3PTR by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 10
+    },
+    "raw_text": "REBOUND OFF by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "13:56",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "GOOD 3PTR by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "13:32",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB OUT by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB OUT by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COIT,DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB IN by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB IN by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "13:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:12",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "MISS FT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 13
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:12",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "GOOD FT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "FOUL  by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "MISS FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "MISS FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB OUT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STORR,AJ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB IN by STORR,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "MISS FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAYO,ZEKE",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "REBOUND DEF by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COIT,DAVID(in the paint)",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "MISS JUMPER by COIT,DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "FOUL  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 5,
+      "KU": 14
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "12:25",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 6,
+      "KU": 14
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 6,
+      "KU": 14
+    },
+    "raw_text": "TURNOVER  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 6,
+      "KU": 14
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "11:47",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 8,
+      "KU": 14
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:35",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COIT,DAVID",
+    "score": {
+      "Oak": 8,
+      "KU": 17
+    },
+    "raw_text": "GOOD 3PTR by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAYO,ZEKE",
+    "score": {
+      "Oak": 8,
+      "KU": 17
+    },
+    "raw_text": "ASSIST  by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:09",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 8,
+      "KU": 17
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 8,
+      "KU": 17
+    },
+    "raw_text": "REBOUND OFF by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "ASSIST  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "FOUL  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAYO,ZEKE",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "SUB OUT by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "SUB OUT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "SUB IN by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "SUB IN by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "11:04",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 10,
+      "KU": 17
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "10:50",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 10,
+      "KU": 19
+    },
+    "raw_text": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COIT,DAVID",
+    "score": {
+      "Oak": 10,
+      "KU": 19
+    },
+    "raw_text": "ASSIST  by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "10:28",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 10,
+      "KU": 19
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "10:28",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 10,
+      "KU": 19
+    },
+    "raw_text": "STEAL  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "10:24",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by STORR,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "GOOD DUNK by STORR,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:55",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB OUT by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB IN by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 10,
+      "KU": 21
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "09:36",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by STORR,AJ(in the paint)",
+    "score": {
+      "Oak": 10,
+      "KU": 23
+    },
+    "raw_text": "GOOD LAYUP by STORR,AJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 10,
+      "KU": 23
+    },
+    "raw_text": "ASSIST  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "09:36",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 10,
+      "KU": 23
+    },
+    "raw_text": "FOUL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "09:35",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STORR,AJ",
+    "score": {
+      "Oak": 10,
+      "KU": 23
+    },
+    "raw_text": "MISS FT by STORR,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 10,
+      "KU": 23
+    },
+    "raw_text": "REBOUND DEF by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 12,
+      "KU": 23
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:59",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by ADAMS, JR.,KJ(in the paint)",
+    "score": {
+      "Oak": 12,
+      "KU": 25
+    },
+    "raw_text": "GOOD JUMPER by ADAMS, JR.,KJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:35",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "ASSIST  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COIT,DAVID",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "MISS 3PTR by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 15,
+      "KU": 25
+    },
+    "raw_text": "STEAL  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:44",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STORR,AJ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "ASSIST  by STORR,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COIT,DAVID",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB OUT by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAYO,ZEKE",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB IN by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:18",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "07:15",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STORR,AJ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "REBOUND DEF by STORR,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "07:13",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "07:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "07:01",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MAYO,ZEKE",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "TURNOVER  by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "07:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COLE,DQ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "STEAL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "06:30",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MAYO,ZEKE",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "MISS 3PTR by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "05:55",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "REBOUND DEF by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "05:55",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "KU": 27
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "05:48",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 15,
+      "KU": 29
+    },
+    "raw_text": "GOOD JUMPER by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 17,
+      "KU": 29
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:14",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MAYO,ZEKE",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "GOOD 3PTR by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STORR,AJ",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB OUT by STORR,AJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB OUT by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,SHAKEEL",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB IN by MOORE,SHAKEEL"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB IN by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 17,
+      "KU": 32
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 17,
+      "KU": 34
+    },
+    "raw_text": "GOOD LAYUP by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,SHAKEEL",
+    "score": {
+      "Oak": 17,
+      "KU": 34
+    },
+    "raw_text": "ASSIST  by MOORE,SHAKEEL"
+  },
+  {
+    "period": 1,
+    "clock": "04:16",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 20,
+      "KU": 34
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 20,
+      "KU": 34
+    },
+    "raw_text": "ASSIST  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "03:53",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ADAMS, JR.,KJ(in the paint)",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "GOOD DUNK by ADAMS, JR.,KJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "ASSIST  by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "SUB OUT by DICKINSON,HUNTER"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "SUB OUT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "SUB IN by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "SUB IN by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "BLOCK  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 20,
+      "KU": 36
+    },
+    "raw_text": "REBOUND DEF by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 1,
+    "clock": "03:30",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BIDUNGA,FLORY(in the paint)",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "GOOD DUNK by BIDUNGA,FLORY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "ASSIST  by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "03:05",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,SHAKEEL",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "REBOUND DEF by MOORE,SHAKEEL"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "02:51",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MAYO,ZEKE",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "MISS JUMPER by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAYO,ZEKE",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "REBOUND DEF by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:10",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "02:10",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "MISS FT by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:10",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAYO,ZEKE",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB OUT by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:10",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COIT,DAVID",
+    "score": {
+      "Oak": 20,
+      "KU": 38
+    },
+    "raw_text": "SUB IN by COIT,DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "02:10",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 20,
+      "KU": 39
+    },
+    "raw_text": "GOOD FT by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 1,
+    "clock": "01:40",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 20,
+      "KU": 39
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,SHAKEEL",
+    "score": {
+      "Oak": 20,
+      "KU": 39
+    },
+    "raw_text": "REBOUND DEF by MOORE,SHAKEEL"
+  },
+  {
+    "period": 1,
+    "clock": "01:28",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BIDUNGA,FLORY(in the paint)",
+    "score": {
+      "Oak": 20,
+      "KU": 41
+    },
+    "raw_text": "GOOD DUNK by BIDUNGA,FLORY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 20,
+      "KU": 41
+    },
+    "raw_text": "ASSIST  by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:02",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 22,
+      "KU": 41
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,SHAKEEL(in the paint)",
+    "score": {
+      "Oak": 22,
+      "KU": 43
+    },
+    "raw_text": "GOOD LAYUP by MOORE,SHAKEEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:13",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 22,
+      "KU": 43
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 22,
+      "KU": 43
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "KU",
+    "player": "MOORE,SHAKEEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,SHAKEEL",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "SUB OUT by MOORE,SHAKEEL"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAYO,ZEKE",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "SUB IN by MAYO,ZEKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 24,
+      "KU": 43
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:01",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "GOOD 3PTR by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAYO,ZEKE",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "ASSIST  by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB OUT by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COIT,DAVID",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB OUT by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB OUT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB IN by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB IN by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB IN by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "19:43",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "MISS JUMPER by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "REBOUND OFF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "19:39",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "MISS TIPIN by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "19:24",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "TURNOVER  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "STEAL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "19:03",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 24,
+      "KU": 46
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "18:58",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MAYO,ZEKE",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "MISS 3PTR by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "18:24",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "18:18",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "18:08",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "MISS 3PTR by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "STEAL  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "17:40",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 26,
+      "KU": 46
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "17:40",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GRIFFEN,RYLAN(fastbreak)",
+    "score": {
+      "Oak": 26,
+      "KU": 47
+    },
+    "raw_text": "GOOD FT by GRIFFEN,RYLAN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "17:40",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GRIFFEN,RYLAN(fastbreak)",
+    "score": {
+      "Oak": 26,
+      "KU": 48
+    },
+    "raw_text": "GOOD FT by GRIFFEN,RYLAN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "17:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 28,
+      "KU": 48
+    },
+    "raw_text": "GOOD DUNK by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 28,
+      "KU": 48
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:00",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 28,
+      "KU": 48
+    },
+    "raw_text": "MISS JUMPER by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 28,
+      "KU": 48
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:40",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 30,
+      "KU": 48
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 30,
+      "KU": 48
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:24",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 30,
+      "KU": 50
+    },
+    "raw_text": "GOOD DUNK by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 30,
+      "KU": 50
+    },
+    "raw_text": "ASSIST  by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "15:52",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:51",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "SUB OUT by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "15:51",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 32,
+      "KU": 50
+    },
+    "raw_text": "SUB IN by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BIDUNGA,FLORY(in the paint)",
+    "score": {
+      "Oak": 32,
+      "KU": 52
+    },
+    "raw_text": "GOOD DUNK by BIDUNGA,FLORY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAYO,ZEKE",
+    "score": {
+      "Oak": 32,
+      "KU": 52
+    },
+    "raw_text": "ASSIST  by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:14",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:55",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:55",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:55",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "MISS FT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 34,
+      "KU": 52
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:55",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "GOOD FT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "SUB OUT by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STORR,AJ",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "SUB IN by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "14:25",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,JAYLEN",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "MISS 3PTR by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STORR,AJ",
+    "score": {
+      "Oak": 34,
+      "KU": 53
+    },
+    "raw_text": "REBOUND DEF by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "14:17",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MAYO,ZEKE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 34,
+      "KU": 55
+    },
+    "raw_text": "GOOD LAYUP by MAYO,ZEKE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:54",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STORR,AJ",
+    "score": {
+      "Oak": 34,
+      "KU": 55
+    },
+    "raw_text": "FOUL  by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "13:54",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 34,
+      "KU": 55
+    },
+    "raw_text": "SUB OUT by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:54",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COIT,DAVID",
+    "score": {
+      "Oak": 34,
+      "KU": 55
+    },
+    "raw_text": "SUB IN by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 36,
+      "KU": 55
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 36,
+      "KU": 55
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:25",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BIDUNGA,FLORY(in the paint)",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "GOOD JUMPER by BIDUNGA,FLORY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "ASSIST  by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "SUB OUT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "SUB IN by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "12:39",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by STORR,AJ",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "MISS 3PTR by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "REBOUND DEF by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "12:14",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MAYO,ZEKE",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "MISS JUMPER by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 36,
+      "KU": 57
+    },
+    "raw_text": "REBOUND OFF by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "12:08",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by STORR,AJ",
+    "score": {
+      "Oak": 36,
+      "KU": 59
+    },
+    "raw_text": "GOOD JUMPER by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "ASSIST  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "11:12",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MAYO,ZEKE",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "MISS 3PTR by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "REBOUND OFF by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "11:08",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by BIDUNGA,FLORY(in the paint)",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "MISS DUNK by BIDUNGA,FLORY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAYO,ZEKE",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB OUT by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB OUT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB IN by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB IN by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "10:47",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MAJAK,DENG",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "REBOUND OFF by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:29",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MAJAK,DENG",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "TURNOVER  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:29",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 39,
+      "KU": 59
+    },
+    "raw_text": "STEAL  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "10:21",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by STORR,AJ",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "GOOD JUMPER by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "09:59",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COIT,DAVID",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "FOUL  by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "09:57",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "TURNOVER  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:57",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 39,
+      "KU": 61
+    },
+    "raw_text": "STEAL  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:51",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ADAMS, JR.,KJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "GOOD LAYUP by ADAMS, JR.,KJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STORR,AJ",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "ASSIST  by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "09:38",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "09:38",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:38",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "09:23",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by STORR,AJ(in the paint)",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "MISS LAYUP by STORR,AJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "REBOUND DEF by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "09:02",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 39,
+      "KU": 63
+    },
+    "raw_text": "REBOUND DEF by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "08:56",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by STORR,AJ(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 39,
+      "KU": 65
+    },
+    "raw_text": "GOOD DUNK by STORR,AJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 39,
+      "KU": 65
+    },
+    "raw_text": "ASSIST  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "08:42",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 39,
+      "KU": 65
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:42",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 39,
+      "KU": 65
+    },
+    "raw_text": "BLOCK  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 39,
+      "KU": 65
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "08:39",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 41,
+      "KU": 65
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 41,
+      "KU": 65
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:39",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 41,
+      "KU": 65
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:39",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 41,
+      "KU": 65
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:20",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STORR,AJ",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "GOOD 3PTR by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:12",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "07:58",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COIT,DAVID",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "MISS 3PTR by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 41,
+      "KU": 68
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "07:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 43,
+      "KU": 68
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:20",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STORR,AJ",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "GOOD 3PTR by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "ASSIST  by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:47",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAGGS,COOPER",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "MISS 3PTR by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "KU",
+    "player": "HARRIS JR.,DAJUAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRIS JR.,DAJUAN",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "SUB OUT by HARRIS JR.,DAJUAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "KU",
+    "player": "ADAMS, JR.,KJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ADAMS, JR.,KJ",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "SUB OUT by ADAMS, JR.,KJ"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "SUB IN by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAYO,ZEKE",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "SUB IN by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "06:31",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "06:31",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 43,
+      "KU": 71
+    },
+    "raw_text": "STEAL  by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "06:10",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "GOOD JUMPER by DICKINSON,HUNTER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STORR,AJ",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "ASSIST  by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "KU",
+    "player": "DICKINSON,HUNTER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DICKINSON,HUNTER",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB OUT by DICKINSON,HUNTER"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB IN by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "TURNOVER  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 43,
+      "KU": 73
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "05:11",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 46,
+      "KU": 73
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAJAK,DENG",
+    "score": {
+      "Oak": 46,
+      "KU": 73
+    },
+    "raw_text": "ASSIST  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "04:55",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 46,
+      "KU": 76
+    },
+    "raw_text": "GOOD 3PTR by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COIT,DAVID",
+    "score": {
+      "Oak": 46,
+      "KU": 76
+    },
+    "raw_text": "ASSIST  by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "04:32",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 46,
+      "KU": 76
+    },
+    "raw_text": "FOUL  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "04:32",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN",
+    "score": {
+      "Oak": 47,
+      "KU": 76
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:32",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:32",
+    "team": "KU",
+    "player": "MAYO,ZEKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAYO,ZEKE",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by MAYO,ZEKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:32",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CLEMENCE,ZACH",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by CLEMENCE,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "04:15",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "TURNOVER  by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "04:15",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "STEAL  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CLEMENCE,ZACH",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "FOUL  by CLEMENCE,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "KU",
+    "player": "STORR,AJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STORR,AJ",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by STORR,AJ"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "BEMBRY,JEREMIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEMBRY,JEREMIAH",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by BEMBRY,JEREMIAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MAJAK,DENG",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "MISS FT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MAJAK,DENG",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "MISS FT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEF by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "03:43",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 48,
+      "KU": 76
+    },
+    "raw_text": "TURNOVER  by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "03:18",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MAJAK,DENG(in the paint)",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "GOOD LAYUP by MAJAK,DENG(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:00",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "TURNOVER  by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "03:00",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "FOUL  by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "PASSMORE,RAKEASE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PASSMORE,RAKEASE",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by PASSMORE,RAKEASE"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "GRIFFEN,RYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GRIFFEN,RYLAN",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by GRIFFEN,RYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "COIT,DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COIT,DAVID",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by COIT,DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "BIDUNGA,FLORY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BIDUNGA,FLORY",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by BIDUNGA,FLORY"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "EVERS,WILDER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EVERS,WILDER",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by EVERS,WILDER"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "CASSIDY,PATRICK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CASSIDY,PATRICK",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by CASSIDY,PATRICK"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "WILHITE,DILLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILHITE,DILLON",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by WILHITE,DILLON"
+  },
+  {
+    "period": 2,
+    "clock": "02:47",
+    "team": "KU",
+    "player": "CROSS,JUSTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CROSS,JUSTIN",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by CROSS,JUSTIN"
+  },
+  {
+    "period": 2,
+    "clock": "02:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:30",
+    "team": "KU",
+    "player": "CASSIDY,PATRICK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CASSIDY,PATRICK",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "MISS 3PTR by CASSIDY,PATRICK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Oak": 50,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "KU",
+    "player": "CASSIDY,PATRICK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CASSIDY,PATRICK",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "FOUL  by CASSIDY,PATRICK"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID(fastbreak)",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "CROSS,JUSTIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CROSS,JUSTIN",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEF by CROSS,JUSTIN"
+  },
+  {
+    "period": 2,
+    "clock": "02:03",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CLEMENCE,ZACH",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "MISS 3PTR by CLEMENCE,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:55",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:48",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:48",
+    "team": "Oak",
+    "player": "BANKS,ZAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BANKS,ZAVIER",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "SUB IN by BANKS,ZAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "01:33",
+    "team": "KU",
+    "player": "WILHITE,DILLON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WILHITE,DILLON",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "FOUL  by WILHITE,DILLON"
+  },
+  {
+    "period": 2,
+    "clock": "01:33",
+    "team": "Oak",
+    "player": "BANKS,ZAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BANKS,ZAVIER",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "MISS FT by BANKS,ZAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLEMENCE,ZACH",
+    "score": {
+      "Oak": 52,
+      "KU": 76
+    },
+    "raw_text": "REBOUND DEF by CLEMENCE,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "01:14",
+    "team": "KU",
+    "player": "CROSS,JUSTIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CROSS,JUSTIN",
+    "score": {
+      "Oak": 52,
+      "KU": 78
+    },
+    "raw_text": "GOOD JUMPER by CROSS,JUSTIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:42",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,JAYLEN",
+    "score": {
+      "Oak": 52,
+      "KU": 78
+    },
+    "raw_text": "MISS 3PTR by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MAJAK,DENG",
+    "score": {
+      "Oak": 52,
+      "KU": 78
+    },
+    "raw_text": "REBOUND OFF by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:37",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAJAK,DENG",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "ASSIST  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:26",
+    "team": "KU",
+    "player": "CASSIDY,PATRICK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CASSIDY,PATRICK",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "MISS 3PTR by CASSIDY,PATRICK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CLEMENCE,ZACH",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "REBOUND OFF by CLEMENCE,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "00:23",
+    "team": "KU",
+    "player": "CLEMENCE,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CLEMENCE,ZACH(in the paint)",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "MISS LAYUP by CLEMENCE,ZACH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAJAK,DENG",
+    "score": {
+      "Oak": 55,
+      "KU": 78
+    },
+    "raw_text": "REBOUND DEF by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:06",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 57,
+      "KU": 78
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(in the paint)"
+  }
+]

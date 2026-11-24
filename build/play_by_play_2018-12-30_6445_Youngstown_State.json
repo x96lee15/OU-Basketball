@@ -1,0 +1,6647 @@
+[
+  {
+    "period": 1,
+    "clock": "19:45",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ANABIR,NOE",
+    "score": {
+      "OAK": 0,
+      "YSU": 0
+    },
+    "raw_text": "FOUL  by ANABIR,NOE"
+  },
+  {
+    "period": 1,
+    "clock": "19:32",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 3,
+      "YSU": 0
+    },
+    "raw_text": "GOOD 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 3,
+      "YSU": 0
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "19:06",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MAXWELL,ANTWAN(in the paint)",
+    "score": {
+      "OAK": 3,
+      "YSU": 2
+    },
+    "raw_text": "GOOD JUMPER by MAXWELL,ANTWAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 3,
+      "YSU": 2
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "18:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 3,
+      "YSU": 2
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "18:29",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SIMMONS,JELANI",
+    "score": {
+      "OAK": 3,
+      "YSU": 5
+    },
+    "raw_text": "GOOD 3PTR by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 3,
+      "YSU": 5
+    },
+    "raw_text": "ASSIST  by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "18:08",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 3,
+      "YSU": 5
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 3,
+      "YSU": 5
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "17:57",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX,TRAY(in the paint)",
+    "score": {
+      "OAK": 5,
+      "YSU": 5
+    },
+    "raw_text": "GOOD LAYUP by MADDOX,TRAY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:42",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 5,
+      "YSU": 5
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:42",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 5,
+      "YSU": 5
+    },
+    "raw_text": "MISS FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 5,
+      "YSU": 5
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:42",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 5,
+      "YSU": 6
+    },
+    "raw_text": "GOOD FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "17:35",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 7,
+      "YSU": 6
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "YSU": 6
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "17:35",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 7,
+      "YSU": 6
+    },
+    "raw_text": "FOUL  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "17:34",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "MISS 3PTR by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:09",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SIMMONS,JELANI",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "17:06",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "FOUL  by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "17:06",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "TURNOVER  by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "17:03",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "MISS LAYUP by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ANABIR,NOE",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by ANABIR,NOE"
+  },
+  {
+    "period": 1,
+    "clock": "16:32",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "MISS JUMPER by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 8,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 10,
+      "YSU": 6
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 10,
+      "YSU": 6
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ANABIR,NOE",
+    "score": {
+      "OAK": 10,
+      "YSU": 6
+    },
+    "raw_text": "FOUL  by ANABIR,NOE"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB IN by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORGAN,DEVIN",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB IN by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB OUT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANABIR,NOE",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB OUT by ANABIR,NOE"
+  },
+  {
+    "period": 1,
+    "clock": "15:51",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "MISS 3PTR by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX,TRAY",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CATHCART,DONEL",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB IN by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB IN by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB OUT by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:39",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SIMMONS,JELANI",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "SUB OUT by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "15:30",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "FOUL  by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "15:30",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 11,
+      "YSU": 6
+    },
+    "raw_text": "TURNOVER  by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "15:08",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 13,
+      "YSU": 6
+    },
+    "raw_text": "GOOD JUMPER by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 13,
+      "YSU": 6
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 13,
+      "YSU": 6
+    },
+    "raw_text": "FOUL  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "MISS 3PTR by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "SUB IN by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 14,
+      "YSU": 6
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "14:05",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORGAN,DEVIN",
+    "score": {
+      "OAK": 14,
+      "YSU": 9
+    },
+    "raw_text": "GOOD 3PTR by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 14,
+      "YSU": 9
+    },
+    "raw_text": "FOUL  by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 15,
+      "YSU": 9
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:32",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "MISS 3PTR by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "REBOUND OFF by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "13:26",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "MISS JUMPER by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "13:02",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "MISS JUMPER by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "TURNOVER  by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SIMMONS,JELANI",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BECK,JAMES",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "TURNOVER  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "12:13",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CATHCART,DONEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "STEAL  by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "11:55",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORGAN,DEVIN",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "MISS 3PTR by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "REBOUND OFF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "11:51",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "MISS JUMPER by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "REBOUND OFF by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "11:46",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:46",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "11:46",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "TURNOVER  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "11:34",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "TURNOVER  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "11:34",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "11:34",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "YSU": 9
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "11:11",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CATHCART,DONEL",
+    "score": {
+      "OAK": 16,
+      "YSU": 11
+    },
+    "raw_text": "GOOD JUMPER by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "10:58",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 16,
+      "YSU": 11
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 16,
+      "YSU": 11
+    },
+    "raw_text": "REBOUND DEF by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "10:49",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAMPTON,KENDALE(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 16,
+      "YSU": 13
+    },
+    "raw_text": "GOOD LAYUP by HAMPTON,KENDALE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:30",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SIMMONS,JELANI",
+    "score": {
+      "OAK": 16,
+      "YSU": 13
+    },
+    "raw_text": "FOUL  by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BECK,JAMES",
+    "score": {
+      "OAK": 17,
+      "YSU": 13
+    },
+    "raw_text": "GOOD FT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BECK,JAMES",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "GOOD FT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "SUB IN by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "SUB IN by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SIMMONS,JELANI",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "SUB OUT by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "SUB OUT by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "10:12",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CATHCART,DONEL",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "MISS JUMPER by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PITTMAN,KENNY",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "REBOUND DEF by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "10:01",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORGAN,DEVIN",
+    "score": {
+      "OAK": 18,
+      "YSU": 13
+    },
+    "raw_text": "REBOUND DEF by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:49",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:49",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PITTMAN,KENNY",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "FOUL  by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "MISS FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB OUT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CATHCART,DONEL",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "SUB OUT by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "09:28",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 18,
+      "YSU": 15
+    },
+    "raw_text": "FOUL  by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:28",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 19,
+      "YSU": 15
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:28",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 20,
+      "YSU": 15
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:17",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORGAN,DEVIN",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "GOOD 3PTR by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "TURNOVER  by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "MISS 3PTR by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "FOUL  by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 20,
+      "YSU": 18
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 21,
+      "YSU": 18
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 21,
+      "YSU": 18
+    },
+    "raw_text": "MISS JUMPER by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 21,
+      "YSU": 18
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "08:09",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 21,
+      "YSU": 18
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:08",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 21,
+      "YSU": 18
+    },
+    "raw_text": "STEAL  by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:06",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 21,
+      "YSU": 20
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 21,
+      "YSU": 20
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:56",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX,TRAY",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "ASSIST  by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "07:34",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "TURNOVER  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB IN by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN,KENNY",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB OUT by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB IN by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SIMMONS,JELANI",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB IN by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB OUT by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 23,
+      "YSU": 20
+    },
+    "raw_text": "SUB OUT by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 1,
+    "clock": "07:24",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BRECHTING,BRAD(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 25,
+      "YSU": 20
+    },
+    "raw_text": "GOOD DUNK by BRECHTING,BRAD(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 25,
+      "YSU": 20
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:04",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SIMMONS,JELANI",
+    "score": {
+      "OAK": 25,
+      "YSU": 20
+    },
+    "raw_text": "TURNOVER  by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 25,
+      "YSU": 20
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 25,
+      "YSU": 20
+    },
+    "raw_text": "FOUL  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 26,
+      "YSU": 20
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 27,
+      "YSU": 20
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CATHCART,DONEL",
+    "score": {
+      "OAK": 27,
+      "YSU": 20
+    },
+    "raw_text": "SUB IN by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SIMMONS,JELANI",
+    "score": {
+      "OAK": 27,
+      "YSU": 20
+    },
+    "raw_text": "SUB OUT by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "06:46",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORGAN,DEVIN",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "GOOD 3PTR by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "ASSIST  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "06:16",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "06:16",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "05:54",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CATHCART,DONEL",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "MISS 3PTR by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:34",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MADDOX,TRAY",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "MISS JUMPER by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORGAN,DEVIN",
+    "score": {
+      "OAK": 27,
+      "YSU": 23
+    },
+    "raw_text": "REBOUND DEF by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COVINGTON,GARRETT(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 27,
+      "YSU": 25
+    },
+    "raw_text": "GOOD LAYUP by COVINGTON,GARRETT(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 27,
+      "YSU": 25
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "05:05",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CATHCART,DONEL",
+    "score": {
+      "OAK": 27,
+      "YSU": 25
+    },
+    "raw_text": "FOUL  by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "05:05",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 28,
+      "YSU": 25
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "05:05",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "05:05",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "SUB IN by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "05:05",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORGAN,DEVIN",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "SUB OUT by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:51",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CATHCART,DONEL",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "MISS JUMPER by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "SUB IN by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CATHCART,DONEL",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "SUB OUT by CATHCART,DONEL"
+  },
+  {
+    "period": 1,
+    "clock": "04:17",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "MISS JUMPER by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "REBOUND OFF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "MISS FT by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:54",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:53",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "STEAL  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "MISS LAYUP by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "03:51",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "BLOCK  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "REBOUND OFF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "03:44",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "MISS 3PTR by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 29,
+      "YSU": 25
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "03:21",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX,TRAY(in the paint)",
+    "score": {
+      "OAK": 31,
+      "YSU": 25
+    },
+    "raw_text": "GOOD LAYUP by MADDOX,TRAY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 31,
+      "YSU": 25
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 31,
+      "YSU": 25
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "GOOD FT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "MISS FT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORGAN,DEVIN",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "SUB IN by MORGAN,DEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "SUB OUT by HAMPTON,KENDALE"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "02:43",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "TURNOVER  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "02:23",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "02:21",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "STEAL  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:05",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "TURNOVER  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "02:05",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "STEAL  by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "02:05",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 31,
+      "YSU": 26
+    },
+    "raw_text": "FOUL  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 32,
+      "YSU": 26
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 33,
+      "YSU": 26
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 33,
+      "YSU": 26
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 33,
+      "YSU": 26
+    },
+    "raw_text": "SUB OUT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "01:50",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:31",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "SUB OUT by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:08",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "FOUL  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "01:08",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "TURNOVER  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "01:08",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SIMMONS,JELANI",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "SUB IN by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "01:08",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 33,
+      "YSU": 28
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 1,
+    "clock": "00:51",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NEWMAN,KARMARI(in the paint)",
+    "score": {
+      "OAK": 35,
+      "YSU": 28
+    },
+    "raw_text": "GOOD JUMPER by NEWMAN,KARMARI(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:22",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SIMMONS,JELANI",
+    "score": {
+      "OAK": 35,
+      "YSU": 28
+    },
+    "raw_text": "MISS 3PTR by SIMMONS,JELANI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 35,
+      "YSU": 28
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 35,
+      "YSU": 28
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "GOOD FT by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "MISS FT by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PITTMAN,KENNY",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "REBOUND DEF by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SOWUNMI,BABATUNDE",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "SUB IN by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "SUB IN by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 1,
+    "clock": "00:20",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "SUB OUT by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PITTMAN,KENNY",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "MISS 3PTR by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 35,
+      "YSU": 29
+    },
+    "raw_text": "REBOUND DEF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "19:40",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 38,
+      "YSU": 29
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 38,
+      "YSU": 29
+    },
+    "raw_text": "ASSIST  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "19:23",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "GOOD 3PTR by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ANABIR,NOE",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "ASSIST  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "19:02",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "19:00",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by ANABIR,NOE",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "STEAL  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "18:48",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "MISS JUMPER by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "REBOUND OFF by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 2,
+    "clock": "18:43",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "MISS JUMPER by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX,TRAY",
+    "score": {
+      "OAK": 38,
+      "YSU": 32
+    },
+    "raw_text": "REBOUND DEF by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "18:19",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 40,
+      "YSU": 32
+    },
+    "raw_text": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 40,
+      "YSU": 32
+    },
+    "raw_text": "ASSIST  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "17:52",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COVINGTON,GARRETT(in the paint)",
+    "score": {
+      "OAK": 40,
+      "YSU": 34
+    },
+    "raw_text": "GOOD LAYUP by COVINGTON,GARRETT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 40,
+      "YSU": 34
+    },
+    "raw_text": "ASSIST  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "17:34",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:14",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "MISS LAYUP by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "FOUL  by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORGAN,DEVIN",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "SUB IN by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "SUB IN by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANABIR,NOE",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "SUB OUT by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 43,
+      "YSU": 34
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "16:55",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 45,
+      "YSU": 34
+    },
+    "raw_text": "GOOD DUNK by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:53",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 45,
+      "YSU": 34
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "16:53",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 45,
+      "YSU": 34
+    },
+    "raw_text": "SUB IN by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:53",
+    "team": "YSU",
+    "player": "MAXWELL,ANTWAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAXWELL,ANTWAN",
+    "score": {
+      "OAK": 45,
+      "YSU": 34
+    },
+    "raw_text": "SUB OUT by MAXWELL,ANTWAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:37",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by QUISENBERRY,DARIUS(in the paint)",
+    "score": {
+      "OAK": 45,
+      "YSU": 36
+    },
+    "raw_text": "GOOD JUMPER by QUISENBERRY,DARIUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:12",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 45,
+      "YSU": 36
+    },
+    "raw_text": "FOUL  by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:09",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 47,
+      "YSU": 36
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 47,
+      "YSU": 36
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "15:44",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 47,
+      "YSU": 36
+    },
+    "raw_text": "MISS JUMPER by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 47,
+      "YSU": 36
+    },
+    "raw_text": "REBOUND OFF by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 2,
+    "clock": "15:41",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by HOLCOMBE,ALEX(in the paint)",
+    "score": {
+      "OAK": 47,
+      "YSU": 38
+    },
+    "raw_text": "GOOD TIPIN by HOLCOMBE,ALEX(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 47,
+      "YSU": 38
+    },
+    "raw_text": "FOUL  by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 47,
+      "YSU": 38
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 48,
+      "YSU": 38
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "YSU": 38
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 49,
+      "YSU": 38
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 49,
+      "YSU": 38
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 49,
+      "YSU": 38
+    },
+    "raw_text": "SUB IN by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "YSU",
+    "player": "HOLCOMBE,ALEX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLCOMBE,ALEX",
+    "score": {
+      "OAK": 49,
+      "YSU": 38
+    },
+    "raw_text": "SUB OUT by HOLCOMBE,ALEX"
+  },
+  {
+    "period": 2,
+    "clock": "14:49",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by AKUCHIE,MICHAEL(in the paint)",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "GOOD LAYUP by AKUCHIE,MICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:49",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "14:49",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "MISS FT by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "14:22",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 49,
+      "YSU": 40
+    },
+    "raw_text": "STEAL  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:20",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by SIMMONS,JELANI(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "GOOD DUNK by SIMMONS,JELANI(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:03",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CATHCART,DONEL",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB IN by CATHCART,DONEL"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SIMMONS,JELANI",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB OUT by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "FOUL  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "TURNOVER  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "13:12",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "FOUL  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "13:12",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ANABIR,NOE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB IN by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "13:12",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB IN by HAMPTON,KENDALE"
+  },
+  {
+    "period": 2,
+    "clock": "13:12",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB OUT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "13:12",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 49,
+      "YSU": 42
+    },
+    "raw_text": "SUB OUT by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "12:56",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 52,
+      "YSU": 42
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX,TRAY",
+    "score": {
+      "OAK": 52,
+      "YSU": 42
+    },
+    "raw_text": "ASSIST  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "12:39",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CATHCART,DONEL",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "GOOD 3PTR by CATHCART,DONEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SIMMONS,JELANI",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "SUB IN by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "YSU",
+    "player": "CATHCART,DONEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CATHCART,DONEL",
+    "score": {
+      "OAK": 52,
+      "YSU": 45
+    },
+    "raw_text": "SUB OUT by CATHCART,DONEL"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX,TRAY",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "ASSIST  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "12:11",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "TURNOVER  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "MISS LAYUP by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by ANABIR,NOE",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "BLOCK  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 55,
+      "YSU": 45
+    },
+    "raw_text": "REBOUND OFF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "11:58",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 57,
+      "YSU": 45
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:42",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "GOOD 3PTR by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:29",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MADDOX,TRAY",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "TURNOVER  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "11:28",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "STEAL  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "FOUL  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 57,
+      "YSU": 48
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 49
+    },
+    "raw_text": "GOOD FT by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "GOOD FT by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB IN by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB OUT by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "YSU",
+    "player": "HAMPTON,KENDALE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMPTON,KENDALE",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "SUB OUT by HAMPTON,KENDALE"
+  },
+  {
+    "period": 2,
+    "clock": "11:18",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 57,
+      "YSU": 50
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "10:52",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)",
+    "score": {
+      "OAK": 57,
+      "YSU": 52
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:51",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 57,
+      "YSU": 52
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "10:51",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "GOOD FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "10:51",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "10:51",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "10:36",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ANABIR,NOE",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "FOUL  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NORRIS,BRADEN",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "MISS JUMPER by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "REBOUND DEF by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 57,
+      "YSU": 53
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 57,
+      "YSU": 54
+    },
+    "raw_text": "GOOD FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "GOOD FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORGAN,DEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "SUB IN by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SIMMONS,JELANI",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "SUB OUT by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "10:05",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "MISS JUMPER by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 57,
+      "YSU": 55
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:50",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 57,
+      "YSU": 58
+    },
+    "raw_text": "GOOD 3PTR by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 57,
+      "YSU": 58
+    },
+    "raw_text": "ASSIST  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:28",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)",
+    "score": {
+      "OAK": 59,
+      "YSU": 58
+    },
+    "raw_text": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:27",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 59,
+      "YSU": 58
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:15",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 59,
+      "YSU": 58
+    },
+    "raw_text": "MISS 3PTR by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 59,
+      "YSU": 58
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:05",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 59,
+      "YSU": 58
+    },
+    "raw_text": "FOUL  by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:05",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 60,
+      "YSU": 58
+    },
+    "raw_text": "GOOD FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:05",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 61,
+      "YSU": 58
+    },
+    "raw_text": "GOOD FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "08:53",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ANABIR,NOE",
+    "score": {
+      "OAK": 61,
+      "YSU": 58
+    },
+    "raw_text": "FOUL  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "08:53",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ANABIR,NOE",
+    "score": {
+      "OAK": 61,
+      "YSU": 58
+    },
+    "raw_text": "TURNOVER  by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "08:53",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 61,
+      "YSU": 58
+    },
+    "raw_text": "SUB IN by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "08:53",
+    "team": "YSU",
+    "player": "ANABIR,NOE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANABIR,NOE",
+    "score": {
+      "OAK": 61,
+      "YSU": 58
+    },
+    "raw_text": "SUB OUT by ANABIR,NOE"
+  },
+  {
+    "period": 2,
+    "clock": "08:45",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "MISS FT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "MISS FT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "REBOUND OFF by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SIMMONS,JELANI",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "SUB IN by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "08:09",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORGAN,DEVIN",
+    "score": {
+      "OAK": 64,
+      "YSU": 58
+    },
+    "raw_text": "SUB OUT by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "07:49",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by SIMMONS,JELANI",
+    "score": {
+      "OAK": 64,
+      "YSU": 60
+    },
+    "raw_text": "GOOD JUMPER by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "07:34",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 64,
+      "YSU": 60
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:19",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MADDOX,TRAY",
+    "score": {
+      "OAK": 64,
+      "YSU": 60
+    },
+    "raw_text": "MISS JUMPER by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 64,
+      "YSU": 60
+    },
+    "raw_text": "REBOUND DEF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 64,
+      "YSU": 60
+    },
+    "raw_text": "TURNOVER  by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "06:45",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 67,
+      "YSU": 60
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "06:30",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 67,
+      "YSU": 60
+    },
+    "raw_text": "MISS JUMPER by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 67,
+      "YSU": 60
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "06:13",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 69,
+      "YSU": 60
+    },
+    "raw_text": "GOOD JUMPER by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:05",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 69,
+      "YSU": 60
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:05",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORGAN,DEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 60
+    },
+    "raw_text": "SUB IN by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "06:05",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 69,
+      "YSU": 60
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "GOOD 3PTR by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "ASSIST  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "05:37",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BRECHTING,BRAD",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "MISS LAYUP by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "05:37",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by SIMMONS,JELANI",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "BLOCK  by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "REBOUND DEF by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "MISS 3PTR by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MORGAN,DEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 63
+    },
+    "raw_text": "REBOUND OFF by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "05:28",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MORGAN,DEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "GOOD JUMPER by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "05:17",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "05:17",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SIMMONS,JELANI",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "REBOUND DEF by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "04:51",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MORGAN,DEVIN",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "TURNOVER  by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:49",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 69,
+      "YSU": 65
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:46",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NORRIS,BRADEN(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 71,
+      "YSU": 65
+    },
+    "raw_text": "GOOD LAYUP by NORRIS,BRADEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 71,
+      "YSU": 65
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 71,
+      "YSU": 65
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 71,
+      "YSU": 65
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "04:30",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 71,
+      "YSU": 67
+    },
+    "raw_text": "GOOD JUMPER by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "04:09",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 71,
+      "YSU": 67
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:07",
+    "team": "YSU",
+    "player": "SIMMONS,JELANI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SIMMONS,JELANI",
+    "score": {
+      "OAK": 71,
+      "YSU": 67
+    },
+    "raw_text": "STEAL  by SIMMONS,JELANI"
+  },
+  {
+    "period": 2,
+    "clock": "03:59",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:57",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:57",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "03:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "03:31",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BRECHTING,BRAD",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "MISS JUMPER by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 71,
+      "YSU": 69
+    },
+    "raw_text": "REBOUND DEF by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "03:09",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MORGAN,DEVIN(in the paint)",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "GOOD JUMPER by MORGAN,DEVIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:53",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "MISS JUMPER by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "REBOUND DEF by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "MISS FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 71,
+      "YSU": 71
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "GOOD FT by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "SUB OUT by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "02:15",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "TURNOVER  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "02:13",
+    "team": "YSU",
+    "player": "PEDERSEN,OLAMIDE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PEDERSEN,OLAMIDE",
+    "score": {
+      "OAK": 71,
+      "YSU": 72
+    },
+    "raw_text": "STEAL  by PEDERSEN,OLAMIDE"
+  },
+  {
+    "period": 2,
+    "clock": "02:10",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUISENBERRY,DARIUS(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "GOOD LAYUP by QUISENBERRY,DARIUS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "MISS JUMPER by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "01:55",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "FOUL  by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "01:54",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "01:54",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:54",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "REBOUND DEF by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:31",
+    "team": "YSU",
+    "player": "QUISENBERRY,DARIUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by QUISENBERRY,DARIUS",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "MISS 3PTR by QUISENBERRY,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 71,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:15",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 73,
+      "YSU": 74
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 73,
+      "YSU": 74
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 73,
+      "YSU": 74
+    },
+    "raw_text": "MISS JUMPER by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 73,
+      "YSU": 74
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "00:22",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "YSU",
+    "player": "AKUCHIE,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by AKUCHIE,MICHAEL",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB IN by AKUCHIE,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "YSU",
+    "player": "COVINGTON,GARRETT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COVINGTON,GARRETT",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "SUB OUT by COVINGTON,GARRETT"
+  },
+  {
+    "period": 2,
+    "clock": "00:02",
+    "team": "YSU",
+    "player": "MORGAN,DEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MORGAN,DEVIN",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "MISS JUMPER by MORGAN,DEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "YSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "OAK": 76,
+      "YSU": 74
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  }
+]

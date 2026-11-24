@@ -1,0 +1,5642 @@
+[
+  {
+    "period": 1,
+    "clock": "19:42",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 0
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 0
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "19:21",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 3
+    },
+    "raw_text": "GOOD 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 3
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "19:08",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 3
+    },
+    "raw_text": "TURNOVER  by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "19:07",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 3
+    },
+    "raw_text": "STEAL  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "18:49",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "GOOD 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "18:23",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "REBOUND DEF by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "18:06",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "MISS JUMPER by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "18:00",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 3,
+      "ROCHESTE": 6
+    },
+    "raw_text": "FOUL  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "17:49",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 5,
+      "ROCHESTE": 6
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:45",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 5,
+      "ROCHESTE": 9
+    },
+    "raw_text": "GOOD 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 5,
+      "ROCHESTE": 9
+    },
+    "raw_text": "ASSIST  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "17:37",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "OAKLAND": 7,
+      "ROCHESTE": 9
+    },
+    "raw_text": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 7,
+      "ROCHESTE": 9
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 7,
+      "ROCHESTE": 9
+    },
+    "raw_text": "TURNOVER  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "16:56",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 7,
+      "ROCHESTE": 9
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 7,
+      "ROCHESTE": 9
+    },
+    "raw_text": "REBOUND OFF by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "16:50",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "GOOD JUMPER by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "16:24",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "TURNOVER  by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 1,
+    "clock": "16:22",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "STEAL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "16:20",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "16:12",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "MISS 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "15:51",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 9
+    },
+    "raw_text": "REBOUND DEF by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "15:40",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by POLATOGLOU,STAVROS(in the paint)",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 11
+    },
+    "raw_text": "GOOD LAYUP by POLATOGLOU,STAVROS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 9,
+      "ROCHESTE": 11
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 11
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 11
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "15:20",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "GOOD 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "ASSIST  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT FULL by TEAM",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "TIMEOUT FULL by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:08",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB IN by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "15:08",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB OUT by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 1,
+    "clock": "14:59",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS LAYUP by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "14:59",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "BLOCK  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 11,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND OFF by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by SHEPHERD,WILL(in the paint)",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "GOOD TIPIN by SHEPHERD,WILL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:44",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS 3PTR by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND OFF by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "14:35",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND DEF by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "14:21",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND DEF by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "FOUL  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB IN by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB IN by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "13:59",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS 3PTR by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 13,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "13:54",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "OAKLAND": 15,
+      "ROCHESTE": 14
+    },
+    "raw_text": "GOOD TIPIN by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:36",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 15,
+      "ROCHESTE": 14
+    },
+    "raw_text": "MISS JUMPER by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 15,
+      "ROCHESTE": 14
+    },
+    "raw_text": "REBOUND DEF by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "13:23",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 14
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 14
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:09",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FISHER,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "GOOD LAYUP by FISHER,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "ASSIST  by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "12:57",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "MISS 3PTR by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:53",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "12:53",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "SUB OUT by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "12:53",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "SUB IN by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "12:53",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 16
+    },
+    "raw_text": "SUB OUT by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "12:34",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 18
+    },
+    "raw_text": "GOOD JUMPER by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "12:19",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 18
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 18
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "11:57",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 21
+    },
+    "raw_text": "GOOD 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 21
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "11:38",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 21
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 21
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "11:12",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CUKAJ,ANTHONY(in the paint)",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 23
+    },
+    "raw_text": "GOOD LAYUP by CUKAJ,ANTHONY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:01",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 23
+    },
+    "raw_text": "TURNOVER  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:59",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 23
+    },
+    "raw_text": "STEAL  by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "10:39",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "GOOD 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "ASSIST  by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS LAYUP by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "BLOCK  by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND OFF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "10:20",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS LAYUP by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "10:20",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "BLOCK  by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "10:11",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:02",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "09:43",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS 3PTR by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 17,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 19,
+      "ROCHESTE": 26
+    },
+    "raw_text": "GOOD JUMPER by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "09:12",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 19,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 19,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:55",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "FOUL  by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by TONEY,BRALIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "08:33",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS LAYUP by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by BOWMAN,LORNE"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS LAYUP by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 21,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "07:31",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 23,
+      "ROCHESTE": 26
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 23,
+      "ROCHESTE": 26
+    },
+    "raw_text": "ASSIST  by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "07:02",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 23,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS LAYUP by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 23,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEF by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "06:43",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 26
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:27",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 26
+    },
+    "raw_text": "MISS JUMPER by TONEY,BRALIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 26
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:27",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:27",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 26
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by FISHER,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "GOOD LAYUP by FISHER,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:02",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS LAYUP by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TURNOVER  by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "05:30",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "STEAL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 25,
+      "ROCHESTE": 28
+    },
+    "raw_text": "FOUL  by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 26,
+      "ROCHESTE": 28
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by WIGGINS,COLBY"
+  },
+  {
+    "period": 1,
+    "clock": "05:21",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by TONEY,BRALIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:57",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS 3PTR by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "04:43",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS LAYUP by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "04:43",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "BLOCK  by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "04:36",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TURNOVER  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "BLOCK  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAKLAND",
+    "player": "SHEPHERD,WILL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SHEPHERD,WILL",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "SUB OUT by SHEPHERD,WILL"
+  },
+  {
+    "period": 1,
+    "clock": "04:10",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:09",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "STEAL  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "03:52",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS LAYUP by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "03:52",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "FOUL  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "MISS FT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAKLAND": 27,
+      "ROCHESTE": 28
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 28
+    },
+    "raw_text": "GOOD FT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "03:18",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TURNOVER  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 28
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "03:08",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 28
+    },
+    "raw_text": "STEAL  by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BALLARD,JAMES(fastbreak)(in the paint)",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "GOOD DUNK by BALLARD,JAMES(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "STEAL  by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "02:45",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "MISS LAYUP by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:45",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 30
+    },
+    "raw_text": "REBOUND OFF by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:41",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by FISHER,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 32
+    },
+    "raw_text": "GOOD TIPIN by FISHER,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 32
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 28,
+      "ROCHESTE": 32
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "02:24",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 32
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 32
+    },
+    "raw_text": "ASSIST  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "01:57",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "GOOD JUMPER by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "01:45",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "MISS 3PTR by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "01:29",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "FOUL  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "01:24",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "FOUL  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "01:06",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "MISS JUMPER by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "REBOUND OFF by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "01:02",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "MISS TIPIN by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "00:59",
+    "team": "OAKLAND",
+    "player": "PARKER,BRODY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARKER,BRODY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 34
+    },
+    "raw_text": "TURNOVER  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "00:49",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by FISHER,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 36
+    },
+    "raw_text": "GOOD DUNK by FISHER,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 36
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 1,
+    "clock": "00:41",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 36
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 36
+    },
+    "raw_text": "REBOUND DEF by BALLARD,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "00:10",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 39
+    },
+    "raw_text": "GOOD 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 30,
+      "ROCHESTE": 39
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "19:47",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:19",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "MISS LAYUP by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "19:15",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "19:10",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "STEAL  by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "18:52",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "MISS JUMPER by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 39
+    },
+    "raw_text": "REBOUND OFF by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "18:45",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by POLATOGLOU,STAVROS(in the paint)",
+    "score": {
+      "OAKLAND": 32,
+      "ROCHESTE": 41
+    },
+    "raw_text": "GOOD TIPIN by POLATOGLOU,STAVROS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:31",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 41
+    },
+    "raw_text": "GOOD DUNK by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 41
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "18:15",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "GOOD 3PTR by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "17:50",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "REBOUND DEF by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "17:30",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "MISS JUMPER by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "17:23",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "17:22",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "STEAL  by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "17:18",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "TURNOVER  by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "17:18",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 34,
+      "ROCHESTE": 44
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(fastbreak)(in the paint)",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "FOUL  by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "SUB IN by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 36,
+      "ROCHESTE": 44
+    },
+    "raw_text": "SUB OUT by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "16:32",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "OAKLAND": 38,
+      "ROCHESTE": 44
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:32",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 38,
+      "ROCHESTE": 44
+    },
+    "raw_text": "FOUL  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "16:32",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 39,
+      "ROCHESTE": 44
+    },
+    "raw_text": "GOOD FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MICHRINA,BRANDON(in the paint)",
+    "score": {
+      "OAKLAND": 39,
+      "ROCHESTE": 46
+    },
+    "raw_text": "GOOD LAYUP by MICHRINA,BRANDON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:54",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "OAKLAND": 41,
+      "ROCHESTE": 46
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:37",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 41,
+      "ROCHESTE": 46
+    },
+    "raw_text": "MISS 3PTR by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 41,
+      "ROCHESTE": 46
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "15:30",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 46
+    },
+    "raw_text": "GOOD 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "15:04",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 46
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "15:04",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 46
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:44",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BALLARD,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 48
+    },
+    "raw_text": "GOOD LAYUP by BALLARD,JAMES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 48
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "14:22",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 48
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 48
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "GOOD 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "ASSIST  by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "13:52",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:47",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "13:29",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "MISS 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "13:18",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 51
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "12:52",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CUKAJ,ANTHONY(in the paint)",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "GOOD LAYUP by CUKAJ,ANTHONY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "ASSIST  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB IN by BOWMAN,LORNE"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB IN by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "SUB OUT by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "12:31",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "FOUL  by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "12:23",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "MISS JUMPER by BOWMAN,LORNE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "12:19",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "MISS 3PTR by BOWMAN,LORNE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "MISS 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 44,
+      "ROCHESTE": 53
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "11:44",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:26",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "MISS 3PTR by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "REBOUND DEF by BOWMAN,LORNE"
+  },
+  {
+    "period": 2,
+    "clock": "11:14",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "10:58",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "TURNOVER  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "10:58",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAKLAND": 46,
+      "ROCHESTE": 53
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "10:44",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 48,
+      "ROCHESTE": 53
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 48,
+      "ROCHESTE": 53
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "10:29",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by FISHER,JAMES(in the paint)",
+    "score": {
+      "OAKLAND": 48,
+      "ROCHESTE": 55
+    },
+    "raw_text": "GOOD DUNK by FISHER,JAMES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 48,
+      "ROCHESTE": 55
+    },
+    "raw_text": "ASSIST  by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 48,
+      "ROCHESTE": 55
+    },
+    "raw_text": "FOUL  by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 49,
+      "ROCHESTE": 55
+    },
+    "raw_text": "GOOD FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "GOOD FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "OAKLAND",
+    "player": "BOWMAN,LORNE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BOWMAN,LORNE",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB OUT by BOWMAN,LORNE"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB IN by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB IN by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB OUT by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "10:23",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "SUB OUT by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "TURNOVER  by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "10:05",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "STEAL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "10:04",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 55
+    },
+    "raw_text": "REBOUND DEF by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:57",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BALLARD,JAMES(fastbreak)(in the paint)",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD LAYUP by BALLARD,JAMES(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "ASSIST  by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:30",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "09:05",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "08:45",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "08:27",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND OFF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "08:22",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "STEAL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "08:17",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 50,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TURNOVER  by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "08:08",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "07:40",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TURNOVER  by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "07:40",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "07:40",
+    "team": "OAKLAND",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "ROCHESTE",
+    "player": "TONEY,BRALIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TONEY,BRALIN",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by TONEY,BRALIN"
+  },
+  {
+    "period": 2,
+    "clock": "07:06",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS LAYUP by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 53,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(fastbreak)(in the paint)",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:26",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS JUMPER by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "06:07",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "06:07",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "06:07",
+    "team": "ROCHESTE",
+    "player": "POLATOGLOU,STAVROS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLATOGLOU,STAVROS",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by POLATOGLOU,STAVROS"
+  },
+  {
+    "period": 2,
+    "clock": "05:56",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "FOUL  by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "05:56",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "05:56",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 55,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "05:29",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:08",
+    "team": "ROCHESTE",
+    "player": "CUKAJ,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUKAJ,ANTHONY",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by CUKAJ,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "FOUL  by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB IN by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "04:44",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 57,
+      "ROCHESTE": 57
+    },
+    "raw_text": "SUB OUT by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "04:27",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:08",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS LAYUP by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "04:02",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "03:48",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "FOUL  by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "03:34",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS JUMPER by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "03:20",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "03:16",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS TIPIN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "03:12",
+    "team": "ROCHESTE",
+    "player": "MICHRINA,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MICHRINA,BRANDON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS LAYUP by MICHRINA,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "03:07",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "MISS 3PTR by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 59,
+      "ROCHESTE": 57
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "02:41",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 57
+    },
+    "raw_text": "GOOD 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "02:11",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 60
+    },
+    "raw_text": "GOOD 3PTR by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "02:08",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 60
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:48",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 60
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 60
+    },
+    "raw_text": "REBOUND DEF by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "01:27",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "GOOD JUMPER by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "01:07",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "ROCHESTE",
+    "player": "WALTERS,GUNNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WALTERS,GUNNER",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "MISS LAYUP by WALTERS,GUNNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "00:44",
+    "team": "OAKLAND",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATTS,ROCKET",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "MISS LAYUP by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "00:44",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "BLOCK  by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "ROCHESTE",
+    "player": "FISHER,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FISHER,JAMES",
+    "score": {
+      "OAKLAND": 62,
+      "ROCHESTE": 62
+    },
+    "raw_text": "FOUL  by FISHER,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 63,
+      "ROCHESTE": 62
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "OAKLAND",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "OAKLAND": 64,
+      "ROCHESTE": 62
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "OAKLAND": 64,
+      "ROCHESTE": 62
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 64,
+      "ROCHESTE": 63
+    },
+    "raw_text": "GOOD FT by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "ROCHESTE",
+    "player": "BALLARD,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BALLARD,JAMES",
+    "score": {
+      "OAKLAND": 64,
+      "ROCHESTE": 64
+    },
+    "raw_text": "GOOD FT by BALLARD,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "OAKLAND",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "ROCHESTE",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT FULL by TEAM",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "TIMEOUT FULL by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "OAKLAND",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT FULL by TEAM",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "TIMEOUT FULL by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:02",
+    "team": "OAKLAND",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "00:00",
+    "team": "ROCHESTE",
+    "player": "WIGGINS,COLBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WIGGINS,COLBY",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "MISS 3PTR by WIGGINS,COLBY"
+  },
+  {
+    "period": 2,
+    "clock": "00:00",
+    "team": "OAKLAND",
+    "player": "PRICE,OSEI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by PRICE,OSEI",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "BLOCK  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAKLAND",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAKLAND": 66,
+      "ROCHESTE": 64
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  }
+]

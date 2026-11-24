@@ -1,0 +1,5222 @@
+[
+  {
+    "period": 1,
+    "clock": "19:47",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BASILE,GRANT",
+    "score": {
+      "WSU": 3,
+      "Oak": 0
+    },
+    "raw_text": "GOOD 3PTR by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 3,
+      "Oak": 0
+    },
+    "raw_text": "ASSIST  by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "19:22",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 3,
+      "Oak": 3
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 3,
+      "Oak": 3
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "19:01",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FINKE,TIM",
+    "score": {
+      "WSU": 5,
+      "Oak": 3
+    },
+    "raw_text": "GOOD JUMPER by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN",
+    "score": {
+      "WSU": 5,
+      "Oak": 5
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "18:14",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 5,
+      "Oak": 5
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 5,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND OFF by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "18:09",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 7,
+      "Oak": 5
+    },
+    "raw_text": "GOOD LAYUP by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:59",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "WSU": 7,
+      "Oak": 7
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:38",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "WSU": 7,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WILBOURN,C.J.(in the paint)",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "GOOD LAYUP by WILBOURN,C.J.(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BASILE,GRANT",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "ASSIST  by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "17:15",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FINKE,TIM",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "17:08",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CALVIN,TREY",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "WSU": 9,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:53",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 9,
+      "Oak": 9
+    },
+    "raw_text": "GOOD JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:36",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 11,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILBOURN,C.J.",
+    "score": {
+      "WSU": 11,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 11,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "WSU": 11,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:00",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CAIN,JAMAL",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "GOOD JUMPER by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CONWAY,CHRIS",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "ASSIST  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILBOURN,C.J.",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,KEATON",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "15:28",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CALVIN,TREY",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "MISS JUMPER by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "15:17",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "MISS 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,KEATON",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "REBOUND DEF by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,KEATON",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "TURNOVER  by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PRICE,OSEI(in the paint)",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "MISS LAYUP by PRICE,OSEI(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:40",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "REBOUND DEF by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "14:18",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BASILE,GRANT",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "TURNOVER  by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "14:18",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 11,
+      "Oak": 11
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN",
+    "score": {
+      "WSU": 11,
+      "Oak": 13
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:47",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,KEATON",
+    "score": {
+      "WSU": 11,
+      "Oak": 13
+    },
+    "raw_text": "TURNOVER  by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "13:47",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PARRISH,MICAH",
+    "score": {
+      "WSU": 11,
+      "Oak": 13
+    },
+    "raw_text": "STEAL  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "WSU": 11,
+      "Oak": 13
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 11,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BASILE,GRANT",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CALVIN,TREY",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILBOURN,C.J.",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WELAGE,ANDREW",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "12:17",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "MISS LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILBOURN,C.J.",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "MISS JUMPER by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CAIN,JAMAL",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FINKE,TIM",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "11:42",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BASILE,GRANT",
+    "score": {
+      "WSU": 13,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BASILE,GRANT",
+    "score": {
+      "WSU": 16,
+      "Oak": 13
+    },
+    "raw_text": "GOOD 3PTR by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,KEATON",
+    "score": {
+      "WSU": 16,
+      "Oak": 13
+    },
+    "raw_text": "ASSIST  by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "11:01",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by PRICE,OSEI(in the paint)",
+    "score": {
+      "WSU": 16,
+      "Oak": 15
+    },
+    "raw_text": "GOOD LAYUP by PRICE,OSEI(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 16,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WELAGE,ANDREW",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "GOOD 3PTR by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILBOURN,C.J.",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WILBOURN,C.J.",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "STEAL  by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CAIN,JAMAL",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,KEATON",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILBOURN,C.J.",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CALVIN,TREY",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FINKE,TIM",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "10:11",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BASILE,GRANT",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "MISS 3PTR by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "10:02",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "10:02",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CALVIN,TREY",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "STEAL  by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "09:56",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CALVIN,TREY(in the paint)",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "MISS LAYUP by CALVIN,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CALVIN,TREY",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND OFF by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "09:51",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BASILE,GRANT",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "09:36",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "MISS 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 19,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "09:19",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FINKE,TIM",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CALVIN,TREY",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:40",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "08:40",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:40",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "WSU": 21,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:37",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 23,
+      "Oak": 15
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FINKE,TIM",
+    "score": {
+      "WSU": 23,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "WSU": 23,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:10",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WELAGE,ANDREW",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "07:48",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FINKE,TIM",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "FOUL  by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "07:48",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:48",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CAIN,JAMAL",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "MISS FT by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "WSU": 25,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:48",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CAIN,JAMAL",
+    "score": {
+      "WSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "GOOD FT by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "07:27",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOLDEN,TANNER",
+    "score": {
+      "WSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "MISS 3PTR by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BASILE,GRANT",
+    "score": {
+      "WSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "REBOUND OFF by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "07:20",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "MISS LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "WSU": 25,
+      "Oak": 16
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:08",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 25,
+      "Oak": 19
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 25,
+      "Oak": 19
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "06:54",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 25,
+      "Oak": 19
+    },
+    "raw_text": "MISS LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:54",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 25,
+      "Oak": 19
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "WSU": 25,
+      "Oak": 19
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:45",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:24",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WELAGE,ANDREW",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "MISS 3PTR by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BASILE,GRANT",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "REBOUND OFF by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WELAGE,ANDREW",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "TURNOVER  by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BASILE,GRANT",
+    "score": {
+      "WSU": 25,
+      "Oak": 22
+    },
+    "raw_text": "REBOUND DEF by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "05:40",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WELAGE,ANDREW",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "GOOD 3PTR by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BASILE,GRANT",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "ASSIST  by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "05:25",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WELAGE,ANDREW",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "FOUL  by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "05:25",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BASILE,GRANT",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "SUB OUT by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "05:25",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLDEN,TANNER",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "SUB OUT by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "05:25",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,KEATON",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "SUB IN by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "05:25",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILBOURN,C.J.",
+    "score": {
+      "WSU": 28,
+      "Oak": 22
+    },
+    "raw_text": "SUB IN by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "05:16",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "WSU": 28,
+      "Oak": 24
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:57",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WELAGE,ANDREW",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "GOOD JUMPER by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:47",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WELAGE,ANDREW",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND DEF by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CALVIN,TREY",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "TURNOVER  by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:37",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 30,
+      "Oak": 24
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "04:30",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:16",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WELAGE,ANDREW",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "MISS 3PTR by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILBOURN,C.J.",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND OFF by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "04:10",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FINKE,TIM",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "MISS 3PTR by FINKE,TIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 30,
+      "Oak": 27
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "03:42",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,KEATON",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "TURNOVER  by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CAIN,JAMAL",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "STEAL  by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILBOURN,C.J.",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by WILBOURN,C.J."
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WELAGE,ANDREW",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BASILE,GRANT",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by BASILE,GRANT"
+  },
+  {
+    "period": 1,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLDEN,TANNER",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 30,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "02:34",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 30,
+      "Oak": 33
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 30,
+      "Oak": 33
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:13",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "GOOD LAYUP by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:50",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CALVIN,TREY",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND DEF by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:45",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "TURNOVER  by HOLDEN,TANNER"
+  },
+  {
+    "period": 1,
+    "clock": "01:45",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,KEATON",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by NORRIS,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "01:45",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WELAGE,ANDREW",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "01:28",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "MISS 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WELAGE,ANDREW",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND DEF by WELAGE,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "01:16",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "MISS LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "WSU": 32,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:56",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 34,
+      "Oak": 33
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 34,
+      "Oak": 33
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CAIN,JAMAL",
+    "score": {
+      "WSU": 34,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND OFF by CAIN,JAMAL"
+  },
+  {
+    "period": 1,
+    "clock": "00:22",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 34,
+      "Oak": 35
+    },
+    "raw_text": "GOOD LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:01",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 34,
+      "Oak": 35
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "WSU": 34,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WELAGE,ANDREW",
+    "score": {
+      "WSU": 34,
+      "Oak": 35
+    },
+    "raw_text": "SUB OUT by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,KEATON",
+    "score": {
+      "WSU": 34,
+      "Oak": 35
+    },
+    "raw_text": "SUB IN by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "19:46",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLDEN,TANNER",
+    "score": {
+      "WSU": 36,
+      "Oak": 35
+    },
+    "raw_text": "GOOD JUMPER by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FINKE,TIM",
+    "score": {
+      "WSU": 36,
+      "Oak": 35
+    },
+    "raw_text": "ASSIST  by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "19:27",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 36,
+      "Oak": 37
+    },
+    "raw_text": "GOOD JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:07",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FINKE,TIM",
+    "score": {
+      "WSU": 36,
+      "Oak": 37
+    },
+    "raw_text": "MISS JUMPER by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BASILE,GRANT",
+    "score": {
+      "WSU": 36,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND OFF by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "19:02",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 38,
+      "Oak": 37
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BASILE,GRANT",
+    "score": {
+      "WSU": 38,
+      "Oak": 37
+    },
+    "raw_text": "FOUL  by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "WSU": 38,
+      "Oak": 38
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "WSU": 38,
+      "Oak": 39
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:27",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FINKE,TIM",
+    "score": {
+      "WSU": 38,
+      "Oak": 39
+    },
+    "raw_text": "MISS 3PTR by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "WSU": 38,
+      "Oak": 39
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "18:08",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 38,
+      "Oak": 42
+    },
+    "raw_text": "GOOD 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 38,
+      "Oak": 42
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:44",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 38,
+      "Oak": 42
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "17:34",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLDEN,TANNER",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "GOOD JUMPER by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "17:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CALVIN,TREY",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "REBOUND DEF by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:40",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by FINKE,TIM",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "MISS JUMPER by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "16:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "WSU": 40,
+      "Oak": 42
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:29",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 43,
+      "Oak": 42
+    },
+    "raw_text": "GOOD 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,KEATON",
+    "score": {
+      "WSU": 43,
+      "Oak": 42
+    },
+    "raw_text": "ASSIST  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "16:11",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CAIN,JAMAL",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "FOUL  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,KEATON",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB OUT by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "15:45",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WELAGE,ANDREW",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB IN by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "15:35",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HOLDEN,TANNER",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "MISS JUMPER by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 43,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "15:16",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:53",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CALVIN,TREY",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "MISS JUMPER by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "14:28",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "WSU": 43,
+      "Oak": 48
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "14:16",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 43,
+      "Oak": 51
+    },
+    "raw_text": "GOOD 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "13:56",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "WSU": 43,
+      "Oak": 51
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:54",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WELAGE,ANDREW",
+    "score": {
+      "WSU": 45,
+      "Oak": 51
+    },
+    "raw_text": "GOOD JUMPER by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "WSU": 45,
+      "Oak": 53
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 45,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HOLDEN,TANNER",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "GOOD FT by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CALVIN,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,KEATON",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HOLDEN,TANNER",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "MISS FT by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FINKE,TIM",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,KEATON",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "12:57",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "MISS LAYUP by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:45",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,KEATON",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "12:45",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,KEATON",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "12:45",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CALVIN,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BASILE,GRANT",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "STEAL  by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "12:15",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CALVIN,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "12:10",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CALVIN,TREY(in the paint)",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "MISS JUMPER by CALVIN,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "11:51",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "MISS JUMPER by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:51",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BASILE,GRANT",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "BLOCK  by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "11:51",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "WSU": 46,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:49",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by TOWNSEND,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 56
+    },
+    "raw_text": "GOOD 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 46,
+      "Oak": 56
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:32",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 46,
+      "Oak": 56
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:30",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:12",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PARRISH,MICAH",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "FOUL  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:12",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:00",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WELAGE,ANDREW",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "MISS 3PTR by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "REBOUND OFF by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "10:56",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "MISS LAYUP by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:41",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BASILE,GRANT",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "FOUL  by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "10:31",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CALVIN,TREY",
+    "score": {
+      "WSU": 48,
+      "Oak": 56
+    },
+    "raw_text": "FOUL  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:31",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "WSU": 48,
+      "Oak": 57
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:31",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "WSU": 48,
+      "Oak": 58
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by FINKE,TIM",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "GOOD 3PTR by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "09:57",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "09:47",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FINKE,TIM",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "TURNOVER  by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "09:47",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "09:41",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 51,
+      "Oak": 58
+    },
+    "raw_text": "FOUL  by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "09:41",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "WSU": 51,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "09:41",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "WSU": 51,
+      "Oak": 60
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "09:29",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WELAGE,ANDREW",
+    "score": {
+      "WSU": 51,
+      "Oak": 60
+    },
+    "raw_text": "TURNOVER  by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "09:29",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 51,
+      "Oak": 60
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "09:24",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BASILE,GRANT",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "SUB OUT by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "WELAGE,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WELAGE,ANDREW",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "SUB OUT by WELAGE,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,KEATON",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "SUB IN by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "09:22",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILBOURN,C.J.",
+    "score": {
+      "WSU": 51,
+      "Oak": 63
+    },
+    "raw_text": "SUB IN by WILBOURN,C.J."
+  },
+  {
+    "period": 2,
+    "clock": "09:07",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,KEATON",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "08:34",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,KEATON",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND DEF by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "08:20",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FINKE,TIM",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "MISS 3PTR by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FINKE,TIM",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "08:14",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HOLDEN,TANNER(in the paint)",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "MISS LAYUP by HOLDEN,TANNER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILBOURN,C.J.",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by WILBOURN,C.J."
+  },
+  {
+    "period": 2,
+    "clock": "08:10",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FINKE,TIM",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "08:06",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by FINKE,TIM(in the paint)",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "MISS LAYUP by FINKE,TIM(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:06",
+    "team": "WSU",
+    "player": "WILBOURN,C.J.",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILBOURN,C.J.",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "SUB OUT by WILBOURN,C.J."
+  },
+  {
+    "period": 2,
+    "clock": "08:06",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BASILE,GRANT",
+    "score": {
+      "WSU": 54,
+      "Oak": 63
+    },
+    "raw_text": "SUB IN by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "08:00",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by FINKE,TIM(in the paint)",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "GOOD JUMPER by FINKE,TIM(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,KEATON",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "FOUL  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:53",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "MISS FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BASILE,GRANT",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND DEF by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "07:35",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CAIN,JAMAL",
+    "score": {
+      "WSU": 56,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND DEF by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "07:06",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "WSU": 56,
+      "Oak": 66
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CAIN,JAMAL",
+    "score": {
+      "WSU": 56,
+      "Oak": 66
+    },
+    "raw_text": "ASSIST  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "06:55",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CALVIN,TREY(in the paint)",
+    "score": {
+      "WSU": 58,
+      "Oak": 66
+    },
+    "raw_text": "GOOD JUMPER by CALVIN,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CAIN,JAMAL",
+    "score": {
+      "WSU": 58,
+      "Oak": 69
+    },
+    "raw_text": "GOOD 3PTR by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "06:18",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 58,
+      "Oak": 69
+    },
+    "raw_text": "MISS LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 58,
+      "Oak": 69
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "WSU": 58,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:10",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HOLDEN,TANNER",
+    "score": {
+      "WSU": 61,
+      "Oak": 69
+    },
+    "raw_text": "GOOD 3PTR by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,KEATON",
+    "score": {
+      "WSU": 61,
+      "Oak": 69
+    },
+    "raw_text": "ASSIST  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "05:45",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "WSU": 61,
+      "Oak": 69
+    },
+    "raw_text": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FINKE,TIM",
+    "score": {
+      "WSU": 61,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "05:34",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,KEATON",
+    "score": {
+      "WSU": 64,
+      "Oak": 69
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FINKE,TIM",
+    "score": {
+      "WSU": 64,
+      "Oak": 69
+    },
+    "raw_text": "ASSIST  by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "05:10",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "WSU": 64,
+      "Oak": 69
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 66,
+      "Oak": 69
+    },
+    "raw_text": "GOOD JUMPER by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "WSU": 66,
+      "Oak": 69
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLDEN,TANNER",
+    "score": {
+      "WSU": 66,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND DEF by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "04:30",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 66,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BASILE,GRANT",
+    "score": {
+      "WSU": 66,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND OFF by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 68,
+      "Oak": 69
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by TOWNSEND,TREY",
+    "score": {
+      "WSU": 68,
+      "Oak": 69
+    },
+    "raw_text": "FOUL TECH by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 68,
+      "Oak": 69
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HOLDEN,TANNER",
+    "score": {
+      "WSU": 69,
+      "Oak": 69
+    },
+    "raw_text": "GOOD FT by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PARRISH,MICAH",
+    "score": {
+      "WSU": 69,
+      "Oak": 72
+    },
+    "raw_text": "GOOD 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:31",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CALVIN,TREY(in the paint)",
+    "score": {
+      "WSU": 71,
+      "Oak": 72
+    },
+    "raw_text": "GOOD JUMPER by CALVIN,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:13",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "WSU": 71,
+      "Oak": 72
+    },
+    "raw_text": "MISS LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:13",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 71,
+      "Oak": 72
+    },
+    "raw_text": "BLOCK  by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "WSU": 71,
+      "Oak": 72
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:13",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "WSU": 71,
+      "Oak": 72
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:51",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "GOOD 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,KEATON",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "ASSIST  by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "02:18",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FINKE,TIM",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "REBOUND DEF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "01:58",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CALVIN,TREY",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "MISS 3PTR by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "01:57",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BASILE,GRANT",
+    "score": {
+      "WSU": 74,
+      "Oak": 72
+    },
+    "raw_text": "FOUL  by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "01:57",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "WSU": 74,
+      "Oak": 73
+    },
+    "raw_text": "GOOD FT by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "01:57",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "GOOD FT by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "01:32",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "TURNOVER  by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "01:32",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "01:11",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FINKE,TIM",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND DEF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "00:59",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "FOUL  by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "00:59",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HOLDEN,TANNER",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "TURNOVER  by HOLDEN,TANNER"
+  },
+  {
+    "period": 2,
+    "clock": "00:43",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by CAIN,JAMAL(in the paint)",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "MISS DUNK by CAIN,JAMAL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "FINKE,TIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by FINKE,TIM",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND DEF by FINKE,TIM"
+  },
+  {
+    "period": 2,
+    "clock": "00:28",
+    "team": "WSU",
+    "player": "NORRIS,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,KEATON",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "MISS 3PTR by NORRIS,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CALVIN,TREY",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND OFF by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:22",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:07",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CALVIN,TREY(in the paint)",
+    "score": {
+      "WSU": 74,
+      "Oak": 74
+    },
+    "raw_text": "MISS LAYUP by CALVIN,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BASILE,GRANT(in the paint)",
+    "score": {
+      "WSU": 76,
+      "Oak": 74
+    },
+    "raw_text": "GOOD LAYUP by BASILE,GRANT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "WSU",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "WSU": 76,
+      "Oak": 74
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "Oak",
+    "player": "CAIN,JAMAL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CAIN,JAMAL",
+    "score": {
+      "WSU": 76,
+      "Oak": 74
+    },
+    "raw_text": "TURNOVER  by CAIN,JAMAL"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CALVIN,TREY",
+    "score": {
+      "WSU": 76,
+      "Oak": 74
+    },
+    "raw_text": "STEAL  by CALVIN,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "BASILE,GRANT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BASILE,GRANT",
+    "score": {
+      "WSU": 76,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND OFF by BASILE,GRANT"
+  },
+  {
+    "period": 2,
+    "clock": "00:00",
+    "team": "WSU",
+    "player": "HOLDEN,TANNER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLDEN,TANNER(fastbreak)",
+    "score": {
+      "WSU": 78,
+      "Oak": 74
+    },
+    "raw_text": "GOOD JUMPER by HOLDEN,TANNER(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "WSU",
+    "player": "CALVIN,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CALVIN,TREY",
+    "score": {
+      "WSU": 78,
+      "Oak": 74
+    },
+    "raw_text": "ASSIST  by CALVIN,TREY"
+  }
+]

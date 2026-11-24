@@ -1,0 +1,7367 @@
+[
+  {
+    "period": 1,
+    "clock": "19:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "19:09",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "TURNOVER  by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "18:39",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATSON,DES",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "18:29",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WATSON,DES",
+    "score": {
+      "Loyola": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND OFF by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "18:25",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATSON,DES(in the paint)",
+    "score": {
+      "Loyola": 2,
+      "Oak": 0
+    },
+    "raw_text": "GOOD LAYUP by WATSON,DES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:03",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 2,
+      "Oak": 3
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "17:46",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 4,
+      "Oak": 3
+    },
+    "raw_text": "GOOD DUNK by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 4,
+      "Oak": 3
+    },
+    "raw_text": "ASSIST  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "17:22",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:13",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by QUINN,JALEN",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS JUMPER by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "16:48",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:48",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by RUBIN,MILES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "BLOCK  by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "16:38",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATSON,DES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS 3PTR by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND OFF by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:25",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATSON,DES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS 3PTR by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "15:46",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:46",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "15:46",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:46",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:46",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "SUB IN by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "15:38",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by QUINN,JALEN",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "TURNOVER  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:38",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "STEAL  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "15:17",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 4,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by EDWARDS JR.,SHELDON(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 6,
+      "Oak": 5
+    },
+    "raw_text": "GOOD LAYUP by EDWARDS JR.,SHELDON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "GOOD JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "14:14",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATSON,DES",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:12",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DELOACH,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND OFF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:51",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DELOACH,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:48",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "13:48",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:48",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "13:48",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "13:48",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "13:34",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:17",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATSON,DES",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATSON,DES",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:05",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by QUINN,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:56",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 6,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:31",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Loyola": 6,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:15",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "12:05",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB OUT by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATSON,DES",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 6,
+      "Oak": 12
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "11:48",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NWAOKORIE,FRANCIS(in the paint)",
+    "score": {
+      "Loyola": 8,
+      "Oak": 12
+    },
+    "raw_text": "GOOD LAYUP by NWAOKORIE,FRANCIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 8,
+      "Oak": 12
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:25",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 8,
+      "Oak": 12
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "11:06",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 8,
+      "Oak": 12
+    },
+    "raw_text": "TURNOVER  by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 8,
+      "Oak": 12
+    },
+    "raw_text": "STEAL  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:00",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)",
+    "score": {
+      "Loyola": 8,
+      "Oak": 15
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 8,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "10:44",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "GOOD 3PTR by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "FOUL  by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:29",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "09:51",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:51",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 11,
+      "Oak": 15
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "09:47",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 11,
+      "Oak": 17
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:27",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 11,
+      "Oak": 17
+    },
+    "raw_text": "MISS LAYUP by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by RUBIN,MILES",
+    "score": {
+      "Loyola": 11,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND OFF by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "09:23",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "GOOD DUNK by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:10",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "FOUL  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:10",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:10",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATSON,DES",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND DEF by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "08:41",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "MISS JUMPER by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 13,
+      "Oak": 19
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 13,
+      "Oak": 19
+    },
+    "raw_text": "FOUL  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 13,
+      "Oak": 19
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 13,
+      "Oak": 19
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN(fastbreak)",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:13",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by QUINN,JALEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "TURNOVER  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:13",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MAJAK,DENG",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "STEAL  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "07:45",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by QUINN,JALEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "REBOUND DEF by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:22",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:09",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Loyola": 13,
+      "Oak": 20
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "07:09",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by RUBIN,MILES",
+    "score": {
+      "Loyola": 14,
+      "Oak": 20
+    },
+    "raw_text": "GOOD FT by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "07:09",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by RUBIN,MILES",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "GOOD FT by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "06:52",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RUBIN,MILES",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "FOUL  by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "06:52",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "06:52",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "FOUL  by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 15,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 15,
+      "Oak": 21
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 15,
+      "Oak": 22
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DELOACH,JALEN",
+    "score": {
+      "Loyola": 15,
+      "Oak": 22
+    },
+    "raw_text": "TURNOVER  by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 15,
+      "Oak": 22
+    },
+    "raw_text": "SUB OUT by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 15,
+      "Oak": 22
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 15,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "05:20",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 17,
+      "Oak": 24
+    },
+    "raw_text": "GOOD DUNK by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by QUINN,JALEN",
+    "score": {
+      "Loyola": 17,
+      "Oak": 24
+    },
+    "raw_text": "ASSIST  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:59",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Loyola": 17,
+      "Oak": 24
+    },
+    "raw_text": "MISS JUMPER by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:59",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by QUINN,JALEN",
+    "score": {
+      "Loyola": 17,
+      "Oak": 24
+    },
+    "raw_text": "BLOCK  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by QUINN,JALEN",
+    "score": {
+      "Loyola": 17,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND DEF by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:46",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WATSON,DES",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "STEAL  by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by EDWARDS JR.,SHELDON(in the paint)",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "MISS LAYUP by EDWARDS JR.,SHELDON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND OFF by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:12",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by RUBIN,MILES",
+    "score": {
+      "Loyola": 20,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND OFF by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "04:09",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "GOOD LAYUP by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "03:47",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 22,
+      "Oak": 24
+    },
+    "raw_text": "FOUL  by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 22,
+      "Oak": 25
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 22,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 22,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "03:43",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "03:27",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATSON,DES",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "TURNOVER  by WATSON,DES"
+  },
+  {
+    "period": 1,
+    "clock": "03:27",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "STEAL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "03:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by QUINN,JALEN",
+    "score": {
+      "Loyola": 22,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:50",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 24,
+      "Oak": 26
+    },
+    "raw_text": "GOOD JUMPER by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:27",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 24,
+      "Oak": 26
+    },
+    "raw_text": "TURNOVER  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "02:13",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 24,
+      "Oak": 26
+    },
+    "raw_text": "MISS 3PTR by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by QUINN,JALEN",
+    "score": {
+      "Loyola": 24,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:08",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 27,
+      "Oak": 26
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 26
+    },
+    "raw_text": "ASSIST  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 27,
+      "Oak": 26
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Loyola": 27,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "01:15",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "TURNOVER  by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:15",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "01:15",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RUBIN,MILES",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "FOUL  by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)",
+    "score": {
+      "Loyola": 27,
+      "Oak": 29
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:13",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "MISS FT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:58",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "MISS FT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:31",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:06",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "MISS JUMPER by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "STEAL  by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "GLAZKOV,DANIIL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GLAZKOV,DANIIL",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by GLAZKOV,DANIIL"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB OUT by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:42",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 27,
+      "Oak": 33
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "19:42",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 28,
+      "Oak": 33
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:42",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 29,
+      "Oak": 33
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:33",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "Loyola": 29,
+      "Oak": 33
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:33",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 29,
+      "Oak": 33
+    },
+    "raw_text": "STEAL  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "19:29",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 31,
+      "Oak": 33
+    },
+    "raw_text": "GOOD LAYUP by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 31,
+      "Oak": 33
+    },
+    "raw_text": "ASSIST  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "19:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 31,
+      "Oak": 35
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "19:06",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 31,
+      "Oak": 35
+    },
+    "raw_text": "MISS LAYUP by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 31,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "19:00",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 31,
+      "Oak": 35
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 31,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "18:41",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "18:27",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATSON,DES",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "MISS 3PTR by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "18:14",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "18:02",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by QUINN,JALEN",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "MISS 3PTR by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "17:34",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Loyola": 31,
+      "Oak": 37
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS(fastbreak)",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATSON,DES",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB OUT by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "TURNER,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TURNER,JACK",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "SUB IN by TURNER,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NWAOKORIE,FRANCIS(fastbreak)",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "MISS FT by NWAOKORIE,FRANCIS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "17:08",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "17:02",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by QUINN,JALEN",
+    "score": {
+      "Loyola": 32,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:53",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 34,
+      "Oak": 37
+    },
+    "raw_text": "GOOD LAYUP by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:39",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 34,
+      "Oak": 37
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "16:39",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATSON,DES",
+    "score": {
+      "Loyola": 34,
+      "Oak": 37
+    },
+    "raw_text": "SUB IN by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "16:26",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 34,
+      "Oak": 37
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "16:26",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WATSON,DES",
+    "score": {
+      "Loyola": 34,
+      "Oak": 37
+    },
+    "raw_text": "STEAL  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "16:23",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATSON,DES(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 36,
+      "Oak": 37
+    },
+    "raw_text": "GOOD LAYUP by WATSON,DES(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Loyola": 36,
+      "Oak": 37
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:23",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WATSON,DES(fastbreak)",
+    "score": {
+      "Loyola": 36,
+      "Oak": 37
+    },
+    "raw_text": "MISS FT by WATSON,DES(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 36,
+      "Oak": 37
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 36,
+      "Oak": 40
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "Loyola",
+    "player": "TURNER,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TURNER,JACK",
+    "score": {
+      "Loyola": 36,
+      "Oak": 40
+    },
+    "raw_text": "MISS 3PTR by TURNER,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Loyola": 36,
+      "Oak": 40
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Loyola": 36,
+      "Oak": 40
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATSON,DES",
+    "score": {
+      "Loyola": 36,
+      "Oak": 40
+    },
+    "raw_text": "REBOUND DEF by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "15:24",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 39,
+      "Oak": 40
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATSON,DES",
+    "score": {
+      "Loyola": 39,
+      "Oak": 40
+    },
+    "raw_text": "ASSIST  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "15:02",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "TURNER,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TURNER,JACK",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB OUT by TURNER,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB IN by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "14:52",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 39,
+      "Oak": 43
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:42",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 41,
+      "Oak": 43
+    },
+    "raw_text": "GOOD DUNK by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATSON,DES",
+    "score": {
+      "Loyola": 41,
+      "Oak": 43
+    },
+    "raw_text": "ASSIST  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 41,
+      "Oak": 43
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Loyola": 41,
+      "Oak": 43
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:02",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 43,
+      "Oak": 43
+    },
+    "raw_text": "GOOD LAYUP by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 43,
+      "Oak": 43
+    },
+    "raw_text": "ASSIST  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "13:38",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:37",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:24",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATSON,DES(in the paint)",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "MISS LAYUP by WATSON,DES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RUBIN,MILES",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "FOUL  by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "12:50",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "FOUL  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "12:50",
+    "team": "Loyola",
+    "player": "HENDAWY,SEIFELDIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HENDAWY,SEIFELDIN",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB OUT by HENDAWY,SEIFELDIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:50",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATSON,DES",
+    "score": {
+      "Loyola": 43,
+      "Oak": 45
+    },
+    "raw_text": "FOUL  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 43,
+      "Oak": 46
+    },
+    "raw_text": "GOOD FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 43,
+      "Oak": 46
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 43,
+      "Oak": 46
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 43,
+      "Oak": 47
+    },
+    "raw_text": "GOOD FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WATSON,DES(in the paint)",
+    "score": {
+      "Loyola": 45,
+      "Oak": 47
+    },
+    "raw_text": "GOOD JUMPER by WATSON,DES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:51",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 45,
+      "Oak": 49
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:41",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATSON,DES",
+    "score": {
+      "Loyola": 45,
+      "Oak": 49
+    },
+    "raw_text": "TURNOVER  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "11:41",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 45,
+      "Oak": 49
+    },
+    "raw_text": "STEAL  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:37",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 45,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 48,
+      "Oak": 51
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATSON,DES",
+    "score": {
+      "Loyola": 48,
+      "Oak": 51
+    },
+    "raw_text": "ASSIST  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "10:56",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 48,
+      "Oak": 54
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 49,
+      "Oak": 54
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:37",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 50,
+      "Oak": 54
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:30",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATSON,DES",
+    "score": {
+      "Loyola": 50,
+      "Oak": 54
+    },
+    "raw_text": "FOUL  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 50,
+      "Oak": 56
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:42",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 53,
+      "Oak": 56
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATSON,DES",
+    "score": {
+      "Loyola": 53,
+      "Oak": 56
+    },
+    "raw_text": "ASSIST  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Loyola": 53,
+      "Oak": 58
+    },
+    "raw_text": "GOOD LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:01",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NWAOKORIE,FRANCIS(in the paint)",
+    "score": {
+      "Loyola": 55,
+      "Oak": 58
+    },
+    "raw_text": "GOOD DUNK by NWAOKORIE,FRANCIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by RUBIN,MILES",
+    "score": {
+      "Loyola": 55,
+      "Oak": 58
+    },
+    "raw_text": "ASSIST  by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "08:35",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "08:16",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by QUINN,JALEN",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "TURNOVER  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:16",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "MISS LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND DEF by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:50",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "07:20",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 55,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND DEF by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "GOOD JUMPER by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by QUINN,JALEN",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Loyola",
+    "player": "TURNER,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TURNER,JACK",
+    "score": {
+      "Loyola": 57,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by TURNER,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "06:49",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 57,
+      "Oak": 63
+    },
+    "raw_text": "GOOD DUNK by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 57,
+      "Oak": 63
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "06:30",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "GOOD JUMPER by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:06",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:06",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by RUBIN,MILES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "BLOCK  by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "06:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "05:56",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 59,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:35",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATSON,DES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS JUMPER by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "Loyola",
+    "player": "TURNER,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TURNER,JACK",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by TURNER,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by QUINN,JALEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:32",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DELOACH,JALEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:12",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:54",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DELOACH,JALEN(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS LAYUP by DELOACH,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DELOACH,JALEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND OFF by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:46",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by QUINN,JALEN(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS LAYUP by QUINN,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:46",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:36",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "04:31",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEF by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "FOUL  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUBIN,MILES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:21",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Loyola",
+    "player": "DELOACH,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DELOACH,JALEN",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB OUT by DELOACH,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUBIN,MILES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "SUB IN by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "03:46",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "03:46",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by RUBIN,MILES",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "MISS FT by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Loyola": 59,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:46",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by RUBIN,MILES",
+    "score": {
+      "Loyola": 60,
+      "Oak": 65
+    },
+    "raw_text": "GOOD FT by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "03:35",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 60,
+      "Oak": 65
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 60,
+      "Oak": 65
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "03:15",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "03:03",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATSON,DES(in the paint)",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "MISS LAYUP by WATSON,DES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 60,
+      "Oak": 68
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "02:32",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Loyola": 60,
+      "Oak": 70
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:26",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by EDWARDS JR.,SHELDON(fastbreak)",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "GOOD 3PTR by EDWARDS JR.,SHELDON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "WATSON,DES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATSON,DES",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "ASSIST  by WATSON,DES"
+  },
+  {
+    "period": 2,
+    "clock": "02:25",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:18",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:10",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "MISS 3PTR by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by RUBIN,MILES",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND OFF by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "02:06",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "MISS LAYUP by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:57",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:57",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 63,
+      "Oak": 70
+    },
+    "raw_text": "STEAL  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:54",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUINN,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "GOOD LAYUP by QUINN,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:37",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RUBIN,MILES",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND DEF by RUBIN,MILES"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Loyola": 65,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 66,
+      "Oak": 70
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "GOOD FT by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "FOUL  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:58",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:44",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,JAYLEN",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "MISS 3PTR by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:37",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:37",
+    "team": "Loyola",
+    "player": "EDWARDS JR.,SHELDON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by EDWARDS JR.,SHELDON",
+    "score": {
+      "Loyola": 67,
+      "Oak": 70
+    },
+    "raw_text": "STEAL  by EDWARDS JR.,SHELDON"
+  },
+  {
+    "period": 2,
+    "clock": "00:34",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by QUINN,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "GOOD LAYUP by QUINN,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Loyola",
+    "player": "QUINN,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by QUINN,JALEN",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "FOUL  by QUINN,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "00:30",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COLE,DQ(fastbreak)",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "MISS FT by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 69,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND DEF by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Loyola",
+    "player": "RUBIN,MILES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by RUBIN,MILES(in the paint)",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "GOOD DUNK by RUBIN,MILES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Loyola",
+    "player": "NWAOKORIE,FRANCIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NWAOKORIE,FRANCIS",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "ASSIST  by NWAOKORIE,FRANCIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Loyola",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:05",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Loyola": 71,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Loyola": 71,
+      "Oak": 72
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  }
+]

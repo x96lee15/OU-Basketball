@@ -1,0 +1,6512 @@
+[
+  {
+    "period": 1,
+    "clock": "19:35",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by STANLEY,O'MAR(in the paint)",
+    "score": {
+      "Oak": 0,
+      "Boise": 2
+    },
+    "raw_text": "GOOD DUNK by STANLEY,O'MAR(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 0,
+      "Boise": 2
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "19:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 0,
+      "Boise": 2
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MEADOW,ANDREW",
+    "score": {
+      "Oak": 0,
+      "Boise": 2
+    },
+    "raw_text": "REBOUND DEF by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "19:05",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 0,
+      "Boise": 5
+    },
+    "raw_text": "GOOD 3PTR by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 0,
+      "Boise": 5
+    },
+    "raw_text": "ASSIST  by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "18:40",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 0,
+      "Boise": 5
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 0,
+      "Boise": 5
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "18:32",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STANLEY,O'MAR",
+    "score": {
+      "Oak": 0,
+      "Boise": 8
+    },
+    "raw_text": "GOOD 3PTR by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 0,
+      "Boise": 8
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "18:09",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Oak": 0,
+      "Boise": 8
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "18:09",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 0,
+      "Boise": 8
+    },
+    "raw_text": "STEAL  by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "18:05",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MEADOW,ANDREW(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 0,
+      "Boise": 10
+    },
+    "raw_text": "GOOD LAYUP by MEADOW,ANDREW(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:45",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WOODRICH,JAYSON(in the paint)",
+    "score": {
+      "Oak": 2,
+      "Boise": 10
+    },
+    "raw_text": "GOOD JUMPER by WOODRICH,JAYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:35",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "GOOD 3PTR by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "17:15",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MEADOW,ANDREW",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "REBOUND DEF by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "16:55",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "MISS 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "16:55",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 2,
+      "Boise": 13
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "16:29",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 13
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:21",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 13
+    },
+    "raw_text": "MISS LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 4,
+      "Boise": 13
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "16:14",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 4,
+      "Boise": 13
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MEADOW,ANDREW",
+    "score": {
+      "Oak": 4,
+      "Boise": 13
+    },
+    "raw_text": "REBOUND DEF by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "15:58",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "GOOD JUMPER by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "ASSIST  by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "MISS LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "BLOCK  by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "SUB OUT by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "SUB IN by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:32",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "MISS LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "BLOCK  by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "REBOUND DEF by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:01",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by STANLEY,O'MAR(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "MISS LAYUP by STANLEY,O'MAR(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:00",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 4,
+      "Boise": 15
+    },
+    "raw_text": "REBOUND OFF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "14:51",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "GOOD LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "ASSIST  by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:46",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MEADOW,ANDREW",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "SUB OUT by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "14:46",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOWIE,JULIAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "SUB IN by BOWIE,JULIAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:46",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by DEGENHART,TYSON",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "MISS FT by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "14:28",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "REBOUND DEF by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "TURNOVER  by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 4,
+      "Boise": 17
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 17
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:51",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "GOOD LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:16",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "MISS LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:16",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "BLOCK  by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "13:00",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CARDENAS,ALVARO(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "MISS JUMPER by CARDENAS,ALVARO(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:52",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRAGGS,COOPER(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "MISS LAYUP by CRAGGS,COOPER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 6,
+      "Boise": 19
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "12:44",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CARDENAS,ALVARO(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Boise": 21
+    },
+    "raw_text": "GOOD JUMPER by CARDENAS,ALVARO(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:22",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "GOOD JUMPER by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:14",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BOWIE,JULIAN",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "TURNOVER  by BOWIE,JULIAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:14",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "12:07",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WOODRICH,JAYSON(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS LAYUP by WOODRICH,JAYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND OFF by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB OUT by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB IN by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB OUT by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB IN by LOCKETT,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:54",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "11:54",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:54",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "11:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "11:32",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DEGENHART,TYSON",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND OFF by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "11:28",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS 3PTR by LOCKETT,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND OFF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "11:11",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BUCHANAN,JAVAN(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS LAYUP by BUCHANAN,JAVAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "10:43",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEGENHART,TYSON",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND DEF by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS JUMPER by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "09:48",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CRAGGS,COOPER(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "MISS JUMPER by CRAGGS,COOPER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEGENHART,TYSON",
+    "score": {
+      "Oak": 8,
+      "Boise": 21
+    },
+    "raw_text": "REBOUND DEF by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "09:40",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DEGENHART,TYSON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Boise": 23
+    },
+    "raw_text": "GOOD LAYUP by DEGENHART,TYSON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:22",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 11,
+      "Boise": 23
+    },
+    "raw_text": "GOOD 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "Oak": 11,
+      "Boise": 23
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 11,
+      "Boise": 23
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "GOOD FT by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BOWIE,JULIAN",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB OUT by BOWIE,JULIAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEGENHART,TYSON",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB OUT by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB OUT by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STANLEY,O'MAR",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB IN by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB IN by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB IN by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 11,
+      "Boise": 24
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "09:09",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 11,
+      "Boise": 25
+    },
+    "raw_text": "GOOD FT by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:53",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 11,
+      "Boise": 25
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 11,
+      "Boise": 25
+    },
+    "raw_text": "REBOUND DEF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:40",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "GOOD JUMPER by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "07:55",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by UGBO,EMMANUEL(in the paint)",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "MISS LAYUP by UGBO,EMMANUEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:55",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "FOUL  by LOCKETT,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB OUT by UGBO,EMMANUEL"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KEENE,RJ",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB IN by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB OUT by LOCKETT,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MEADOW,ANDREW",
+    "score": {
+      "Oak": 11,
+      "Boise": 27
+    },
+    "raw_text": "SUB IN by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 12,
+      "Boise": 27
+    },
+    "raw_text": "GOOD FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 13,
+      "Boise": 27
+    },
+    "raw_text": "GOOD FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "GOOD FT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "MISS 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "REBOUND OFF by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:20",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ANDERSON,DYLAN(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "MISS JUMPER by ANDERSON,DYLAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "06:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "REBOUND DEF by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "06:47",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:33",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:33",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:33",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 14,
+      "Boise": 27
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "06:27",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by STANLEY,O'MAR(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Boise": 29
+    },
+    "raw_text": "GOOD DUNK by STANLEY,O'MAR(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 14,
+      "Boise": 29
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "06:15",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 14,
+      "Boise": 29
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "06:02",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "GOOD 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "ASSIST  by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "05:37",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "FOUL  by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 14,
+      "Boise": 32
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "05:26",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "GOOD JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:11",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "MISS JUMPER by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "05:11",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by COLE,DQ",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "BLOCK  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "05:04",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 16,
+      "Boise": 32
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "04:50",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ANDERSON,DYLAN(in the paint)",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "GOOD LAYUP by ANDERSON,DYLAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:27",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WOODRICH,JAYSON(in the paint)",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "MISS JUMPER by WOODRICH,JAYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MEADOW,ANDREW",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "REBOUND DEF by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MEADOW,ANDREW",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "MISS JUMPER by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 16,
+      "Boise": 34
+    },
+    "raw_text": "FOUL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 16,
+      "Boise": 35
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "SUB OUT by ANDERSON,DYLAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEGENHART,TYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "SUB IN by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "04:02",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "MISS 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 16,
+      "Boise": 36
+    },
+    "raw_text": "REBOUND OFF by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "03:06",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by STANLEY,O'MAR(in the paint)",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "GOOD LAYUP by STANLEY,O'MAR(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "02:46",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "MISS JUMPER by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEGENHART,TYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "REBOUND DEF by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "02:38",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "MISS LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DEGENHART,TYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "REBOUND OFF by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "02:34",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DEGENHART,TYSON",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "MISS JUMPER by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "02:34",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MAJAK,DENG",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "BLOCK  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:33",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 16,
+      "Boise": 38
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:18",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 18,
+      "Boise": 38
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:07",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 18,
+      "Boise": 41
+    },
+    "raw_text": "GOOD 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 18,
+      "Boise": 41
+    },
+    "raw_text": "ASSIST  by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "01:42",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 18,
+      "Boise": 41
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 18,
+      "Boise": 41
+    },
+    "raw_text": "REBOUND DEF by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "01:29",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DEGENHART,TYSON",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "GOOD JUMPER by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 1,
+    "clock": "01:00",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WOODRICH,JAYSON(in the paint)",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "MISS LAYUP by WOODRICH,JAYSON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "REBOUND OFF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "00:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MAJAK,DENG",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "TURNOVER  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "STEAL  by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "SUB OUT by STANLEY,O'MAR"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "SUB IN by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MAJAK,DENG",
+    "score": {
+      "Oak": 18,
+      "Boise": 43
+    },
+    "raw_text": "REBOUND OFF by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MEADOW,ANDREW",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "GOOD 3PTR by MEADOW,ANDREW"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "ASSIST  by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:12",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DEGENHART,TYSON",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "FOUL  by DEGENHART,TYSON"
+  },
+  {
+    "period": 1,
+    "clock": "00:12",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:12",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 1,
+    "clock": "00:12",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:12",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KEENE,RJ",
+    "score": {
+      "Oak": 18,
+      "Boise": 46
+    },
+    "raw_text": "REBOUND DEF by KEENE,RJ"
+  },
+  {
+    "period": 1,
+    "clock": "00:02",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BUCHANAN,JAVAN(in the paint)",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "GOOD LAYUP by BUCHANAN,JAVAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KEENE,RJ",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB OUT by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB OUT by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STANLEY,O'MAR",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB IN by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB IN by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 18,
+      "Boise": 48
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "19:45",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "19:25",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DEGENHART,TYSON",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "MISS 3PTR by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "18:59",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "REBOUND DEF by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "18:53",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "TURNOVER  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 2,
+    "clock": "18:53",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 20,
+      "Boise": 48
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "18:48",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WOODRICH,JAYSON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 22,
+      "Boise": 48
+    },
+    "raw_text": "GOOD LAYUP by WOODRICH,JAYSON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:39",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CARDENAS,ALVARO(in the paint)",
+    "score": {
+      "Oak": 22,
+      "Boise": 50
+    },
+    "raw_text": "GOOD LAYUP by CARDENAS,ALVARO(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:17",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,JAYLEN",
+    "score": {
+      "Oak": 22,
+      "Boise": 50
+    },
+    "raw_text": "MISS JUMPER by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 22,
+      "Boise": 50
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "18:09",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Boise": 50
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:54",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STANLEY,O'MAR",
+    "score": {
+      "Oak": 24,
+      "Boise": 53
+    },
+    "raw_text": "GOOD 3PTR by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 24,
+      "Boise": 53
+    },
+    "raw_text": "ASSIST  by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "17:31",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "17:15",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 27,
+      "Boise": 53
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "17:15",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 27,
+      "Boise": 54
+    },
+    "raw_text": "GOOD FT by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "17:15",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 27,
+      "Boise": 54
+    },
+    "raw_text": "MISS FT by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 27,
+      "Boise": 54
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "16:57",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 27,
+      "Boise": 54
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MEADOW,ANDREW",
+    "score": {
+      "Oak": 27,
+      "Boise": 54
+    },
+    "raw_text": "REBOUND DEF by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CARDENAS,ALVARO(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "GOOD LAYUP by CARDENAS,ALVARO(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:27",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "REBOUND DEF by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:16",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "MISS LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:16",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "16:07",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "TURNOVER  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "16:07",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 27,
+      "Boise": 56
+    },
+    "raw_text": "STEAL  by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "16:03",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by MEADOW,ANDREW(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "GOOD DUNK by MEADOW,ANDREW(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "SUB OUT by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 27,
+      "Boise": 58
+    },
+    "raw_text": "SUB IN by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "15:22",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by STANLEY,O'MAR(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "GOOD DUNK by STANLEY,O'MAR(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DEGENHART,TYSON",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "ASSIST  by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "14:51",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "14:51",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "BLOCK  by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "14:39",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "MISS 3PTR by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 27,
+      "Boise": 60
+    },
+    "raw_text": "REBOUND DEF by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "14:09",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 29,
+      "Boise": 60
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "14:03",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DEGENHART,TYSON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "GOOD LAYUP by DEGENHART,TYSON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 2,
+    "clock": "13:39",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB OUT by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MEADOW,ANDREW",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB OUT by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KEENE,RJ",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB IN by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB IN by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "13:26",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 29,
+      "Boise": 62
+    },
+    "raw_text": "REBOUND OFF by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 32,
+      "Boise": 62
+    },
+    "raw_text": "GOOD 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 32,
+      "Boise": 62
+    },
+    "raw_text": "ASSIST  by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DEGENHART,TYSON(in the paint)",
+    "score": {
+      "Oak": 32,
+      "Boise": 64
+    },
+    "raw_text": "GOOD LAYUP by DEGENHART,TYSON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 32,
+      "Boise": 64
+    },
+    "raw_text": "ASSIST  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "Oak": 32,
+      "Boise": 64
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by DEGENHART,TYSON",
+    "score": {
+      "Oak": 32,
+      "Boise": 65
+    },
+    "raw_text": "GOOD FT by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "12:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "Boise": 65
+    },
+    "raw_text": "GOOD JUMPER by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "12:36",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CARDENAS,ALVARO(in the paint)",
+    "score": {
+      "Oak": 34,
+      "Boise": 65
+    },
+    "raw_text": "MISS LAYUP by CARDENAS,ALVARO(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by KEENE,RJ",
+    "score": {
+      "Oak": 34,
+      "Boise": 65
+    },
+    "raw_text": "REBOUND OFF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by UGBO,EMMANUEL(in the paint)",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "GOOD LAYUP by UGBO,EMMANUEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "FOUL  by CARDENAS,ALVARO"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Boise",
+    "player": "CARDENAS,ALVARO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CARDENAS,ALVARO",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "SUB OUT by CARDENAS,ALVARO"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOWIE,JULIAN",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "SUB IN by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MAJAK,DENG",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "MISS FT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 34,
+      "Boise": 67
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:59",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MAJAK,DENG",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "GOOD FT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "11:39",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "11:25",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "FOUL  by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DEGENHART,TYSON",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "MISS 3PTR by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KEENE,RJ",
+    "score": {
+      "Oak": 35,
+      "Boise": 67
+    },
+    "raw_text": "REBOUND DEF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "11:01",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BUCHANAN,JAVAN(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 35,
+      "Boise": 69
+    },
+    "raw_text": "GOOD LAYUP by BUCHANAN,JAVAN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 35,
+      "Boise": 69
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "Oak": 37,
+      "Boise": 69
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:18",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 37,
+      "Boise": 69
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "10:18",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "Oak": 37,
+      "Boise": 69
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "10:18",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 37,
+      "Boise": 69
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:12",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "GOOD 3PTR by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DEGENHART,TYSON",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "ASSIST  by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:49",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "REBOUND DEF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "09:40",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DEGENHART,TYSON",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "TURNOVER  by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:40",
+    "team": "Boise",
+    "player": "DEGENHART,TYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEGENHART,TYSON",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "SUB OUT by DEGENHART,TYSON"
+  },
+  {
+    "period": 2,
+    "clock": "09:40",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "SUB IN by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:23",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWIE,JULIAN",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "REBOUND DEF by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:07",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "TURNOVER  by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:07",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "MISS JUMPER by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 37,
+      "Boise": 72
+    },
+    "raw_text": "REBOUND DEF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "08:33",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ANDERSON,DYLAN(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "GOOD DUNK by ANDERSON,DYLAN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KEENE,RJ",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "ASSIST  by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "08:08",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "07:59",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "07:55",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "REBOUND DEF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "07:46",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "MISS 3PTR by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by KEENE,RJ",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "REBOUND OFF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB OUT by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB OUT by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STANLEY,O'MAR",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB IN by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MEADOW,ANDREW",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB IN by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB OUT by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 37,
+      "Boise": 74
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 37,
+      "Boise": 75
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 37,
+      "Boise": 76
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "07:15",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 39,
+      "Boise": 76
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:56",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 39,
+      "Boise": 76
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "06:56",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 39,
+      "Boise": 77
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "06:56",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KEENE,RJ",
+    "score": {
+      "Oak": 39,
+      "Boise": 78
+    },
+    "raw_text": "GOOD FT by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "06:37",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 39,
+      "Boise": 78
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWIE,JULIAN",
+    "score": {
+      "Oak": 39,
+      "Boise": 78
+    },
+    "raw_text": "REBOUND DEF by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:23",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOWIE,JULIAN",
+    "score": {
+      "Oak": 39,
+      "Boise": 78
+    },
+    "raw_text": "MISS 3PTR by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 39,
+      "Boise": 78
+    },
+    "raw_text": "REBOUND DEF by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "06:05",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:51",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "TURNOVER  by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "05:51",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "STEAL  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STANLEY,O'MAR",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "FOUL  by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WOODRICH,JAYSON(fastbreak)",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "MISS FT by WOODRICH,JAYSON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "BANKS,ZAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BANKS,ZAVIER",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "SUB IN by BANKS,ZAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WOODRICH,JAYSON(fastbreak)",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "MISS FT by WOODRICH,JAYSON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANLEY,O'MAR",
+    "score": {
+      "Oak": 41,
+      "Boise": 78
+    },
+    "raw_text": "REBOUND DEF by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MEADOW,ANDREW(in the paint)",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "GOOD LAYUP by MEADOW,ANDREW(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "ASSIST  by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MEADOW,ANDREW",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "FOUL  by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "Boise",
+    "player": "STANLEY,O'MAR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STANLEY,O'MAR",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "SUB OUT by STANLEY,O'MAR"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "Boise",
+    "player": "MEADOW,ANDREW",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MEADOW,ANDREW",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "SUB OUT by MEADOW,ANDREW"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "SUB IN by LOCKETT,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "SUB IN by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:06",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "05:06",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "BLOCK  by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:04",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 41,
+      "Boise": 80
+    },
+    "raw_text": "FOUL  by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:57",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 43,
+      "Boise": 80
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:40",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 43,
+      "Boise": 80
+    },
+    "raw_text": "MISS 3PTR by LOCKETT,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 43,
+      "Boise": 80
+    },
+    "raw_text": "REBOUND OFF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "04:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "Oak": 43,
+      "Boise": 80
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "04:29",
+    "team": "Oak",
+    "player": "BEMBRY,JEREMIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEMBRY,JEREMIAH",
+    "score": {
+      "Oak": 43,
+      "Boise": 80
+    },
+    "raw_text": "SUB IN by BEMBRY,JEREMIAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:25",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by ANDERSON,DYLAN(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "GOOD JUMPER by ANDERSON,DYLAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:06",
+    "team": "Oak",
+    "player": "BEMBRY,JEREMIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BEMBRY,JEREMIAH",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "MISS 3PTR by BEMBRY,JEREMIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BOWIE,JULIAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "REBOUND DEF by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "TURNOVER  by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Boise",
+    "player": "ANDERSON,DYLAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ANDERSON,DYLAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB OUT by ANDERSON,DYLAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB IN by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB IN by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "03:30",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CHRISTIE,MALCOLM(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "MISS LAYUP by CHRISTIE,MALCOLM(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KEENE,RJ",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "REBOUND DEF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "03:16",
+    "team": "Oak",
+    "player": "BEMBRY,JEREMIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BEMBRY,JEREMIAH",
+    "score": {
+      "Oak": 43,
+      "Boise": 82
+    },
+    "raw_text": "FOUL  by BEMBRY,JEREMIAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:16",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 83
+    },
+    "raw_text": "GOOD FT by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:16",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "GOOD FT by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:51",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KEENE,RJ",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "REBOUND DEF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by UGBO,EMMANUEL(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "MISS JUMPER by UGBO,EMMANUEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "REBOUND OFF by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:20",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by KEENE,RJ(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "MISS LAYUP by KEENE,RJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "REBOUND OFF by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "02:17",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by UGBO,EMMANUEL(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "MISS TIPIN by UGBO,EMMANUEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 43,
+      "Boise": 84
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:12",
+    "team": "Boise",
+    "player": "LOCKETT,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LOCKETT,CHRIS",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "GOOD 3PTR by LOCKETT,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "ASSIST  by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:51",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND DEF by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:39",
+    "team": "Boise",
+    "player": "BOWIE,JULIAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOWIE,JULIAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS 3PTR by BOWIE,JULIAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MAJAK,DENG",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND DEF by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "01:30",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "01:30",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:14",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS 3PTR by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:10",
+    "team": "Boise",
+    "player": "UGBO,EMMANUEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by UGBO,EMMANUEL",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "FOUL  by UGBO,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:08",
+    "team": "Oak",
+    "player": "BANKS,ZAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BANKS,ZAVIER(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS JUMPER by BANKS,ZAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KEENE,RJ",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND DEF by KEENE,RJ"
+  },
+  {
+    "period": 2,
+    "clock": "00:46",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS JUMPER by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,JAYLEN(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "MISS LAYUP by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "Boise",
+    "player": "BUCHANAN,JAVAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BUCHANAN,JAVAN",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "FOUL  by BUCHANAN,JAVAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:28",
+    "team": "Oak",
+    "player": "CHRISTIE,MALCOLM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CHRISTIE,MALCOLM",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "TURNOVER  by CHRISTIE,MALCOLM"
+  },
+  {
+    "period": 2,
+    "clock": "00:28",
+    "team": "Boise",
+    "player": "KEENE,RJ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by KEENE,RJ",
+    "score": {
+      "Oak": 43,
+      "Boise": 87
+    },
+    "raw_text": "STEAL  by KEENE,RJ"
+  }
+]

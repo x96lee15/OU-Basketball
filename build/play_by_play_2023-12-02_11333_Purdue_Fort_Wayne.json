@@ -1,0 +1,6827 @@
+[
+  {
+    "period": 1,
+    "clock": "19:41",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "GOOD 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "19:22",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "19:22",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "BLOCK  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "STEAL  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "19:03",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "18:39",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "18:14",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by ROBERTS,ANTHONY(in the paint)",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "MISS LAYUP by ROBERTS,ANTHONY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND OFF by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "18:12",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "TURNOVER  by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "17:52",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 3,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "17:41",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BELLO,RASHEED(in the paint)",
+    "score": {
+      "Pur-FW": 5,
+      "Oak": 2
+    },
+    "raw_text": "GOOD JUMPER by BELLO,RASHEED(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 5,
+      "Oak": 2
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 5,
+      "Oak": 2
+    },
+    "raw_text": "REBOUND DEF by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:13",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "17:00",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "17:00",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "17:00",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "17:00",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 7,
+      "Oak": 2
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "16:47",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 2
+    },
+    "raw_text": "GOOD 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 2
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "16:23",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 4
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 4
+    },
+    "raw_text": "MISS 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND OFF by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 10,
+      "Oak": 4
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "GOOD FT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 11,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 12,
+      "Oak": 4
+    },
+    "raw_text": "GOOD FT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "15:49",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 12,
+      "Oak": 4
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 12,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND DEF by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "15:42",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HUNTER,TONE",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "MISS 3PTR by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COLE,DQ",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND OFF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "15:28",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "REBOUND DEF by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HUNTER,TONE",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "FOUL  by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:26",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 14,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "GOOD 3PTR by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "FOUL  by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 4
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 6
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 6
+    },
+    "raw_text": "FOUL  by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 6
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 6
+    },
+    "raw_text": "SUB IN by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 17,
+      "Oak": 7
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:30",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,JALEN(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "13:59",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by ROBERTS,ANTHONY(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "MISS LAYUP by ROBERTS,ANTHONY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:50",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HUNTER,TONE",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "TURNOVER  by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "13:50",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "13:50",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "13:34",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "TURNOVER  by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:34",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "STEAL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "13:18",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:09",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "TURNOVER  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "13:09",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "STEAL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "13:06",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by WHITAKER,DESTIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:48",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BELLO,RASHEED(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by BELLO,RASHEED(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "12:29",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GOHLKE,JACK(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "MISS JUMPER by GOHLKE,JACK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:24",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Pur-FW": 19,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:54",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 9
+    },
+    "raw_text": "GOOD 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "11:31",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 11
+    },
+    "raw_text": "GOOD LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 22,
+      "Oak": 11
+    },
+    "raw_text": "ASSIST  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 11
+    },
+    "raw_text": "GOOD 3PTR by WHITAKER,DESTIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 11
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "10:43",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "TURNOVER  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by WHITAKER,DESTIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB OUT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 13
+    },
+    "raw_text": "SUB IN by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "10:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 15
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:54",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 15
+    },
+    "raw_text": "MISS JUMPER by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "09:38",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 15
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 25,
+      "Oak": 15
+    },
+    "raw_text": "REBOUND DEF by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "09:30",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "GOOD 3PTR by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:48",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "TURNOVER  by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:48",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 15
+    },
+    "raw_text": "STEAL  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "08:30",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:10",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "MISS 3PTR by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "FOUL  by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COLE,DQ(fastbreak)",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "MISS FT by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "08:02",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ(fastbreak)",
+    "score": {
+      "Pur-FW": 28,
+      "Oak": 18
+    },
+    "raw_text": "GOOD FT by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "07:49",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 18
+    },
+    "raw_text": "GOOD 3PTR by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 18
+    },
+    "raw_text": "ASSIST  by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "ASSIST  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "FOUL  by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 20
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:19",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:50",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HADNOT II,COREY(in the paint)",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "MISS JUMPER by HADNOT II,COREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:48",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "SUB OUT by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "06:48",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "SUB IN by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "06:24",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:20",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Pur-FW": 31,
+      "Oak": 23
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:06",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ROBERTS,ANTHONY(in the paint)",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "GOOD LAYUP by ROBERTS,ANTHONY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "ASSIST  by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "05:35",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "MISS 3PTR by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "05:10",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "FOUL  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "TURNOVER  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "04:36",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "FOUL  by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:36",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:36",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 25
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:29",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 27
+    },
+    "raw_text": "GOOD DUNK by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Pur-FW": 33,
+      "Oak": 27
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:08",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 35,
+      "Oak": 27
+    },
+    "raw_text": "GOOD JUMPER by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "03:46",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 35,
+      "Oak": 29
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 35,
+      "Oak": 29
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:24",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "GOOD 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "ASSIST  by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "FOUL  by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 29
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 30
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 31
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 31
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 38,
+      "Oak": 31
+    },
+    "raw_text": "SUB IN by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "02:48",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HADNOT II,COREY(in the paint)",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 31
+    },
+    "raw_text": "GOOD LAYUP by HADNOT II,COREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:36",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 33
+    },
+    "raw_text": "GOOD DUNK by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 33
+    },
+    "raw_text": "ASSIST  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 33
+    },
+    "raw_text": "MISS 3PTR by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 33
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 33
+    },
+    "raw_text": "FOUL  by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 34
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 34
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 34
+    },
+    "raw_text": "SUB IN by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 40,
+      "Oak": 35
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:46",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "GOOD 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "ASSIST  by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:24",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:24",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:10",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "MISS 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 38
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 38
+    },
+    "raw_text": "ASSIST  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:51",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 38
+    },
+    "raw_text": "FOUL  by HADNOT II,COREY"
+  },
+  {
+    "period": 1,
+    "clock": "00:51",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "GOOD FT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:51",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "MISS FT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "REBOUND DEF by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "FOUL  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "TURNOVER  by BELLO,RASHEED"
+  },
+  {
+    "period": 1,
+    "clock": "00:34",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WATTS,ROCKET(in the paint)",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "MISS JUMPER by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Pur-FW": 43,
+      "Oak": 39
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:06",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "GOOD 3PTR by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "SUB OUT by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "SUB IN by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "19:49",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "19:49",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 46,
+      "Oak": 39
+    },
+    "raw_text": "STEAL  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "19:45",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ROBERTS,ANTHONY(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 48,
+      "Oak": 39
+    },
+    "raw_text": "GOOD DUNK by ROBERTS,ANTHONY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 48,
+      "Oak": 39
+    },
+    "raw_text": "ASSIST  by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "19:31",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 48,
+      "Oak": 39
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "19:31",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 48,
+      "Oak": 39
+    },
+    "raw_text": "STEAL  by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "19:25",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 39
+    },
+    "raw_text": "GOOD 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 39
+    },
+    "raw_text": "ASSIST  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "18:59",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:57",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:57",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:57",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "18:57",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "18:43",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "TURNOVER  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "18:43",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 42
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "18:39",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 51,
+      "Oak": 44
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:29",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ROBERTS,ANTHONY(in the paint)",
+    "score": {
+      "Pur-FW": 53,
+      "Oak": 44
+    },
+    "raw_text": "GOOD DUNK by ROBERTS,ANTHONY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 53,
+      "Oak": 44
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "18:12",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 53,
+      "Oak": 47
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 53,
+      "Oak": 47
+    },
+    "raw_text": "ASSIST  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MULDER,ERIC(in the paint)",
+    "score": {
+      "Pur-FW": 55,
+      "Oak": 47
+    },
+    "raw_text": "GOOD LAYUP by MULDER,ERIC(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 55,
+      "Oak": 47
+    },
+    "raw_text": "ASSIST  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:25",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 55,
+      "Oak": 47
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 55,
+      "Oak": 47
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "17:14",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "GOOD 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "ASSIST  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "16:56",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "FOUL  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "16:56",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:56",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "16:56",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:56",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "16:47",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 58,
+      "Oak": 47
+    },
+    "raw_text": "REBOUND DEF by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "16:33",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by DEJURNETT,JOHNATHAN(in the paint)",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 47
+    },
+    "raw_text": "GOOD DUNK by DEJURNETT,JOHNATHAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 47
+    },
+    "raw_text": "ASSIST  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "16:14",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GOHLKE,JACK(in the paint)",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "GOOD LAYUP by GOHLKE,JACK(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:01",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "MISS 3PTR by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "FOUL  by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB OUT by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:59",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:41",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "REBOUND DEF by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "15:08",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "15:08",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "15:08",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:08",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 60,
+      "Oak": 49
+    },
+    "raw_text": "SUB IN by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "GOOD 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "ASSIST  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:43",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "REBOUND DEF by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:29",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "TURNOVER  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "14:29",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "14:29",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 49
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "14:11",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 63,
+      "Oak": 51
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:58",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HADNOT II,COREY(in the paint)",
+    "score": {
+      "Pur-FW": 65,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by HADNOT II,COREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:44",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Pur-FW": 65,
+      "Oak": 51
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "13:44",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 65,
+      "Oak": 51
+    },
+    "raw_text": "STEAL  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "13:40",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ROBERTS,ANTHONY(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 67,
+      "Oak": 51
+    },
+    "raw_text": "GOOD LAYUP by ROBERTS,ANTHONY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 67,
+      "Oak": 51
+    },
+    "raw_text": "MISS 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 67,
+      "Oak": 51
+    },
+    "raw_text": "REBOUND DEF by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:10",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,JALEN(in the paint)",
+    "score": {
+      "Pur-FW": 69,
+      "Oak": 51
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 69,
+      "Oak": 51
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 69,
+      "Oak": 51
+    },
+    "raw_text": "REBOUND DEF by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:30",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "GOOD 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "ASSIST  by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB OUT by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB IN by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:26",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 51
+    },
+    "raw_text": "SUB IN by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "12:10",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "ASSIST  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "11:57",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:57",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "BLOCK  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 72,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEF by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "11:35",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BELLO,RASHEED(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "GOOD LAYUP by BELLO,RASHEED(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "10:51",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:47",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:43",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:43",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:38",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 74,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "10:26",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "GOOD 3PTR by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "ASSIST  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 77,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "09:44",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 80,
+      "Oak": 53
+    },
+    "raw_text": "GOOD 3PTR by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 80,
+      "Oak": 53
+    },
+    "raw_text": "ASSIST  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:20",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 80,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by JACKSON,JALEN(in the paint)",
+    "score": {
+      "Pur-FW": 82,
+      "Oak": 53
+    },
+    "raw_text": "GOOD DUNK by JACKSON,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 82,
+      "Oak": 53
+    },
+    "raw_text": "ASSIST  by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Pur-FW": 82,
+      "Oak": 53
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:49",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 82,
+      "Oak": 53
+    },
+    "raw_text": "BLOCK  by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 82,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,JALEN(in the paint)",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Pur-FW": 84,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 53
+    },
+    "raw_text": "GOOD FT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "08:41",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "08:24",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 53
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COLE,DQ",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND OFF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:20",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "GOOD LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:56",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "TURNOVER  by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "07:56",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COLE,DQ",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "STEAL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "MISS LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NELSON,MAXIMUS(in the paint)",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "MISS LAYUP by NELSON,MAXIMUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "BLOCK  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 55
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:39",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 57
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Pur-FW": 85,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,JALEN(in the paint)",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:01",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLK,AUNDRE",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "SUB IN by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "07:00",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "MISS FT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 57
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "GOOD LAYUP by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:28",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "TURNOVER  by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "06:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "06:01",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:57",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "05:57",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "05:57",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROGERS,MICHAEL",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by ROGERS,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:52",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "05:52",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "05:52",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "05:52",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "05:40",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MULDER,ERIC(in the paint)",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "MISS LAYUP by MULDER,ERIC(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "05:19",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "05:14",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:01",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by ROGERS,MICHAEL(in the paint)",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "MISS LAYUP by ROGERS,MICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 87,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "04:55",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ROBERTS,ANTHONY(fastbreak)(in the paint)",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "GOOD DUNK by ROBERTS,ANTHONY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "ASSIST  by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:41",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by POLK,AUNDRE",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND OFF by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "BELLO,RASHEED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BELLO,RASHEED",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by BELLO,RASHEED"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "MULDER,ERIC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MULDER,ERIC",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by MULDER,ERIC"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 60
+    },
+    "raw_text": "GOOD FT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Pur-FW",
+    "player": "NELSON,MAXIMUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NELSON,MAXIMUS",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 60
+    },
+    "raw_text": "SUB OUT by NELSON,MAXIMUS"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 60
+    },
+    "raw_text": "SUB IN by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ",
+    "score": {
+      "Pur-FW": 89,
+      "Oak": 61
+    },
+    "raw_text": "GOOD FT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "04:11",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by ROBERTS,ANTHONY(in the paint)",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 61
+    },
+    "raw_text": "GOOD DUNK by ROBERTS,ANTHONY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 61
+    },
+    "raw_text": "ASSIST  by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "03:58",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ROGERS,MICHAEL",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "ASSIST  by ROGERS,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "03:36",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:36",
+    "team": "Pur-FW",
+    "player": "MORTON-ROBERTSON,QUI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON-ROBERTSON,QUI",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "SUB OUT by MORTON-ROBERTSON,QUI"
+  },
+  {
+    "period": 2,
+    "clock": "03:36",
+    "team": "Pur-FW",
+    "player": "ROBERTS,ANTHONY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ROBERTS,ANTHONY",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "SUB OUT by ROBERTS,ANTHONY"
+  },
+  {
+    "period": 2,
+    "clock": "03:36",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "SUB IN by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "03:36",
+    "team": "Pur-FW",
+    "player": "THURMON,KHOI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by THURMON,KHOI",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "SUB IN by THURMON,KHOI"
+  },
+  {
+    "period": 2,
+    "clock": "03:22",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:12",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by ROGERS,MICHAEL(in the paint)",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "MISS LAYUP by ROGERS,MICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "REBOUND DEF by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by POLK,AUNDRE",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "FOUL  by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "02:54",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HADNOT II,COREY",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "MISS JUMPER by HADNOT II,COREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 64
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "02:46",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 66
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "Pur-FW": 91,
+      "Oak": 66
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "02:29",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 66
+    },
+    "raw_text": "GOOD 3PTR by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 66
+    },
+    "raw_text": "ASSIST  by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 66
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 66
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "02:23",
+    "team": "Oak",
+    "player": "SOLOMON,EVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SOLOMON,EVAN",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 66
+    },
+    "raw_text": "SUB IN by SOLOMON,EVAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:14",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ROGERS,MICHAEL(in the paint)",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 68
+    },
+    "raw_text": "GOOD LAYUP by ROGERS,MICHAEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:14",
+    "team": "Pur-FW",
+    "player": "THURMON,KHOI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by THURMON,KHOI",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by THURMON,KHOI"
+  },
+  {
+    "period": 2,
+    "clock": "02:13",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by ROGERS,MICHAEL",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 68
+    },
+    "raw_text": "MISS FT by ROGERS,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 68
+    },
+    "raw_text": "REBOUND DEF by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by POLK,AUNDRE",
+    "score": {
+      "Pur-FW": 94,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 95,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Pur-FW",
+    "player": "JACKSON,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,JALEN",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by JACKSON,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:56",
+    "team": "Pur-FW",
+    "player": "DUKES,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUKES,KEATON",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by DUKES,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "01:46",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:46",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ROGERS,MICHAEL",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 69
+    },
+    "raw_text": "GOOD FT by ROGERS,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:46",
+    "team": "Oak",
+    "player": "ROGERS,MICHAEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ROGERS,MICHAEL",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 70
+    },
+    "raw_text": "GOOD FT by ROGERS,MICHAEL"
+  },
+  {
+    "period": 2,
+    "clock": "01:29",
+    "team": "Pur-FW",
+    "player": "THURMON,KHOI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by THURMON,KHOI(in the paint)",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 70
+    },
+    "raw_text": "MISS LAYUP by THURMON,KHOI(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "01:24",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ(fastbreak)",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "01:05",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DEJURNETT,JOHNATHAN(in the paint)",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "MISS LAYUP by DEJURNETT,JOHNATHAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by POLK,AUNDRE",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "REBOUND DEF by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "00:57",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "00:54",
+    "team": "Pur-FW",
+    "player": "DEJURNETT,JOHNATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DEJURNETT,JOHNATHAN",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "FOUL  by DEJURNETT,JOHNATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "MISS FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 73
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Pur-FW": 96,
+      "Oak": 74
+    },
+    "raw_text": "GOOD FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "Pur-FW",
+    "player": "HADNOT II,COREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HADNOT II,COREY(in the paint)",
+    "score": {
+      "Pur-FW": 98,
+      "Oak": 74
+    },
+    "raw_text": "GOOD JUMPER by HADNOT II,COREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:34",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,DQ(in the paint)",
+    "score": {
+      "Pur-FW": 98,
+      "Oak": 76
+    },
+    "raw_text": "GOOD JUMPER by COLE,DQ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:34",
+    "team": "Pur-FW",
+    "player": "WHITAKER,DESTIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WHITAKER,DESTIN",
+    "score": {
+      "Pur-FW": 98,
+      "Oak": 76
+    },
+    "raw_text": "FOUL  by WHITAKER,DESTIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:34",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ",
+    "score": {
+      "Pur-FW": 98,
+      "Oak": 77
+    },
+    "raw_text": "GOOD FT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "Pur-FW",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Pur-FW": 98,
+      "Oak": 77
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  }
+]

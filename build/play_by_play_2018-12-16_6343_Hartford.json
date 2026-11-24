@@ -1,0 +1,5927 @@
+[
+  {
+    "period": 1,
+    "clock": "19:32",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 0
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DUNNE,JASON",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 0
+    },
+    "raw_text": "REBOUND DEF by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "19:05",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 0
+    },
+    "raw_text": "MISS 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by DUNNE,JASON",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 0
+    },
+    "raw_text": "REBOUND OFF by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "18:48",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "ASSIST  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "18:34",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "REBOUND OFF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "18:19",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "REBOUND DEF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "18:11",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DUNNE,JASON",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "MISS LAYUP by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 2
+    },
+    "raw_text": "REBOUND OFF by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "18:07",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)",
+    "score": {
+      "OAK": 0,
+      "HARTFORD": 4
+    },
+    "raw_text": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:48",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 4
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 4
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "17:31",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 4
+    },
+    "raw_text": "FOUL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "17:31",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by DUNNE,JASON",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 5
+    },
+    "raw_text": "GOOD FT by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "17:31",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by DUNNE,JASON",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 6
+    },
+    "raw_text": "GOOD FT by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "17:31",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by DUNNE,JASON",
+    "score": {
+      "OAK": 3,
+      "HARTFORD": 7
+    },
+    "raw_text": "GOOD FT by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "17:11",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 7
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 7
+    },
+    "raw_text": "ASSIST  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 7
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 7
+    },
+    "raw_text": "MISS FT by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 7
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 8
+    },
+    "raw_text": "GOOD FT by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 8
+    },
+    "raw_text": "SUB IN by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 6,
+      "HARTFORD": 8
+    },
+    "raw_text": "SUB OUT by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "16:28",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BECK,JAMES(in the paint)",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "GOOD LAYUP by BECK,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "TURNOVER  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:58",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:56",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "REBOUND DEF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "15:47",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 8
+    },
+    "raw_text": "FOUL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "15:47",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by III,EDDIE DAVIS(fastbreak)",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 9
+    },
+    "raw_text": "GOOD FT by III,EDDIE DAVIS(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "15:47",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by III,EDDIE DAVIS(fastbreak)",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "GOOD FT by III,EDDIE DAVIS(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "15:47",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "15:47",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "15:30",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:59",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LYNCH,JR",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "MISS 3PTR by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX,TRAY",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "REBOUND DEF by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "FOUL  by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:48",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 10
+    },
+    "raw_text": "STEAL  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:43",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "ASSIST  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:20",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS JUMPER by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:38",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MADDOX,TRAY",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "GOOD 3PTR by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DUNNE,JASON",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS 3PTR by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:05",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "12:55",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 11,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "12:33",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX,TRAY",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "ASSIST  by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NOBLES,JORDAN",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB IN by NOBLES,JORDAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB IN by BOXUS,ROMAIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:03",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB OUT by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:43",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS 3PTR by BOXUS,ROMAIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND OFF by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS LAYUP by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "BLOCK  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 14,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:28",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 17,
+      "HARTFORD": 12
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 17,
+      "HARTFORD": 12
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:11",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 17,
+      "HARTFORD": 12
+    },
+    "raw_text": "MISS 3PTR by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX,TRAY",
+    "score": {
+      "OAK": 17,
+      "HARTFORD": 12
+    },
+    "raw_text": "REBOUND DEF by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "10:42",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MADDOX,TRAY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 12
+    },
+    "raw_text": "GOOD 3PTR by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 12
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:23",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 12
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:23",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "10:23",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 12
+    },
+    "raw_text": "SUB OUT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:14",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 14
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:42",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 14
+    },
+    "raw_text": "TURNOVER  by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 14
+    },
+    "raw_text": "FOUL  by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 15
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB IN by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB OUT by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TWYMAN,MAX",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB IN by TWYMAN,MAX"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB OUT by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:07",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "FOUL  by BOXUS,ROMAIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:05",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "TURNOVER  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "09:05",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by DUNNE,JASON",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "STEAL  by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "09:05",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,BRADEN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB IN by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:05",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 16
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "08:43",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BOXUS,ROMAIN(in the paint)",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "GOOD JUMPER by BOXUS,ROMAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LYNCH,JR",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "STEAL  by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LYNCH,JR",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "TURNOVER  by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "OAK",
+    "player": "SCOTT,STAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCOTT,STAN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "SUB IN by SCOTT,STAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "SUB OUT by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "08:19",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NOBLES,JORDAN",
+    "score": {
+      "OAK": 20,
+      "HARTFORD": 18
+    },
+    "raw_text": "SUB OUT by NOBLES,JORDAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:09",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 23,
+      "HARTFORD": 18
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 23,
+      "HARTFORD": 18
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:59",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 23,
+      "HARTFORD": 20
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:39",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 26,
+      "HARTFORD": 20
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 26,
+      "HARTFORD": 20
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:13",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LYNCH,JR(in the paint)",
+    "score": {
+      "OAK": 26,
+      "HARTFORD": 22
+    },
+    "raw_text": "GOOD LAYUP by LYNCH,JR(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:07",
+    "team": "OAK",
+    "player": "SCOTT,STAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by SCOTT,STAN(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 22
+    },
+    "raw_text": "GOOD LAYUP by SCOTT,STAN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:58",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DUNNE,JASON(in the paint)",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 24
+    },
+    "raw_text": "GOOD LAYUP by DUNNE,JASON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:38",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 24
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LYNCH,JR",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 24
+    },
+    "raw_text": "REBOUND DEF by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 24
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 24
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "MISS FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "SCOTT,STAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SCOTT,STAN",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "REBOUND DEF by SCOTT,STAN"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "SUB IN by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:17",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "SUB OUT by BOXUS,ROMAIN"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TWYMAN,MAX",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "FOUL  by TWYMAN,MAX"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 25
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DUNNE,JASON",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "ASSIST  by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "05:24",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "05:20",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LYNCH,JR",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 27
+    },
+    "raw_text": "REBOUND DEF by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "05:12",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LYNCH,JR(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "GOOD LAYUP by LYNCH,JR(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TWYMAN,MAX",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "FOUL  by TWYMAN,MAX"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "OAK",
+    "player": "SCOTT,STAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SCOTT,STAN",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB OUT by SCOTT,STAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB IN by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TWYMAN,MAX",
+    "score": {
+      "OAK": 28,
+      "HARTFORD": 29
+    },
+    "raw_text": "SUB OUT by TWYMAN,MAX"
+  },
+  {
+    "period": 1,
+    "clock": "04:48",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 31,
+      "HARTFORD": 29
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 31,
+      "HARTFORD": 29
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:26",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 31,
+      "HARTFORD": 31
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 31,
+      "HARTFORD": 31
+    },
+    "raw_text": "FOUL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 32,
+      "HARTFORD": 31
+    },
+    "raw_text": "GOOD FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:14",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 32,
+      "HARTFORD": 31
+    },
+    "raw_text": "MISS FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 32,
+      "HARTFORD": 31
+    },
+    "raw_text": "REBOUND DEF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "03:58",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 32,
+      "HARTFORD": 33
+    },
+    "raw_text": "GOOD DUNK by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DUNNE,JASON",
+    "score": {
+      "OAK": 32,
+      "HARTFORD": 33
+    },
+    "raw_text": "ASSIST  by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "03:46",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 33
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "03:28",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 35
+    },
+    "raw_text": "GOOD LAYUP by BLAGOJEVIC,GEORGE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:28",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 35
+    },
+    "raw_text": "FOUL  by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "03:28",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 35
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:28",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 36
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "03:27",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 36
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:27",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 36
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 36
+    },
+    "raw_text": "MISS JUMPER by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 35,
+      "HARTFORD": 36
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:56",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BECK,JAMES(in the paint)",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 36
+    },
+    "raw_text": "GOOD LAYUP by BECK,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:30",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 39
+    },
+    "raw_text": "GOOD 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DUNNE,JASON",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 39
+    },
+    "raw_text": "ASSIST  by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 39
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DUNNE,JASON",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 39
+    },
+    "raw_text": "BLOCK  by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 39
+    },
+    "raw_text": "REBOUND DEF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "01:57",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DUNNE,JASON(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 41
+    },
+    "raw_text": "GOOD LAYUP by DUNNE,JASON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 37,
+      "HARTFORD": 41
+    },
+    "raw_text": "ASSIST  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "01:42",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BECK,JAMES(in the paint)",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 41
+    },
+    "raw_text": "GOOD DUNK by BECK,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 41
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:12",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 43
+    },
+    "raw_text": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LYNCH,JR",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 43
+    },
+    "raw_text": "ASSIST  by LYNCH,JR"
+  },
+  {
+    "period": 1,
+    "clock": "01:00",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 43
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:59",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 43
+    },
+    "raw_text": "STEAL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 43
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE(fastbreak)",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 44
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE(fastbreak)",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB IN by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:57",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB OUT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "00:45",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "MISS JUMPER by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:44",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 39,
+      "HARTFORD": 45
+    },
+    "raw_text": "FOUL  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:36",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:26",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:26",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "00:26",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "00:26",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB IN by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 1,
+    "clock": "00:26",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB OUT by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 1,
+    "clock": "00:07",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "MISS LAYUP by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "REBOUND OFF by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:06",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "MISS DUNK by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:05",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 42,
+      "HARTFORD": 45
+    },
+    "raw_text": "FOUL  by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:05",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 43,
+      "HARTFORD": 45
+    },
+    "raw_text": "GOOD FT by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:05",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "GOOD FT by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:05",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB IN by BOXUS,ROMAIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:05",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "SUB OUT by III,EDDIE DAVIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:01",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DUNNE,JASON",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "MISS 3PTR by DUNNE,JASON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "19:49",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DUNNE,JASON",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "MISS LAYUP by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 44,
+      "HARTFORD": 45
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 45
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 45
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "18:49",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 47
+    },
+    "raw_text": "GOOD LAYUP by COLOVIC,NIKOLA(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 47
+    },
+    "raw_text": "ASSIST  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "18:23",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 47
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "18:21",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 47
+    },
+    "raw_text": "STEAL  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "18:05",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 47
+    },
+    "raw_text": "FOUL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "17:58",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by DUNNE,JASON",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 50
+    },
+    "raw_text": "GOOD 3PTR by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 50
+    },
+    "raw_text": "ASSIST  by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:36",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 50
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:35",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 50
+    },
+    "raw_text": "STEAL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "17:30",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LYNCH,JR(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 52
+    },
+    "raw_text": "GOOD LAYUP by LYNCH,JR(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 52
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DUNNE,JASON",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 52
+    },
+    "raw_text": "REBOUND DEF by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "17:06",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WEATHERINGTON,TRAVIS(fastbreak)",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "GOOD 3PTR by WEATHERINGTON,TRAVIS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LYNCH,JR",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "ASSIST  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 46,
+      "HARTFORD": 55
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "16:37",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)",
+    "score": {
+      "OAK": 48,
+      "HARTFORD": 55
+    },
+    "raw_text": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:17",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LYNCH,JR",
+    "score": {
+      "OAK": 48,
+      "HARTFORD": 58
+    },
+    "raw_text": "GOOD 3PTR by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 48,
+      "HARTFORD": 58
+    },
+    "raw_text": "ASSIST  by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 2,
+    "clock": "15:57",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 50,
+      "HARTFORD": 58
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 50,
+      "HARTFORD": 58
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "15:35",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LYNCH,JR",
+    "score": {
+      "OAK": 50,
+      "HARTFORD": 58
+    },
+    "raw_text": "TURNOVER  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "15:35",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 50,
+      "HARTFORD": 58
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:35",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 50,
+      "HARTFORD": 58
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:19",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MADDOX,TRAY",
+    "score": {
+      "OAK": 53,
+      "HARTFORD": 58
+    },
+    "raw_text": "GOOD 3PTR by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 53,
+      "HARTFORD": 58
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "14:55",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LYNCH,JR",
+    "score": {
+      "OAK": 53,
+      "HARTFORD": 61
+    },
+    "raw_text": "GOOD 3PTR by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 53,
+      "HARTFORD": 61
+    },
+    "raw_text": "ASSIST  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "14:35",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 53,
+      "HARTFORD": 61
+    },
+    "raw_text": "FOUL  by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 2,
+    "clock": "14:35",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 54,
+      "HARTFORD": 61
+    },
+    "raw_text": "GOOD FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:35",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 55,
+      "HARTFORD": 61
+    },
+    "raw_text": "GOOD FT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:35",
+    "team": "HARTFORD",
+    "player": "COLOVIC,NIKOLA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLOVIC,NIKOLA",
+    "score": {
+      "OAK": 55,
+      "HARTFORD": 61
+    },
+    "raw_text": "SUB OUT by COLOVIC,NIKOLA"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 55,
+      "HARTFORD": 61
+    },
+    "raw_text": "MISS 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 55,
+      "HARTFORD": 61
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "14:14",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)",
+    "score": {
+      "OAK": 58,
+      "HARTFORD": 61
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 58,
+      "HARTFORD": 61
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:48",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 58,
+      "HARTFORD": 61
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "13:48",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 58,
+      "HARTFORD": 62
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "13:48",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 58,
+      "HARTFORD": 63
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 63
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:03",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "GOOD 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LYNCH,JR",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "ASSIST  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:38",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "TURNOVER  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "12:38",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NOBLES,JORDAN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "SUB IN by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:38",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:17",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:17",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "STEAL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "12:10",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "TURNOVER  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "12:10",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:32",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "MISS 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 66
+    },
+    "raw_text": "REBOUND OFF by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "GOOD 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DUNNE,JASON",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "ASSIST  by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "11:10",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "FOUL  by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:10",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:09",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "MISS LAYUP by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 60,
+      "HARTFORD": 69
+    },
+    "raw_text": "REBOUND OFF by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:53",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NOBLES,JORDAN",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 69
+    },
+    "raw_text": "GOOD 3PTR by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 69
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:25",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "GOOD 3PTR by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "ASSIST  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "10:09",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:57",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS LAYUP by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND OFF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NOBLES,JORDAN",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "FOUL  by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 63,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "09:33",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:15",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DUNNE,JASON",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "TURNOVER  by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "STEAL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DUNNE,JASON",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "FOUL  by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "08:59",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NOBLES,JORDAN",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS 3PTR by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 65,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:37",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DUNNE,JASON",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS 3PTR by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:30",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "08:03",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "07:59",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LYNCH,JR",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS 3PTR by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEF by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "07:35",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LYNCH,JR",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "FOUL  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TWYMAN,MAX",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB IN by TWYMAN,MAX"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB IN by III,EDDIE DAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DUNNE,JASON",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "SUB OUT by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "07:14",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NOBLES,JORDAN",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "MISS JUMPER by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NOBLES,JORDAN",
+    "score": {
+      "OAK": 67,
+      "HARTFORD": 72
+    },
+    "raw_text": "REBOUND OFF by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:11",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NOBLES,JORDAN(in the paint)",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 72
+    },
+    "raw_text": "GOOD LAYUP by NOBLES,JORDAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:50",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "GOOD JUMPER by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "06:29",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "06:02",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS LAYUP by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NOBLES,JORDAN",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND DEF by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "05:52",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND OFF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "05:47",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND OFF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "05:37",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:34",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "05:34",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "05:34",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DUNNE,JASON",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "SUB IN by DUNNE,JASON"
+  },
+  {
+    "period": 2,
+    "clock": "05:34",
+    "team": "HARTFORD",
+    "player": "TWYMAN,MAX",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TWYMAN,MAX",
+    "score": {
+      "OAK": 69,
+      "HARTFORD": 74
+    },
+    "raw_text": "SUB OUT by TWYMAN,MAX"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "05:03",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "MISS LAYUP by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "04:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "04:59",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "STEAL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 74
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 75
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 76
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 77
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 77
+    },
+    "raw_text": "SUB IN by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 77
+    },
+    "raw_text": "SUB OUT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "04:26",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LYNCH,JR",
+    "score": {
+      "OAK": 72,
+      "HARTFORD": 77
+    },
+    "raw_text": "FOUL  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "04:09",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 77
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 77
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 77
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 78
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "SUB IN by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "03:42",
+    "team": "HARTFORD",
+    "player": "III,EDDIE DAVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by III,EDDIE DAVIS",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "SUB OUT by III,EDDIE DAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:33",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "MISS LAYUP by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "03:33",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "BLOCK  by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "REBOUND DEF by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "03:14",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "MISS LAYUP by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "03:14",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "BLOCK  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "REBOUND OFF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "03:09",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "TURNOVER  by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "02:43",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "TURNOVER  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "02:15",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "MISS 3PTR by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "REBOUND DEF by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "01:54",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LYNCH,JR",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 79
+    },
+    "raw_text": "REBOUND DEF by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "HARTFORD",
+    "player": "DUNNE,JASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DUNNE,JASON(in the paint)",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "GOOD LAYUP by DUNNE,JASON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "ASSIST  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "HARTFORD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:12",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:11",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "FOUL  by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "01:11",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:03",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "WEATHERINGTON,TRAVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WEATHERINGTON,TRAVIS",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "REBOUND DEF by WEATHERINGTON,TRAVIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:37",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "MISS 3PTR by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:36",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 75,
+      "HARTFORD": 81
+    },
+    "raw_text": "FOUL  by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "00:36",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 81
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "00:36",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 81
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 81
+    },
+    "raw_text": "REBOUND DEF by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "00:35",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NOBLES,JORDAN",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 81
+    },
+    "raw_text": "FOUL  by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:35",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 82
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "00:35",
+    "team": "HARTFORD",
+    "player": "BLAGOJEVIC,GEORGE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BLAGOJEVIC,GEORGE",
+    "score": {
+      "OAK": 76,
+      "HARTFORD": 83
+    },
+    "raw_text": "GOOD FT by BLAGOJEVIC,GEORGE"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 83
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:20",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 84
+    },
+    "raw_text": "GOOD FT by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:20",
+    "team": "HARTFORD",
+    "player": "BOXUS,ROMAIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BOXUS,ROMAIN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "GOOD FT by BOXUS,ROMAIN"
+  },
+  {
+    "period": 2,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "00:20",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN,KENNY",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "SUB OUT by PITTMAN,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LYNCH,JR",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "REBOUND DEF by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "OAK",
+    "player": "NOBLES,JORDAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NOBLES,JORDAN",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 85
+    },
+    "raw_text": "FOUL  by NOBLES,JORDAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 86
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "HARTFORD",
+    "player": "LYNCH,JR",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by LYNCH,JR",
+    "score": {
+      "OAK": 79,
+      "HARTFORD": 87
+    },
+    "raw_text": "GOOD FT by LYNCH,JR"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 82,
+      "HARTFORD": 87
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 82,
+      "HARTFORD": 87
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  }
+]

@@ -1,0 +1,6617 @@
+[
+  {
+    "period": 1,
+    "clock": "19:37",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "19:11",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOTH,JACK",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "FOUL  by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "18:55",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOTH,JACK",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "18:35",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HOTH,JACK(in the paint)",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "MISS LAYUP by HOTH,JACK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 0,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "18:29",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WALKER,JARVIS(fastbreak)(in the paint)",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "GOOD LAYUP by WALKER,JARVIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:57",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "17:57",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "STEAL  by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "17:46",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "TURNOVER  by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "17:46",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HOTH,JACK",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "STEAL  by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "17:43",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 0
+    },
+    "raw_text": "FOUL  by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "17:37",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "17:13",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "MISS 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "16:51",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "SUB OUT by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "16:49",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 3
+    },
+    "raw_text": "SUB IN by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:35",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:16",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WALKER,JARVIS(in the paint)",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "MISS JUMPER by WALKER,JARVIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOTH,JACK",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "16:04",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "FOUL  by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 2,
+      "Oak": 5
+    },
+    "raw_text": "REBOUND DEF by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "15:33",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GARNER,KEENAN(in the paint)",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 5
+    },
+    "raw_text": "GOOD LAYUP by GARNER,KEENAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 5
+    },
+    "raw_text": "ASSIST  by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "FOUL  by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "SUB OUT by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "SUB IN by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "15:09",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "MISS FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 4,
+      "Oak": 7
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:47",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BROWN,TIMARIS(in the paint)",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 7
+    },
+    "raw_text": "GOOD JUMPER by BROWN,TIMARIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 7
+    },
+    "raw_text": "ASSIST  by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "14:04",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "13:56",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 6,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "13:37",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CRAIG,SEAN(in the paint)",
+    "score": {
+      "IUIndy": 8,
+      "Oak": 9
+    },
+    "raw_text": "GOOD LAYUP by CRAIG,SEAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:18",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 8,
+      "Oak": 11
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 8,
+      "Oak": 11
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:57",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by ZILINSKAS,PAUL(in the paint)",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "GOOD LAYUP by ZILINSKAS,PAUL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "ASSIST  by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "FOUL  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOTH,JACK",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB OUT by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "IUIndy",
+    "player": "RUTLAND III,RON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RUTLAND III,RON",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "SUB IN by RUTLAND III,RON"
+  },
+  {
+    "period": 1,
+    "clock": "12:30",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "MISS LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:30",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "BLOCK  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "BLOCK  by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 11
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:24",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 14
+    },
+    "raw_text": "GOOD 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 14
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "11:56",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 14
+    },
+    "raw_text": "MISS 3PTR by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 14
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:30",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "GOOD 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:29",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "11:18",
+    "team": "IUIndy",
+    "player": "RUTLAND III,RON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by RUTLAND III,RON",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "MISS 3PTR by RUTLAND III,RON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND DEF by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "10:46",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "MISS 3PTR by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "FOUL  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "FOUL  by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "RUTLAND III,RON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RUTLAND III,RON",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by RUTLAND III,RON"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "HANNAH,CALEB",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HANNAH,CALEB",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by HANNAH,CALEB"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:33",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "TURNOVER  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "IUIndy": 10,
+      "Oak": 17
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 11,
+      "Oak": 17
+    },
+    "raw_text": "GOOD FT by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 11,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 11,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 11,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "IUIndy": 11,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 12,
+      "Oak": 17
+    },
+    "raw_text": "GOOD FT by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:58",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MAJAK,DENG(in the paint)",
+    "score": {
+      "IUIndy": 12,
+      "Oak": 17
+    },
+    "raw_text": "MISS LAYUP by MAJAK,DENG(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 12,
+      "Oak": 17
+    },
+    "raw_text": "REBOUND OFF by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:52",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by JONES,JAYLEN(in the paint)",
+    "score": {
+      "IUIndy": 12,
+      "Oak": 19
+    },
+    "raw_text": "GOOD TIPIN by JONES,JAYLEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:31",
+    "team": "IUIndy",
+    "player": "HANNAH,CALEB",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HANNAH,CALEB",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 19
+    },
+    "raw_text": "GOOD 3PTR by HANNAH,CALEB"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 19
+    },
+    "raw_text": "ASSIST  by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:18",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "MISS FT by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB OUT by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB OUT by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB IN by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 15,
+      "Oak": 21
+    },
+    "raw_text": "SUB IN by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:00",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 21
+    },
+    "raw_text": "GOOD FT by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:51",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 21
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:51",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 21
+    },
+    "raw_text": "STEAL  by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:41",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WALKER,JARVIS(in the paint)",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 21
+    },
+    "raw_text": "MISS JUMPER by WALKER,JARVIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 24
+    },
+    "raw_text": "GOOD 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 24
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:12",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 24
+    },
+    "raw_text": "TURNOVER  by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:12",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 24
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "07:47",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 26
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 26
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:27",
+    "team": "IUIndy",
+    "player": "HANNAH,CALEB",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HANNAH,CALEB",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 26
+    },
+    "raw_text": "MISS 3PTR by HANNAH,CALEB"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 16,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:21",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GARNER,KEENAN(in the paint)",
+    "score": {
+      "IUIndy": 18,
+      "Oak": 26
+    },
+    "raw_text": "GOOD LAYUP by GARNER,KEENAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:07",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 18,
+      "Oak": 26
+    },
+    "raw_text": "TURNOVER  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:07",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 18,
+      "Oak": 26
+    },
+    "raw_text": "STEAL  by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:03",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by BROWN,TIMARIS(fastbreak)(in the paint)",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 26
+    },
+    "raw_text": "GOOD DUNK by BROWN,TIMARIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 26
+    },
+    "raw_text": "ASSIST  by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "06:38",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "GOOD JUMPER by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BROWN,TIMARIS(in the paint)",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "MISS LAYUP by BROWN,TIMARIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 20,
+      "Oak": 28
+    },
+    "raw_text": "STEAL  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "05:55",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WALKER,JARVIS(fastbreak)(in the paint)",
+    "score": {
+      "IUIndy": 22,
+      "Oak": 28
+    },
+    "raw_text": "GOOD LAYUP by WALKER,JARVIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 22,
+      "Oak": 28
+    },
+    "raw_text": "ASSIST  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 22,
+      "Oak": 30
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 22,
+      "Oak": 30
+    },
+    "raw_text": "ASSIST  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:58",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 30
+    },
+    "raw_text": "GOOD 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "HANNAH,CALEB",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HANNAH,CALEB",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 30
+    },
+    "raw_text": "ASSIST  by HANNAH,CALEB"
+  },
+  {
+    "period": 1,
+    "clock": "04:31",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "FOUL  by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOTH,JACK",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "HANNAH,CALEB",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HANNAH,CALEB",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by HANNAH,CALEB"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB OUT by BROWN,TIMARIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "SUB IN by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "03:59",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "TURNOVER  by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "03:59",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 32
+    },
+    "raw_text": "STEAL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(fastbreak)(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "ASSIST  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GARNER,KEENAN(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS JUMPER by GARNER,KEENAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB OUT by GARNER,KEENAN"
+  },
+  {
+    "period": 1,
+    "clock": "02:54",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB IN by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "02:37",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRAIG,SEAN(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS LAYUP by CRAIG,SEAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:37",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND DEF by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "02:16",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "02:16",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "02:11",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "TURNOVER  by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "01:42",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "FOUL  by MILLENDER,ALEC"
+  },
+  {
+    "period": 1,
+    "clock": "01:36",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 1,
+    "clock": "01:23",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 1,
+    "clock": "01:21",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND OFF by CRAIG,SEAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:10",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "MISS 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 1,
+    "clock": "01:10",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "BLOCK  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 34
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:45",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:17",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "TURNOVER  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "TURNOVER  by GOODE,DESEAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:17",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "00:02",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "MISS 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,ISAIAH(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "MISS JUMPER by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 36
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "19:51",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 38
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 38
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "19:22",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 38
+    },
+    "raw_text": "TURNOVER  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:22",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 38
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ(fastbreak)",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "ASSIST  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "19:00",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "TURNOVER  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "19:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "18:59",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "FOUL  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "18:49",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 41
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "18:42",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "18:23",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "TURNOVER  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "18:01",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "MISS 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "REBOUND DEF by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:55",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOTH,JACK",
+    "score": {
+      "IUIndy": 25,
+      "Oak": 44
+    },
+    "raw_text": "FOUL  by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "17:34",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WALKER,JARVIS(in the paint)",
+    "score": {
+      "IUIndy": 27,
+      "Oak": 44
+    },
+    "raw_text": "GOOD JUMPER by WALKER,JARVIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:09",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "IUIndy": 27,
+      "Oak": 44
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "17:09",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 27,
+      "Oak": 44
+    },
+    "raw_text": "STEAL  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:09",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 27,
+      "Oak": 44
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "16:53",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WALKER,JARVIS(in the paint)",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 44
+    },
+    "raw_text": "GOOD LAYUP by WALKER,JARVIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "FOUL  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 44
+    },
+    "raw_text": "FOUL  by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "SUB OUT by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "SUB IN by GARNER,KEENAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:30",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND DEF by GARNER,KEENAN"
+  },
+  {
+    "period": 2,
+    "clock": "16:15",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GARNER,KEENAN(in the paint)",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "MISS LAYUP by GARNER,KEENAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:15",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by COLE,DQ",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "BLOCK  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 45
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "15:52",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "GOOD 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "ASSIST  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "TURNOVER  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "MISS 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "IUIndy": 29,
+      "Oak": 48
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:58",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CRAIG,SEAN(in the paint)",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "GOOD JUMPER by CRAIG,SEAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "ASSIST  by GARNER,KEENAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HOTH,JACK",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "TURNOVER  by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "STEAL  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "STEAL  by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOTH,JACK",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "FOUL  by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOTH,JACK",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 31,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:13",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "GOOD 3PTR by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "ASSIST  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:46",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "FOUL  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "FOUL  by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:46",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:46",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "13:46",
+    "team": "IUIndy",
+    "player": "GARNER,KEENAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GARNER,KEENAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by GARNER,KEENAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:46",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:31",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "FOUL  by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "FOUL  by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:31",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "13:31",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "13:31",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB OUT by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:31",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "SUB IN by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "13:30",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 48
+    },
+    "raw_text": "FOUL  by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "13:30",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 49
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:30",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 50
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "13:14",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 50
+    },
+    "raw_text": "TURNOVER  by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "13:14",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 50
+    },
+    "raw_text": "STEAL  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:52",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "ASSIST  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "12:39",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "TURNOVER  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:32",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:32",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:24",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "12:24",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "12:10",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "MISS 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEF by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "11:43",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "FOUL  by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:43",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "MISS LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MAJAK,DENG",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND OFF by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "11:19",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MAJAK,DENG(in the paint)",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "MISS LAYUP by MAJAK,DENG(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "10:52",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ZILINSKAS,PAUL(in the paint)",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "MISS JUMPER by ZILINSKAS,PAUL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 34,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND OFF by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BROWN,TIMARIS(in the paint)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "GOOD LAYUP by BROWN,TIMARIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:14",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,ISAIAH(in the paint)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "MISS JUMPER by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEF by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MAJAK,DENG",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "FOUL  by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BROWN,TIMARIS(fastbreak)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "MISS FT by BROWN,TIMARIS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MAJAK,DENG",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BROWN,TIMARIS(fastbreak)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "MISS FT by BROWN,TIMARIS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "10:06",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "09:48",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEF by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:45",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "TURNOVER  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:37",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 52
+    },
+    "raw_text": "FOUL  by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:37",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 53
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "09:36",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MUKEBA,ALLEN DAVID(fastbreak)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 53
+    },
+    "raw_text": "MISS FT by MUKEBA,ALLEN DAVID(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 53
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:36",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:36",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 54
+    },
+    "raw_text": "GOOD FT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "09:36",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 55
+    },
+    "raw_text": "GOOD FT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "09:36",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 55
+    },
+    "raw_text": "TURNOVER  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:26",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 55
+    },
+    "raw_text": "MISS 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 55
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "GOOD LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COLE,DQ",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "ASSIST  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "IUIndy",
+    "player": "BROWN,TIMARIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BROWN,TIMARIS",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "SUB OUT by BROWN,TIMARIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "SUB IN by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:58",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRAIG,SEAN(in the paint)",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "MISS LAYUP by CRAIG,SEAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "REBOUND OFF by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 36,
+      "Oak": 57
+    },
+    "raw_text": "REBOUND OFF by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:55",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GOODE,DESEAN(in the paint)",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "GOOD LAYUP by GOODE,DESEAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "08:29",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "08:18",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "MISS 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:17",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 57
+    },
+    "raw_text": "FOUL  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:17",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ(fastbreak)",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 58
+    },
+    "raw_text": "GOOD FT by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "08:17",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COLE,DQ(fastbreak)",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by COLE,DQ(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "08:05",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "IUIndy": 38,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "08:05",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 39,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:05",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:50",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:38",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:21",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "06:55",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HOTH,JACK",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "06:49",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "REBOUND DEF by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOTH,JACK",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 40,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 41,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "06:35",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 42,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "06:06",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 42,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 42,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND DEF by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "05:46",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 45,
+      "Oak": 59
+    },
+    "raw_text": "GOOD 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 45,
+      "Oak": 59
+    },
+    "raw_text": "ASSIST  by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 45,
+      "Oak": 59
+    },
+    "raw_text": "FOUL TECH by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 45,
+      "Oak": 59
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 46,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "SUB OUT by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "05:01",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "MISS 3PTR by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "05:01",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by COLE,DQ",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "BLOCK  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOTH,JACK",
+    "score": {
+      "IUIndy": 47,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC(fastbreak)",
+    "score": {
+      "IUIndy": 48,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MILLENDER,ALEC(fastbreak)",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by MILLENDER,ALEC(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 59
+    },
+    "raw_text": "FOUL  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 60
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOTH,JACK",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 60
+    },
+    "raw_text": "SUB OUT by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 60
+    },
+    "raw_text": "SUB IN by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "04:38",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "GOOD FT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "04:37",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "TURNOVER  by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:37",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "STEAL  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "04:22",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "MISS 3PTR by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND OFF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "MISS LAYUP by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND DEF by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:10",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRAIG,SEAN(in the paint)",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "MISS LAYUP by CRAIG,SEAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:10",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "BLOCK  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 61
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:45",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 63
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 49,
+      "Oak": 63
+    },
+    "raw_text": "ASSIST  by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "03:31",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 63
+    },
+    "raw_text": "GOOD JUMPER by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:57",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 63
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "ZILINSKAS,PAUL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ZILINSKAS,PAUL",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 63
+    },
+    "raw_text": "REBOUND DEF by ZILINSKAS,PAUL"
+  },
+  {
+    "period": 2,
+    "clock": "02:44",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 63
+    },
+    "raw_text": "TURNOVER  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "02:44",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 63
+    },
+    "raw_text": "STEAL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "02:36",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:24",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "MISS 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:17",
+    "team": "IUIndy",
+    "player": "CRAIG,SEAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAIG,SEAN",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "MISS 3PTR by CRAIG,SEAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "GOODE,DESEAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "REBOUND OFF by GOODE,DESEAN",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND OFF by GOODE,DESEAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:13",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "MISS 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND DEF by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:44",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "TURNOVER  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "01:34",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "MISS 3PTR by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "01:05",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 68
+    },
+    "raw_text": "GOOD JUMPER by MUKEBA,ALLEN DAVID(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 68
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 51,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MASHHOUR,NASSIM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MASHHOUR,NASSIM",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by MASHHOUR,NASSIM"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MUKEBA,ALLEN DAVID",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MUKEBA,ALLEN DAVID",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB OUT by MUKEBA,ALLEN DAVID"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "HOTH,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOTH,JACK",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by HOTH,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "MAJAK,DENG",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MAJAK,DENG",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by MAJAK,DENG"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "IUIndy": 52,
+      "Oak": 68
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "00:52",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 53,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUIndy": 53,
+      "Oak": 68
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:46",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 53,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN(fastbreak)",
+    "score": {
+      "IUIndy": 53,
+      "Oak": 69
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN(fastbreak)",
+    "score": {
+      "IUIndy": 53,
+      "Oak": 70
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:43",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 56,
+      "Oak": 70
+    },
+    "raw_text": "GOOD 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 56,
+      "Oak": 70
+    },
+    "raw_text": "ASSIST  by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "IUIndy": 56,
+      "Oak": 70
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:26",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "GOOD 3PTR by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "ASSIST  by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "Oak",
+    "player": "WOODRICH,JAYSON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WOODRICH,JAYSON",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "TURNOVER  by WOODRICH,JAYSON"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WALKER,JARVIS",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "STEAL  by WALKER,JARVIS"
+  },
+  {
+    "period": 2,
+    "clock": "00:18",
+    "team": "IUIndy",
+    "player": "WALKER,JARVIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WALKER,JARVIS(in the paint)",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "MISS LAYUP by WALKER,JARVIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,JAYLEN",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "REBOUND DEF by JONES,JAYLEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:16",
+    "team": "IUIndy",
+    "player": "MILLENDER,ALEC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MILLENDER,ALEC",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 70
+    },
+    "raw_text": "FOUL  by MILLENDER,ALEC"
+  },
+  {
+    "period": 2,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN(fastbreak)",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 71
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "JONES,JAYLEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,JAYLEN(fastbreak)",
+    "score": {
+      "IUIndy": 59,
+      "Oak": 72
+    },
+    "raw_text": "GOOD FT by JONES,JAYLEN(fastbreak)"
+  }
+]

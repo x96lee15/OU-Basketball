@@ -1,0 +1,6362 @@
+[
+  {
+    "period": 1,
+    "clock": "19:44",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SANTOS,NATE",
+    "score": {
+      "Oak": 0,
+      "UD": 0
+    },
+    "raw_text": "MISS 3PTR by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 0,
+      "UD": 0
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "19:18",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 3,
+      "UD": 0
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "19:00",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SANTOS,NATE",
+    "score": {
+      "Oak": 3,
+      "UD": 3
+    },
+    "raw_text": "GOOD 3PTR by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 3,
+      "UD": 3
+    },
+    "raw_text": "ASSIST  by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "18:34",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 5,
+      "UD": 3
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "UD": 3
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "18:15",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by ELVIS,KOBE(in the paint)",
+    "score": {
+      "Oak": 5,
+      "UD": 5
+    },
+    "raw_text": "GOOD JUMPER by ELVIS,KOBE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 5,
+      "UD": 5
+    },
+    "raw_text": "ASSIST  by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "17:52",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 5,
+      "UD": 5
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SANTOS,NATE",
+    "score": {
+      "Oak": 5,
+      "UD": 5
+    },
+    "raw_text": "REBOUND DEF by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "17:29",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "GOOD 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "17:14",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CONWAY,CHRIS",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS 3PTR by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLMES II,DARON",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "16:56",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SANTOS,NATE",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS 3PTR by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:14",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "16:05",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ELVIS,KOBE(in the paint)",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS JUMPER by ELVIS,KOBE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "15:57",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BENNETT,JAVON",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "15:48",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 5,
+      "UD": 8
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "15:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 7,
+      "UD": 8
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GOHLKE,JACK",
+    "score": {
+      "Oak": 7,
+      "UD": 8
+    },
+    "raw_text": "ASSIST  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "GOOD 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HOLMES II,DARON",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "ASSIST  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "MISS JUMPER by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by JONES,ISAIAH",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "BLOCK  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:50",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "MISS JUMPER by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:50",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by HOLMES II,DARON",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "BLOCK  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BENNETT,JAVON",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "13:44",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SANTOS,NATE(in the paint)",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "MISS JUMPER by SANTOS,NATE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 7,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:23",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:49",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "12:29",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SANTOS,NATE",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "11:58",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:44",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JONES,ISAIAH",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "TURNOVER  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:44",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HOLMES II,DARON",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "STEAL  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "11:32",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SANTOS,NATE(in the paint)",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS JUMPER by SANTOS,NATE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:15",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:15",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "BLOCK  by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 9,
+      "UD": 11
+    },
+    "raw_text": "REBOUND DEF by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "10:49",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "GOOD 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "10:27",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOLMES II,DARON",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "FOUL  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SANTOS,NATE",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLMES II,DARON",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ELVIS,KOBE",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BREA,KOBY",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACK,ISAAC",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "MISS FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 9,
+      "UD": 14
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 10,
+      "UD": 14
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:11",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BENNETT,JAVON(in the paint)",
+    "score": {
+      "Oak": 10,
+      "UD": 16
+    },
+    "raw_text": "GOOD LAYUP by BENNETT,JAVON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:44",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 12,
+      "UD": 16
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:28",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 12,
+      "UD": 19
+    },
+    "raw_text": "GOOD 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 12,
+      "UD": 19
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "09:12",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "MISS 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BENNETT,JAVON",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "SUB OUT by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "SUB OUT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SANTOS,NATE",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "SUB IN by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "08:49",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ELVIS,KOBE",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "SUB IN by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "08:27",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 14,
+      "UD": 19
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 16,
+      "UD": 19
+    },
+    "raw_text": "GOOD LAYUP by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:54",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACK,ISAAC(in the paint)",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "GOOD LAYUP by JACK,ISAAC(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SANTOS,NATE",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "ASSIST  by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "TURNOVER  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACK,ISAAC",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB OUT by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLMES II,DARON",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB IN by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GOHLKE,JACK",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB IN by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "07:26",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Oak": 16,
+      "UD": 21
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 16,
+      "UD": 24
+    },
+    "raw_text": "GOOD 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HOLMES II,DARON",
+    "score": {
+      "Oak": 16,
+      "UD": 24
+    },
+    "raw_text": "ASSIST  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:13",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ELVIS,KOBE(in the paint)",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "MISS JUMPER by ELVIS,KOBE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLMES II,DARON",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "REBOUND OFF by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HOLMES II,DARON",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "MISS FT by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 18,
+      "UD": 24
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:11",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HOLMES II,DARON",
+    "score": {
+      "Oak": 18,
+      "UD": 25
+    },
+    "raw_text": "GOOD FT by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "05:44",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 18,
+      "UD": 25
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SANTOS,NATE",
+    "score": {
+      "Oak": 18,
+      "UD": 25
+    },
+    "raw_text": "REBOUND DEF by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "05:34",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SANTOS,NATE",
+    "score": {
+      "Oak": 18,
+      "UD": 25
+    },
+    "raw_text": "TURNOVER  by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "05:34",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 18,
+      "UD": 25
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(in the paint)",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HOLMES II,DARON",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "FOUL  by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB OUT by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLMES II,DARON",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB OUT by HOLMES II,DARON"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BENNETT,JAVON",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB IN by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACK,ISAAC",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB IN by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 20,
+      "UD": 25
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JONES,ISAIAH",
+    "score": {
+      "Oak": 21,
+      "UD": 25
+    },
+    "raw_text": "GOOD FT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "04:54",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 21,
+      "UD": 25
+    },
+    "raw_text": "MISS 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BENNETT,JAVON",
+    "score": {
+      "Oak": 21,
+      "UD": 25
+    },
+    "raw_text": "REBOUND OFF by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "04:50",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 21,
+      "UD": 28
+    },
+    "raw_text": "GOOD 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 21,
+      "UD": 28
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "04:33",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HUNTER,TONE",
+    "score": {
+      "Oak": 21,
+      "UD": 28
+    },
+    "raw_text": "MISS 3PTR by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BREA,KOBY",
+    "score": {
+      "Oak": 21,
+      "UD": 28
+    },
+    "raw_text": "REBOUND DEF by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "04:23",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACK,ISAAC(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "GOOD JUMPER by JACK,ISAAC(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HUNTER,TONE",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "TURNOVER  by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 21,
+      "UD": 30
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "03:50",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by SANTOS,NATE(in the paint)",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "GOOD JUMPER by SANTOS,NATE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by ELVIS,KOBE",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "FOUL  by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ELVIS,KOBE",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "SUB OUT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "SUB IN by CHEEKS,ENOCH"
+  },
+  {
+    "period": 1,
+    "clock": "03:13",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 21,
+      "UD": 32
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SANTOS,NATE",
+    "score": {
+      "Oak": 21,
+      "UD": 35
+    },
+    "raw_text": "GOOD 3PTR by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACK,ISAAC",
+    "score": {
+      "Oak": 21,
+      "UD": 35
+    },
+    "raw_text": "ASSIST  by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "02:38",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 21,
+      "UD": 35
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 21,
+      "UD": 35
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:36",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 24,
+      "UD": 35
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 24,
+      "UD": 35
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:03",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "GOOD 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SANTOS,NATE",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "ASSIST  by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "02:03",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SANTOS,NATE(in the paint)",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "MISS JUMPER by SANTOS,NATE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by SANTOS,NATE",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "REBOUND OFF by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "01:49",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "01:49",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BENNETT,JAVON",
+    "score": {
+      "Oak": 24,
+      "UD": 38
+    },
+    "raw_text": "STEAL  by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BENNETT,JAVON(in the paint)",
+    "score": {
+      "Oak": 24,
+      "UD": 40
+    },
+    "raw_text": "GOOD LAYUP by BENNETT,JAVON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACK,ISAAC",
+    "score": {
+      "Oak": 24,
+      "UD": 40
+    },
+    "raw_text": "FOUL  by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 24,
+      "UD": 40
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 24,
+      "UD": 40
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "01:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 26,
+      "UD": 40
+    },
+    "raw_text": "GOOD DUNK by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 26,
+      "UD": 40
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GOHLKE,JACK",
+    "score": {
+      "Oak": 26,
+      "UD": 40
+    },
+    "raw_text": "FOUL  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SANTOS,NATE",
+    "score": {
+      "Oak": 26,
+      "UD": 41
+    },
+    "raw_text": "GOOD FT by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SANTOS,NATE",
+    "score": {
+      "Oak": 26,
+      "UD": 42
+    },
+    "raw_text": "GOOD FT by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BREA,KOBY",
+    "score": {
+      "Oak": 26,
+      "UD": 42
+    },
+    "raw_text": "SUB OUT by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ELVIS,KOBE",
+    "score": {
+      "Oak": 26,
+      "UD": 42
+    },
+    "raw_text": "SUB IN by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SANTOS,NATE",
+    "score": {
+      "Oak": 26,
+      "UD": 43
+    },
+    "raw_text": "GOOD FT by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SANTOS,NATE",
+    "score": {
+      "Oak": 26,
+      "UD": 43
+    },
+    "raw_text": "SUB OUT by SANTOS,NATE"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 26,
+      "UD": 43
+    },
+    "raw_text": "SUB IN by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACK,ISAAC",
+    "score": {
+      "Oak": 26,
+      "UD": 43
+    },
+    "raw_text": "FOUL  by JACK,ISAAC"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 27,
+      "UD": 43
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 27,
+      "UD": 43
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Oak": 27,
+      "UD": 43
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 27,
+      "UD": 43
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 27,
+      "UD": 43
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 28,
+      "UD": 43
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HUNTER,TONE",
+    "score": {
+      "Oak": 28,
+      "UD": 43
+    },
+    "raw_text": "FOUL  by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ELVIS,KOBE",
+    "score": {
+      "Oak": 28,
+      "UD": 44
+    },
+    "raw_text": "GOOD FT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ELVIS,KOBE",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "GOOD FT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BENNETT,JAVON",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB OUT by BENNETT,JAVON"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BREA,KOBY",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB IN by BREA,KOBY"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GOHLKE,JACK",
+    "score": {
+      "Oak": 28,
+      "UD": 45
+    },
+    "raw_text": "SUB IN by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "00:25",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by ELVIS,KOBE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "GOOD FT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ELVIS,KOBE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by UHL,BRADY",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by UHL,BRADY"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "00:08",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by UHL,BRADY",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "FOUL  by UHL,BRADY"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by UHL,BRADY",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by UHL,BRADY"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ELVIS,KOBE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by ELVIS,KOBE"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACK,ISAAC",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "REBOUND DEF by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BREA,KOBY",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACK,ISAAC",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BENNETT,JAVON",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SANTOS,NATE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLMES II,DARON",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 28,
+      "UD": 46
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:36",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 30,
+      "UD": 46
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GOHLKE,JACK",
+    "score": {
+      "Oak": 30,
+      "UD": 46
+    },
+    "raw_text": "ASSIST  by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "19:11",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ELVIS,KOBE(in the paint)",
+    "score": {
+      "Oak": 30,
+      "UD": 46
+    },
+    "raw_text": "MISS JUMPER by ELVIS,KOBE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by SANTOS,NATE",
+    "score": {
+      "Oak": 30,
+      "UD": 46
+    },
+    "raw_text": "REBOUND OFF by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "19:01",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by HOLMES II,DARON(in the paint)",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "GOOD DUNK by HOLMES II,DARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "18:42",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CONWAY,CHRIS",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "MISS 3PTR by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:41",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "FOUL  by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "18:39",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 30,
+      "UD": 48
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:21",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLMES II,DARON",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "GOOD JUMPER by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "18:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:03",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HOLMES II,DARON",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "STEAL  by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "17:58",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by HOLMES II,DARON(in the paint)",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "MISS DUNK by HOLMES II,DARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "17:47",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "REBOUND DEF by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "17:35",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "MISS 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLMES II,DARON",
+    "score": {
+      "Oak": 30,
+      "UD": 50
+    },
+    "raw_text": "REBOUND OFF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "17:19",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "GOOD 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "16:50",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "16:41",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "MISS 3PTR by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 30,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "16:33",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK(fastbreak)",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "16:13",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by ELVIS,KOBE(in the paint)",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "MISS JUMPER by ELVIS,KOBE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "15:55",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "REBOUND OFF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:48",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ELVIS,KOBE",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CHEEKS,ENOCH(in the paint)",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "MISS JUMPER by CHEEKS,ENOCH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:39",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "BLOCK  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "REBOUND OFF by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "15:25",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CHEEKS,ENOCH(in the paint)",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "MISS LAYUP by CHEEKS,ENOCH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 33,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "SUB OUT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BREA,KOBY",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "SUB IN by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "15:21",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:51",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 35,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:24",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 37,
+      "UD": 53
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 37,
+      "UD": 53
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "13:56",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 37,
+      "UD": 53
+    },
+    "raw_text": "MISS 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 37,
+      "UD": 53
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SANTOS,NATE",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "FOUL  by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SANTOS,NATE",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB OUT by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLMES II,DARON",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB OUT by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ELVIS,KOBE",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB OUT by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB IN by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB IN by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACK,ISAAC",
+    "score": {
+      "Oak": 39,
+      "UD": 53
+    },
+    "raw_text": "SUB IN by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "13:36",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 40,
+      "UD": 53
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:04",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "GOOD 3PTR by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "12:47",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BENNETT,JAVON",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "REBOUND DEF by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GOHLKE,JACK",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "FOUL  by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "MISS FT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "MISS FT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 40,
+      "UD": 56
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:21",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 40,
+      "UD": 57
+    },
+    "raw_text": "GOOD FT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 42,
+      "UD": 57
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:45",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 42,
+      "UD": 60
+    },
+    "raw_text": "GOOD 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 42,
+      "UD": 60
+    },
+    "raw_text": "ASSIST  by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JONES,ISAIAH",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "ASSIST  by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:22",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "10:52",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "MISS 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 45,
+      "UD": 60
+    },
+    "raw_text": "REBOUND OFF by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "10:31",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BENNETT,JAVON",
+    "score": {
+      "Oak": 45,
+      "UD": 63
+    },
+    "raw_text": "GOOD 3PTR by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACK,ISAAC",
+    "score": {
+      "Oak": 45,
+      "UD": 63
+    },
+    "raw_text": "ASSIST  by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 45,
+      "UD": 63
+    },
+    "raw_text": "FOUL  by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BENNETT,JAVON",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB OUT by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB OUT by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACK,ISAAC",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB OUT by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SANTOS,NATE",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB IN by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLMES II,DARON",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB IN by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by ELVIS,KOBE",
+    "score": {
+      "Oak": 46,
+      "UD": 63
+    },
+    "raw_text": "SUB IN by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "10:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "09:48",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CHEEKS,ENOCH(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "MISS JUMPER by CHEEKS,ENOCH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "REBOUND OFF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "09:44",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HOLMES II,DARON(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "MISS JUMPER by HOLMES II,DARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:44",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "BLOCK  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "09:24",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "REBOUND DEF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "08:56",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HOLMES II,DARON(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "MISS JUMPER by HOLMES II,DARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:56",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "BLOCK  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "REBOUND OFF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "08:55",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GOHLKE,JACK",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "FOUL  by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "08:46",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SANTOS,NATE",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "MISS 3PTR by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "08:24",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COLE,DQ",
+    "score": {
+      "Oak": 47,
+      "UD": 63
+    },
+    "raw_text": "TURNOVER  by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:59",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "GOOD 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "07:51",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BREA,KOBY",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND DEF by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "SUB OUT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BENNETT,JAVON",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "SUB IN by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "07:25",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "07:05",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "07:05",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "BLOCK  by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "06:59",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BREA,KOBY",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND DEF by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "06:32",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SANTOS,NATE",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS JUMPER by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "06:22",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 66
+    },
+    "raw_text": "REBOUND DEF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "06:09",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLMES II,DARON(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "GOOD JUMPER by HOLMES II,DARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "05:41",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:35",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HOLMES II,DARON",
+    "score": {
+      "Oak": 47,
+      "UD": 68
+    },
+    "raw_text": "REBOUND DEF by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "05:22",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by SANTOS,NATE(in the paint)",
+    "score": {
+      "Oak": 47,
+      "UD": 70
+    },
+    "raw_text": "GOOD LAYUP by SANTOS,NATE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 47,
+      "UD": 70
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "05:11",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 50,
+      "UD": 70
+    },
+    "raw_text": "GOOD 3PTR by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 50,
+      "UD": 70
+    },
+    "raw_text": "ASSIST  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:49",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 50,
+      "UD": 73
+    },
+    "raw_text": "GOOD 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 50,
+      "UD": 73
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "04:40",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 50,
+      "UD": 73
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SANTOS,NATE",
+    "score": {
+      "Oak": 50,
+      "UD": 73
+    },
+    "raw_text": "REBOUND DEF by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HOLMES II,DARON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "GOOD LAYUP by HOLMES II,DARON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BENNETT,JAVON",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "ASSIST  by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRAGGS,COOPER",
+    "score": {
+      "Oak": 50,
+      "UD": 75
+    },
+    "raw_text": "SUB IN by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HOLMES II,DARON(fastbreak)",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "GOOD FT by HOLMES II,DARON(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "04:17",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRAGGS,COOPER",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "MISS 3PTR by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SANTOS,NATE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "REBOUND DEF by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "04:10",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "04:00",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by ELVIS,KOBE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "REBOUND DEF by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HUNTER,TONE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "FOUL  by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "BENNETT,JAVON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BENNETT,JAVON",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB OUT by BENNETT,JAVON"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "SANTOS,NATE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SANTOS,NATE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB OUT by SANTOS,NATE"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "HOLMES II,DARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLMES II,DARON",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB OUT by HOLMES II,DARON"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB IN by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB IN by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACK,ISAAC",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB IN by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLK,AUNDRE",
+    "score": {
+      "Oak": 50,
+      "UD": 76
+    },
+    "raw_text": "SUB IN by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BREA,KOBY(fastbreak)",
+    "score": {
+      "Oak": 50,
+      "UD": 77
+    },
+    "raw_text": "GOOD FT by BREA,KOBY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "03:54",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BREA,KOBY(fastbreak)",
+    "score": {
+      "Oak": 50,
+      "UD": 78
+    },
+    "raw_text": "GOOD FT by BREA,KOBY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "03:38",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HUNTER,TONE",
+    "score": {
+      "Oak": 52,
+      "UD": 78
+    },
+    "raw_text": "GOOD JUMPER by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "03:20",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 52,
+      "UD": 81
+    },
+    "raw_text": "GOOD 3PTR by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by ELVIS,KOBE",
+    "score": {
+      "Oak": 52,
+      "UD": 81
+    },
+    "raw_text": "ASSIST  by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by POLK,AUNDRE",
+    "score": {
+      "Oak": 52,
+      "UD": 81
+    },
+    "raw_text": "MISS JUMPER by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CRAGGS,COOPER",
+    "score": {
+      "Oak": 52,
+      "UD": 81
+    },
+    "raw_text": "REBOUND OFF by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "02:58",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CRAGGS,COOPER(in the paint)",
+    "score": {
+      "Oak": 54,
+      "UD": 81
+    },
+    "raw_text": "GOOD LAYUP by CRAGGS,COOPER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BREA,KOBY",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "GOOD 3PTR by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "02:16",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HUNTER,TONE",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "TURNOVER  by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "02:16",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BREA,KOBY",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "STEAL  by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "02:11",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by ELVIS,KOBE",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "MISS 3PTR by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by POLK,AUNDRE",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "REBOUND DEF by POLK,AUNDRE"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BREA,KOBY",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "FOUL  by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "BREA,KOBY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BREA,KOBY",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by BREA,KOBY"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "CHEEKS,ENOCH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CHEEKS,ENOCH",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by CHEEKS,ENOCH"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "PADEGIMAS,PETRAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PADEGIMAS,PETRAS",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by PADEGIMAS,PETRAS"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "JACK,ISAAC",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACK,ISAAC",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by JACK,ISAAC"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "ELVIS,KOBE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by ELVIS,KOBE",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by ELVIS,KOBE"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "DICKEY,EVAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DICKEY,EVAN",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by DICKEY,EVAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by UHL,BRADY",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by UHL,BRADY"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "GRANT,MAKAI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GRANT,MAKAI",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by GRANT,MAKAI"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "NWOKEJI,ZIMI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NWOKEJI,ZIMI",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by NWOKEJI,ZIMI"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "UD",
+    "player": "SCHULER,ATTICUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCHULER,ATTICUS",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by SCHULER,ATTICUS"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "02:05",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 54,
+      "UD": 84
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "01:50",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 57,
+      "UD": 84
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CRAGGS,COOPER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRAGGS,COOPER",
+    "score": {
+      "Oak": 57,
+      "UD": 84
+    },
+    "raw_text": "ASSIST  by CRAGGS,COOPER"
+  },
+  {
+    "period": 2,
+    "clock": "01:34",
+    "team": "UD",
+    "player": "NWOKEJI,ZIMI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NWOKEJI,ZIMI(in the paint)",
+    "score": {
+      "Oak": 57,
+      "UD": 86
+    },
+    "raw_text": "GOOD LAYUP by NWOKEJI,ZIMI(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by UHL,BRADY",
+    "score": {
+      "Oak": 57,
+      "UD": 86
+    },
+    "raw_text": "ASSIST  by UHL,BRADY"
+  },
+  {
+    "period": 2,
+    "clock": "01:16",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HUNTER,TONE(in the paint)",
+    "score": {
+      "Oak": 59,
+      "UD": 86
+    },
+    "raw_text": "GOOD JUMPER by HUNTER,TONE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:13",
+    "team": "UD",
+    "player": "DICKEY,EVAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DICKEY,EVAN",
+    "score": {
+      "Oak": 59,
+      "UD": 86
+    },
+    "raw_text": "TURNOVER  by DICKEY,EVAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HUNTER,TONE",
+    "score": {
+      "Oak": 59,
+      "UD": 86
+    },
+    "raw_text": "STEAL  by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "01:13",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HUNTER,TONE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 61,
+      "UD": 86
+    },
+    "raw_text": "GOOD LAYUP by HUNTER,TONE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:13",
+    "team": "UD",
+    "player": "DICKEY,EVAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DICKEY,EVAN",
+    "score": {
+      "Oak": 61,
+      "UD": 86
+    },
+    "raw_text": "FOUL  by DICKEY,EVAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:12",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HUNTER,TONE(fastbreak)",
+    "score": {
+      "Oak": 61,
+      "UD": 86
+    },
+    "raw_text": "MISS FT by HUNTER,TONE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "GRANT,MAKAI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GRANT,MAKAI",
+    "score": {
+      "Oak": 61,
+      "UD": 86
+    },
+    "raw_text": "REBOUND DEF by GRANT,MAKAI"
+  },
+  {
+    "period": 2,
+    "clock": "00:55",
+    "team": "UD",
+    "player": "UHL,BRADY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by UHL,BRADY(in the paint)",
+    "score": {
+      "Oak": 61,
+      "UD": 88
+    },
+    "raw_text": "GOOD JUMPER by UHL,BRADY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:49",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 61,
+      "UD": 88
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 61,
+      "UD": 88
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "00:45",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 64,
+      "UD": 88
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 64,
+      "UD": 88
+    },
+    "raw_text": "ASSIST  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "00:34",
+    "team": "UD",
+    "player": "SCHULER,ATTICUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SCHULER,ATTICUS",
+    "score": {
+      "Oak": 64,
+      "UD": 91
+    },
+    "raw_text": "GOOD 3PTR by SCHULER,ATTICUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UD",
+    "player": "DICKEY,EVAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DICKEY,EVAN",
+    "score": {
+      "Oak": 64,
+      "UD": 91
+    },
+    "raw_text": "ASSIST  by DICKEY,EVAN"
+  },
+  {
+    "period": 2,
+    "clock": "00:25",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 67,
+      "UD": 91
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  }
+]

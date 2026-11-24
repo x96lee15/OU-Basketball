@@ -1,0 +1,6332 @@
+[
+  {
+    "period": 1,
+    "clock": "19:46",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 0,
+      "NIU": 0
+    },
+    "raw_text": "MISS LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JAMES,LACEY",
+    "score": {
+      "Oak": 0,
+      "NIU": 0
+    },
+    "raw_text": "REBOUND OFF by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "19:43",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 0,
+      "NIU": 0
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "19:43",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 0,
+      "NIU": 0
+    },
+    "raw_text": "SUB IN by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 1,
+    "clock": "19:32",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GERMAN,EUGENE",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "GOOD JUMPER by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "19:14",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "REBOUND DEF by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "18:56",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MCCARTY,NOAH",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "MISS JUMPER by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "18:38",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 0,
+      "NIU": 2
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "18:16",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by DAOW,GAIRGES",
+    "score": {
+      "Oak": 0,
+      "NIU": 5
+    },
+    "raw_text": "GOOD 3PTR by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 0,
+      "NIU": 5
+    },
+    "raw_text": "ASSIST  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "17:43",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by SOWUNMI,BABATUNDE(in the paint)",
+    "score": {
+      "Oak": 0,
+      "NIU": 5
+    },
+    "raw_text": "MISS LAYUP by SOWUNMI,BABATUNDE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 0,
+      "NIU": 5
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "17:33",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 3,
+      "NIU": 5
+    },
+    "raw_text": "GOOD 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "17:17",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 3,
+      "NIU": 5
+    },
+    "raw_text": "TURNOVER  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "17:17",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 3,
+      "NIU": 5
+    },
+    "raw_text": "STEAL  by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "17:11",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 5,
+      "NIU": 5
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KANGU,KEVIN",
+    "score": {
+      "Oak": 5,
+      "NIU": 5
+    },
+    "raw_text": "ASSIST  by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "16:56",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GERMAN,EUGENE",
+    "score": {
+      "Oak": 5,
+      "NIU": 8
+    },
+    "raw_text": "GOOD 3PTR by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DAOW,GAIRGES",
+    "score": {
+      "Oak": 5,
+      "NIU": 8
+    },
+    "raw_text": "FOUL  by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 6,
+      "NIU": 8
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 6,
+      "NIU": 8
+    },
+    "raw_text": "SUB OUT by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 6,
+      "NIU": 8
+    },
+    "raw_text": "SUB OUT by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 6,
+      "NIU": 8
+    },
+    "raw_text": "SUB IN by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "Oak": 6,
+      "NIU": 8
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "16:37",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 7,
+      "NIU": 8
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "16:13",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 7,
+      "NIU": 8
+    },
+    "raw_text": "MISS LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 7,
+      "NIU": 8
+    },
+    "raw_text": "REBOUND OFF by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:09",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 7,
+      "NIU": 8
+    },
+    "raw_text": "MISS 3PTR by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 7,
+      "NIU": 8
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "15:48",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "TURNOVER  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAOW,GAIRGES",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "SUB OUT by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "SUB OUT by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEANE,DARIUS",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "SUB IN by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "15:36",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCOTT,NATHAN",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "SUB IN by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:16",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SCOTT,NATHAN",
+    "score": {
+      "Oak": 9,
+      "NIU": 8
+    },
+    "raw_text": "FOUL  by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "15:16",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 10,
+      "NIU": 8
+    },
+    "raw_text": "GOOD FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "15:16",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 10,
+      "NIU": 8
+    },
+    "raw_text": "MISS FT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 10,
+      "NIU": 8
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 10,
+      "NIU": 8
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "14:52",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SCOTT,NATHAN",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "GOOD 3PTR by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "ASSIST  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "14:33",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by KANGU,KEVIN",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "TURNOVER  by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "14:33",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "STEAL  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "14:27",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "MISS LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "TURNOVER  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 10,
+      "NIU": 11
+    },
+    "raw_text": "STEAL  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "14:03",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HANKERSON,TRENDON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "GOOD LAYUP by HANKERSON,TRENDON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:35",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "MISS 3PTR by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SCOTT,NATHAN",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "REBOUND DEF by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "13:12",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SCOTT,NATHAN",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "MISS 3PTR by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "TURNOVER  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:54",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 10,
+      "NIU": 13
+    },
+    "raw_text": "STEAL  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "GOOD LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:19",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "MISS LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SCOTT,NATHAN",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "REBOUND DEF by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GERMAN,EUGENE",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "MISS 3PTR by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 10,
+      "NIU": 15
+    },
+    "raw_text": "FOUL  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KANGU,KEVIN(fastbreak)",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "GOOD FT by KANGU,KEVIN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB OUT by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JAMES,LACEY",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB OUT by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GERMAN,EUGENE",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB OUT by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SCOTT,NATHAN",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB OUT by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB IN by JOHNSON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB IN by MATEEN,ZAIRE"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCCARTY,NOAH",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB IN by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COCHRAN,TYLER",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB IN by COCHRAN,TYLER"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 11,
+      "NIU": 15
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by KANGU,KEVIN(fastbreak)",
+    "score": {
+      "Oak": 12,
+      "NIU": 15
+    },
+    "raw_text": "GOOD FT by KANGU,KEVIN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "11:43",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "GOOD 3PTR by MATEEN,ZAIRE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "ASSIST  by JOHNSON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:08",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COCHRAN,TYLER(in the paint)",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "MISS LAYUP by COCHRAN,TYLER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 12,
+      "NIU": 18
+    },
+    "raw_text": "REBOUND DEF by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "10:54",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 14,
+      "NIU": 18
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 14,
+      "NIU": 18
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "10:37",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 14,
+      "NIU": 21
+    },
+    "raw_text": "GOOD 3PTR by MATEEN,ZAIRE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCCARTY,NOAH",
+    "score": {
+      "Oak": 14,
+      "NIU": 21
+    },
+    "raw_text": "ASSIST  by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "10:05",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "Oak": 16,
+      "NIU": 21
+    },
+    "raw_text": "GOOD LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:49",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BEANE,DARIUS",
+    "score": {
+      "Oak": 16,
+      "NIU": 21
+    },
+    "raw_text": "TURNOVER  by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "09:49",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by KANGU,KEVIN",
+    "score": {
+      "Oak": 16,
+      "NIU": 21
+    },
+    "raw_text": "STEAL  by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:32",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:15",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "MISS 3PTR by MATEEN,ZAIRE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:48",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by KANGU,KEVIN(in the paint)",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "MISS JUMPER by KANGU,KEVIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRECHTING,BRAD",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND OFF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "FOUL  by JOHNSON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by JOHNSON,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by MATEEN,ZAIRE"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COCHRAN,TYLER",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by COCHRAN,TYLER"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BEANE,DARIUS",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAOW,GAIRGES",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JAMES,LACEY",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GERMAN,EUGENE",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "08:45",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:25",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by KANGU,KEVIN",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "MISS 3PTR by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BRECHTING,BRAD",
+    "score": {
+      "Oak": 18,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND OFF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "08:11",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "ASSIST  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:59",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JAMES,LACEY",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "MISS 3PTR by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JAMES,LACEY",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "FOUL  by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "07:52",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:50",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAOW,GAIRGES",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEF by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JAMES,LACEY",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "MISS FT by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:33",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by JAMES,LACEY",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "MISS FT by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:12",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 20,
+      "NIU": 21
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "07:01",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DAOW,GAIRGES(in the paint)",
+    "score": {
+      "Oak": 20,
+      "NIU": 23
+    },
+    "raw_text": "GOOD LAYUP by DAOW,GAIRGES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 20,
+      "NIU": 23
+    },
+    "raw_text": "ASSIST  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "06:44",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "06:19",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "FOUL  by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "06:09",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JAMES,LACEY",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "MISS JUMPER by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:08",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DAOW,GAIRGES",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "FOUL  by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "06:08",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DAOW,GAIRGES",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "TURNOVER  by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "06:08",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JAMES,LACEY",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "SUB OUT by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "06:08",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCOTT,NATHAN",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "SUB IN by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "05:55",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAOW,GAIRGES",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "SUB OUT by DAOW,GAIRGES"
+  },
+  {
+    "period": 1,
+    "clock": "05:55",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEANE,DARIUS",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "SUB IN by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by KANGU,KEVIN",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "MISS 3PTR by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "05:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:18",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "MISS LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "05:12",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by KANGU,KEVIN(in the paint)",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "MISS LAYUP by KANGU,KEVIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 22,
+      "NIU": 23
+    },
+    "raw_text": "REBOUND OFF by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "05:08",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)",
+    "score": {
+      "Oak": 24,
+      "NIU": 23
+    },
+    "raw_text": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:53",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MCCARTY,NOAH(in the paint)",
+    "score": {
+      "Oak": 24,
+      "NIU": 25
+    },
+    "raw_text": "GOOD LAYUP by MCCARTY,NOAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:31",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 27,
+      "NIU": 25
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by KANGU,KEVIN",
+    "score": {
+      "Oak": 27,
+      "NIU": 25
+    },
+    "raw_text": "ASSIST  by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "04:07",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "GOOD 3PTR by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BEANE,DARIUS",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "ASSIST  by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "03:45",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS JUMPER by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GERMAN,EUGENE",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "TURNOVER  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS 3PTR by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:28",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "SUB OUT by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JAMES,LACEY",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "SUB IN by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "03:09",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BEANE,DARIUS(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS LAYUP by BEANE,DARIUS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 1,
+    "clock": "02:47",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "02:28",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GERMAN,EUGENE",
+    "score": {
+      "Oak": 27,
+      "NIU": 28
+    },
+    "raw_text": "REBOUND DEF by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "02:20",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by SCOTT,NATHAN(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "GOOD LAYUP by SCOTT,NATHAN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "ASSIST  by GERMAN,EUGENE"
+  },
+  {
+    "period": 1,
+    "clock": "01:59",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by KANGU,KEVIN",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "MISS 3PTR by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BEANE,DARIUS",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "REBOUND DEF by BEANE,DARIUS"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "FOUL  by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB OUT by HANKERSON,TRENDON"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COCHRAN,TYLER",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB IN by COCHRAN,TYLER"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB OUT by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KANGU,KEVIN",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB OUT by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB IN by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB IN by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 1,
+    "clock": "01:38",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SCOTT,NATHAN",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "TURNOVER  by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "TURNOVER  by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SCOTT,NATHAN",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB OUT by SCOTT,NATHAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCCARTY,NOAH",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB IN by MCCARTY,NOAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "FOUL  by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB OUT by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KANGU,KEVIN",
+    "score": {
+      "Oak": 27,
+      "NIU": 30
+    },
+    "raw_text": "SUB IN by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COCHRAN,TYLER",
+    "score": {
+      "Oak": 27,
+      "NIU": 31
+    },
+    "raw_text": "GOOD FT by COCHRAN,TYLER"
+  },
+  {
+    "period": 1,
+    "clock": "00:40",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by COCHRAN,TYLER",
+    "score": {
+      "Oak": 27,
+      "NIU": 31
+    },
+    "raw_text": "MISS FT by COCHRAN,TYLER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 27,
+      "NIU": 31
+    },
+    "raw_text": "REBOUND DEF by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "00:16",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 29,
+      "NIU": 31
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GERMAN,EUGENE",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "GOOD 3PTR by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COCHRAN,TYLER",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB OUT by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BEANE,DARIUS",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB OUT by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB IN by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAOW,GAIRGES",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB IN by DAOW,GAIRGES"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB OUT by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB IN by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "19:48",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "MISS JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "19:25",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "MISS LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 29,
+      "NIU": 34
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "19:00",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 34
+    },
+    "raw_text": "GOOD JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:38",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 34
+    },
+    "raw_text": "MISS LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:38",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 31,
+      "NIU": 34
+    },
+    "raw_text": "BLOCK  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "Oak": 31,
+      "NIU": 34
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "18:17",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 31,
+      "NIU": 34
+    },
+    "raw_text": "TURNOVER  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "18:02",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 36
+    },
+    "raw_text": "GOOD LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:43",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by KANGU,KEVIN(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 36
+    },
+    "raw_text": "MISS JUMPER by KANGU,KEVIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 31,
+      "NIU": 36
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "17:36",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GERMAN,EUGENE(fastbreak)",
+    "score": {
+      "Oak": 31,
+      "NIU": 39
+    },
+    "raw_text": "GOOD 3PTR by GERMAN,EUGENE(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 31,
+      "NIU": 39
+    },
+    "raw_text": "ASSIST  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "17:04",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by KANGU,KEVIN",
+    "score": {
+      "Oak": 31,
+      "NIU": 39
+    },
+    "raw_text": "MISS JUMPER by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 31,
+      "NIU": 39
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "16:50",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "GOOD LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:25",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "MISS LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "16:18",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MCCARTY,NOAH(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "MISS LAYUP by MCCARTY,NOAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "REBOUND DEF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:05",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by BRECHTING,BRAD(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "MISS LAYUP by BRECHTING,BRAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DAOW,GAIRGES(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "MISS LAYUP by DAOW,GAIRGES(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JAMES,LACEY",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "REBOUND OFF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "15:37",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JAMES,LACEY(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "MISS LAYUP by JAMES,LACEY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MCCARTY,NOAH",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "FOUL  by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB OUT by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAOW,GAIRGES",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB OUT by DAOW,GAIRGES"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JAMES,LACEY",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB OUT by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB IN by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEANE,DARIUS",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB IN by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCOTT,NATHAN",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB IN by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:34",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRIS,JACKIE",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "SUB IN by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "15:24",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "TURNOVER  by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "15:24",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BEANE,DARIUS",
+    "score": {
+      "Oak": 31,
+      "NIU": 41
+    },
+    "raw_text": "STEAL  by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "15:20",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by BEANE,DARIUS(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "GOOD LAYUP by BEANE,DARIUS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:20",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:20",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "SUB OUT by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "15:20",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "SUB IN by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "15:20",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BEANE,DARIUS(fastbreak)",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "MISS FT by BEANE,DARIUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:03",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HARRIS,JACKIE",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "MISS 3PTR by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:46",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BEANE,DARIUS",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "MISS 3PTR by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SCOTT,NATHAN",
+    "score": {
+      "Oak": 31,
+      "NIU": 43
+    },
+    "raw_text": "FOUL  by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "GOOD FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "SUB OUT by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "SUB IN by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "14:26",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "MISS FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "14:13",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SCOTT,NATHAN",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "MISS 3PTR by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND OFF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "14:07",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by SCOTT,NATHAN(in the paint)",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "MISS LAYUP by SCOTT,NATHAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "14:07",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "BLOCK  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HARRIS,JACKIE",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "REBOUND DEF by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "13:59",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "FOUL  by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "13:58",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by KANGU,KEVIN",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "TURNOVER  by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "13:58",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 43
+    },
+    "raw_text": "STEAL  by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "13:52",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BEANE,DARIUS(fastbreak)",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "GOOD JUMPER by BEANE,DARIUS(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "ASSIST  by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "13:34",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "FOUL  by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "13:34",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SCOTT,NATHAN",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "SUB OUT by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:34",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "SUB IN by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:21",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "FOUL  by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "13:18",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HARRIS,JACKIE",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "MISS 3PTR by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "13:05",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GERMAN,EUGENE",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "MISS 3PTR by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by KANGU,KEVIN",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "TURNOVER  by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 32,
+      "NIU": 45
+    },
+    "raw_text": "STEAL  by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "12:39",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by GERMAN,EUGENE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "GOOD DUNK by GERMAN,EUGENE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB OUT by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GERMAN,EUGENE",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB OUT by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB IN by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COCHRAN,TYLER",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB IN by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KANGU,KEVIN",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB OUT by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRIS,JACKIE",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB OUT by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB IN by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 32,
+      "NIU": 47
+    },
+    "raw_text": "SUB IN by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 2,
+    "clock": "11:57",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JAMES,LACEY",
+    "score": {
+      "Oak": 32,
+      "NIU": 50
+    },
+    "raw_text": "GOOD 3PTR by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BEANE,DARIUS",
+    "score": {
+      "Oak": 32,
+      "NIU": 50
+    },
+    "raw_text": "ASSIST  by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "11:33",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 32,
+      "NIU": 50
+    },
+    "raw_text": "FOUL  by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:33",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 32,
+      "NIU": 50
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 32,
+      "NIU": 50
+    },
+    "raw_text": "FOUL  by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 33,
+      "NIU": 50
+    },
+    "raw_text": "GOOD FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 33,
+      "NIU": 50
+    },
+    "raw_text": "SUB OUT by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SCOTT,NATHAN",
+    "score": {
+      "Oak": 33,
+      "NIU": 50
+    },
+    "raw_text": "SUB IN by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "GOOD FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "11:01",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "MISS JUMPER by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "REBOUND DEF by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SCOTT,NATHAN",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "FOUL  by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "NIU",
+    "player": "SCOTT,NATHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SCOTT,NATHAN",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "SUB OUT by SCOTT,NATHAN"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MCCARTY,NOAH",
+    "score": {
+      "Oak": 34,
+      "NIU": 50
+    },
+    "raw_text": "SUB IN by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX JR.,TRAY(fastbreak)",
+    "score": {
+      "Oak": 35,
+      "NIU": 50
+    },
+    "raw_text": "GOOD FT by MADDOX JR.,TRAY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "10:56",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MADDOX JR.,TRAY(fastbreak)",
+    "score": {
+      "Oak": 35,
+      "NIU": 50
+    },
+    "raw_text": "MISS FT by MADDOX JR.,TRAY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JAMES,LACEY",
+    "score": {
+      "Oak": 35,
+      "NIU": 50
+    },
+    "raw_text": "REBOUND DEF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "10:40",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MCCARTY,NOAH",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "GOOD 3PTR by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "ASSIST  by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "10:21",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:14",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COCHRAN,TYLER",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "MISS 3PTR by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "10:05",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BEANE,DARIUS",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "REBOUND DEF by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:47",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BEANE,DARIUS",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "SUB OUT by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:47",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GERMAN,EUGENE",
+    "score": {
+      "Oak": 35,
+      "NIU": 53
+    },
+    "raw_text": "SUB IN by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "09:44",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "GOOD JUMPER by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:27",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "FOUL  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "MISS FT by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "SUB IN by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "09:04",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "MISS FT by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 35,
+      "NIU": 55
+    },
+    "raw_text": "REBOUND DEF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "08:44",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "GOOD 3PTR by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "ASSIST  by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "08:22",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MCCARTY,NOAH(in the paint)",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "MISS LAYUP by MCCARTY,NOAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JAMES,LACEY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "REBOUND OFF by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "FOUL TECH by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL TECH by JAMES,LACEY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "FOUL TECH by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JAMES,LACEY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "TURNOVER  by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "NIU",
+    "player": "JAMES,LACEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JAMES,LACEY",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "SUB OUT by JAMES,LACEY"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "NIU",
+    "player": "COLE,KEENON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,KEENON",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "SUB IN by COLE,KEENON"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "SUB OUT by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KANGU,KEVIN",
+    "score": {
+      "Oak": 38,
+      "NIU": 55
+    },
+    "raw_text": "SUB IN by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "08:04",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 38,
+      "NIU": 58
+    },
+    "raw_text": "GOOD 3PTR by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MCCARTY,NOAH",
+    "score": {
+      "Oak": 38,
+      "NIU": 58
+    },
+    "raw_text": "ASSIST  by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "NIU",
+    "player": "COLE,KEENON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,KEENON",
+    "score": {
+      "Oak": 38,
+      "NIU": 58
+    },
+    "raw_text": "FOUL  by COLE,KEENON"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 39,
+      "NIU": 58
+    },
+    "raw_text": "GOOD FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "07:45",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 40,
+      "NIU": 58
+    },
+    "raw_text": "GOOD FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "07:27",
+    "team": "NIU",
+    "player": "COLE,KEENON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,KEENON",
+    "score": {
+      "Oak": 40,
+      "NIU": 58
+    },
+    "raw_text": "MISS 3PTR by COLE,KEENON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by KANGU,KEVIN",
+    "score": {
+      "Oak": 40,
+      "NIU": 58
+    },
+    "raw_text": "REBOUND DEF by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "07:06",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 40,
+      "NIU": 58
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "06:44",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "GOOD 3PTR by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "ASSIST  by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "06:15",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by KANGU,KEVIN",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "MISS 3PTR by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:12",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KANGU,KEVIN",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "SUB OUT by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "06:12",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "SUB IN by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 2,
+    "clock": "06:07",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "MISS 3PTR by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COCHRAN,TYLER",
+    "score": {
+      "Oak": 40,
+      "NIU": 61
+    },
+    "raw_text": "REBOUND DEF by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MCCARTY,NOAH(in the paint)",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "GOOD JUMPER by MCCARTY,NOAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB OUT by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "GETTELFINGER,CHRISTO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GETTELFINGER,CHRISTO",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB OUT by GETTELFINGER,CHRISTO"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB IN by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB IN by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRIS,JACKIE",
+    "score": {
+      "Oak": 40,
+      "NIU": 63
+    },
+    "raw_text": "SUB IN by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "05:18",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NIU": 63
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:00",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GERMAN,EUGENE(in the paint)",
+    "score": {
+      "Oak": 42,
+      "NIU": 65
+    },
+    "raw_text": "GOOD LAYUP by GERMAN,EUGENE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:35",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 42,
+      "NIU": 65
+    },
+    "raw_text": "MISS 3PTR by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MCCARTY,NOAH",
+    "score": {
+      "Oak": 42,
+      "NIU": 65
+    },
+    "raw_text": "REBOUND DEF by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "04:17",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "GOOD 3PTR by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COCHRAN,TYLER",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "ASSIST  by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GERMAN,EUGENE",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "FOUL  by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "HANKERSON,TRENDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HANKERSON,TRENDON",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by HANKERSON,TRENDON"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "GERMAN,EUGENE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GERMAN,EUGENE",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by GERMAN,EUGENE"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "MCCARTY,NOAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MCCARTY,NOAH",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by MCCARTY,NOAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COCHRAN,TYLER",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAOW,GAIRGES",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by DAOW,GAIRGES"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BEANE,DARIUS",
+    "score": {
+      "Oak": 42,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 43,
+      "NIU": 68
+    },
+    "raw_text": "GOOD FT by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "03:53",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "GOOD FT by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "03:33",
+    "team": "NIU",
+    "player": "JOHNSON,CHRIS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JOHNSON,CHRIS",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "TURNOVER  by JOHNSON,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:33",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "STEAL  by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 2,
+    "clock": "03:19",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BEANE,DARIUS",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "REBOUND DEF by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "03:09",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BEANE,DARIUS",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "TURNOVER  by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "03:09",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "STEAL  by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 2,
+    "clock": "03:03",
+    "team": "Oak",
+    "player": "SOWUNMI,BABATUNDE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SOWUNMI,BABATUNDE",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "MISS JUMPER by SOWUNMI,BABATUNDE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BEANE,DARIUS",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "REBOUND DEF by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "02:46",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "MISS 3PTR by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HARRIS,JACKIE",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "REBOUND DEF by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "Oak",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "Oak",
+    "player": "PITTMAN JR.,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN JR.,KENNY",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by PITTMAN JR.,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "NIU",
+    "player": "BEANE,DARIUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BEANE,DARIUS",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "SUB OUT by BEANE,DARIUS"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COCHRAN,TYLER",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "SUB IN by COCHRAN,TYLER"
+  },
+  {
+    "period": 2,
+    "clock": "02:20",
+    "team": "NIU",
+    "player": "DAOW,GAIRGES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DAOW,GAIRGES",
+    "score": {
+      "Oak": 44,
+      "NIU": 68
+    },
+    "raw_text": "FOUL  by DAOW,GAIRGES"
+  },
+  {
+    "period": 2,
+    "clock": "02:20",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 45,
+      "NIU": 68
+    },
+    "raw_text": "GOOD FT by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "02:20",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 46,
+      "NIU": 68
+    },
+    "raw_text": "GOOD FT by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "02:03",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COCHRAN,TYLER(in the paint)",
+    "score": {
+      "Oak": 46,
+      "NIU": 68
+    },
+    "raw_text": "MISS JUMPER by COCHRAN,TYLER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 46,
+      "NIU": 68
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:53",
+    "team": "NIU",
+    "player": "COLE,KEENON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COLE,KEENON(in the paint)",
+    "score": {
+      "Oak": 46,
+      "NIU": 70
+    },
+    "raw_text": "GOOD JUMPER by COLE,KEENON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:39",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "NIU": 70
+    },
+    "raw_text": "GOOD LAYUP by MADDOX JR.,TRAY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:19",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COCHRAN,TYLER(in the paint)",
+    "score": {
+      "Oak": 48,
+      "NIU": 72
+    },
+    "raw_text": "GOOD LAYUP by COCHRAN,TYLER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 48,
+      "NIU": 72
+    },
+    "raw_text": "MISS 3PTR by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HARRIS,JACKIE",
+    "score": {
+      "Oak": 48,
+      "NIU": 72
+    },
+    "raw_text": "REBOUND OFF by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "00:56",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HARRIS,JACKIE(in the paint)",
+    "score": {
+      "Oak": 48,
+      "NIU": 72
+    },
+    "raw_text": "MISS LAYUP by HARRIS,JACKIE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 48,
+      "NIU": 72
+    },
+    "raw_text": "REBOUND DEF by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "00:51",
+    "team": "NIU",
+    "player": "COCHRAN,TYLER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COCHRAN,TYLER(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 48,
+      "NIU": 74
+    },
+    "raw_text": "GOOD JUMPER by COCHRAN,TYLER(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 48,
+      "NIU": 74
+    },
+    "raw_text": "ASSIST  by MATEEN,ZAIRE"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "NIU",
+    "player": "COLE,KEENON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,KEENON",
+    "score": {
+      "Oak": 48,
+      "NIU": 74
+    },
+    "raw_text": "FOUL  by COLE,KEENON"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX JR.,TRAY(fastbreak)",
+    "score": {
+      "Oak": 49,
+      "NIU": 74
+    },
+    "raw_text": "GOOD FT by MADDOX JR.,TRAY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX JR.,TRAY(fastbreak)",
+    "score": {
+      "Oak": 50,
+      "NIU": 74
+    },
+    "raw_text": "GOOD FT by MADDOX JR.,TRAY(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MATEEN,ZAIRE(in the paint)",
+    "score": {
+      "Oak": 50,
+      "NIU": 74
+    },
+    "raw_text": "MISS LAYUP by MATEEN,ZAIRE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MADDOX JR.,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX JR.,TRAY",
+    "score": {
+      "Oak": 50,
+      "NIU": 74
+    },
+    "raw_text": "REBOUND DEF by MADDOX JR.,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "00:24",
+    "team": "Oak",
+    "player": "HARRIS,JACKIE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HARRIS,JACKIE",
+    "score": {
+      "Oak": 50,
+      "NIU": 74
+    },
+    "raw_text": "MISS 3PTR by HARRIS,JACKIE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "NIU",
+    "player": "MATEEN,ZAIRE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MATEEN,ZAIRE",
+    "score": {
+      "Oak": 50,
+      "NIU": 74
+    },
+    "raw_text": "REBOUND DEF by MATEEN,ZAIRE"
+  }
+]

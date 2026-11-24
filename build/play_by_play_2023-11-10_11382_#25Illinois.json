@@ -1,0 +1,6257 @@
+[
+  {
+    "period": 1,
+    "clock": "19:44",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 2,
+      "Illini": 0
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "19:15",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 2,
+      "Illini": 0
+    },
+    "raw_text": "MISS JUMPER by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 2,
+      "Illini": 0
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "18:58",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 5,
+      "Illini": 0
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "18:42",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 5,
+      "Illini": 0
+    },
+    "raw_text": "TURNOVER  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "18:42",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 5,
+      "Illini": 0
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "18:35",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)",
+    "score": {
+      "Oak": 8,
+      "Illini": 0
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GOHLKE,JACK",
+    "score": {
+      "Oak": 8,
+      "Illini": 0
+    },
+    "raw_text": "ASSIST  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "18:34",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 8,
+      "Illini": 0
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "18:17",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "GOOD LAYUP by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "ASSIST  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "17:47",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "17:30",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DOMASK,MARCUS",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "TURNOVER  by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "17:30",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "STEAL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "17:07",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "16:50",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "MISS 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "Oak": 8,
+      "Illini": 2
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "16:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 10,
+      "Illini": 2
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:10",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 10,
+      "Illini": 2
+    },
+    "raw_text": "MISS 3PTR by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 10,
+      "Illini": 2
+    },
+    "raw_text": "REBOUND OFF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAWKINS,COLEMAN(in the paint)",
+    "score": {
+      "Oak": 10,
+      "Illini": 4
+    },
+    "raw_text": "GOOD LAYUP by HAWKINS,COLEMAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:52",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 10,
+      "Illini": 4
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:52",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 10,
+      "Illini": 4
+    },
+    "raw_text": "STEAL  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by SHANNON JR.,TERRENCE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "GOOD LAYUP by SHANNON JR.,TERRENCE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATTS,ROCKET",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "FOUL  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,LUKE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "15:50",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLK,AUNDRE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "15:49",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by SHANNON JR.,TERRENCE(fastbreak)",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "MISS FT by SHANNON JR.,TERRENCE(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "REBOUND DEF by GOODE,LUKE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "REBOUND DEF by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "15:03",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "MISS LAYUP by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:44",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:41",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RODGERS,TY",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "14:41",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by POLK,AUNDRE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "FOUL  by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by POLK,AUNDRE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "TURNOVER  by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLK,AUNDRE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "TURNOVER  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "14:23",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GOHLKE,JACK",
+    "score": {
+      "Oak": 10,
+      "Illini": 6
+    },
+    "raw_text": "STEAL  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "14:19",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "GOOD LAYUP by JONES,ISAIAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GOHLKE,JACK",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "ASSIST  by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "MISS FT by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DOMASK,MARCUS",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARMON,JUSTIN",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by HARMON,JUSTIN"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAINJA,DAIN",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 12,
+      "Illini": 6
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "GOOD FT by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "13:59",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COLE,DQ",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS JUMPER by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:57",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "13:44",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:15",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS JUMPER by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB OUT by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DOMASK,MARCUS",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB IN by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "13:08",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS JUMPER by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "12:49",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GIBBS-LAWHORN,DRA(in the paint)",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS LAYUP by GIBBS-LAWHORN,DRA(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:40",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by COLE,DQ",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "BLOCK  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND OFF by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "12:31",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "MISS 3PTR by GOODE,LUKE",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "MISS 3PTR by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COLE,DQ",
+    "score": {
+      "Oak": 12,
+      "Illini": 7
+    },
+    "raw_text": "REBOUND DEF by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "12:09",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Illini": 7
+    },
+    "raw_text": "GOOD JUMPER by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:45",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "GOOD LAYUP by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "11:38",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "REBOUND DEF by GOODE,LUKE",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "REBOUND DEF by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HUNTER,TONE",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "FOUL  by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,LUKE",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB OUT by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB IN by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "11:20",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 14,
+      "Illini": 9
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:00",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Illini": 11
+    },
+    "raw_text": "GOOD LAYUP by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:46",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by DAINJA,DAIN",
+    "score": {
+      "Oak": 14,
+      "Illini": 11
+    },
+    "raw_text": "FOUL  by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:46",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 15,
+      "Illini": 11
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 15,
+      "Illini": 11
+    },
+    "raw_text": "MISS FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 15,
+      "Illini": 11
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "10:32",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 15,
+      "Illini": 11
+    },
+    "raw_text": "SUB IN by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "10:32",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARMON,JUSTIN",
+    "score": {
+      "Oak": 15,
+      "Illini": 11
+    },
+    "raw_text": "SUB OUT by HARMON,JUSTIN"
+  },
+  {
+    "period": 1,
+    "clock": "10:22",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 13
+    },
+    "raw_text": "GOOD JUMPER by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 15,
+      "Illini": 13
+    },
+    "raw_text": "ASSIST  by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "10:03",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 13
+    },
+    "raw_text": "MISS LAYUP by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 15,
+      "Illini": 13
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "09:52",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "GOOD DUNK by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "ASSIST  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "09:24",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GOHLKE,JACK",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "09:16",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RODGERS,TY",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "09:15",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS FT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS JUMPER by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "08:52",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by DAINJA,DAIN",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "BLOCK  by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "08:43",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:43",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS DUNK by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:55",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:47",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SHANNON JR.,TERRENCE(in the paint)",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "MISS JUMPER by SHANNON JR.,TERRENCE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "REBOUND OFF by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "FOUL  by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DOMASK,MARCUS",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAINJA,DAIN",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB OUT by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 15,
+      "Illini": 15
+    },
+    "raw_text": "SUB IN by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 15,
+      "Illini": 16
+    },
+    "raw_text": "GOOD FT by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "07:46",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 15,
+      "Illini": 17
+    },
+    "raw_text": "GOOD FT by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "07:27",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 17,
+      "Illini": 17
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:09",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "GOOD DUNK by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "ASSIST  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "06:51",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "FOUL  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "06:51",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "06:51",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by POLK,AUNDRE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB IN by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "06:32",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by POLK,AUNDRE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS JUMPER by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:24",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND DEF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "06:14",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by SHANNON JR.,TERRENCE(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS LAYUP by SHANNON JR.,TERRENCE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by POLK,AUNDRE(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS JUMPER by POLK,AUNDRE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS 3PTR by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB OUT by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB OUT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DOMASK,MARCUS",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB IN by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,LUKE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB IN by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Oak",
+    "player": "POLK,AUNDRE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by POLK,AUNDRE",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB OUT by POLK,AUNDRE"
+  },
+  {
+    "period": 1,
+    "clock": "05:28",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "05:17",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DOMASK,MARCUS",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS JUMPER by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GOHLKE,JACK",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND DEF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "04:48",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RODGERS,TY",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "FOUL  by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "04:45",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GOHLKE,JACK",
+    "score": {
+      "Oak": 17,
+      "Illini": 19
+    },
+    "raw_text": "REBOUND OFF by GOHLKE,JACK"
+  },
+  {
+    "period": 1,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 19,
+      "Illini": 19
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:28",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "FOUL  by GOODE,LUKE",
+    "score": {
+      "Oak": 19,
+      "Illini": 19
+    },
+    "raw_text": "FOUL  by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 20,
+      "Illini": 19
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 20,
+      "Illini": 19
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:28",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "Oak": 20,
+      "Illini": 19
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "04:06",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HAWKINS,COLEMAN(in the paint)",
+    "score": {
+      "Oak": 20,
+      "Illini": 21
+    },
+    "raw_text": "GOOD JUMPER by HAWKINS,COLEMAN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:49",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "GOOD 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "03:33",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "MISS 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JONES,ISAIAH",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "REBOUND DEF by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "03:05",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PRICE,OSEI",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "REBOUND OFF by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "03:01",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PRICE,OSEI(in the paint)",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "MISS JUMPER by PRICE,OSEI(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by RODGERS,TY",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "REBOUND DEF by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "02:51",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "MISS JUMPER by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "02:32",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 23,
+      "Illini": 21
+    },
+    "raw_text": "REBOUND DEF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "GOOD LAYUP by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by DOMASK,MARCUS",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "ASSIST  by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JONES,ISAIAH",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "FOUL  by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DOMASK,MARCUS",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB OUT by DOMASK,MARCUS"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,LUKE",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB OUT by GOODE,LUKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB IN by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAINJA,DAIN",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB IN by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "02:19",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by RODGERS,TY",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "MISS FT by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 23,
+      "Illini": 23
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RODGERS,TY",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "SUB OUT by RODGERS,TY"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARMON,JUSTIN",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "SUB IN by HARMON,JUSTIN"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "02:02",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "01:50",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "MISS JUMPER by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:48",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COLE,DQ",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "FOUL  by COLE,DQ"
+  },
+  {
+    "period": 1,
+    "clock": "01:48",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HARMON,JUSTIN",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "MISS FT by HARMON,JUSTIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 25,
+      "Illini": 23
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:48",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HARMON,JUSTIN",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "GOOD FT by HARMON,JUSTIN"
+  },
+  {
+    "period": 1,
+    "clock": "01:40",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "FOUL  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:40",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "01:40",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WATTS,ROCKET",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "TURNOVER  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "01:27",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 25,
+      "Illini": 24
+    },
+    "raw_text": "STEAL  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "01:23",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by SHANNON JR.,TERRENCE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Illini": 26
+    },
+    "raw_text": "GOOD DUNK by SHANNON JR.,TERRENCE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Illini": 26
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 25,
+      "Illini": 26
+    },
+    "raw_text": "REBOUND DEF by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 1,
+    "clock": "00:55",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "GOOD LAYUP by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "ASSIST  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 1,
+    "clock": "00:55",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:55",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by DAINJA,DAIN",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "MISS FT by DAINJA,DAIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:55",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "00:55",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:39",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "TURNOVER  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:32",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:32",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:32",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 1,
+    "clock": "00:32",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:32",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 25,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 1,
+    "clock": "00:13",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "GOOD DUNK by NAIVALURUA,TUBURU(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HARMON,JUSTIN(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "MISS JUMPER by HARMON,JUSTIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "HARMON,JUSTIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARMON,JUSTIN",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by HARMON,JUSTIN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAINJA,DAIN",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DOMASK,MARCUS",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RODGERS,TY",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "19:46",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HAWKINS,COLEMAN(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "MISS JUMPER by HAWKINS,COLEMAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "REBOUND OFF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "19:45",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 27,
+      "Illini": 28
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "19:45",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 27,
+      "Illini": 29
+    },
+    "raw_text": "GOOD FT by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "19:45",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 27,
+      "Illini": 30
+    },
+    "raw_text": "GOOD FT by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "19:30",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 27,
+      "Illini": 30
+    },
+    "raw_text": "FOUL  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "19:30",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 28,
+      "Illini": 30
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "19:30",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "19:15",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DOMASK,MARCUS",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "MISS 3PTR by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:50",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "MISS 3PTR by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "18:39",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 29,
+      "Illini": 30
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:29",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 29,
+      "Illini": 32
+    },
+    "raw_text": "GOOD JUMPER by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 29,
+      "Illini": 32
+    },
+    "raw_text": "ASSIST  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "18:09",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 29,
+      "Illini": 32
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 29,
+      "Illini": 32
+    },
+    "raw_text": "REBOUND DEF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "17:54",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 29,
+      "Illini": 35
+    },
+    "raw_text": "GOOD 3PTR by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 29,
+      "Illini": 35
+    },
+    "raw_text": "ASSIST  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "17:25",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 31,
+      "Illini": 35
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:03",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 31,
+      "Illini": 35
+    },
+    "raw_text": "TURNOVER  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "17:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 31,
+      "Illini": 35
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:42",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 33,
+      "Illini": 35
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:27",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 33,
+      "Illini": 35
+    },
+    "raw_text": "MISS 3PTR by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 33,
+      "Illini": 35
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "16:19",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CONWAY,CHRIS(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 35,
+      "Illini": 35
+    },
+    "raw_text": "GOOD DUNK by CONWAY,CHRIS(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 35,
+      "Illini": 35
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:53",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DOMASK,MARCUS(in the paint)",
+    "score": {
+      "Oak": 35,
+      "Illini": 37
+    },
+    "raw_text": "GOOD JUMPER by DOMASK,MARCUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:33",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "15:05",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by RODGERS,TY",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "TURNOVER  by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "15:05",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by RODGERS,TY",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "FOUL  by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB OUT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RODGERS,TY",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB OUT by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB OUT by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB IN by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,LUKE",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB IN by GOODE,LUKE"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DAINJA,DAIN",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB IN by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 37,
+      "Illini": 37
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 38,
+      "Illini": 37
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "14:38",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "14:27",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "TURNOVER  by GOODE,LUKE",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "TURNOVER  by GOODE,LUKE"
+  },
+  {
+    "period": 2,
+    "clock": "14:27",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HUNTER,TONE",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "STEAL  by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "14:10",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:00",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "MISS DUNK by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 39,
+      "Illini": 37
+    },
+    "raw_text": "REBOUND DEF by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "13:43",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by DOMASK,MARCUS",
+    "score": {
+      "Oak": 39,
+      "Illini": 40
+    },
+    "raw_text": "GOOD 3PTR by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 39,
+      "Illini": 40
+    },
+    "raw_text": "ASSIST  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HUNTER,TONE(in the paint)",
+    "score": {
+      "Oak": 41,
+      "Illini": 40
+    },
+    "raw_text": "GOOD JUMPER by HUNTER,TONE(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 41,
+      "Illini": 40
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:20",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 41,
+      "Illini": 40
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "13:03",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by DOMASK,MARCUS(in the paint)",
+    "score": {
+      "Oak": 41,
+      "Illini": 42
+    },
+    "raw_text": "GOOD JUMPER by DOMASK,MARCUS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:39",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DOMASK,MARCUS",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "TURNOVER  by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Illini",
+    "player": "GIBBS-LAWHORN,DRA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GIBBS-LAWHORN,DRA",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by GIBBS-LAWHORN,DRA"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GOHLKE,JACK",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "11:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:39",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "MISS LAYUP by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COLE,DQ",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GOHLKE,JACK",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JONES,ISAIAH",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:27",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "11:23",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:09",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by DOMASK,MARCUS",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "TURNOVER  by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "11:09",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 43,
+      "Illini": 42
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:47",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 42
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:25",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DOMASK,MARCUS",
+    "score": {
+      "Oak": 45,
+      "Illini": 42
+    },
+    "raw_text": "MISS 3PTR by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "Oak": 45,
+      "Illini": 42
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:05",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GOHLKE,JACK",
+    "score": {
+      "Oak": 45,
+      "Illini": 42
+    },
+    "raw_text": "TURNOVER  by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "10:05",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 45,
+      "Illini": 42
+    },
+    "raw_text": "STEAL  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "10:00",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by SHANNON JR.,TERRENCE(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "GOOD DUNK by SHANNON JR.,TERRENCE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:42",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DOMASK,MARCUS",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "SUB OUT by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB OUT by GOODE,LUKE",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "SUB OUT by GOODE,LUKE"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by RODGERS,TY",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "SUB IN by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "SUB IN by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "09:21",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by DAINJA,DAIN",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "MISS FT by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:19",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by DAINJA,DAIN",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "MISS FT by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "08:55",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:55",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "BLOCK  by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "08:50",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 45,
+      "Illini": 44
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "08:42",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "GOOD LAYUP by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by RODGERS,TY",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "ASSIST  by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "08:17",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JONES,ISAIAH",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "MISS 3PTR by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "07:54",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HAWKINS,COLEMAN(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "MISS JUMPER by HAWKINS,COLEMAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by RODGERS,TY",
+    "score": {
+      "Oak": 45,
+      "Illini": 46
+    },
+    "raw_text": "REBOUND OFF by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "07:49",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 45,
+      "Illini": 48
+    },
+    "raw_text": "GOOD LAYUP by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "07:32",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 48,
+      "Illini": 48
+    },
+    "raw_text": "GOOD 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "GOOD 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "ASSIST  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:38",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by DAINJA,DAIN",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "REBOUND DEF by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "06:18",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by DAINJA,DAIN(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "MISS JUMPER by DAINJA,DAIN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 51
+    },
+    "raw_text": "REBOUND OFF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "06:14",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "GOOD LAYUP by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "ASSIST  by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "05:41",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "MISS JUMPER by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JONES,ISAIAH",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "REBOUND OFF by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "JONES,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JONES,ISAIAH",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "SUB OUT by JONES,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "SUB IN by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "05:39",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HUNTER,TONE",
+    "score": {
+      "Oak": 48,
+      "Illini": 53
+    },
+    "raw_text": "SUB IN by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "05:15",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by RODGERS,TY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "GOOD JUMPER by RODGERS,TY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:53",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND OFF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:47",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "FOUL  by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "04:47",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:47",
+    "team": "Illini",
+    "player": "DAINJA,DAIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by DAINJA,DAIN",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "SUB OUT by DAINJA,DAIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:47",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "SUB IN by GOODE,LUKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "SUB IN by GOODE,LUKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:46",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS FT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND DEF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "04:28",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS JUMPER by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND DEF by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "04:04",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:56",
+    "team": "Illini",
+    "player": "GOODE,LUKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "MISS 3PTR by GOODE,LUKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "MISS 3PTR by GOODE,LUKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "REBOUND OFF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "03:51",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "03:51",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 48,
+      "Illini": 55
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:51",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 56
+    },
+    "raw_text": "GOOD FT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "03:51",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 57
+    },
+    "raw_text": "GOOD FT by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "03:34",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 57
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 48,
+      "Illini": 57
+    },
+    "raw_text": "REBOUND DEF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "03:16",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "GOOD LAYUP by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "ASSIST  by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "NAIVALURUA,TUBURU",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NAIVALURUA,TUBURU",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB OUT by NAIVALURUA,TUBURU"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Illini",
+    "player": "RODGERS,TY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by RODGERS,TY",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB OUT by RODGERS,TY"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by DOMASK,MARCUS",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB IN by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "02:48",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COLE,DQ",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "SUB IN by COLE,DQ"
+  },
+  {
+    "period": 2,
+    "clock": "02:29",
+    "team": "Illini",
+    "player": "DOMASK,MARCUS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by DOMASK,MARCUS",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "MISS 3PTR by DOMASK,MARCUS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "02:10",
+    "team": "Oak",
+    "player": "GOHLKE,JACK",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GOHLKE,JACK",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "MISS 3PTR by GOHLKE,JACK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GUERRIER,QUINCY",
+    "score": {
+      "Oak": 48,
+      "Illini": 59
+    },
+    "raw_text": "REBOUND DEF by GUERRIER,QUINCY"
+  },
+  {
+    "period": 2,
+    "clock": "01:43",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "GOOD 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HUNTER,TONE",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "TURNOVER  by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "Oak",
+    "player": "HUNTER,TONE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HUNTER,TONE",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "SUB OUT by HUNTER,TONE"
+  },
+  {
+    "period": 2,
+    "clock": "01:28",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "01:09",
+    "team": "Illini",
+    "player": "SHANNON JR.,TERRENCE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SHANNON JR.,TERRENCE",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "MISS 3PTR by SHANNON JR.,TERRENCE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAWKINS,COLEMAN",
+    "score": {
+      "Oak": 48,
+      "Illini": 62
+    },
+    "raw_text": "REBOUND OFF by HAWKINS,COLEMAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:03",
+    "team": "Illini",
+    "player": "HAWKINS,COLEMAN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAWKINS,COLEMAN(in the paint)",
+    "score": {
+      "Oak": 48,
+      "Illini": 64
+    },
+    "raw_text": "GOOD LAYUP by HAWKINS,COLEMAN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:46",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "Oak": 50,
+      "Illini": 64
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:23",
+    "team": "Illini",
+    "player": "GUERRIER,QUINCY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by GUERRIER,QUINCY(in the paint)",
+    "score": {
+      "Oak": 50,
+      "Illini": 64
+    },
+    "raw_text": "MISS LAYUP by GUERRIER,QUINCY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "Oak": 50,
+      "Illini": 64
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:04",
+    "team": "Oak",
+    "player": "COLE,DQ",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COLE,DQ",
+    "score": {
+      "Oak": 53,
+      "Illini": 64
+    },
+    "raw_text": "GOOD 3PTR by COLE,DQ"
+  }
+]

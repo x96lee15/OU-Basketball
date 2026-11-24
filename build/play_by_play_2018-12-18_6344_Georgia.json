@@ -1,0 +1,7472 @@
+[
+  {
+    "period": 1,
+    "clock": "19:46",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "MISS LAYUP by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "19:24",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BRECHTING,BRAD",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "MISS JUMPER by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "19:24",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "BLOCK  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 0,
+      "UGA": 0
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 0,
+      "UGA": 1
+    },
+    "raw_text": "GOOD FT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 0,
+      "UGA": 2
+    },
+    "raw_text": "GOOD FT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "18:54",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 0,
+      "UGA": 2
+    },
+    "raw_text": "FOUL  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "18:54",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 1,
+      "UGA": 2
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "18:54",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "18:32",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "MISS 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "REBOUND OFF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "18:28",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS TIPIN by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "MISS TIPIN by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "18:10",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 2,
+      "UGA": 2
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "18:02",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 2,
+      "UGA": 5
+    },
+    "raw_text": "GOOD 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 2,
+      "UGA": 5
+    },
+    "raw_text": "ASSIST  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "17:41",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 2,
+      "UGA": 5
+    },
+    "raw_text": "FOUL  by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "17:41",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 3,
+      "UGA": 5
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "17:41",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MADDOX,TRAY",
+    "score": {
+      "OAK": 4,
+      "UGA": 5
+    },
+    "raw_text": "GOOD FT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 4,
+      "UGA": 8
+    },
+    "raw_text": "GOOD 3PTR by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 4,
+      "UGA": 8
+    },
+    "raw_text": "ASSIST  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "17:05",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 4,
+      "UGA": 8
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 4,
+      "UGA": 8
+    },
+    "raw_text": "REBOUND DEF by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "16:57",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 4,
+      "UGA": 8
+    },
+    "raw_text": "TURNOVER  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "16:40",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MADDOX,TRAY",
+    "score": {
+      "OAK": 7,
+      "UGA": 8
+    },
+    "raw_text": "GOOD 3PTR by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 8
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "16:22",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 8
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "16:12",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 7,
+      "UGA": 8
+    },
+    "raw_text": "MISS LAYUP by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 8
+    },
+    "raw_text": "REBOUND OFF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "16:08",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by CLAXTON,NICOLAS(in the paint)",
+    "score": {
+      "OAK": 7,
+      "UGA": 10
+    },
+    "raw_text": "GOOD TIPIN by CLAXTON,NICOLAS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:01",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 7,
+      "UGA": 10
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 10
+    },
+    "raw_text": "REBOUND DEF by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:51",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 7,
+      "UGA": 10
+    },
+    "raw_text": "MISS 3PTR by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 10
+    },
+    "raw_text": "REBOUND OFF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "15:45",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "GOOD 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "ASSIST  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "15:23",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 13
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 7,
+      "UGA": 14
+    },
+    "raw_text": "GOOD FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "GOOD FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "SUB IN by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 1,
+    "clock": "15:15",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "SUB OUT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "15:00",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "15:00",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "BLOCK  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "14:43",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:31",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "MISS 3PTR by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "14:09",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "MISS JUMPER by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "14:09",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "BLOCK  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "14:08",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "SUB OUT by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:54",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 15
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NGUMEZI,AMANZE(in the paint)",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "GOOD JUMPER by NGUMEZI,AMANZE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "ASSIST  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "13:22",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "FOUL  by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 7,
+      "UGA": 17
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOPPIN,JOJO",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB IN by TOPPIN,JOJO"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB OUT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "13:13",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "MISS JUMPER by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "13:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by BECK,JAMES",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "BLOCK  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "13:07",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CRUMP,TYREE",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "REBOUND DEF by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "TURNOVER  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB IN by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB IN by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB OUT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "12:58",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB OUT by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 1,
+    "clock": "12:45",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:45",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB IN by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "12:45",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 8,
+      "UGA": 17
+    },
+    "raw_text": "SUB OUT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "12:38",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 8,
+      "UGA": 20
+    },
+    "raw_text": "GOOD 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 8,
+      "UGA": 20
+    },
+    "raw_text": "ASSIST  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BECK,JAMES(in the paint)",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "GOOD JUMPER by BECK,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "FOUL  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "12:12",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BECK,JAMES",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "MISS FT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "REBOUND DEF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "11:59",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOPPIN,JOJO",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "MISS JUMPER by TOPPIN,JOJO"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "REBOUND OFF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "11:58",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "11:58",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:58",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "MISS FT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 10,
+      "UGA": 20
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:58",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "GOOD FT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "11:40",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "FOUL  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "11:40",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FAGAN,TYE",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "SUB IN by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "11:40",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "SUB OUT by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "11:27",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "11:26",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "STEAL  by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "11:23",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRUMP,TYREE",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "MISS LAYUP by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FAGAN,TYE",
+    "score": {
+      "OAK": 10,
+      "UGA": 21
+    },
+    "raw_text": "REBOUND OFF by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "11:16",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 10,
+      "UGA": 24
+    },
+    "raw_text": "GOOD 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FAGAN,TYE",
+    "score": {
+      "OAK": 10,
+      "UGA": 24
+    },
+    "raw_text": "ASSIST  by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "10:53",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 10,
+      "UGA": 24
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 10,
+      "UGA": 24
+    },
+    "raw_text": "REBOUND DEF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "10:45",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 10,
+      "UGA": 27
+    },
+    "raw_text": "GOOD 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRUMP,TYREE",
+    "score": {
+      "OAK": 10,
+      "UGA": 27
+    },
+    "raw_text": "ASSIST  by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "10:26",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "GOOD 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "ASSIST  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by FAGAN,TYE",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "MISS 3PTR by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "09:57",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "FOUL  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "09:57",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:57",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "SUB OUT by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "09:57",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "SUB IN by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "09:57",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOPPIN,JOJO",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "SUB OUT by TOPPIN,JOJO"
+  },
+  {
+    "period": 1,
+    "clock": "09:54",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MADDOX,TRAY",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "TURNOVER  by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "STEAL  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "09:43",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by FAGAN,TYE",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "TURNOVER  by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "09:28",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by NORRIS,BRADEN",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "MISS LAYUP by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "REBOUND DEF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "09:20",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "MISS 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by FAGAN,TYE",
+    "score": {
+      "OAK": 13,
+      "UGA": 27
+    },
+    "raw_text": "REBOUND OFF by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "09:15",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD TIPIN by FAGAN,TYE(in the paint)",
+    "score": {
+      "OAK": 13,
+      "UGA": 29
+    },
+    "raw_text": "GOOD TIPIN by FAGAN,TYE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:02",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 13,
+      "UGA": 29
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 13,
+      "UGA": 29
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "08:55",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 16,
+      "UGA": 29
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "UGA": 29
+    },
+    "raw_text": "ASSIST  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "08:39",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 16,
+      "UGA": 29
+    },
+    "raw_text": "TURNOVER  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 16,
+      "UGA": 29
+    },
+    "raw_text": "STEAL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "08:36",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by NEWMAN,KARMARI(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 18,
+      "UGA": 29
+    },
+    "raw_text": "GOOD LAYUP by NEWMAN,KARMARI(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:17",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 18,
+      "UGA": 32
+    },
+    "raw_text": "GOOD 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FAGAN,TYE",
+    "score": {
+      "OAK": 18,
+      "UGA": 32
+    },
+    "raw_text": "ASSIST  by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by FAGAN,TYE",
+    "score": {
+      "OAK": 18,
+      "UGA": 32
+    },
+    "raw_text": "FOUL  by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 19,
+      "UGA": 32
+    },
+    "raw_text": "GOOD FT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "GOOD FT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB IN by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB OUT by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB IN by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB IN by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB OUT by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:04",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 20,
+      "UGA": 32
+    },
+    "raw_text": "SUB OUT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "07:55",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB IN by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "07:41",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRUMP,TYREE",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB OUT by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "07:25",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "MISS JUMPER by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "07:01",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "06:59",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 20,
+      "UGA": 34
+    },
+    "raw_text": "SUB OUT by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "06:39",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "GOOD 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "06:20",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MADDOX,TRAY",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "MISS JUMPER by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "06:07",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "TURNOVER  by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 1,
+    "clock": "06:06",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PITTMAN,KENNY",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "STEAL  by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "05:59",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 20,
+      "UGA": 37
+    },
+    "raw_text": "FOUL  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by BECK,JAMES",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "GOOD FT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by BECK,JAMES",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "MISS FT by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "SUB IN by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FAGAN,TYE",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "SUB OUT by FAGAN,TYE"
+  },
+  {
+    "period": 1,
+    "clock": "05:41",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "MISS JUMPER by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "TURNOVER  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "05:33",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 21,
+      "UGA": 37
+    },
+    "raw_text": "SUB OUT by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 1,
+    "clock": "05:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BECK,JAMES(in the paint)",
+    "score": {
+      "OAK": 23,
+      "UGA": 37
+    },
+    "raw_text": "GOOD JUMPER by BECK,JAMES(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:06",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 23,
+      "UGA": 37
+    },
+    "raw_text": "MISS 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 23,
+      "UGA": 37
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "04:44",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "GOOD LAYUP by CUMBERLAND,JAEVIN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "TURNOVER  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "FOUL  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NORRIS,BRADEN",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB IN by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PITTMAN,KENNY",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB OUT by PITTMAN,KENNY"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB IN by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB IN by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB OUT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 25,
+      "UGA": 37
+    },
+    "raw_text": "SUB OUT by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:03",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 27,
+      "UGA": 37
+    },
+    "raw_text": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:41",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "GOOD JUMPER by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "03:14",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "REBOUND DEF by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "03:03",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "MISS 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "SUB IN by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "02:59",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRUMP,TYREE",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "SUB OUT by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "02:46",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BECK,JAMES",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "TURNOVER  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:46",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:32",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "TURNOVER  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "02:31",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by BECK,JAMES",
+    "score": {
+      "OAK": 27,
+      "UGA": 39
+    },
+    "raw_text": "STEAL  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:30",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MADDOX,TRAY(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 29,
+      "UGA": 39
+    },
+    "raw_text": "GOOD LAYUP by MADDOX,TRAY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BECK,JAMES",
+    "score": {
+      "OAK": 29,
+      "UGA": 39
+    },
+    "raw_text": "ASSIST  by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "02:29",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 29,
+      "UGA": 39
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:16",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)",
+    "score": {
+      "OAK": 29,
+      "UGA": 41
+    },
+    "raw_text": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:58",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by BECK,JAMES",
+    "score": {
+      "OAK": 29,
+      "UGA": 41
+    },
+    "raw_text": "MISS JUMPER by BECK,JAMES"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 29,
+      "UGA": 41
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 29,
+      "UGA": 41
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 29,
+      "UGA": 42
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "SUB IN by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "SUB OUT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 1,
+    "clock": "01:55",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "SUB OUT by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 1,
+    "clock": "01:46",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "MISS FT by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "01:34",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "MISS FT by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 29,
+      "UGA": 43
+    },
+    "raw_text": "REBOUND OFF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "01:24",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by OGBEIDE,DEREK(in the paint)",
+    "score": {
+      "OAK": 29,
+      "UGA": 45
+    },
+    "raw_text": "GOOD JUMPER by OGBEIDE,DEREK(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:01",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "00:44",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "MISS JUMPER by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:38",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "00:38",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "00:27",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "MISS JUMPER by OGBEIDE,DEREK"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:23",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:23",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 1,
+    "clock": "00:23",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 1,
+    "clock": "00:23",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 1,
+    "clock": "00:23",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 32,
+      "UGA": 45
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 1,
+    "clock": "00:03",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "GOOD JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "19:46",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "19:22",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "MISS 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "19:07",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "18:56",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "MISS JUMPER by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "18:44",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "FOUL  by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "18:27",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "MISS LAYUP by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 34,
+      "UGA": 45
+    },
+    "raw_text": "REBOUND DEF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "18:20",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 34,
+      "UGA": 47
+    },
+    "raw_text": "GOOD JUMPER by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 34,
+      "UGA": 47
+    },
+    "raw_text": "ASSIST  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "18:02",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 37,
+      "UGA": 47
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MADDOX,TRAY",
+    "score": {
+      "OAK": 37,
+      "UGA": 47
+    },
+    "raw_text": "ASSIST  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 37,
+      "UGA": 47
+    },
+    "raw_text": "FOUL  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 37,
+      "UGA": 48
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 37,
+      "UGA": 49
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 37,
+      "UGA": 49
+    },
+    "raw_text": "FOUL  by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 37,
+      "UGA": 49
+    },
+    "raw_text": "FOUL  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 38,
+      "UGA": 49
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 39,
+      "UGA": 49
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 39,
+      "UGA": 49
+    },
+    "raw_text": "SUB IN by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "17:16",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 39,
+      "UGA": 49
+    },
+    "raw_text": "SUB OUT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "17:01",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 39,
+      "UGA": 49
+    },
+    "raw_text": "FOUL  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "16:48",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "GOOD JUMPER by HAMMONDS,RAYSHAUN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "FOUL  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "16:31",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "SUB OUT by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "16:28",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "16:17",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 39,
+      "UGA": 51
+    },
+    "raw_text": "TURNOVER  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "15:57",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MADDOX,TRAY",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "GOOD 3PTR by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "ASSIST  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "15:46",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "15:46",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:44",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "MISS 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "15:24",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "15:23",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "15:23",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "SUB IN by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "15:23",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "15:12",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "MISS 3PTR by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 42,
+      "UGA": 51
+    },
+    "raw_text": "REBOUND DEF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "15:03",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "14:49",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "TURNOVER  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "14:48",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "STEAL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "14:41",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MADDOX,TRAY",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "MISS LAYUP by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "14:41",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "BLOCK  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "REBOUND DEF by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "14:34",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CRUMP,TYREE",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "MISS LAYUP by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "REBOUND OFF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "TURNOVER  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "14:29",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MADDOX,TRAY",
+    "score": {
+      "OAK": 45,
+      "UGA": 51
+    },
+    "raw_text": "STEAL  by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "14:06",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 48,
+      "UGA": 51
+    },
+    "raw_text": "GOOD 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:45",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "GOOD 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CRUMP,TYREE",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "ASSIST  by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "13:17",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 48,
+      "UGA": 54
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 55
+    },
+    "raw_text": "GOOD FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "GOOD FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FAGAN,TYE",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by FAGAN,TYE"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRUMP,TYREE",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "13:08",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "12:57",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND DEF by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "12:46",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "MISS 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "FOUL  by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "12:43",
+    "team": "UGA",
+    "player": "OGBEIDE,DEREK",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OGBEIDE,DEREK",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by OGBEIDE,DEREK"
+  },
+  {
+    "period": 2,
+    "clock": "12:28",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "FOUL  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "12:28",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "12:28",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "12:23",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "MISS JUMPER by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "12:17",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 48,
+      "UGA": 56
+    },
+    "raw_text": "FOUL  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB IN by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "UGA",
+    "player": "FAGAN,TYE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by FAGAN,TYE",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by FAGAN,TYE"
+  },
+  {
+    "period": 2,
+    "clock": "12:13",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "SUB OUT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "12:03",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:42",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "MISS JUMPER by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND OFF by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "11:40",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:28",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "MISS 3PTR by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "REBOUND OFF by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:26",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 49,
+      "UGA": 56
+    },
+    "raw_text": "FOUL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "11:26",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 49,
+      "UGA": 57
+    },
+    "raw_text": "GOOD FT by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:26",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "GOOD FT by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:10",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "REBOUND DEF by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "11:02",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "TURNOVER  by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "10:47",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "10:38",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "MISS LAYUP by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 58
+    },
+    "raw_text": "REBOUND OFF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CLAXTON,NICOLAS(in the paint)",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "GOOD JUMPER by CLAXTON,NICOLAS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "FOUL  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "MISS FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BECK,JAMES",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "SUB IN by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "10:35",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MADDOX,TRAY",
+    "score": {
+      "OAK": 49,
+      "UGA": 60
+    },
+    "raw_text": "SUB OUT by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "10:20",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "GOOD JUMPER by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "ASSIST  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "10:01",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "MISS 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "REBOUND DEF by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "09:51",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "MISS 3PTR by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by BECK,JAMES",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "REBOUND OFF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "09:44",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 51,
+      "UGA": 60
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "09:23",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CLAXTON,NICOLAS(in the paint)",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "GOOD LAYUP by CLAXTON,NICOLAS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "ASSIST  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "FOUL  by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB IN by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB IN by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB OUT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB OUT by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:13",
+    "team": "UGA",
+    "player": "NGUMEZI,AMANZE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NGUMEZI,AMANZE",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB OUT by NGUMEZI,AMANZE"
+  },
+  {
+    "period": 2,
+    "clock": "09:00",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "MISS 3PTR by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "08:50",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "TURNOVER  by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:50",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRECHTING,BRAD",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB IN by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "08:50",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "08:36",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "MISS JUMPER by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BECK,JAMES",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "REBOUND DEF by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "08:28",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "08:19",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "TURNOVER  by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "08:18",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 51,
+      "UGA": 62
+    },
+    "raw_text": "STEAL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "08:12",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)",
+    "score": {
+      "OAK": 54,
+      "UGA": 62
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BECK,JAMES",
+    "score": {
+      "OAK": 54,
+      "UGA": 62
+    },
+    "raw_text": "ASSIST  by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BECK,JAMES",
+    "score": {
+      "OAK": 54,
+      "UGA": 62
+    },
+    "raw_text": "FOUL  by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT media by TEAM",
+    "score": {
+      "OAK": 54,
+      "UGA": 62
+    },
+    "raw_text": "TIMEOUT media by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 54,
+      "UGA": 63
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB IN by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "OAK",
+    "player": "BECK,JAMES",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BECK,JAMES",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB OUT by BECK,JAMES"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOPPIN,JOJO",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB IN by TOPPIN,JOJO"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "O'NEILL,CONNOR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by O'NEILL,CONNOR",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB IN by O'NEILL,CONNOR"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB OUT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "07:57",
+    "team": "UGA",
+    "player": "HARRISON,CHRISTIAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HARRISON,CHRISTIAN",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "SUB OUT by HARRISON,CHRISTIAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:29",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 54,
+      "UGA": 64
+    },
+    "raw_text": "FOUL  by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "07:29",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 55,
+      "UGA": 64
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "07:29",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "07:21",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "MISS 3PTR by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "REBOUND OFF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "07:16",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "MISS JUMPER by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "07:15",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "SUB IN by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "07:15",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "SUB OUT by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "07:04",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "REBOUND OFF by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "06:57",
+    "team": "UGA",
+    "player": "O'NEILL,CONNOR",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by O'NEILL,CONNOR",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "FOUL  by O'NEILL,CONNOR"
+  },
+  {
+    "period": 2,
+    "clock": "06:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 56,
+      "UGA": 64
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 57,
+      "UGA": 64
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "06:42",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOPPIN,JOJO",
+    "score": {
+      "OAK": 57,
+      "UGA": 64
+    },
+    "raw_text": "TURNOVER  by TOPPIN,JOJO"
+  },
+  {
+    "period": 2,
+    "clock": "06:42",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOPPIN,JOJO",
+    "score": {
+      "OAK": 57,
+      "UGA": 64
+    },
+    "raw_text": "FOUL  by TOPPIN,JOJO"
+  },
+  {
+    "period": 2,
+    "clock": "06:31",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "ASSIST  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "06:29",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "SUB IN by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "06:29",
+    "team": "UGA",
+    "player": "O'NEILL,CONNOR",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by O'NEILL,CONNOR",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "SUB OUT by O'NEILL,CONNOR"
+  },
+  {
+    "period": 2,
+    "clock": "06:20",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "MISS 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "06:16",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 59,
+      "UGA": 64
+    },
+    "raw_text": "TURNOVER  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "06:05",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAMMONDS,RAYSHAUN(in the paint)",
+    "score": {
+      "OAK": 59,
+      "UGA": 66
+    },
+    "raw_text": "GOOD LAYUP by HAMMONDS,RAYSHAUN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "05:50",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "GOOD 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "05:40",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CRUMP,TYREE",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "MISS 3PTR by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NORRIS,BRADEN",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "REBOUND DEF by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:21",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "MISS 3PTR by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "05:12",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "MISS 3PTR by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 62,
+      "UGA": 66
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "04:57",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "GOOD LAYUP by HILL-MAIS,XAVIER(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "ASSIST  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB IN by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB IN by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB IN by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "TOPPIN,JOJO",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOPPIN,JOJO",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB OUT by TOPPIN,JOJO"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "SARGIUNAS,IGNAS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by SARGIUNAS,IGNAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB OUT by SARGIUNAS,IGNAS"
+  },
+  {
+    "period": 2,
+    "clock": "04:56",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CRUMP,TYREE",
+    "score": {
+      "OAK": 64,
+      "UGA": 66
+    },
+    "raw_text": "SUB OUT by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CLAXTON,NICOLAS(in the paint)",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "GOOD DUNK by CLAXTON,NICOLAS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "ASSIST  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "04:34",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "MISS FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "REBOUND DEF by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "04:19",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "TURNOVER  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "04:18",
+    "team": "UGA",
+    "player": "JACKSON II,WILLIAM",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JACKSON II,WILLIAM",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "STEAL  by JACKSON II,WILLIAM"
+  },
+  {
+    "period": 2,
+    "clock": "04:15",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 64,
+      "UGA": 68
+    },
+    "raw_text": "FOUL  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "04:15",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 69
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "04:15",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 70
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "03:45",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 64,
+      "UGA": 70
+    },
+    "raw_text": "MISS JUMPER by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 70
+    },
+    "raw_text": "REBOUND DEF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "03:22",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HIGHTOWER,TESHAUN(in the paint)",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "GOOD JUMPER by HIGHTOWER,TESHAUN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:00",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "MISS 3PTR by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "REBOUND DEF by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "02:38",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "MISS JUMPER by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "REBOUND OFF by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "FOUL  by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "OAK": 64,
+      "UGA": 72
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "GOOD FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "MISS FT by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MADDOX,TRAY",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "REBOUND DEF by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MADDOX,TRAY",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "SUB IN by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "02:37",
+    "team": "OAK",
+    "player": "BRECHTING,BRAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRECHTING,BRAD",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "SUB OUT by BRECHTING,BRAD"
+  },
+  {
+    "period": 2,
+    "clock": "02:29",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NORRIS,BRADEN",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "TURNOVER  by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:28",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 64,
+      "UGA": 73
+    },
+    "raw_text": "STEAL  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "02:01",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 64,
+      "UGA": 76
+    },
+    "raw_text": "GOOD 3PTR by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 64,
+      "UGA": 76
+    },
+    "raw_text": "ASSIST  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "01:42",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 64,
+      "UGA": 76
+    },
+    "raw_text": "FOUL  by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "01:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 64,
+      "UGA": 76
+    },
+    "raw_text": "MISS FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 64,
+      "UGA": 76
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:42",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "GOOD FT by HILL-MAIS,XAVIER"
+  },
+  {
+    "period": 2,
+    "clock": "01:40",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "TURNOVER  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "01:39",
+    "team": "OAK",
+    "player": "CUMBERLAND,JAEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by CUMBERLAND,JAEVIN",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "STEAL  by CUMBERLAND,JAEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "01:38",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "REBOUND DEF by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "01:33",
+    "team": "OAK",
+    "player": "NEWMAN,KARMARI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,KARMARI",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "FOUL  by NEWMAN,KARMARI"
+  },
+  {
+    "period": 2,
+    "clock": "01:33",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "MISS FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "OAK": 65,
+      "UGA": 76
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:33",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 65,
+      "UGA": 77
+    },
+    "raw_text": "GOOD FT by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "01:26",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NORRIS,BRADEN",
+    "score": {
+      "OAK": 65,
+      "UGA": 77
+    },
+    "raw_text": "MISS 3PTR by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:26",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 65,
+      "UGA": 77
+    },
+    "raw_text": "BLOCK  by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 65,
+      "UGA": 77
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "01:21",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAMMONDS,RAYSHAUN(fastbreak)(in the paint)",
+    "score": {
+      "OAK": 65,
+      "UGA": 79
+    },
+    "raw_text": "GOOD LAYUP by HAMMONDS,RAYSHAUN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "01:11",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NORRIS,BRADEN",
+    "score": {
+      "OAK": 67,
+      "UGA": 79
+    },
+    "raw_text": "GOOD JUMPER by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "01:10",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "OAK": 67,
+      "UGA": 79
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:10",
+    "team": "UGA",
+    "player": "CRUMP,TYREE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CRUMP,TYREE",
+    "score": {
+      "OAK": 67,
+      "UGA": 79
+    },
+    "raw_text": "SUB IN by CRUMP,TYREE"
+  },
+  {
+    "period": 2,
+    "clock": "01:10",
+    "team": "UGA",
+    "player": "WILRIDGE,E'TORRION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILRIDGE,E'TORRION",
+    "score": {
+      "OAK": 67,
+      "UGA": 79
+    },
+    "raw_text": "SUB OUT by WILRIDGE,E'TORRION"
+  },
+  {
+    "period": 2,
+    "clock": "01:00",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HAMMONDS,RAYSHAUN(in the paint)",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "GOOD LAYUP by HAMMONDS,RAYSHAUN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:44",
+    "team": "OAK",
+    "player": "MADDOX,TRAY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MADDOX,TRAY",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "MISS JUMPER by MADDOX,TRAY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "UGA",
+    "player": "HAMMONDS,RAYSHAUN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HAMMONDS,RAYSHAUN",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "REBOUND DEF by HAMMONDS,RAYSHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "00:21",
+    "team": "UGA",
+    "player": "CLAXTON,NICOLAS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CLAXTON,NICOLAS",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "MISS JUMPER by CLAXTON,NICOLAS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "OAK",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "UGA",
+    "player": "HIGHTOWER,TESHAUN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HIGHTOWER,TESHAUN",
+    "score": {
+      "OAK": 67,
+      "UGA": 81
+    },
+    "raw_text": "FOUL  by HIGHTOWER,TESHAUN"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 68,
+      "UGA": 81
+    },
+    "raw_text": "GOOD FT by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "OAK",
+    "player": "NORRIS,BRADEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NORRIS,BRADEN",
+    "score": {
+      "OAK": 69,
+      "UGA": 81
+    },
+    "raw_text": "GOOD FT by NORRIS,BRADEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "OAK",
+    "player": "PITTMAN,KENNY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PITTMAN,KENNY",
+    "score": {
+      "OAK": 69,
+      "UGA": 81
+    },
+    "raw_text": "SUB IN by PITTMAN,KENNY"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "OAK",
+    "player": "HILL-MAIS,XAVIER",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HILL-MAIS,XAVIER",
+    "score": {
+      "OAK": 69,
+      "UGA": 81
+    },
+    "raw_text": "SUB OUT by HILL-MAIS,XAVIER"
+  }
+]

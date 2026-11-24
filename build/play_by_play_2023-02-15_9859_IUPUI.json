@@ -1,0 +1,6737 @@
+[
+  {
+    "period": 1,
+    "clock": "19:35",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "GOOD JUMPER by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "19:11",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "MISS JUMPER by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "18:55",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,DJ",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "18:37",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TAYLOR,MARLON(in the paint)",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "MISS LAYUP by TAYLOR,MARLON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "18:10",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 0
+    },
+    "raw_text": "FOUL  by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "18:10",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "18:10",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "MISS FT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "17:52",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "TURNOVER  by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "17:32",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "STEAL  by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "FOUL  by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "TURNOVER  by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "SUB OUT by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "17:20",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "SUB IN by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "17:11",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:11",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "BLOCK  by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 2,
+      "Oak": 1
+    },
+    "raw_text": "REBOUND DEF by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:59",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 1
+    },
+    "raw_text": "GOOD 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 1
+    },
+    "raw_text": "ASSIST  by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "16:35",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 3
+    },
+    "raw_text": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "16:17",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 3
+    },
+    "raw_text": "MISS JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 3
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "16:10",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN",
+    "score": {
+      "IUPUI": 5,
+      "Oak": 5
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:43",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "FOUL  by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 5
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 6
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 7,
+      "Oak": 7
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "15:01",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 7
+    },
+    "raw_text": "GOOD JUMPER by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "14:41",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "14:21",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "MISS JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "13:53",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "MISS JUMPER by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PRICE,OSEI",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "REBOUND DEF by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PRICE,OSEI",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "TURNOVER  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB OUT by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "13:41",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "SUB IN by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "13:32",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "TURNOVER  by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "13:32",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 9
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by TOWNSEND,TREY(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 9,
+      "Oak": 11
+    },
+    "raw_text": "GOOD DUNK by TOWNSEND,TREY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:04",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 11
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "12:47",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 13
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "12:24",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 13
+    },
+    "raw_text": "MISS 3PTR by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "12:11",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 13
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 11,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "12:06",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by CARRASCO,JONAH(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 13,
+      "Oak": 13
+    },
+    "raw_text": "GOOD DUNK by CARRASCO,JONAH(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 13,
+      "Oak": 13
+    },
+    "raw_text": "ASSIST  by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "11:48",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "IUPUI": 13,
+      "Oak": 13
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 13,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND DEF by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by EGBUTA,JOHN(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "GOOD LAYUP by EGBUTA,JOHN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "ASSIST  by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "11:16",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:12",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 13
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 15,
+      "Oak": 15
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:39",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 15
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 15
+    },
+    "raw_text": "ASSIST  by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "10:28",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB OUT by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "10:13",
+    "team": "IUPUI",
+    "player": "STANTON III,BOSTON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by STANTON III,BOSTON",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "SUB IN by STANTON III,BOSTON"
+  },
+  {
+    "period": 1,
+    "clock": "10:11",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 17
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "09:53",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 17,
+      "Oak": 19
+    },
+    "raw_text": "GOOD JUMPER by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "09:42",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 19
+    },
+    "raw_text": "GOOD 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 19
+    },
+    "raw_text": "ASSIST  by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 19
+    },
+    "raw_text": "SUB OUT by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:33",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 19
+    },
+    "raw_text": "SUB IN by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "09:24",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WATTS,ROCKET(in the paint)",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "GOOD JUMPER by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:07",
+    "team": "IUPUI",
+    "player": "STANTON III,BOSTON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by STANTON III,BOSTON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "MISS 3PTR by STANTON III,BOSTON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND OFF by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:51",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "MISS 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "08:42",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 21
+    },
+    "raw_text": "REBOUND OFF by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "GOOD LAYUP by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "08:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,JALEN",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "08:23",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "MISS JUMPER by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "FOUL  by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "MISS FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB OUT by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by JARRARD,AMHAD"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,DJ",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 23
+    },
+    "raw_text": "SUB IN by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "08:07",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 20,
+      "Oak": 24
+    },
+    "raw_text": "GOOD FT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:42",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OSTEN,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "GOOD LAYUP by OSTEN,CHRIS(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "ASSIST  by JARRARD,AMHAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:32",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "STANTON III,BOSTON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STANTON III,BOSTON",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND DEF by STANTON III,BOSTON"
+  },
+  {
+    "period": 1,
+    "clock": "07:25",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "MISS JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND OFF by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "STANTON III,BOSTON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STANTON III,BOSTON",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by STANTON III,BOSTON"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 22,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 23,
+      "Oak": 24
+    },
+    "raw_text": "GOOD FT by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 24,
+      "Oak": 24
+    },
+    "raw_text": "GOOD FT by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 24,
+      "Oak": 24
+    },
+    "raw_text": "SUB OUT by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "07:23",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 24,
+      "Oak": 24
+    },
+    "raw_text": "SUB IN by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "07:17",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 24,
+      "Oak": 24
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:17",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 24,
+      "Oak": 24
+    },
+    "raw_text": "STEAL  by JARRARD,AMHAD"
+  },
+  {
+    "period": 1,
+    "clock": "07:15",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 26,
+      "Oak": 24
+    },
+    "raw_text": "GOOD LAYUP by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:15",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 26,
+      "Oak": 24
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "07:15",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "GOOD FT by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "06:52",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND DEF by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "06:40",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TAYLOR,MARLON(in the paint)",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "MISS LAYUP by TAYLOR,MARLON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "MISS LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 24
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "06:32",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 26
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:16",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TAYLOR,MARLON(in the paint)",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 26
+    },
+    "raw_text": "MISS LAYUP by TAYLOR,MARLON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:13",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 26
+    },
+    "raw_text": "MISS JUMPER by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 27,
+      "Oak": 26
+    },
+    "raw_text": "REBOUND OFF by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "06:09",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TAYLOR,MARLON(in the paint)",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 26
+    },
+    "raw_text": "GOOD LAYUP by TAYLOR,MARLON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:57",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "GOOD LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARKER,BRODY",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB OUT by TAYLOR,MARLON"
+  },
+  {
+    "period": 1,
+    "clock": "05:43",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 29,
+      "Oak": 28
+    },
+    "raw_text": "SUB IN by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "05:40",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 28
+    },
+    "raw_text": "GOOD JUMPER by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 28
+    },
+    "raw_text": "ASSIST  by JARRARD,AMHAD"
+  },
+  {
+    "period": 1,
+    "clock": "05:27",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "05:04",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "MISS 3PTR by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "04:52",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "MISS DUNK by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,DJ",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:46",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JARRARD,AMHAD(in the paint)",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "MISS JUMPER by JARRARD,AMHAD(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "04:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARKER,BRODY",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 30
+    },
+    "raw_text": "REBOUND DEF by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "04:40",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by LAMPMAN,BLAKE(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 32
+    },
+    "raw_text": "GOOD LAYUP by LAMPMAN,BLAKE(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARKER,BRODY",
+    "score": {
+      "IUPUI": 31,
+      "Oak": 32
+    },
+    "raw_text": "ASSIST  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "04:30",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ",
+    "score": {
+      "IUPUI": 33,
+      "Oak": 32
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 33,
+      "Oak": 32
+    },
+    "raw_text": "ASSIST  by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "04:19",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARKER,BRODY",
+    "score": {
+      "IUPUI": 33,
+      "Oak": 32
+    },
+    "raw_text": "TURNOVER  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "04:19",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 33,
+      "Oak": 32
+    },
+    "raw_text": "STEAL  by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "04:15",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,DJ(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 35,
+      "Oak": 32
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,DJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:59",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 35,
+      "Oak": 35
+    },
+    "raw_text": "GOOD 3PTR by HERVEY,KEATON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARKER,BRODY",
+    "score": {
+      "IUPUI": 35,
+      "Oak": 35
+    },
+    "raw_text": "ASSIST  by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "03:34",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by EGBUTA,JOHN(in the paint)",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "GOOD LAYUP by EGBUTA,JOHN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "03:22",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "Oak",
+    "player": "PARKER,BRODY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARKER,BRODY",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB OUT by PARKER,BRODY"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,JALEN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB IN by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB OUT by JARRARD,AMHAD"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB OUT by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB IN by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "03:20",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "SUB IN by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "02:58",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "TURNOVER  by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "02:58",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "FOUL  by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "MISS FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 35
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:55",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "02:22",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "MISS 3PTR by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "REBOUND OFF by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "02:17",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by EGBUTA,JOHN(in the paint)",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "MISS LAYUP by EGBUTA,JOHN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "02:03",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "02:03",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "SUB OUT by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "02:03",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,DJ",
+    "score": {
+      "IUPUI": 37,
+      "Oak": 36
+    },
+    "raw_text": "SUB IN by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by EGBUTA,JOHN(in the paint)",
+    "score": {
+      "IUPUI": 39,
+      "Oak": 36
+    },
+    "raw_text": "GOOD JUMPER by EGBUTA,JOHN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 39,
+      "Oak": 36
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:53",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 36
+    },
+    "raw_text": "GOOD FT by EGBUTA,JOHN"
+  },
+  {
+    "period": 1,
+    "clock": "01:48",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 36
+    },
+    "raw_text": "FOUL  by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "01:33",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 36
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 36
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:28",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 38
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "01:12",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 38
+    },
+    "raw_text": "MISS JUMPER by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "01:12",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 38
+    },
+    "raw_text": "BLOCK  by WATTS,ROCKET"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 38
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "00:49",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "TURNOVER  by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:49",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:45",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "MISS LAYUP by LAMPMAN,BLAKE(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JACKSON,DJ",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "REBOUND DEF by JACKSON,DJ"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "SUB OUT by BRADY II,VINCENT"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "SUB OUT by CARRASCO,JONAH"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "SUB IN by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "00:43",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "SUB IN by OSTEN,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "00:18",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "TURNOVER  by JARRARD,ARMON"
+  },
+  {
+    "period": 1,
+    "clock": "00:18",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 40
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:15",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 1,
+    "clock": "00:00",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "SUB OUT by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "IUPUI",
+    "player": "JARRARD,ARMON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JARRARD,ARMON",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "SUB OUT by JARRARD,ARMON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "SUB IN by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "SUB IN by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "19:39",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 40,
+      "Oak": 42
+    },
+    "raw_text": "FOUL  by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "19:39",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 41,
+      "Oak": 42
+    },
+    "raw_text": "GOOD FT by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "19:39",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "GOOD FT by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "19:15",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "REBOUND DEF by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "18:53",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "18:53",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "STEAL  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "18:43",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 42,
+      "Oak": 42
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "18:37",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,DJ(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 42
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,DJ(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:25",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 42
+    },
+    "raw_text": "MISS DUNK by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "18:25",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 42
+    },
+    "raw_text": "BLOCK  by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 42
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "18:24",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 42
+    },
+    "raw_text": "FOUL  by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "18:24",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 43
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "18:24",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 44
+    },
+    "raw_text": "GOOD FT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "18:09",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 44,
+      "Oak": 44
+    },
+    "raw_text": "FOUL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "18:01",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TAYLOR,MARLON(in the paint)",
+    "score": {
+      "IUPUI": 46,
+      "Oak": 44
+    },
+    "raw_text": "GOOD LAYUP by TAYLOR,MARLON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "17:43",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 46,
+      "Oak": 44
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 46,
+      "Oak": 44
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "17:33",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "GOOD 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "17:17",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "TURNOVER  by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "17:17",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "17:17",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "17:07",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "MISS 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "16:55",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WATTS,ROCKET(in the paint)",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "MISS LAYUP by WATTS,ROCKET(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:55",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "BLOCK  by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "16:49",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 44
+    },
+    "raw_text": "TURNOVER  by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "16:44",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 46
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:24",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 46
+    },
+    "raw_text": "TURNOVER  by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "16:24",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 46
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "16:18",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 48
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "16:15",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 48
+    },
+    "raw_text": "FOUL  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "16:15",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 48
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "15:57",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "SUB OUT by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "15:42",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "SUB IN by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "TURNOVER  by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "15:40",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "TURNOVER  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "15:29",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 49,
+      "Oak": 50
+    },
+    "raw_text": "STEAL  by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "15:25",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ",
+    "score": {
+      "IUPUI": 51,
+      "Oak": 50
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "15:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 51,
+      "Oak": 50
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:25",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 50
+    },
+    "raw_text": "GOOD FT by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "15:04",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 50
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 50
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "14:58",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 50
+    },
+    "raw_text": "TURNOVER  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "14:37",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 52
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 52,
+      "Oak": 52
+    },
+    "raw_text": "ASSIST  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "14:12",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by BRADY II,VINCENT(in the paint)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "GOOD JUMPER by BRADY II,VINCENT(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "FOUL  by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "MISS FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB OUT by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 52
+    },
+    "raw_text": "SUB IN by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:05",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 53
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 53
+    },
+    "raw_text": "FOUL  by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 53
+    },
+    "raw_text": "TURNOVER  by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 53
+    },
+    "raw_text": "SUB OUT by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "13:42",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 53
+    },
+    "raw_text": "SUB IN by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 55
+    },
+    "raw_text": "GOOD JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 55
+    },
+    "raw_text": "FOUL  by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 55
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 55
+    },
+    "raw_text": "SUB IN by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "13:22",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "TURNOVER  by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "13:06",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "12:48",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "REBOUND DEF by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "12:23",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "MISS 3PTR by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 56
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "12:07",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 54,
+      "Oak": 58
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:51",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "ASSIST  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "FOUL  by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MOORE,JALEN",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB IN by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JACKSON,DJ",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB OUT by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB OUT by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB IN by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "11:36",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "SUB IN by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:33",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 58
+    },
+    "raw_text": "FOUL  by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:33",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 59
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:33",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 56,
+      "Oak": 60
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "11:11",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OSTEN,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 58,
+      "Oak": 60
+    },
+    "raw_text": "GOOD LAYUP by OSTEN,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 58,
+      "Oak": 60
+    },
+    "raw_text": "ASSIST  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 58,
+      "Oak": 60
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "10:49",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 58,
+      "Oak": 60
+    },
+    "raw_text": "STEAL  by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "10:33",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by EGBUTA,JOHN(in the paint)",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 60
+    },
+    "raw_text": "GOOD LAYUP by EGBUTA,JOHN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 60
+    },
+    "raw_text": "FOUL  by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 61
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 61
+    },
+    "raw_text": "SUB OUT by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 61
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "10:19",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 62
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by PRICE,OSEI",
+    "score": {
+      "IUPUI": 60,
+      "Oak": 62
+    },
+    "raw_text": "FOUL  by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 61,
+      "Oak": 62
+    },
+    "raw_text": "GOOD FT by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "09:56",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "GOOD FT by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "09:42",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND DEF by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "09:25",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by EGBUTA,JOHN(in the paint)",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "MISS LAYUP by EGBUTA,JOHN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:25",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "BLOCK  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 62,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND OFF by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:17",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OSTEN,CHRIS(in the paint)",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "GOOD LAYUP by OSTEN,CHRIS(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "FOUL  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PRICE,OSEI",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "SUB OUT by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "SUB OUT by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "SUB IN by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "09:14",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WATTS,ROCKET(fastbreak)",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "MISS FT by WATTS,ROCKET(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND DEF by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "08:56",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JARRARD,AMHAD(in the paint)",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "MISS JUMPER by JARRARD,AMHAD(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 62
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "08:51",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WATTS,ROCKET(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 64
+    },
+    "raw_text": "GOOD LAYUP by WATTS,ROCKET(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "08:35",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 64
+    },
+    "raw_text": "TURNOVER  by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "08:35",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 64
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 64
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 64,
+      "Oak": 64
+    },
+    "raw_text": "REBOUND DEF by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "08:20",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "GOOD 3PTR by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "07:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "07:58",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "STEAL  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "07:58",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:58",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "SUB IN by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "SUB OUT by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "07:44",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JACKSON,DJ",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "SUB IN by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "07:33",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 64
+    },
+    "raw_text": "STEAL  by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "07:10",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "IUPUI": 67,
+      "Oak": 66
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:41",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "GOOD JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "BRADY II,VINCENT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by BRADY II,VINCENT",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "ASSIST  by BRADY II,VINCENT"
+  },
+  {
+    "period": 2,
+    "clock": "06:14",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "MISS 3PTR by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "06:09",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "MISS LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "06:09",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "BLOCK  by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "06:08",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 66
+    },
+    "raw_text": "FOUL  by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "06:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 67
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "06:08",
+    "team": "IUPUI",
+    "player": "TAYLOR,MARLON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TAYLOR,MARLON",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 67
+    },
+    "raw_text": "SUB OUT by TAYLOR,MARLON"
+  },
+  {
+    "period": 2,
+    "clock": "06:08",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 67
+    },
+    "raw_text": "SUB IN by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "06:08",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 68
+    },
+    "raw_text": "MISS FT by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 69,
+      "Oak": 68
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:48",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 70,
+      "Oak": 68
+    },
+    "raw_text": "GOOD FT by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 70,
+      "Oak": 68
+    },
+    "raw_text": "FOUL  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 70,
+      "Oak": 68
+    },
+    "raw_text": "MISS FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 70,
+      "Oak": 68
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:31",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 70,
+      "Oak": 69
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:16",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 69
+    },
+    "raw_text": "GOOD LAYUP by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 69
+    },
+    "raw_text": "ASSIST  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "05:03",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 69
+    },
+    "raw_text": "MISS 3PTR by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 69
+    },
+    "raw_text": "REBOUND OFF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "04:58",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 71
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 71
+    },
+    "raw_text": "FOUL  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "04:39",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 71
+    },
+    "raw_text": "MISS FT by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 71
+    },
+    "raw_text": "REBOUND DEF by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "04:12",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "03:52",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:52",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:52",
+    "team": "IUPUI",
+    "player": "OSTEN,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OSTEN,CHRIS",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "SUB OUT by OSTEN,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:52",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "SUB IN by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:43",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "MISS LAYUP by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND DEF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "03:22",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "MISS LAYUP by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "REBOUND DEF by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "03:02",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JACKSON,DJ",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "TURNOVER  by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "03:02",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 74
+    },
+    "raw_text": "STEAL  by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "02:58",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by MOORE,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 76
+    },
+    "raw_text": "GOOD LAYUP by MOORE,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:43",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 76
+    },
+    "raw_text": "MISS LAYUP by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 76
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "02:15",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 76
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HERVEY,KEATON",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 76
+    },
+    "raw_text": "REBOUND OFF by HERVEY,KEATON"
+  },
+  {
+    "period": 2,
+    "clock": "02:10",
+    "team": "Oak",
+    "player": "HERVEY,KEATON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HERVEY,KEATON(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "GOOD LAYUP by HERVEY,KEATON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "02:09",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "02:09",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:55",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "TURNOVER  by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "01:48",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by MOORE,JALEN(in the paint)",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "MISS LAYUP by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:35",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "FOUL  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "01:35",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "MISS FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "01:35",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "MISS FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "CARRASCO,JONAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by CARRASCO,JONAH",
+    "score": {
+      "IUPUI": 72,
+      "Oak": 78
+    },
+    "raw_text": "REBOUND DEF by CARRASCO,JONAH"
+  },
+  {
+    "period": 2,
+    "clock": "01:22",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 75,
+      "Oak": 78
+    },
+    "raw_text": "GOOD 3PTR by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "00:53",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 75,
+      "Oak": 78
+    },
+    "raw_text": "FOUL  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "00:53",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 75,
+      "Oak": 79
+    },
+    "raw_text": "GOOD FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "00:53",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 75,
+      "Oak": 80
+    },
+    "raw_text": "GOOD FT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "00:40",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by COUNTER,JLYNN(in the paint)",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 80
+    },
+    "raw_text": "GOOD LAYUP by COUNTER,JLYNN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "00:40",
+    "team": "IUPUI",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT TEAM by TEAM",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 80
+    },
+    "raw_text": "TIMEOUT TEAM by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 80
+    },
+    "raw_text": "FOUL  by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "IUPUI",
+    "player": "EGBUTA,JOHN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EGBUTA,JOHN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 80
+    },
+    "raw_text": "SUB OUT by EGBUTA,JOHN"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 80
+    },
+    "raw_text": "SUB IN by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "00:39",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 81
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:38",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 81
+    },
+    "raw_text": "MISS FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by COUNTER,JLYNN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 81
+    },
+    "raw_text": "REBOUND DEF by COUNTER,JLYNN"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "IUPUI": 77,
+      "Oak": 81
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COUNTER,JLYNN(fastbreak)",
+    "score": {
+      "IUPUI": 78,
+      "Oak": 81
+    },
+    "raw_text": "GOOD FT by COUNTER,JLYNN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:31",
+    "team": "IUPUI",
+    "player": "COUNTER,JLYNN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by COUNTER,JLYNN(fastbreak)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 81
+    },
+    "raw_text": "GOOD FT by COUNTER,JLYNN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 81
+    },
+    "raw_text": "FOUL  by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 82
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:27",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:19",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "MISS 3PTR by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by JACKSON,DJ",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "REBOUND OFF by JACKSON,DJ"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "IUPUI",
+    "player": "JACKSON,DJ",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JACKSON,DJ(in the paint)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "MISS JUMPER by JACKSON,DJ(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TOWNSEND,TREY",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "REBOUND DEF by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "00:13",
+    "team": "Oak",
+    "player": "WATTS,ROCKET",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WATTS,ROCKET",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "SUB OUT by WATTS,ROCKET"
+  },
+  {
+    "period": 2,
+    "clock": "00:13",
+    "team": "Oak",
+    "player": "PRICE,OSEI",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PRICE,OSEI",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "SUB IN by PRICE,OSEI"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JARRARD,AMHAD",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 83
+    },
+    "raw_text": "FOUL  by JARRARD,AMHAD"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 84
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:11",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "IUPUI": 79,
+      "Oak": 85
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 2,
+    "clock": "00:02",
+    "team": "IUPUI",
+    "player": "JARRARD,AMHAD",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by JARRARD,AMHAD(in the paint)",
+    "score": {
+      "IUPUI": 81,
+      "Oak": 85
+    },
+    "raw_text": "GOOD JUMPER by JARRARD,AMHAD(in the paint)"
+  }
+]

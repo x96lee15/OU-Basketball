@@ -1,0 +1,6287 @@
+[
+  {
+    "period": 1,
+    "clock": "19:37",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "19:19",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "TURNOVER  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "19:19",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "MISS 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "19:17",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "Oak": 0,
+      "Purdue": 2
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "18:49",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 0,
+      "Purdue": 5
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 0,
+      "Purdue": 5
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "18:15",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by PARRISH,MICAH",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "ASSIST  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "18:15",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WHEELER,AARON",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "FOUL  by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "18:15",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "MISS FT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "17:56",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WHEELER,AARON",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "MISS 3PTR by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "REBOUND OFF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "17:53",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "TURNOVER  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "17:40",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "MISS 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 2,
+      "Purdue": 5
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "17:27",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by YOUNG,ZION(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Purdue": 5
+    },
+    "raw_text": "GOOD JUMPER by YOUNG,ZION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "17:09",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "16:46",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by YOUNG,ZION",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "MISS JUMPER by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "16:38",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "MISS JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 4,
+      "Purdue": 8
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "16:29",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 4,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 4,
+      "Purdue": 11
+    },
+    "raw_text": "ASSIST  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "16:06",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 4,
+      "Purdue": 11
+    },
+    "raw_text": "MISS LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 4,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "16:03",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 4,
+      "Purdue": 11
+    },
+    "raw_text": "FOUL  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "15:53",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 6,
+      "Purdue": 11
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:37",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 6,
+      "Purdue": 11
+    },
+    "raw_text": "MISS LAYUP by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 6,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:29",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by TOWNSEND,TREY(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD LAYUP by TOWNSEND,TREY(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "15:10",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "MISS JUMPER by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHEELER,AARON",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB OUT by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB OUT by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB OUT by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GILLIS,MASON",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB IN by GILLIS,MASON"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EDEY,ZACH",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB IN by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "15:07",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON,ETHAN",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "SUB IN by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:51",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "MISS 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "14:34",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by EDEY,ZACH",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "TURNOVER  by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "14:34",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "14:25",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDEY,ZACH",
+    "score": {
+      "Oak": 8,
+      "Purdue": 11
+    },
+    "raw_text": "FOUL  by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 9,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by YOUNG,ZION",
+    "score": {
+      "Oak": 9,
+      "Purdue": 11
+    },
+    "raw_text": "SUB OUT by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "WILLIAMS,RASHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILLIAMS,RASHAD",
+    "score": {
+      "Oak": 9,
+      "Purdue": 11
+    },
+    "raw_text": "SUB IN by WILLIAMS,RASHAD"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by PARRISH,MICAH",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD FT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "14:13",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "14:04",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MORTON,ETHAN",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "TURNOVER  by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "14:04",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "14:01",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by GILLIS,MASON",
+    "score": {
+      "Oak": 10,
+      "Purdue": 11
+    },
+    "raw_text": "FOUL  by GILLIS,MASON"
+  },
+  {
+    "period": 1,
+    "clock": "14:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "Oak": 11,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "14:01",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN(fastbreak)",
+    "score": {
+      "Oak": 12,
+      "Purdue": 11
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "13:51",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 12,
+      "Purdue": 11
+    },
+    "raw_text": "MISS 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by EDEY,ZACH",
+    "score": {
+      "Oak": 12,
+      "Purdue": 11
+    },
+    "raw_text": "REBOUND OFF by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "13:46",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by EDEY,ZACH(in the paint)",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "GOOD JUMPER by EDEY,ZACH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "13:27",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by PARRISH,MICAH",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "TURNOVER  by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDEY,ZACH",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "FOUL  by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by EDEY,ZACH",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "TURNOVER  by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EDEY,ZACH",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB OUT by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB IN by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "13:21",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB IN by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:57",
+    "team": "Oak",
+    "player": "WILLIAMS,RASHAD",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILLIAMS,RASHAD",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB OUT by WILLIAMS,RASHAD"
+  },
+  {
+    "period": 1,
+    "clock": "12:57",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KANGU,KEVIN",
+    "score": {
+      "Oak": 12,
+      "Purdue": 13
+    },
+    "raw_text": "SUB IN by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:51",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "12:34",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "REBOUND DEF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "12:18",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "MISS JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "TURNOVER  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by KANGU,KEVIN",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "STEAL  by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "SUB OUT by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "12:04",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "SUB IN by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:48",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "11:48",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "STEAL  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "11:41",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORTON,ETHAN",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "MISS 3PTR by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:36",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "11:07",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by YOUNG,ZION",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "SUB IN by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "11:05",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "MISS 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 14,
+      "Purdue": 13
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "10:43",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 14,
+      "Purdue": 16
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by GILLIS,MASON",
+    "score": {
+      "Oak": 14,
+      "Purdue": 16
+    },
+    "raw_text": "ASSIST  by GILLIS,MASON"
+  },
+  {
+    "period": 1,
+    "clock": "10:20",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 16
+    },
+    "raw_text": "GOOD 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 17,
+      "Purdue": 16
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "10:07",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:42",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "MISS JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "09:42",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "BLOCK  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "BLOCK  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "REBOUND DEF by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "09:23",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS LAYUP by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "MISS LAYUP by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by YOUNG,ZION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "REBOUND DEF by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "09:12",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "MISS 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 19
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "08:59",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "GOOD 3PTR by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GILLIS,MASON",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by GILLIS,MASON"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON,ETHAN",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHEELER,AARON",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EDEY,ZACH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KANGU,KEVIN",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB OUT by KANGU,KEVIN"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JIHAD,YUSUF",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "SUB IN by JIHAD,YUSUF"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 17,
+      "Purdue": 22
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "08:31",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 17,
+      "Purdue": 25
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 25
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:22",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN",
+    "score": {
+      "Oak": 17,
+      "Purdue": 25
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WHEELER,AARON",
+    "score": {
+      "Oak": 17,
+      "Purdue": 25
+    },
+    "raw_text": "REBOUND DEF by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "08:18",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NEWMAN,BRANDON(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 17,
+      "Purdue": 27
+    },
+    "raw_text": "GOOD JUMPER by NEWMAN,BRANDON(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 17,
+      "Purdue": 27
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "08:17",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by YOUNG,ZION",
+    "score": {
+      "Oak": 17,
+      "Purdue": 27
+    },
+    "raw_text": "FOUL  by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "08:10",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWMAN,BRANDON(fastbreak)",
+    "score": {
+      "Oak": 17,
+      "Purdue": 28
+    },
+    "raw_text": "GOOD FT by NEWMAN,BRANDON(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "07:54",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by JIHAD,YUSUF",
+    "score": {
+      "Oak": 20,
+      "Purdue": 28
+    },
+    "raw_text": "GOOD 3PTR by JIHAD,YUSUF"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 20,
+      "Purdue": 28
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "07:36",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 20,
+      "Purdue": 28
+    },
+    "raw_text": "MISS 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by EDEY,ZACH",
+    "score": {
+      "Oak": 20,
+      "Purdue": 28
+    },
+    "raw_text": "REBOUND OFF by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "07:32",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by EDEY,ZACH(in the paint)",
+    "score": {
+      "Oak": 20,
+      "Purdue": 30
+    },
+    "raw_text": "GOOD DUNK by EDEY,ZACH(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "07:12",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JIHAD,YUSUF",
+    "score": {
+      "Oak": 20,
+      "Purdue": 30
+    },
+    "raw_text": "MISS 3PTR by JIHAD,YUSUF"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 20,
+      "Purdue": 30
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "06:58",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "06:39",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by JIHAD,YUSUF",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "MISS JUMPER by JIHAD,YUSUF"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "REBOUND DEF by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "06:31",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WHEELER,AARON",
+    "score": {
+      "Oak": 20,
+      "Purdue": 33
+    },
+    "raw_text": "REBOUND OFF by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "06:23",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WHEELER,AARON(in the paint)",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "GOOD LAYUP by WHEELER,AARON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EDEY,ZACH",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB OUT by EDEY,ZACH"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB IN by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by YOUNG,ZION",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB OUT by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JIHAD,YUSUF",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB OUT by JIHAD,YUSUF"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "06:18",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "SUB IN by OLADAPO,DANIEL"
+  },
+  {
+    "period": 1,
+    "clock": "06:01",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 20,
+      "Purdue": 35
+    },
+    "raw_text": "FOUL  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "06:01",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 21,
+      "Purdue": 35
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "06:01",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 22,
+      "Purdue": 35
+    },
+    "raw_text": "GOOD FT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "05:45",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WHEELER,AARON",
+    "score": {
+      "Oak": 22,
+      "Purdue": 35
+    },
+    "raw_text": "TURNOVER  by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "05:45",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "Oak": 22,
+      "Purdue": 35
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:40",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by OLADAPO,DANIEL(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "GOOD LAYUP by OLADAPO,DANIEL(fastbreak)(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "05:22",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "MISS 3PTR by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "04:49",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by TOWNSEND,TREY(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "MISS JUMPER by TOWNSEND,TREY(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 24,
+      "Purdue": 35
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "04:36",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 37
+    },
+    "raw_text": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 24,
+      "Purdue": 37
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "04:17",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 24,
+      "Purdue": 37
+    },
+    "raw_text": "TURNOVER  by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "04:17",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by WHEELER,AARON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 37
+    },
+    "raw_text": "STEAL  by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "04:11",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA(fastbreak)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA(fastbreak)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "ASSIST  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MOORE,JALEN",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "TURNOVER  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 1,
+    "clock": "03:39",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by YOUNG,ZION",
+    "score": {
+      "Oak": 24,
+      "Purdue": 40
+    },
+    "raw_text": "SUB IN by YOUNG,ZION"
+  },
+  {
+    "period": 1,
+    "clock": "03:24",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 42
+    },
+    "raw_text": "GOOD JUMPER by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 24,
+      "Purdue": 42
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "03:07",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 24,
+      "Purdue": 42
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 24,
+      "Purdue": 42
+    },
+    "raw_text": "REBOUND DEF by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "02:49",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "GOOD JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "ASSIST  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "02:31",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by PARRISH,MICAH",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "MISS 3PTR by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "02:07",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WHEELER,AARON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "MISS 3PTR by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "FOUL  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHEELER,AARON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "SUB OUT by WHEELER,AARON"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GILLIS,MASON",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "SUB IN by GILLIS,MASON"
+  },
+  {
+    "period": 1,
+    "clock": "02:04",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "MISS FT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "01:52",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by NEWMAN,BRANDON(in the paint)",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "MISS JUMPER by NEWMAN,BRANDON(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by PARRISH,MICAH",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND DEF by PARRISH,MICAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 24,
+      "Purdue": 44
+    },
+    "raw_text": "FOUL  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "SUB OUT by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON,ETHAN",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "SUB IN by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 1,
+    "clock": "01:43",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "MISS FT by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "01:17",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "01:08",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND OFF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 1,
+    "clock": "01:03",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 25,
+      "Purdue": 44
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 1,
+    "clock": "00:54",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MORTON,ETHAN",
+    "score": {
+      "Oak": 25,
+      "Purdue": 47
+    },
+    "raw_text": "GOOD 3PTR by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 25,
+      "Purdue": 47
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 1,
+    "clock": "00:45",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN",
+    "score": {
+      "Oak": 27,
+      "Purdue": 47
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "00:22",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "GOOD JUMPER by NEWMAN,BRANDON"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 1,
+    "clock": "00:11",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 1,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by GILLIS,MASON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "REBOUND DEF by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GILLIS,MASON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB OUT by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MORTON,ETHAN",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB OUT by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHEELER,AARON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB IN by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB IN by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "20:00",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by TOWNSEND,TREY",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "SUB IN by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "19:46",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by YOUNG,ZION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "MISS 3PTR by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 27,
+      "Purdue": 49
+    },
+    "raw_text": "REBOUND DEF by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:37",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WILLIAMS,TREVION(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Purdue": 51
+    },
+    "raw_text": "GOOD LAYUP by WILLIAMS,TREVION(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 27,
+      "Purdue": 51
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "19:23",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Purdue": 51
+    },
+    "raw_text": "MISS JUMPER by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 51
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:59",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WHEELER,AARON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "GOOD 3PTR by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "ASSIST  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:53",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT 30SEC by TEAM",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "TIMEOUT 30SEC by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "18:32",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by YOUNG,ZION(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "MISS JUMPER by YOUNG,ZION(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WHEELER,AARON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "REBOUND DEF by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "18:14",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "REBOUND OFF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:09",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "REBOUND OFF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:06",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION(in the paint)",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "REBOUND OFF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:06",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "18:06",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by YOUNG,ZION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "SUB OUT by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "18:06",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by KANGU,KEVIN",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "SUB IN by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "18:04",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "TURNOVER  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "18:00",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 27,
+      "Purdue": 54
+    },
+    "raw_text": "FOUL  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "18:00",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 28,
+      "Purdue": 54
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "18:00",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 29,
+      "Purdue": 54
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 29,
+      "Purdue": 54
+    },
+    "raw_text": "FOUL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 29,
+      "Purdue": 55
+    },
+    "raw_text": "GOOD FT by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 2,
+    "clock": "17:46",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 29,
+      "Purdue": 56
+    },
+    "raw_text": "GOOD FT by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 2,
+    "clock": "17:28",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by KANGU,KEVIN",
+    "score": {
+      "Oak": 29,
+      "Purdue": 56
+    },
+    "raw_text": "MISS 3PTR by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 29,
+      "Purdue": 56
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "17:22",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 31,
+      "Purdue": 56
+    },
+    "raw_text": "GOOD LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 31,
+      "Purdue": 56
+    },
+    "raw_text": "ASSIST  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "17:01",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 31,
+      "Purdue": 56
+    },
+    "raw_text": "MISS JUMPER by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 31,
+      "Purdue": 56
+    },
+    "raw_text": "REBOUND OFF by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by KANGU,KEVIN",
+    "score": {
+      "Oak": 31,
+      "Purdue": 56
+    },
+    "raw_text": "FOUL  by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 31,
+      "Purdue": 57
+    },
+    "raw_text": "GOOD FT by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 31,
+      "Purdue": 57
+    },
+    "raw_text": "SUB OUT by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EDEY,ZACH",
+    "score": {
+      "Oak": 31,
+      "Purdue": 57
+    },
+    "raw_text": "SUB IN by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Oak",
+    "player": "KANGU,KEVIN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by KANGU,KEVIN",
+    "score": {
+      "Oak": 31,
+      "Purdue": 57
+    },
+    "raw_text": "SUB OUT by KANGU,KEVIN"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLIFIELD,JOEY",
+    "score": {
+      "Oak": 31,
+      "Purdue": 57
+    },
+    "raw_text": "SUB IN by HOLIFIELD,JOEY"
+  },
+  {
+    "period": 2,
+    "clock": "16:59",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 31,
+      "Purdue": 58
+    },
+    "raw_text": "GOOD FT by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "16:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 34,
+      "Purdue": 58
+    },
+    "raw_text": "GOOD 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 34,
+      "Purdue": 58
+    },
+    "raw_text": "ASSIST  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "16:25",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by WHEELER,AARON",
+    "score": {
+      "Oak": 34,
+      "Purdue": 60
+    },
+    "raw_text": "GOOD JUMPER by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 34,
+      "Purdue": 60
+    },
+    "raw_text": "ASSIST  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "16:09",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by PARRISH,MICAH",
+    "score": {
+      "Oak": 34,
+      "Purdue": 60
+    },
+    "raw_text": "MISS JUMPER by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by HOLIFIELD,JOEY",
+    "score": {
+      "Oak": 34,
+      "Purdue": 60
+    },
+    "raw_text": "REBOUND OFF by HOLIFIELD,JOEY"
+  },
+  {
+    "period": 2,
+    "clock": "15:57",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by HOLIFIELD,JOEY(in the paint)",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "GOOD LAYUP by HOLIFIELD,JOEY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MOORE,JALEN",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "ASSIST  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "15:36",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "TURNOVER  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "15:36",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by TOWNSEND,TREY",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "STEAL  by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "15:27",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "15:13",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by MOORE,JALEN(in the paint)",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "MISS JUMPER by MOORE,JALEN(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDEY,ZACH",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "REBOUND DEF by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "14:57",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by EDEY,ZACH",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "TURNOVER  by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "14:57",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by PARRISH,MICAH",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "STEAL  by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHEELER,AARON",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB OUT by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by GILLIS,MASON",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB IN by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by YOUNG,ZION",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB IN by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "14:56",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "14:31",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "14:30",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "FOUL  by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "14:14",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by TOWNSEND,TREY",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "MISS 3PTR by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 36,
+      "Purdue": 60
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "13:57",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by EDEY,ZACH(in the paint)",
+    "score": {
+      "Oak": 36,
+      "Purdue": 62
+    },
+    "raw_text": "GOOD LAYUP by EDEY,ZACH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 36,
+      "Purdue": 62
+    },
+    "raw_text": "ASSIST  by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 2,
+    "clock": "13:37",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by CONWAY,CHRIS",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "GOOD JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "SUB OUT by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MORTON,ETHAN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "SUB IN by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Oak",
+    "player": "TOWNSEND,TREY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by TOWNSEND,TREY",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "SUB OUT by TOWNSEND,TREY"
+  },
+  {
+    "period": 2,
+    "clock": "13:19",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 38,
+      "Purdue": 62
+    },
+    "raw_text": "SUB IN by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "13:16",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "GOOD 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "12:51",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDEY,ZACH",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "REBOUND DEF by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "12:40",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "MISS 3PTR by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by GILLIS,MASON",
+    "score": {
+      "Oak": 38,
+      "Purdue": 65
+    },
+    "raw_text": "REBOUND OFF by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "12:35",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GILLIS,MASON(in the paint)",
+    "score": {
+      "Oak": 38,
+      "Purdue": 67
+    },
+    "raw_text": "GOOD LAYUP by GILLIS,MASON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "12:28",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by CONWAY,CHRIS",
+    "score": {
+      "Oak": 38,
+      "Purdue": 67
+    },
+    "raw_text": "MISS JUMPER by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDEY,ZACH",
+    "score": {
+      "Oak": 38,
+      "Purdue": 67
+    },
+    "raw_text": "REBOUND DEF by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "12:18",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "GOOD 3PTR by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:53",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by YOUNG,ZION",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "MISS JUMPER by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORTON,ETHAN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "REBOUND DEF by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:45",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by MORTON,ETHAN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "11:45",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "Oak": 38,
+      "Purdue": 70
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:40",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by MOORE,JALEN(fastbreak)(in the paint)",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "GOOD JUMPER by MOORE,JALEN(fastbreak)(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "11:20",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MORTON,ETHAN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "MISS 3PTR by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MOORE,JALEN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "REBOUND DEF by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDEY,ZACH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "FOUL  by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Purdue",
+    "player": "STEFANOVIC,SASHA",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by STEFANOVIC,SASHA",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB OUT by STEFANOVIC,SASHA"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB IN by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by CONWAY,CHRIS",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB OUT by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by HOLIFIELD,JOEY",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB OUT by HOLIFIELD,JOEY"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB IN by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "11:06",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JIHAD,YUSUF",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB IN by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JIHAD,YUSUF",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "10:57",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by GILLIS,MASON",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "STEAL  by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "10:41",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS DUNK by EDEY,ZACH(in the paint)",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "MISS DUNK by EDEY,ZACH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by YOUNG,ZION",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "REBOUND DEF by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "10:24",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by JIHAD,YUSUF",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "10:24",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by JIHAD,YUSUF",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB OUT by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "10:24",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by PARRISH,MICAH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB IN by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "10:04",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by GILLIS,MASON",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "09:58",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "FOUL  by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "09:58",
+    "team": "Purdue",
+    "player": "NEWMAN,BRANDON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by NEWMAN,BRANDON",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB OUT by NEWMAN,BRANDON"
+  },
+  {
+    "period": 2,
+    "clock": "09:58",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WHEELER,AARON",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "SUB IN by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "09:46",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "09:32",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by WHEELER,AARON",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "MISS 3PTR by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "09:29",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by MOORE,JALEN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "FOUL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "09:12",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "MISS 3PTR by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:39",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 70
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "08:15",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD DUNK by EDEY,ZACH(in the paint)",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "GOOD DUNK by EDEY,ZACH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "07:51",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by YOUNG,ZION(in the paint)",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "MISS JUMPER by YOUNG,ZION(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "REBOUND OFF by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "07:48",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by OLADAPO,DANIEL(in the paint)",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "MISS JUMPER by OLADAPO,DANIEL(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by PARRISH,MICAH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "REBOUND OFF by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by EDEY,ZACH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "FOUL  by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by EDEY,ZACH",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "SUB OUT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "SUB IN by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "MISS FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "07:37",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by MOORE,JALEN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "MISS FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "REBOUND DEF by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "07:35",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "TURNOVER  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "07:35",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MOORE,JALEN",
+    "score": {
+      "Oak": 40,
+      "Purdue": 72
+    },
+    "raw_text": "STEAL  by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "07:22",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by PARRISH,MICAH(in the paint)",
+    "score": {
+      "Oak": 42,
+      "Purdue": 72
+    },
+    "raw_text": "GOOD LAYUP by PARRISH,MICAH(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 42,
+      "Purdue": 72
+    },
+    "raw_text": "ASSIST  by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "06:57",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by WHEELER,AARON(in the paint)",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "GOOD LAYUP by WHEELER,AARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by MORTON,ETHAN",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "ASSIST  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "06:40",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "MISS 3PTR by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by TEAM",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "REBOUND OFF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "YOUNG,ZION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by YOUNG,ZION",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "SUB OUT by YOUNG,ZION"
+  },
+  {
+    "period": 2,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "JOSEPH,PHILPPS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JOSEPH,PHILPPS",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "SUB IN by JOSEPH,PHILPPS"
+  },
+  {
+    "period": 2,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "OLADAPO,DANIEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by OLADAPO,DANIEL",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "SUB OUT by OLADAPO,DANIEL"
+  },
+  {
+    "period": 2,
+    "clock": "06:36",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by CONWAY,CHRIS",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "SUB IN by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "06:20",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MOORE,JALEN",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "MISS 3PTR by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WHEELER,AARON",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "REBOUND DEF by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "06:15",
+    "team": "Oak",
+    "player": "JOSEPH,PHILPPS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JOSEPH,PHILPPS",
+    "score": {
+      "Oak": 42,
+      "Purdue": 74
+    },
+    "raw_text": "FOUL  by JOSEPH,PHILPPS"
+  },
+  {
+    "period": 2,
+    "clock": "05:53",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD LAYUP by GILLIS,MASON(in the paint)",
+    "score": {
+      "Oak": 42,
+      "Purdue": 76
+    },
+    "raw_text": "GOOD LAYUP by GILLIS,MASON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 42,
+      "Purdue": 76
+    },
+    "raw_text": "ASSIST  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 42,
+      "Purdue": 76
+    },
+    "raw_text": "FOUL  by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 43,
+      "Purdue": 76
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "LAMPMAN,BLAKE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by LAMPMAN,BLAKE",
+    "score": {
+      "Oak": 43,
+      "Purdue": 76
+    },
+    "raw_text": "SUB OUT by LAMPMAN,BLAKE"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by HOLIFIELD,JOEY",
+    "score": {
+      "Oak": 43,
+      "Purdue": 76
+    },
+    "raw_text": "SUB IN by HOLIFIELD,JOEY"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by MOORE,JALEN",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "GOOD FT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "MOORE,JALEN",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by MOORE,JALEN",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "SUB OUT by MOORE,JALEN"
+  },
+  {
+    "period": 2,
+    "clock": "05:42",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "SUB IN by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "05:26",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by GILLIS,MASON",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "MISS 3PTR by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by WHEELER,AARON",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "REBOUND OFF by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "05:21",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by WHEELER,AARON(in the paint)",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "MISS JUMPER by WHEELER,AARON(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by TEAM",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "REBOUND DEF by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Purdue",
+    "player": "WILLIAMS,TREVION",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WILLIAMS,TREVION",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "SUB OUT by WILLIAMS,TREVION"
+  },
+  {
+    "period": 2,
+    "clock": "05:20",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by EDEY,ZACH",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "SUB IN by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "04:50",
+    "team": "Oak",
+    "player": "JOSEPH,PHILPPS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by JOSEPH,PHILPPS",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "MISS 3PTR by JOSEPH,PHILPPS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by EDEY,ZACH",
+    "score": {
+      "Oak": 44,
+      "Purdue": 76
+    },
+    "raw_text": "REBOUND DEF by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "04:33",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by GILLIS,MASON",
+    "score": {
+      "Oak": 44,
+      "Purdue": 79
+    },
+    "raw_text": "GOOD 3PTR by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "04:04",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLIFIELD,JOEY(in the paint)",
+    "score": {
+      "Oak": 46,
+      "Purdue": 79
+    },
+    "raw_text": "GOOD JUMPER by HOLIFIELD,JOEY(in the paint)"
+  },
+  {
+    "period": 2,
+    "clock": "03:49",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "GOOD 3PTR by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:29",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by CONWAY,CHRIS",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "MISS 3PTR by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by WHEELER,AARON",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "REBOUND DEF by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "timeout",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TIMEOUT MEDIA by TEAM",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "TIMEOUT MEDIA by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "GILLIS,MASON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by GILLIS,MASON",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB OUT by GILLIS,MASON"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "WHEELER,AARON",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by WHEELER,AARON",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB OUT by WHEELER,AARON"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "THOMPSON,ISAIAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by THOMPSON,ISAIAH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB OUT by THOMPSON,ISAIAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "WULBRUN,JARED",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by WULBRUN,JARED",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB IN by WULBRUN,JARED"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "FROST,MATT",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by FROST,MATT",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB IN by FROST,MATT"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "MARTIN,CHASE",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by MARTIN,CHASE",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB IN by MARTIN,CHASE"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Oak",
+    "player": "PARRISH,MICAH",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB OUT by PARRISH,MICAH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB OUT by PARRISH,MICAH"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "substitution",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "SUB IN by JIHAD,YUSUF",
+    "score": {
+      "Oak": 46,
+      "Purdue": 82
+    },
+    "raw_text": "SUB IN by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EDEY,ZACH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 83
+    },
+    "raw_text": "GOOD FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "03:23",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EDEY,ZACH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 84
+    },
+    "raw_text": "GOOD FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "02:57",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "missed",
+    "event_detail": "MISS JUMPER by HOLIFIELD,JOEY",
+    "score": {
+      "Oak": 46,
+      "Purdue": 84
+    },
+    "raw_text": "MISS JUMPER by HOLIFIELD,JOEY"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEF by MORTON,ETHAN",
+    "score": {
+      "Oak": 46,
+      "Purdue": 84
+    },
+    "raw_text": "REBOUND DEF by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "02:39",
+    "team": "Oak",
+    "player": "CONWAY,CHRIS",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by CONWAY,CHRIS",
+    "score": {
+      "Oak": 46,
+      "Purdue": 84
+    },
+    "raw_text": "FOUL  by CONWAY,CHRIS"
+  },
+  {
+    "period": 2,
+    "clock": "02:39",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EDEY,ZACH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 85
+    },
+    "raw_text": "GOOD FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "02:39",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EDEY,ZACH",
+    "score": {
+      "Oak": 46,
+      "Purdue": 86
+    },
+    "raw_text": "GOOD FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "02:22",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 46,
+      "Purdue": 86
+    },
+    "raw_text": "TURNOVER  by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "02:22",
+    "team": "Purdue",
+    "player": "MORTON,ETHAN",
+    "event_type": "other",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "STEAL  by MORTON,ETHAN",
+    "score": {
+      "Oak": 46,
+      "Purdue": 86
+    },
+    "raw_text": "STEAL  by MORTON,ETHAN"
+  },
+  {
+    "period": 2,
+    "clock": "01:55",
+    "team": "Purdue",
+    "player": "FROST,MATT",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by FROST,MATT",
+    "score": {
+      "Oak": 46,
+      "Purdue": 89
+    },
+    "raw_text": "GOOD 3PTR by FROST,MATT"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "WULBRUN,JARED",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by WULBRUN,JARED",
+    "score": {
+      "Oak": 46,
+      "Purdue": 89
+    },
+    "raw_text": "ASSIST  by WULBRUN,JARED"
+  },
+  {
+    "period": 2,
+    "clock": "01:19",
+    "team": "Oak",
+    "player": "TEAM",
+    "event_type": "turnover",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "TURNOVER  by TEAM",
+    "score": {
+      "Oak": 46,
+      "Purdue": 89
+    },
+    "raw_text": "TURNOVER  by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:48",
+    "team": "Purdue",
+    "player": "WULBRUN,JARED",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "made",
+    "event_detail": "GOOD 3PTR by WULBRUN,JARED",
+    "score": {
+      "Oak": 46,
+      "Purdue": 92
+    },
+    "raw_text": "GOOD 3PTR by WULBRUN,JARED"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "FROST,MATT",
+    "event_type": "assist",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "ASSIST  by FROST,MATT",
+    "score": {
+      "Oak": 46,
+      "Purdue": 92
+    },
+    "raw_text": "ASSIST  by FROST,MATT"
+  },
+  {
+    "period": 2,
+    "clock": "00:33",
+    "team": "Oak",
+    "player": "NEWSOME,EMMANUEL",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by NEWSOME,EMMANUEL",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "GOOD JUMPER by NEWSOME,EMMANUEL"
+  },
+  {
+    "period": 2,
+    "clock": "00:14",
+    "team": "Purdue",
+    "player": "MARTIN,CHASE",
+    "event_type": "shot",
+    "shot_type": "3pt",
+    "shot_result": "missed",
+    "event_detail": "MISS 3PTR by MARTIN,CHASE",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "MISS 3PTR by MARTIN,CHASE"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND OFF by EDEY,ZACH",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "REBOUND OFF by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "00:10",
+    "team": "Oak",
+    "player": "JIHAD,YUSUF",
+    "event_type": "foul",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "FOUL  by JIHAD,YUSUF",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "FOUL  by JIHAD,YUSUF"
+  },
+  {
+    "period": 2,
+    "clock": "00:10",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "missed",
+    "event_detail": "MISS FT by EDEY,ZACH",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "MISS FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "--",
+    "team": "Purdue",
+    "player": "TEAM",
+    "event_type": "rebound",
+    "shot_type": null,
+    "shot_result": null,
+    "event_detail": "REBOUND DEADB by TEAM",
+    "score": {
+      "Oak": 48,
+      "Purdue": 92
+    },
+    "raw_text": "REBOUND DEADB by TEAM"
+  },
+  {
+    "period": 2,
+    "clock": "00:10",
+    "team": "Purdue",
+    "player": "EDEY,ZACH",
+    "event_type": "shot",
+    "shot_type": null,
+    "shot_result": "made",
+    "event_detail": "GOOD FT by EDEY,ZACH",
+    "score": {
+      "Oak": 48,
+      "Purdue": 93
+    },
+    "raw_text": "GOOD FT by EDEY,ZACH"
+  },
+  {
+    "period": 2,
+    "clock": "00:01",
+    "team": "Oak",
+    "player": "HOLIFIELD,JOEY",
+    "event_type": "shot",
+    "shot_type": "2pt",
+    "shot_result": "made",
+    "event_detail": "GOOD JUMPER by HOLIFIELD,JOEY(in the paint)",
+    "score": {
+      "Oak": 50,
+      "Purdue": 93
+    },
+    "raw_text": "GOOD JUMPER by HOLIFIELD,JOEY(in the paint)"
+  }
+]
