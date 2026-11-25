@@ -28,9 +28,21 @@ export interface GameRecord {
   opponentFirst3ptPlayer: string | null;
   opponentFirst3ptPeriod: string | null;
   opponentFirst3ptClock: string | null;
+  maxConsecutive3pm: number | null;
+  maxConsecutive3pmWindow: string | null;
+  maxConsecutive3pMiss: number | null;
+  maxConsecutive3pMissWindow: string | null;
   pbpAvailable: boolean;
   boxscoreUrl: string | null;
   threePtEvents: ThreePtShotEvent[];
+}
+
+export interface PlayerGameStreak {
+  player: string;
+  streak: number;
+  made: number;
+  attempts: number;
+  game: GameRecord;
 }
 
 export interface ThreePointStreak {

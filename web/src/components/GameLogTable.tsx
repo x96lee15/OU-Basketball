@@ -15,6 +15,8 @@ type SortKey =
   | 'oakland3pa'
   | 'oakland3pPct'
   | 'opponent3pm'
+  | 'maxConsecutive3pm'
+  | 'maxConsecutive3pMiss'
   | 'first3ptElapsedSec'
   | 'first3ptPlayer';
 
@@ -91,6 +93,10 @@ export function GameLogTable({
             return g.oakland3pPct ?? -1;
           case 'opponent3pm':
             return g.opponent3pm ?? -1;
+          case 'maxConsecutive3pm':
+            return g.maxConsecutive3pm ?? -1;
+          case 'maxConsecutive3pMiss':
+            return g.maxConsecutive3pMiss ?? -1;
           case 'first3ptElapsedSec':
             return g.first3ptElapsedSec ?? (dir === 1 ? 99999 : -1);
         }
@@ -260,6 +266,8 @@ export function GameLogTable({
               {renderSortHeader('OU 3PA', 'oakland3pa')}
               {renderSortHeader('3P%', 'oakland3pPct')}
               {renderSortHeader('Opp 3PT', 'opponent3pm')}
+              {renderSortHeader('Max +', 'maxConsecutive3pm', true, 'Longest consecutive made 3PT run')}
+              {renderSortHeader('Max -', 'maxConsecutive3pMiss', true, 'Longest consecutive missed 3PT drought')}
               {renderSortHeader('1st 3 Player', 'first3ptPlayer', false)}
               {renderSortHeader('1st 3 Time', 'first3ptElapsedSec', true, 'Elapsed time from tip-off')}
             </tr>
@@ -303,6 +311,24 @@ export function GameLogTable({
                 </td>
                 <td className="num mono" style={{ color: 'var(--ink-secondary)' }}>
                   {g.opponent3pm !== null ? `${g.opponent3pm}-${g.opponent3pa ?? '?'}` : '—'}
+                </td>
+                <td className="num mono" title={g.maxConsecutive3pmWindow ?? undefined}>
+                  {g.maxConsecutive3pm !== null ? (
+                    <span className={`badge ${g.maxConsecutive3pm >= 5 ? 'win' : 'neutral'}`}>
+                      +{g.maxConsecutive3pm}
+                    </span>
+                  ) : (
+                    '—'
+                  )}
+                </td>
+                <td className="num mono" title={g.maxConsecutive3pMissWindow ?? undefined}>
+                  {g.maxConsecutive3pMiss !== null ? (
+                    <span className={`badge ${g.maxConsecutive3pMiss >= 10 ? 'loss' : 'neutral'}`}>
+                      -{g.maxConsecutive3pMiss}
+                    </span>
+                  ) : (
+                    '—'
+                  )}
                 </td>
                 <td>
                   {g.first3ptPlayer ? (
@@ -350,7 +376,7 @@ export function GameLogTable({
             ))}
             {visible.length === 0 && (
               <tr>
-                <td colSpan={11} style={{ textAlign: 'center', padding: 28, color: 'var(--ink-muted)' }}>
+                <td colSpan={13} style={{ textAlign: 'center', padding: 28, color: 'var(--ink-muted)' }}>
                   No games match the current filters.
                 </td>
               </tr>

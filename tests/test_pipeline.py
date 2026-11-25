@@ -201,6 +201,34 @@ class AnalyzerRegressionTests(unittest.TestCase):
         self.assertEqual(row["Oakland_3PM"], 3)
         self.assertEqual(row["Oakland_3PA"], 14)
 
+    def test_in_game_consecutive_make_and_miss_runs(self) -> None:
+        game = {
+            "schema_version": 2,
+            "season": "2013-14",
+            "game_date": "2013-11-26",
+            "game_id": "wmu",
+            "opponent": "Western Michigan",
+            "location": "Home",
+            "is_exhibition": False,
+            "pbp_available": True,
+            "oakland_roster": ["Travis Bader"],
+            "boxscore_3pt": {"oakland_3pm": 3, "oakland_3pa": 7},
+            "plays": [
+                {"period": 1, "clock": "19:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "missed"},
+                {"period": 1, "clock": "18:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "made"},
+                {"period": 1, "clock": "17:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "made"},
+                {"period": 1, "clock": "16:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "made"},
+                {"period": 1, "clock": "15:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "missed"},
+                {"period": 1, "clock": "14:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "missed"},
+                {"period": 2, "clock": "19:00", "team_side": "oakland", "player": "Travis Bader", "shot_type": "3pt", "shot_result": "missed"},
+            ],
+        }
+        row, _ = analyze_game_record(game)
+        self.assertEqual(row["Max_Consecutive_3PM"], 3)
+        self.assertEqual(row["Max_Consecutive_3PM_Window"], "1H 18:00 -> 1H 16:00")
+        self.assertEqual(row["Max_Consecutive_3PMiss"], 3)
+        self.assertEqual(row["Max_Consecutive_3PMiss_Window"], "1H 15:00 -> 2H 19:00")
+
     def test_legacy_parser_ignores_period_zero_clock(self) -> None:
         html = """
         <html><head><title>Oakland vs Cleveland State</title></head><body>

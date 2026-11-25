@@ -1,6 +1,7 @@
 import type {
   GameRecord,
   MinuteBin,
+  PlayerGameStreak,
   PlayerSummary,
   SeasonSummary,
   TimingBucket,
@@ -260,6 +261,67 @@ export function computeSeasonSummaries(games: GameRecord[]): SeasonSummary[] {
   return out.sort((a, b) => b.season.localeCompare(a.season));
 }
 
+export function computeInGameStreaks(games: GameRecord[]) {
+  const withPbp = games.filter((g) => g.pbpAvailable);
+
+  const teamMakes = [...withPbp]
+    .filter((g) => (g.maxConsecutive3pm ?? 0) > 0)
+    .sort((a, b) => ((b.maxConsecutive3pm ?? 0) - (a.maxConsecutive3pm ?? 0)) || a.gameDate.localeCompare(b.gameDate));
+
+  const teamMisses = [...withPbp]
+    .filter((g) => (g.maxConsecutive3pMiss ?? 0) > 0)
+    .sort((a, b) => ((b.maxConsecutive3pMiss ?? 0) - (a.maxConsecutive3pMiss ?? 0)) || a.gameDate.localeCompare(b.gameDate));
+
+  const playerMakes: PlayerGameStreak[] = [];
+  const playerMisses: PlayerGameStreak[] = [];
+
+  for (const g of withPbp) {
+    const oakShots = g.threePtEvents.filter((e) => e.side === 'oakland');
+    const byPlayer = new Map<string, typeof oakShots>();
+    for (const s of oakShots) {
+      const arr = byPlayer.get(s.player) ?? [];
+      arr.push(s);
+      byPlayer.set(s.player, arr);
+    }
+
+    for (const [player, shots] of byPlayer.entries()) {
+      let bestM = 0;
+      let curM = 0;
+      let bestX = 0;
+      let curX = 0;
+      let made = 0;
+      for (const s of shots) {
+        if (s.made) {
+          made++;
+          curM++;
+          if (curM > bestM) bestM = curM;
+          curX = 0;
+        } else {
+          curX++;
+          if (curX > bestX) bestX = curX;
+          curM = 0;
+        }
+      }
+      if (bestM >= 4) {
+        playerMakes.push({ player, streak: bestM, made, attempts: shots.length, game: g });
+      }
+      if (bestX >= 6) {
+        playerMisses.push({ player, streak: bestX, made, attempts: shots.length, game: g });
+      }
+    }
+  }
+
+  playerMakes.sort((a, b) => (b.streak - a.streak) || a.game.gameDate.localeCompare(b.game.gameDate));
+  playerMisses.sort((a, b) => (b.streak - a.streak) || a.game.gameDate.localeCompare(b.game.gameDate));
+
+  return {
+    teamMakes: teamMakes.slice(0, 15),
+    teamMisses: teamMisses.slice(0, 15),
+    playerMakes: playerMakes.slice(0, 15),
+    playerMisses: playerMisses.slice(0, 15),
+  };
+}
+
 export function downloadFile(content: string, filename: string, mime: string) {
   const blob = new Blob([content], { type: mime });
   const url = URL.createObjectURL(blob);
@@ -289,6 +351,10 @@ export function gamesToCsv(games: GameRecord[]): string {
     'First_3Pt_Period',
     'First_3Pt_Clock',
     'First_3Pt_Elapsed_Sec',
+    'Max_Consecutive_3PM',
+    'Max_Consecutive_3PM_Window',
+    'Max_Consecutive_3PMiss',
+    'Max_Consecutive_3PMiss_Window',
   ];
   const esc = (v: unknown) => {
     const s = v === null || v === undefined ? '' : String(v);
@@ -315,6 +381,10 @@ export function gamesToCsv(games: GameRecord[]): string {
         g.first3ptPeriod ?? '',
         g.first3ptClock ?? '',
         g.first3ptElapsedSec ?? '',
+        g.maxConsecutive3pm ?? '',
+        g.maxConsecutive3pmWindow ?? '',
+        g.maxConsecutive3pMiss ?? '',
+        g.maxConsecutive3pMissWindow ?? '',
       ]
         .map(esc)
         .join(','),

@@ -44,6 +44,10 @@ CSV_COLUMNS = [
     "Opponent_First_3Pt_Player",
     "Opponent_First_3Pt_Period",
     "Opponent_First_3Pt_Clock",
+    "Max_Consecutive_3PM",
+    "Max_Consecutive_3PM_Window",
+    "Max_Consecutive_3PMiss",
+    "Max_Consecutive_3PMiss_Window",
     "PBP_Available",
     "Boxscore_URL",
 ]
@@ -104,19 +108,40 @@ def _resolve_play_side(
     return None
 
 
+def _format_period_short(period: Optional[int]) -> str:
+    if not period or period < 1:
+        return ""
+    if period == 1:
+        return "1H"
+    if period == 2:
+        return "2H"
+    ot_num = period - 2
+    return "OT" if ot_num == 1 else f"{ot_num}OT"
+
+
 def _summarize_pbp_threes(
     plays: list[dict[str, Any]],
     oakland_roster: list[str],
     opponent_name: str,
     location: str,
 ) -> dict[str, Any]:
-    """Extract Oakland and Opponent 3PM/3PA and first made 3-pointer details from plays."""
+    """Extract Oakland and Opponent 3PM/3PA, first made 3PT, and in-game make/miss runs."""
     oak_3pm = 0
     oak_3pa = 0
     opp_3pm = 0
     opp_3pa = 0
     oak_first: Optional[dict[str, Any]] = None
     opp_first: Optional[dict[str, Any]] = None
+
+    max_make_run = 0
+    cur_make_run = 0
+    cur_make_start = ""
+    max_make_window = ""
+
+    max_miss_run = 0
+    cur_miss_run = 0
+    cur_miss_start = ""
+    max_miss_window = ""
 
     for play in plays:
         if play.get("shot_type") != "3pt":
@@ -131,10 +156,26 @@ def _summarize_pbp_threes(
         side = _resolve_play_side(play, oakland_roster, opponent_name, location)
         if side == "oakland":
             oak_3pa += 1
+            ts = f"{_format_period_short(period)} {play.get('clock') or ''}".strip()
             if result == "made":
                 oak_3pm += 1
                 if oak_first is None:
                     oak_first = play
+                if cur_make_run == 0:
+                    cur_make_start = ts
+                cur_make_run += 1
+                if cur_make_run > max_make_run:
+                    max_make_run = cur_make_run
+                    max_make_window = f"{cur_make_start} -> {ts}" if cur_make_run > 1 else ts
+                cur_miss_run = 0
+            else:
+                if cur_miss_run == 0:
+                    cur_miss_start = ts
+                cur_miss_run += 1
+                if cur_miss_run > max_miss_run:
+                    max_miss_run = cur_miss_run
+                    max_miss_window = f"{cur_miss_start} -> {ts}" if cur_miss_run > 1 else ts
+                cur_make_run = 0
         elif side == "opponent":
             opp_3pa += 1
             if result == "made":
@@ -149,6 +190,10 @@ def _summarize_pbp_threes(
         "opp_3pa": opp_3pa,
         "oak_first": oak_first,
         "opp_first": opp_first,
+        "max_make_run": max_make_run,
+        "max_make_window": max_make_window,
+        "max_miss_run": max_miss_run,
+        "max_miss_window": max_miss_window,
     }
 
 
@@ -221,6 +266,10 @@ def analyze_game_record(game: dict[str, Any]) -> tuple[dict[str, Any], Optional[
             "opp_3pa": None,
             "oak_first": None,
             "opp_first": None,
+            "max_make_run": None,
+            "max_make_window": "",
+            "max_miss_run": None,
+            "max_miss_window": "",
         }
     )
 
@@ -275,6 +324,10 @@ def analyze_game_record(game: dict[str, Any]) -> tuple[dict[str, Any], Optional[
         "Opponent_First_3Pt_Player": opp_first_player or "",
         "Opponent_First_3Pt_Period": _format_period(opp_first_period),
         "Opponent_First_3Pt_Clock": opp_first_clock or "",
+        "Max_Consecutive_3PM": "" if pbp_stats["max_make_run"] is None else pbp_stats["max_make_run"],
+        "Max_Consecutive_3PM_Window": pbp_stats["max_make_window"] or "",
+        "Max_Consecutive_3PMiss": "" if pbp_stats["max_miss_run"] is None else pbp_stats["max_miss_run"],
+        "Max_Consecutive_3PMiss_Window": pbp_stats["max_miss_window"] or "",
         "PBP_Available": "True" if pbp_available else "False",
         "Boxscore_URL": boxscore_url,
     }

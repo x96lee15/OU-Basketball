@@ -15,10 +15,11 @@ import { GameLogTable } from './components/GameLogTable';
 import { PlayerDossierDrawer } from './components/PlayerDossierDrawer';
 import { PlayersView } from './components/PlayersView';
 import { SeasonsView } from './components/SeasonsView';
+import { StreaksView } from './components/StreaksView';
 import { TimingHistogramView } from './components/TimingHistogramView';
 import type { DatasetPayload, GameRecord } from './types';
 
-type TabKey = 'games' | 'timing' | 'players' | 'seasons';
+type TabKey = 'games' | 'timing' | 'streaks' | 'players' | 'seasons';
 
 export default function App() {
   const [tab, setTab] = useState<TabKey>('games');
@@ -109,6 +110,13 @@ export default function App() {
               onClick={() => setTab('timing')}
             >
               <BarChart3 size={14} /> Timing &amp; Histogram
+            </button>
+            <button
+              type="button"
+              className={`nav-tab ${tab === 'streaks' ? 'active' : ''}`}
+              onClick={() => setTab('streaks')}
+            >
+              <Flame size={14} /> Streaks
             </button>
             <button
               type="button"
@@ -347,6 +355,20 @@ export default function App() {
 
             {tab === 'timing' && (
               <TimingHistogramView
+                games={payload.games}
+                onSelectGame={(g) => {
+                  setSelectedPlayer(null);
+                  setSelectedGame(g);
+                }}
+                onSelectPlayer={(p) => {
+                  setSelectedGame(null);
+                  setSelectedPlayer(p);
+                }}
+              />
+            )}
+
+            {tab === 'streaks' && (
+              <StreaksView
                 games={payload.games}
                 onSelectGame={(g) => {
                   setSelectedPlayer(null);

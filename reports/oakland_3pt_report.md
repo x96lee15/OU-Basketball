@@ -50,6 +50,38 @@ Generated from `oakland_complete_3pt_stats.csv` covering **592** regular-season/
 | **16–30** | 53.3% | `2013-02-09` | `2012-13` | Home | South Dakota State | W 88–83 |
 | **16–38** | 42.1% | `2010-12-20` | `2010-11` | Home | Rochester Christian | W 103–79 |
 
+## Most Consecutive Made 3-Pointers in a Game (Team — Top 5)
+| Streak | Date | Season | Opponent | Score | Final 3PT | Window |
+| ---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| **8** | `2013-11-26` | `2013-14` | Western Michigan | L 88–99 | 10–26 | `1H 15:59 -> 1H 08:17` |
+| **7** | `2012-02-23` | `2011-12` | Kansas City | W 89–56 | 10–22 | `1H 10:32 -> 1H 03:42` |
+| **7** | `2015-02-22` | `2014-15` | UIC | W 81–56 | 15–28 | `1H 08:36 -> 1H 04:23` |
+| **7** | `2018-11-25` | `2018-19` | Northern Illinois | L 72–92 | 12–26 | `1H 06:49 -> 1H 00:00` |
+| **6** | `2013-01-24` | `2012-13` | IUPUI | W 89–71 | 14–30 | `1H 00:58 -> 2H 16:11` |
+
+## Most Consecutive Missed 3-Pointers in a Game (Team — Top 5)
+| Streak | Date | Season | Opponent | Score | Final 3PT | Window |
+| ---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| **19** | `2020-11-26` | `2020-21` | Toledo | L 53–80 | 2–23 | `1H 16:09 -> 2H 02:38` |
+| **19** | `2025-02-21` | `2024-25` | Purdue Fort Wayne | L 66–80 | 1–21 | `1H 17:29 -> 2H 00:31` |
+| **17** | `2014-01-08` | `2013-14` | Milwaukee | L 75–84 | 3–25 | `1H 05:28 -> 2H 00:03` |
+| **15** | `2013-11-26` | `2013-14` | Western Michigan | L 88–99 | 10–26 | `1H 07:29 -> 2H 05:44` |
+| **15** | `2017-12-09` | `2017-18` | Chicago State | W 82–50 | 4–23 | `1H 11:21 -> 2H 06:11` |
+
+## Individual Single-Game 3-Point Streaks
+| Type | Streak | Player | Date | Season | Opponent | Player 3PT |
+| :--- | ---: | :--- | :--- | :--- | :--- | :--- |
+| Made | **9** | Zion Young | `2021-01-22` | `2020-21` | Detroit Mercy | 9–9 |
+| Made | **6** | Larry Wright | `2009-12-28` | `2009-10` | Alma | 6–7 |
+| Made | **6** | Travis Bader | `2012-12-06` | `2012-13` | Rochester Christian | 6–8 |
+| Made | **6** | Travis Bader | `2013-12-21` | `2013-14` | Eastern Michigan | 10–15 |
+| Made | **6** | Kay Felder | `2015-11-28` | `2015-16` | Abilene Christian | 6–6 |
+| Missed | **10** | Travis Bader | `2013-01-19` | `2012-13` | South Dakota | 5–15 |
+| Missed | **10** | Travis Bader | `2013-12-10` | `2013-14` | Indiana | 0–10 |
+| Missed | **9** | Larry Wright | `2009-11-14` | `2009-10` | Eastern Michigan | 0–9 |
+| Missed | **9** | Travis Bader | `2011-12-13` | `2011-12` | Rochester Christian | 0–9 |
+| Missed | **9** | Travis Bader | `2013-03-02` | `2012-13` | Purdue Fort Wayne | 1–11 |
+
 ## Minute-by-Minute Distribution of First 3-Pointer
 | Elapsed Min | Half | Games | W–L | Share | Cumulative |
 | :--- | :--- | ---: | :--- | ---: | ---: |

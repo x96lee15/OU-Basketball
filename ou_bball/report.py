@@ -118,7 +118,71 @@ def compute_three_point_streak(rows: list[dict[str, str]]) -> dict[str, Any]:
     }
 
 
-def compute_report_data(csv_path: str = DEFAULT_OUTPUT_CSV) -> dict[str, Any]:
+def _compute_player_game_streaks(
+    rows: list[dict[str, str]],
+    events_map: dict[tuple[str, str, str], list[dict[str, Any]]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """Compute top individual player consecutive 3PT make and miss streaks in a single game."""
+    makes: list[dict[str, Any]] = []
+    misses: list[dict[str, Any]] = []
+
+    for r in rows:
+        key = (r.get("Season", ""), r.get("Game_Date", ""), r.get("Game_ID", ""))
+        shots = [e for e in events_map.get(key, []) if e.get("side") == "oakland"]
+        if not shots:
+            continue
+
+        by_player: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
+        for s in shots:
+            by_player[s.get("player") or "Unknown"].append(s)
+
+        for player, pshots in by_player.items():
+            best_m = cur_m = best_x = cur_x = made_tot = 0
+            for s in pshots:
+                if s.get("made"):
+                    made_tot += 1
+                    cur_m += 1
+                    if cur_m > best_m:
+                        best_m = cur_m
+                    cur_x = 0
+                else:
+                    cur_x += 1
+                    if cur_x > best_x:
+                        best_x = cur_x
+                    cur_m = 0
+            line = f"{made_tot}–{len(pshots)}"
+            if best_m >= 5:
+                makes.append(
+                    {
+                        "streak": best_m,
+                        "player": player,
+                        "game_date": r["Game_Date"],
+                        "season": r["Season"],
+                        "opponent": r["Opponent"],
+                        "line": line,
+                    }
+                )
+            if best_x >= 7:
+                misses.append(
+                    {
+                        "streak": best_x,
+                        "player": player,
+                        "game_date": r["Game_Date"],
+                        "season": r["Season"],
+                        "opponent": r["Opponent"],
+                        "line": line,
+                    }
+                )
+
+    makes.sort(key=lambda x: (-x["streak"], x["game_date"], x["player"]))
+    misses.sort(key=lambda x: (-x["streak"], x["game_date"], x["player"]))
+    return makes[:10], misses[:10]
+
+
+def compute_report_data(
+    csv_path: str = DEFAULT_OUTPUT_CSV,
+    build_dir: str = DEFAULT_BUILD_DIR,
+) -> dict[str, Any]:
     """Read the exported CSV and compute all summary records, player counts, and histogram bins."""
     with open(csv_path, "r", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
@@ -211,11 +275,35 @@ def compute_report_data(csv_path: str = DEFAULT_OUTPUT_CSV) -> dict[str, Any]:
     second_half_l = sum(b["l"] for b in second_half_bins)
     first_five_count = sum(b["count"] for b in histogram_bins if b["min"] < 5)
 
+    # In-game team consecutive make / miss streaks
+    make_streak_rows = [
+        r for r in pbp_rows if str(r.get("Max_Consecutive_3PM", "")).isdigit() and int(r["Max_Consecutive_3PM"]) > 0
+    ]
+    team_make_streaks = sorted(
+        make_streak_rows,
+        key=lambda r: (-int(r["Max_Consecutive_3PM"]), r["Game_Date"]),
+    )[:10]
+
+    miss_streak_rows = [
+        r for r in pbp_rows if str(r.get("Max_Consecutive_3PMiss", "")).isdigit() and int(r["Max_Consecutive_3PMiss"]) > 0
+    ]
+    team_miss_streaks = sorted(
+        miss_streak_rows,
+        key=lambda r: (-int(r["Max_Consecutive_3PMiss"]), r["Game_Date"]),
+    )[:10]
+
+    events_map = _load_3pt_events_by_game(build_dir)
+    player_make_streaks, player_miss_streaks = _compute_player_game_streaks(rows, events_map)
+
     return {
         "total_games": len(rows),
         "pbp_games": n_pbp,
         "season_span": season_span,
         "streak": compute_three_point_streak(rows),
+        "team_make_streaks": team_make_streaks,
+        "team_miss_streaks": team_miss_streaks,
+        "player_make_streaks": player_make_streaks,
+        "player_miss_streaks": player_miss_streaks,
         "fastest_sec": min_sec,
         "fastest_tied": fastest_tied,
         "fastest_top5": fastest_sorted[:5],
@@ -336,6 +424,50 @@ def render_markdown_report(data: dict[str, Any]) -> str:
             f"{r['Location']} | {r['Opponent']} | {r['Result']} {r['Oakland_Score']}–{r['Opponent_Score']} |"
         )
 
+    if data["team_make_streaks"]:
+        lines.extend([
+            "",
+            "## Most Consecutive Made 3-Pointers in a Game (Team — Top 5)",
+            "| Streak | Date | Season | Opponent | Score | Final 3PT | Window |",
+            "| ---: | :--- | :--- | :--- | :--- | :--- | :--- |",
+        ])
+        for r in data["team_make_streaks"][:5]:
+            lines.append(
+                f"| **{r['Max_Consecutive_3PM']}** | `{r['Game_Date']}` | `{r['Season']}` | {r['Opponent']} | "
+                f"{r['Result']} {r['Oakland_Score']}–{r['Opponent_Score']} | {r['Oakland_3PM']}–{r['Oakland_3PA']} | "
+                f"`{r.get('Max_Consecutive_3PM_Window', '')}` |"
+            )
+
+    if data["team_miss_streaks"]:
+        lines.extend([
+            "",
+            "## Most Consecutive Missed 3-Pointers in a Game (Team — Top 5)",
+            "| Streak | Date | Season | Opponent | Score | Final 3PT | Window |",
+            "| ---: | :--- | :--- | :--- | :--- | :--- | :--- |",
+        ])
+        for r in data["team_miss_streaks"][:5]:
+            lines.append(
+                f"| **{r['Max_Consecutive_3PMiss']}** | `{r['Game_Date']}` | `{r['Season']}` | {r['Opponent']} | "
+                f"{r['Result']} {r['Oakland_Score']}–{r['Opponent_Score']} | {r['Oakland_3PM']}–{r['Oakland_3PA']} | "
+                f"`{r.get('Max_Consecutive_3PMiss_Window', '')}` |"
+            )
+
+    if data["player_make_streaks"] or data["player_miss_streaks"]:
+        lines.extend([
+            "",
+            "## Individual Single-Game 3-Point Streaks",
+            "| Type | Streak | Player | Date | Season | Opponent | Player 3PT |",
+            "| :--- | ---: | :--- | :--- | :--- | :--- | :--- |",
+        ])
+        for s in data["player_make_streaks"][:5]:
+            lines.append(
+                f"| Made | **{s['streak']}** | {s['player']} | `{s['game_date']}` | `{s['season']}` | {s['opponent']} | {s['line']} |"
+            )
+        for s in data["player_miss_streaks"][:5]:
+            lines.append(
+                f"| Missed | **{s['streak']}** | {s['player']} | `{s['game_date']}` | `{s['season']}` | {s['opponent']} | {s['line']} |"
+            )
+
     lines.extend([
         "",
         "## Minute-by-Minute Distribution of First 3-Pointer",
@@ -397,6 +529,20 @@ def render_html_report(data: dict[str, Any]) -> str:
     player_rows_html = "\n".join(
         f"<tr><td class='num'>{idx}</td><td>{html_lib.escape(name)}</td><td class='num'><strong>{cnt}</strong></td></tr>"
         for idx, (name, cnt) in enumerate(data["player_leaderboard"], 1)
+    )
+
+    team_make_rows_html = "\n".join(
+        f"<tr><td class='num'><strong>{r['Max_Consecutive_3PM']}</strong></td><td>{html_lib.escape(r['Game_Date'])}</td>"
+        f"<td>{html_lib.escape(r['Opponent'])}</td><td>{html_lib.escape(r['Result'])} {r['Oakland_Score']}-{r['Opponent_Score']}</td>"
+        f"<td class='mono'>{r['Oakland_3PM']}-{r['Oakland_3PA']}</td><td class='mono'>{html_lib.escape(r.get('Max_Consecutive_3PM_Window', ''))}</td></tr>"
+        for r in data["team_make_streaks"][:6]
+    )
+
+    team_miss_rows_html = "\n".join(
+        f"<tr><td class='num'><strong>{r['Max_Consecutive_3PMiss']}</strong></td><td>{html_lib.escape(r['Game_Date'])}</td>"
+        f"<td>{html_lib.escape(r['Opponent'])}</td><td>{html_lib.escape(r['Result'])} {r['Oakland_Score']}-{r['Opponent_Score']}</td>"
+        f"<td class='mono'>{r['Oakland_3PM']}-{r['Oakland_3PA']}</td><td class='mono'>{html_lib.escape(r.get('Max_Consecutive_3PMiss_Window', ''))}</td></tr>"
+        for r in data["team_miss_streaks"][:6]
     )
 
     streak = data["streak"]
@@ -559,6 +705,23 @@ def render_html_report(data: dict[str, Any]) -> str:
         <thead><tr><th>Date</th><th>Season</th><th>Loc</th><th>Opponent</th><th>Score</th><th>3PT</th><th>Made By</th></tr></thead>
         <tbody>{one_rows_html}</tbody>
       </table>
+    </div>
+
+    <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));">
+      <div class="card">
+        <h2>Most Consecutive Made 3s in a Game</h2>
+        <table>
+          <thead><tr><th class="num">Run</th><th>Date</th><th>Opponent</th><th>Score</th><th>3PT</th><th>Window</th></tr></thead>
+          <tbody>{team_make_rows_html}</tbody>
+        </table>
+      </div>
+      <div class="card">
+        <h2>Most Consecutive Missed 3s in a Game</h2>
+        <table>
+          <thead><tr><th class="num">Run</th><th>Date</th><th>Opponent</th><th>Score</th><th>3PT</th><th>Window</th></tr></thead>
+          <tbody>{team_miss_rows_html}</tbody>
+        </table>
+      </div>
     </div>
 
     <div class="card">
@@ -857,6 +1020,10 @@ def export_web_dataset(
                 "opponentFirst3ptPlayer": r["Opponent_First_3Pt_Player"] or None,
                 "opponentFirst3ptPeriod": r["Opponent_First_3Pt_Period"] or None,
                 "opponentFirst3ptClock": r["Opponent_First_3Pt_Clock"] or None,
+                "maxConsecutive3pm": _to_int(r.get("Max_Consecutive_3PM", "")),
+                "maxConsecutive3pmWindow": r.get("Max_Consecutive_3PM_Window") or None,
+                "maxConsecutive3pMiss": _to_int(r.get("Max_Consecutive_3PMiss", "")),
+                "maxConsecutive3pMissWindow": r.get("Max_Consecutive_3PMiss_Window") or None,
                 "pbpAvailable": r["PBP_Available"] == "True",
                 "boxscoreUrl": r["Boxscore_URL"] or None,
                 "threePtEvents": events_map.get(key, []),
@@ -891,7 +1058,7 @@ def generate_reports(
     web_json_path: Optional[str] = DEFAULT_WEB_DATA_JSON,
 ) -> GeneratedReports:
     """Generate Markdown, standalone HTML, and web app JSON reports from the CSV."""
-    data = compute_report_data(csv_path)
+    data = compute_report_data(csv_path, build_dir=build_dir)
     os.makedirs(report_dir, exist_ok=True)
 
     md_path = os.path.join(report_dir, "oakland_3pt_report.md")

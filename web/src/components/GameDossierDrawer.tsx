@@ -91,6 +91,20 @@ export function GameDossierDrawer({ game, onClose, onSelectPlayer }: GameDossier
               <div className="formula-big">
                 {game.oakland3pm ?? '—'}–{game.oakland3pa ?? '—'}
               </div>
+              {game.pbpAvailable && (game.maxConsecutive3pm !== null || game.maxConsecutive3pMiss !== null) && (
+                <div style={{ display: 'flex', gap: 8, marginTop: 8, flexWrap: 'wrap' }}>
+                  {game.maxConsecutive3pm !== null && (
+                    <span className="badge win" title={game.maxConsecutive3pmWindow ?? undefined}>
+                      Best Make Run: +{game.maxConsecutive3pm}
+                    </span>
+                  )}
+                  {game.maxConsecutive3pMiss !== null && (
+                    <span className="badge loss" title={game.maxConsecutive3pMissWindow ?? undefined}>
+                      Worst Miss Run: -{game.maxConsecutive3pMiss}
+                    </span>
+                  )}
+                </div>
+              )}
               <div style={{ marginTop: 8, fontSize: 12.5, color: 'var(--ink-secondary)' }}>
                 {game.pbpAvailable && game.first3ptPlayer ? (
                   <>
